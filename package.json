@@ -1,0 +1,46 @@
+{
+  "name": "vs-insoumis",
+  "private": true,
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-helmet": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.14.1",
+    "eslint-plugin-react": "^6.9.0",
+    "gatsby": "^0.12.38"
+  },
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "build:serve": "gatsby serve-build",
+    "deploy": "gatsby build --prefix-links && gh-pages -d public"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "env": {
+      "browser": true,
+      "node": true,
+      "es6": true
+    },
+    "extends": ["eslint:recommended", "plugin:react/recommended"],
+    "parserOptions": {
+      "ecmaFeatures": {
+        "experimentalObjectRestSpread": true,
+        "jsx": true
+      },
+      "sourceType": "module"
+    },
+    "plugins": [
+      "react"
+    ],
+    "rules": {
+      "indent": ["error", 2],
+      "linebreak-style": ["error", "unix"],
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"],
+      "no-console": "warn"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+.DS_Store
+npm-debug.log
+node_modules
+.gatsby-context.js
+public
+_sample
