@@ -1,6 +1,6 @@
-import React from "react";
-import { prefixLink } from "gatsby-helpers";
-import Helmet from "react-helmet";
+import React from 'react';
+import { prefixLink } from 'gatsby-helpers';
+import Helmet from 'react-helmet';
 
 const BUILD_TIME = new Date().getTime();
 
@@ -8,8 +8,8 @@ const HTML = ({ body }) => {
   const head = Helmet.rewind();
 
   let css;
-  if (process.env.NODE_ENV === "production") {
-    css = <style dangerouslySetInnerHTML={{ __html: require("!raw!./public/styles.css") }} />;
+  if (process.env.NODE_ENV === 'production') {
+    css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} />;
   }
 
   return (
@@ -21,6 +21,16 @@ const HTML = ({ body }) => {
 
         {head.title.toComponent()}
         {head.meta.toComponent()}
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" />
+
+        <link rel="icon" href="https://actus.jlm2017.fr//app/uploads/2017/01/cropped-cropped-phi-32x32.png" sizes="32x32" />
+        <link rel="icon" href="https://actus.jlm2017.fr//app/uploads/2017/01/cropped-cropped-phi-192x192.png" sizes="192x192" />
+        <link rel="apple-touch-icon-precomposed" href="https://actus.jlm2017.fr//app/uploads/2017/01/cropped-cropped-phi-180x180.png" />
+        <meta name="msapplication-TileImage" content="https://actus.jlm2017.fr//app/uploads/2017/01/cropped-cropped-phi-270x270.png" />
+
         {css}
       </head>
       <body>
@@ -29,7 +39,7 @@ const HTML = ({ body }) => {
       </body>
     </html>
   );
-}
+};
 
 HTML.propTypes = {
   body: React.PropTypes.string,

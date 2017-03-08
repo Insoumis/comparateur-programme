@@ -1,0 +1,78 @@
+@import "../styles/colors";
+
+.Versus {
+  margin-top: 60px;
+
+  .title {position: relative;}
+
+  .vs {
+    color: $red;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    font-weight: 700;
+    left: 50%;
+    margin-left: -25px;
+    margin-top: -20px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 50px;
+
+    span {
+      color: $blue;
+      position: relative;
+      top: 5px;
+    }
+
+    &::after {
+      border-left: 2px dashed $border;
+      content: '';
+      display: block;
+      height: 100vh;
+      margin-left: 22px;
+      margin-top: 15px;
+      width: 0;
+      z-index: -1;
+    }
+  }
+
+  .logo {
+    border-bottom: 1px solid $border;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    height: 60px;
+    margin: 0 auto 15px;
+    overflow: hidden;
+    text-align: center;
+    width: 60px;
+  }
+
+  img {
+    line-height: 150px;
+    vertical-align: middle;
+    opacity: .85;
+    margin: 15px 0;
+    width: 60px;
+  }
+
+  h2 {
+    color: $blue;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+  }
+
+  .candidat {
+    font-family: 'Roboto Slab', serif;
+    color: $secondary;
+    text-align: center;
+  }
+
+  .categories {
+    border-bottom: 1px solid $border;
+    margin-top: 30px;
+    position: relative;
+    z-index: 10;
+  }
+}

@@ -1,0 +1,24 @@
+@import "../styles/colors";
+
+.Category {
+  h3 {
+    background: #fff;
+    border-bottom: 1px solid $border;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    color: $secondary;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 40px 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .proposal {padding: 10px 30px;}
+
+  strong {font-weight: 500;}
+
+  &#work h3 {color: $darkred;}
+  &#agriculture h3 {color: $orange;}
+  &#ecology h3 {color: $green;}
+  &#health h3 {color: $cblue;}
+}

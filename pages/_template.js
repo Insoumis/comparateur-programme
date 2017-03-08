@@ -1,11 +1,23 @@
 import React from 'react';
 
-const Template = ({ children }) => (
-  <div>
-    <header>La France Insoumise VS</header>
-    <nav>Liens</nav>
-    <div>{children}</div>
-  </div>
-);
+import Outlinks from './template/Outlinks';
+import Header from './template/Header';
+import Nav from './template/Nav';
+import './styles/main.scss';
+
+const Template = ({ children }) => {
+  return (
+    <div>
+      <Outlinks />
+      <Header />
+      <Nav />
+      <div>{children}</div>
+    </div>
+  );
+};
+
+Template.propTypes = {
+  children: React.PropTypes.object
+};
 
 export default Template;

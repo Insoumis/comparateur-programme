@@ -1,0 +1,13 @@
+@import "normalize";
+@import "colors";
+
+body {
+  color: $main;
+  font-family: Roboto, sans-serif;
+}
+
+h1,
+h2,
+h3 {font-family: Montserrat, sans-serif;}
+
+a:focus {outline: 0;}

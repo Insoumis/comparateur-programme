@@ -1,0 +1,58 @@
+{
+  "title": "En Marche",
+  "alias": "em",
+  "candidat": "Emmanuel Macron",
+  "categories": [{
+    "id": "work",
+    "title": "Droit du Travail",
+    "list": [{
+      "them": "<strong>Suppression</strong> des 35h",
+      "us": "<strong>Application</strong> réelle des 35h"
+    }, {
+      "them": "Retraite à <strong>67</strong> ans",
+      "us": "Retraite à <strong>60</strong> ans"
+    }, {
+      "them": "<strong>Favorable</strong> à la loi El Khomri",
+      "us": "<strong>Abrogation</strong> de la loi El Khomri"
+    }]
+  }, {
+    "id": "agriculture",
+    "title": "Agriculture",
+    "list": [{
+      "them": "Favorable aux <strong>OGM</strong>",
+      "us": "Développement de l'<strong>agriculture paysanne</strong>"
+    }, {
+      "them": "<strong>Favorable</strong> au traité \"CETA\"",
+      "us": "<strong>Contre</strong> le traité \"CETA\""
+    }, {
+      "them": "<strong>Favorable</strong> à l'aéroport de NDDL",
+      "us": "<strong>Contre</strong> l'aéroport de NDDL"
+    }]
+  }, {
+    "id": "ecology",
+    "title": "Écologie",
+    "list": [{
+      "them": "<strong>Favorable</strong> au nucléaire",
+      "us": "<strong>Sortir</strong> du nucléaire sur 25 ans"
+    }, {
+      "them": "Favorable au <strong>diesel</strong>",
+      "us": "100% d'<strong>énergies vertes</strong> en 2050"
+    }, {
+      "them": "Favorable au <strong>gaz de schiste</strong>",
+      "us": "Instauration de la <strong>règle verte</strong>"
+    }]
+  }, {
+    "id": "health",
+    "title": "Santé",
+    "list": [{
+      "them": "<strong>Dépénaliser</strong> le cannabis",
+      "us": "<strong>Légalisation encadrée</strong> du cannabis"
+    }, {
+      "them": "<strong>Libéralisation</strong> de la médecine",
+      "us": "Remise en cause des <strong>lobbies</strong>"
+    }, {
+      "them": "\"<strong>Responsabiliser</strong>\" les français",
+      "us": "Tous les soins <strong>remboursés à 100%</strong>"
+    }]
+  }]
+}
