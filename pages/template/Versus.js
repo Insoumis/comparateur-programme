@@ -9,10 +9,7 @@ import './Versus.scss';
 const Versus = ({ data }) => (
   <Container className="Versus">
     <Row>
-      <Col xs={3}>
-        <Menu categories={data.categories}/>
-      </Col>
-      <Col xs={9}>
+      <Col offset={{xs: 1}} xs={10}>
         <Row className="title">
           <div className="vs">V<span>S</span></div>
           <Col xs={6}>

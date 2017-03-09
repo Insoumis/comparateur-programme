@@ -1,7 +1,21 @@
 @import "../styles/colors";
 
 .Versus {
-  margin-top: 60px;
+  padding-bottom: 80px;
+  margin: 50px 0 180px;
+
+  &::before {
+    border-left: 2px dashed $border;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 50%;
+    margin-left: -1px;
+    margin-top: 85px;
+    position: absolute;
+    width: 0;
+    z-index: -1;
+  }
 
   .title {position: relative;}
 
@@ -22,17 +36,6 @@
       color: $blue;
       position: relative;
       top: 5px;
-    }
-
-    &::after {
-      border-left: 2px dashed $border;
-      content: '';
-      display: block;
-      height: 100vh;
-      margin-left: 22px;
-      margin-top: 15px;
-      width: 0;
-      z-index: -1;
     }
   }
 
@@ -57,7 +60,7 @@
 
   h2 {
     color: $blue;
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 400;
     margin: 0;
     text-align: center;
@@ -70,7 +73,6 @@
   }
 
   .categories {
-    border-bottom: 1px solid $border;
     margin-top: 30px;
     position: relative;
     z-index: 10;

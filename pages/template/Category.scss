@@ -4,21 +4,103 @@
   h3 {
     background: #fff;
     border-bottom: 1px solid $border;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid $border;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
     color: $secondary;
     font-weight: 400;
     line-height: 40px;
-    margin: 40px 0 20px;
+    margin: 80px 0 0;
     text-align: center;
     text-transform: uppercase;
+
+    i {padding-right: 4px;}
   }
 
-  .proposal {padding: 10px 30px;}
+  .title {
+    text-align: center;
+    margin: 40px 0 20px;
+
+    span {
+      background: #fff;
+      border-bottom: 1px solid $border;
+      border-radius: 4px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+      display: inline-block;
+      line-height: 35px;
+      padding: 0 20px;
+    }
+  }
+
+  .proposal,
+  .tldr {padding: 10px 30px;}
+
+  blockquote {
+    border-left: 2px solid $border;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 0 0 15px;
+    padding: 0 25px;
+    position: relative;
+  }
+
+  .ref {
+    font-weight: 300;
+    font-size: 12px;
+    margin-bottom: 15px;
+    text-align: right;
+
+    a {
+      color: $link;
+      text-decoration: none;
+
+      &:hover {text-decoration: underline;}
+    }
+  }
+
+  .tldr {
+    font-size: 18px;
+
+    i {padding-right: 6px;}
+  }
 
   strong {font-weight: 500;}
 
-  &#work h3 {color: $darkred;}
-  &#agriculture h3 {color: $orange;}
-  &#ecology h3 {color: $green;}
-  &#health h3 {color: $cblue;}
+  &#work {
+    h3,
+    .title,
+    .tldr i {color: $darkred;}
+
+    h3,
+    blockquote {border-color: $darkred;}
+  }
+
+  &#agriculture {
+    h3,
+    .title,
+    .tldr i {color: $orange;}
+
+    h3,
+    blockquote {border-color: $orange;}
+  }
+
+  &#ecology {
+    h3,
+    .title,
+    .tldr i {color: $green;}
+
+    h3,
+    blockquote {border-color: $green;}
+  }
+
+  &#health {
+    h3,
+    .title,
+    .tldr i {color: $cblue;}
+
+    h3,
+    blockquote {border-color: $cblue;}
+  }
+
 }
