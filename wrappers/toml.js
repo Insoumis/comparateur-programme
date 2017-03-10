@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Versus from '../pages/template/Versus';
+import Versus from '../templates/Versus';
 
 const Toml = ({ route }) => <Versus data={route.page.data} />;
 

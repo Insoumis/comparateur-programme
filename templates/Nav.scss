@@ -1,0 +1,71 @@
+@import "../styles/colors";
+
+.Nav {
+  border-bottom: 1px solid $border;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  padding: 12px 0;
+
+  a {
+    background-position: center;
+    background-size: cover;
+    border-bottom: 1px solid $blue;
+    border-radius: 4px;
+    box-shadow: 0 0px 8px rgba(0, 0, 0, 0.1);
+    display: block;
+    height: 55px;
+    margin: 0 auto;
+    position: relative;
+    text-indent: -9000px;
+    transition: .2s linear;
+    width: 110px;
+
+    @media (max-width: 991px) {
+      height: 45px;
+      width: 90px;
+    }
+
+    @media (max-width: 767px) {margin: 8px auto;}
+
+    &.active,
+    &:hover {
+      border-color: $red;
+      box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+
+      &:after {opacity: 0;}
+    }
+
+    &:after {
+      background-position: center;
+      background-size: cover;
+      border-radius: 4px;
+      content: '';
+      display: block;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      transition: .2s linear;
+      width: 100%;
+    }
+  }
+
+  a.ps {
+    background-image: url('../pages/assets/ps.png');
+
+    &:after {background-image: url('../pages/assets/ps-grey.png');}
+  }
+  a.em {
+    background-image: url('../pages/assets/em.png');
+
+    &:after {background-image: url('../pages/assets/em-grey.png');}
+  }
+  a.lr {
+    background-image: url('../pages/assets/lr.png');
+
+    &:after {background-image: url('../pages/assets/lr-grey.png');}
+  }
+  a.fn {
+    background-image: url('../pages/assets/fn.png');
+
+    &:after {background-image: url('../pages/assets/fn-grey.png');}
+  }
+}

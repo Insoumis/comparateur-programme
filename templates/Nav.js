@@ -9,16 +9,16 @@ const Nav = () => (
   <nav className="Nav">
     <Container>
       <Row>
-        <Col offset={{xs: 2}} xs={2}>
+        <Col offset={{md: 2, xs: 1}} md={2} xs={5}>
           <Link activeClassName="active" className="ps" to={prefixLink('/versus/parti-socialiste/')}>Parti Socialiste</Link>
         </Col>
-        <Col xs={2}>
+        <Col md={2} xs={5}>
           <Link activeClassName="active" className="em" to={prefixLink('/versus/en-marche/')}>En Marche</Link>
         </Col>
-        <Col xs={2}>
+        <Col offset={{md: 0, xs: 1}} md={2} xs={5}>
           <Link activeClassName="active" className="lr" to={prefixLink('/versus/les-republicains/')}>Les Républicains</Link>
         </Col>
-        <Col xs={2}>
+        <Col md={2} xs={5}>
           <Link activeClassName="active" className="fn" to={prefixLink('/versus/front-national/')}>Front National</Link>
         </Col>
       </Row>

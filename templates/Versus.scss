@@ -4,6 +4,9 @@
   padding-bottom: 80px;
   margin: 50px 0 180px;
 
+  @media (max-width: 991px) {margin-top: 40px;}
+  @media (max-width: 767px) {margin: 15px 0 0;}
+
   &::before {
     border-left: 2px dashed $border;
     content: '';
@@ -15,6 +18,8 @@
     position: absolute;
     width: 0;
     z-index: -1;
+
+    @media (max-width: 767px) {display: none;}
   }
 
   .title {position: relative;}
@@ -48,6 +53,8 @@
     overflow: hidden;
     text-align: center;
     width: 60px;
+
+    @media (max-width: 991px) {margin-bottom: 20px;}
   }
 
   img {
@@ -64,6 +71,11 @@
     font-weight: 400;
     margin: 0;
     text-align: center;
+
+    @media (max-width: 991px) {
+      font-size: 22px;
+      margin-bottom: 5px;
+    }
   }
 
   .candidat {
