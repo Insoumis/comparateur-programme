@@ -35,3 +35,37 @@ candidat = "Emmanuel Macron"
     ref = "Le Figaro - le 12/11/2016"
     link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
     tldr = "Retraite à <strong>60</strong> ans"
+
+[[categories]]
+  id = "agriculture"
+  title = "Agriculture"
+
+  [[categories.list]]
+    title = "35h"
+
+    [categories.list.them]
+    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    ref = "Le Figaro - le 12/11/2016"
+    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
+    tldr = "<strong>Suppression</strong> des 35h"
+
+    [categories.list.us]
+    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    ref = "Le Figaro - le 12/11/2016"
+    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
+    tldr = "<strong>Application</strong> réelle des 35h"
+
+  [[categories.list]]
+    title = "Retaite"
+
+    [categories.list.them]
+    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    ref = "Le Figaro - le 12/11/2016"
+    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
+    tldr = "Retraite à <strong>67</strong> ans"
+
+    [categories.list.us]
+    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    ref = "Le Figaro - le 12/11/2016"
+    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
+    tldr = "Retraite à <strong>60</strong> ans"
