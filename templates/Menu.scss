@@ -1,0 +1,65 @@
+@import "../styles/colors";
+
+.Menu {
+  background: #fff;
+  border: 1px solid $border;
+  border-bottom: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  left: 0;
+  position: fixed;
+  transform: translateX(-200px);
+  transition: .4s;
+  width: 200px;
+  z-index: 20;
+
+  &.visible {transform: translateX(0px);}
+
+  button {
+    background: #fff;
+    border: 1px solid $border;
+    color: $red;
+    font-size: 20px;
+    height: 42px;
+    position: absolute;
+    right: -40px;
+    top: -1px;
+    transition: .2s linear;
+    width: 40px;
+
+    &:hover {
+      border-color: $blue;
+      color: $blue;
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    border-bottom: 1px solid $border;
+    display: block;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s linear;
+
+    &.work {color: $darkred;}
+    &.agriculture {color: $orange;}
+    &.ecology {color: $green;}
+    &.health {color: $cblue;}
+
+    &:hover {
+      &.work {border-color: $darkred;}
+      &.agriculture {border-color: $orange;}
+      &.ecology {border-color: $green;}
+      &.health {border-color: $cblue;}
+    }
+
+    i {padding-right: 6px;}
+  }
+}

@@ -3,6 +3,7 @@ import { Container, Row, Col, Hidden } from 'react-grid-system';
 import { prefixLink } from 'gatsby-helpers';
 import Helmet from 'react-helmet';
 
+import Menu from './Menu';
 import Category from './Category';
 import './Versus.scss';
 
@@ -11,6 +12,7 @@ const Versus = ({ data }) => (
     <Helmet
         title={`La France insoumise VS ${data.title}`}
     />
+    <Menu data={data} />
     <Row>
       <Col offset={{md: 1}} md={10}>
       <Hidden sm xs>

@@ -2,13 +2,7 @@ import React from 'react';
 import { Row, Col, Hidden } from 'react-grid-system';
 
 import './Category.scss';
-
-const ico = {
-  work: 'briefcase',
-  agriculture: 'pagelines',
-  ecology: 'leaf',
-  health: 'heartbeat',
-};
+import { ico } from '../utils';
 
 const Category = ({ candidat, category }) => (
   <div className="Category" id={category.id}>
