@@ -1,4 +1,5 @@
 import React from 'react';
+import Markdown from 'react-markdown';
 import { Row, Col, Hidden } from 'react-grid-system';
 
 import './Category.scss';
@@ -7,7 +8,7 @@ import { ico } from '../utils';
 const Category = ({ candidat, category }) => (
   <div className="Category" id={category.id}>
     <h3>
-      <i className={`fa fa-${ico[category.id]}`} aria-hidden="true"></i>
+      <i className={`fa fa-${ico[category.id]}`} aria-hidden="true" />
       {' '}
       {category.title}
     </h3>
@@ -21,7 +22,7 @@ const Category = ({ candidat, category }) => (
               <div className="ref">
                 Dans {item.them.ref} ( <a href={item.them.link} target="_blank">source</a> )
               </div>
-              <blockquote>{item.them.quote}</blockquote>
+              <blockquote><Markdown className="md-inline" source={item.them.quote} /></blockquote>
             </div>
           </Col>
           <Col md={6}>
@@ -29,7 +30,7 @@ const Category = ({ candidat, category }) => (
               <div className="ref">
                 Dans {item.us.ref} ( <a href={item.us.link} target="_blank">source</a> )
               </div>
-              <blockquote>{item.us.quote}</blockquote>
+              <blockquote><Markdown className="md-inline" source={item.us.quote} /></blockquote>
             </div>
           </Col>
         </Hidden>
@@ -37,17 +38,15 @@ const Category = ({ candidat, category }) => (
       <Row>
         <Col md={6}>
           <div className="candidat">Avec {candidat}</div>
-          <div
-            className="tldr"
-            dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.them.tldr}` }}
-          />
+          <div className="tldr">
+            <i className="fa fa-arrow-circle-right" aria-hidden="true" /> <Markdown className="md-inline" source={item.them.tldr} />
+          </div>
         </Col>
         <Col md={6}>
           <div className="candidat">Avec Jean-Luc Mélenchon</div>
-          <div
-            className="tldr"
-            dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.us.tldr}` }}
-          />
+          <div className="tldr">
+            <i className="fa fa-arrow-circle-right" aria-hidden="true" /> <Markdown className="md-inline" source={item.us.tldr} />
+          </div>
         </Col>
       </Row>
     </div>

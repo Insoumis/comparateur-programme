@@ -5,6 +5,7 @@
     "react": "^15.4.2",
     "react-grid-system": "^2.6.0",
     "react-helmet": "^4.0.0",
+    "react-markdown": "^2.4.5",
     "smoothscroll": "^0.3.0"
   },
   "devDependencies": {

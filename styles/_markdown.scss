@@ -1,0 +1,6 @@
+
+// The Markdown Component wraps paragraphs with p tags (even if there is only one), and wraps it all with a div.
+.md-inline {
+  display: inline;
+  & > p:first-child {display: inline}
+}
