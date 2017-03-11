@@ -2,6 +2,6 @@
 path: /about
 id: about
 ---
-# Contact
+# À propos
 
 Page à propos à ajouter
