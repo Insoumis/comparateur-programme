@@ -60,6 +60,10 @@
       font-size: 14px;
       padding: 0 20px;
     }
+
+    strong {
+      color: darken($main, 20);
+    }
   }
 
   .ref {
