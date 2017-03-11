@@ -12,7 +12,9 @@ const Versus = ({ data }) => (
     <Helmet
         title={`La France insoumise VS ${data.title}`}
     />
-    <Menu data={data} />
+    <Hidden sm xs>
+      <Menu data={data} />
+    </Hidden>
     <Row>
       <Col offset={{md: 1}} md={10}>
       <Hidden sm xs>
