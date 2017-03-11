@@ -3,6 +3,8 @@
 .Outlinks {
   line-height: 35px;
 
+  .right {text-align: right;}
+
   a {
     color: $secondary;
     margin: 0 10px;
@@ -14,4 +16,8 @@
 
     &:hover {color: $main;}
   }
+
+  i {padding-right: 4px;}
+
+  .fa-envelope {font-size: 15px;}
 }
