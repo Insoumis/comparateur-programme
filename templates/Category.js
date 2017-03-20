@@ -18,19 +18,31 @@ const Category = ({ candidat, category }) => (
         <Hidden sm xs>
           <Col md={6}>
             <div className="proposal">
-              <div className="ref">
-                Dans {item.them.ref} ( <a href={item.them.link} target="_blank">source</a> )
+            {(item.them.quote) ?
+              <div>
+                <div className="ref">
+                  Dans {item.them.ref} ( <a href={item.them.link} target="_blank">source</a> )
+                </div>
+                <blockquote
+                  dangerouslySetInnerHTML={{ __html: item.them.quote }}
+                />
               </div>
-              <blockquote>{item.them.quote}</blockquote>
+            :
+              <div className="none"><i className="fa fa-question-circle-o" aria-hidden="true"></i></div>
+            }
             </div>
           </Col>
           <Col md={6}>
+            {(item.us.quote) ?
             <div className="proposal">
               <div className="ref">
                 Dans {item.us.ref} ( <a href={item.us.link} target="_blank">source</a> )
               </div>
-              <blockquote>{item.us.quote}</blockquote>
+              <blockquote
+                dangerouslySetInnerHTML={{ __html: item.us.quote }}
+              />
             </div>
+            : false}
           </Col>
         </Hidden>
       </Row>

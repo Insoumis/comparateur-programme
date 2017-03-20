@@ -7,9 +7,9 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   left: 0;
   position: fixed;
-  transform: translateX(-200px);
+  transform: translateX(-270px);
   transition: .4s;
-  width: 200px;
+  width: 270px;
   z-index: 20;
 
   &.visible {transform: translateX(0px);}
@@ -48,13 +48,13 @@
     text-decoration: none;
     transition: .2s linear;
 
-    &.work {color: $darkred;}
+    &.constitution {color: $darkred;}
     &.agriculture {color: $orange;}
     &.ecology {color: $green;}
     &.health {color: $cblue;}
 
     &:hover {
-      &.work {border-color: $darkred;}
+      &.constitution {border-color: $darkred;}
       &.agriculture {border-color: $orange;}
       &.ecology {border-color: $green;}
       &.health {border-color: $cblue;}

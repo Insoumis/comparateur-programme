@@ -1,6 +1,6 @@
-title = "Front National"
-alias = "fn"
-candidat = "Marine Le Pen"
+title = "LAEC"
+alias = "ps"
+candidat = "Les Insoumis"
 
 [[categories]]
   id = "constitution"
@@ -10,122 +10,205 @@ candidat = "Marine Le Pen"
     title = "Réforme constitutionnelle"
 
     [categories.list.them]
-    quote = "
-      <p>Augmenter dès la première année du mandat le budget de la Défense à 2 % du PIB puis tendre vers 3 % à l’horizon de la fin du quinquennat. Ces 2 % minimum seront  inscrits  dans  la  Constitution.</p>
-      <p>Défendre l’identité nationale, les valeurs et les traditions de notre civilisation française. Inscrire dans la Constitution la défense et la promotion de notre patrimoine historique et culturel.</p>
-      <p>Ériger la citoyenneté française en privilège pour tous les Français par l’inscription dans la Constitution de la priorité nationale.</p>
-    "
-    ref = "Marine Présidente - 02/2017"
-    link = "https://www.marine2017.fr/programme/"
-    tldr = "Inscrire dans la Constitution l'augmentation du <strong>budget de la Défense</strong>, le principe de <strong>priorité nationale</strong> et la <strong>défense du patrimoine</strong>."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "La nouvelle Constitution dont la France a besoin doit être radicalement nouvelle, y compris dans sa méthode d'écriture : elle ne peut être un simple rafistolage de la 5e République, ni se résumer à quelques réformes octroyées par le futur président de la République. C'est le peuple lui-même qui doit s'emparer de la question et s'impliquer tout au long d'un processus constituant. Nous proposons la convocation d'une assemblée spécifiquement chargée de rédiger une nouvelle Constitution sous le contrôle des citoyens : une Assemblée constituante."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "Création d'une Assemblée Constituante pour une <strong>VIe République</strong>."
+    tldr = "Création d'une Assemblée Constituante pour une VIe République."
 
   [[categories.list]]
-    title = "Mode de révision de la Constitution"
+    title = "Révision de la Constitution"
 
     [categories.list.them]
-    quote = "Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution."
-    ref = "Marine Présidente - 02/2017"
-    link = "https://www.marine2017.fr/programme/#0"
-    tldr = "Toute révision de la Constitution passera par un <strong>référendum</strong>."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Toute révision de la Constitution passera par un <strong>référendum</strong>."
+    tldr = "Toute révision de la Constitution passera par un référendum."
 
   [[categories.list]]
     title = "Droit de Vote"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Doit de vote <strong>obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>."
+    tldr = "Doit de vote obligatoire à partir de 16 ans et reconnaissance du vote blanc."
 
   [[categories.list]]
     title = "49.3"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "<strong>Nouvelle Constitution</strong>."
+    tldr = "Nouvelle Constitution, 6e République."
 
   [[categories.list]]
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
+    tldr = "Droit de révoquer les élu·e·s."
 
   [[categories.list]]
     title = "Initiative Populaire"
 
     [categories.list.them]
-    quote = "Créer un véritable référendum d’initiative populaire, sur proposition d’au moins 500 000 électeurs."
-    ref = "Marine Présidente - 02/2017"
-    link = "https://www.marine2017.fr/programme/#0"
-    tldr = "<strong>Référendum</strong> d'initiative populaire."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "<strong>Référendum</strong> d'initiative populaire."
+    tldr = "Référendum d'initiative populaire."
 
   [[categories.list]]
     title = "Parité dans les institutions"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/6/une-republique-universelle"
-    tldr = "Imposer l'<strong>égalité</strong> des genres dans les institutions."
+    tldr = "Imposer l'égalité des genres dans les institutions."
 
   [[categories.list]]
     title = "Cumul des mandats"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Rendre effectif le principe du non-cumul des mandats, y compris dans le temps."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "<strong>Non-cumul</strong> des mandats."
+    tldr = "Non-cumul des mandats."
+
+  [[categories.list]]
+    title = "Emploi de membres de la famille"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    tldr = "Nous n'avons pas encore trouvé de propositions."
+
+  [[categories.list]]
+    title = "Corruption et lobbying"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = ""
+    tldr = ""
 
   [[categories.list]]
     title = "Proportionnelle"
 
     [categories.list.them]
-    quote = "Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5 % des suffrages pour obtenir des élus."
-    ref = "Marine Présidente - 02/2017"
-    link = "https://www.marine2017.fr/programme/#0"
-    tldr = "Scrutin proportionnel <strong>à toutes les élections</strong>."
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "<strong>Généraliser</strong> la représentation proportionnelle."
+    tldr = "Généraliser la représentation proportionnelle."
+
+  [[categories.list]]
+    title = "Modification des procédures de l'assemblée"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Administration publique centrale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Administration territoriale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""

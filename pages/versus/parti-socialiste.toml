@@ -3,35 +3,212 @@ alias = "ps"
 candidat = "Benoît Hamon"
 
 [[categories]]
-  id = "work"
-  title = "Droit du Travail"
+  id = "constitution"
+  title = "Constitution et Institutions"
 
   [[categories.list]]
-    title = "35h"
+    title = "Réforme constitutionnelle"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Suppression</strong> des 35h"
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Application</strong> réelle des 35h"
+    quote = "La nouvelle Constitution dont la France a besoin doit être radicalement nouvelle, y compris dans sa méthode d'écriture : elle ne peut être un simple rafistolage de la 5e République, ni se résumer à quelques réformes octroyées par le futur président de la République. C'est le peuple lui-même qui doit s'emparer de la question et s'impliquer tout au long d'un processus constituant. Nous proposons la convocation d'une assemblée spécifiquement chargée de rédiger une nouvelle Constitution sous le contrôle des citoyens : une Assemblée constituante."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
+    tldr = "Création d'une Assemblée Constituante pour une VIe République."
 
   [[categories.list]]
-    title = "Retaite"
+    title = "Révision de la Constitution"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>67</strong> ans"
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>60</strong> ans"
+    quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Toute révision de la Constitution passera par un référendum."
+
+  [[categories.list]]
+    title = "Droit de Vote"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Doit de vote obligatoire à partir de 16 ans et reconnaissance du vote blanc."
+
+  [[categories.list]]
+    title = "49.3"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
+    tldr = "Nouvelle Constitution, 6e République."
+
+  [[categories.list]]
+    title = "Contrôle des élu.e.s"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Droit de révoquer les élu·e·s."
+
+  [[categories.list]]
+    title = "Initiative Populaire"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Référendum d'initiative populaire."
+
+  [[categories.list]]
+    title = "Parité dans les institutions"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/6/une-republique-universelle"
+    tldr = "Imposer l'égalité des genres dans les institutions."
+
+  [[categories.list]]
+    title = "Cumul des mandats"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Rendre effectif le principe du non-cumul des mandats, y compris dans le temps."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Non-cumul des mandats."
+
+  [[categories.list]]
+    title = "Emploi de membres de la famille"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    tldr = "Pas de proposition."
+
+  [[categories.list]]
+    title = "Corruption et lobbying"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Proportionnelle"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Généraliser la représentation proportionnelle."
+
+  [[categories.list]]
+    title = "Modification des procédures de l'assemblée"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Administration publique centrale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Administration territoriale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""

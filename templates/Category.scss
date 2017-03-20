@@ -22,7 +22,7 @@
 
   .subtitle {
     text-align: center;
-    margin: 40px 0 20px;
+    margin: 60px 0 30px;
 
     @media (max-width: 991px) {margin: 30px 0 25px;}
 
@@ -76,6 +76,16 @@
     }
   }
 
+  .none {
+    border-left: 2px solid $border;
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 120px;
+    margin: 0 0 15px;
+    padding: 0 25px;
+    text-align: center;
+  }
+
   .candidat {
     display: none;
     text-align: left !important;
@@ -93,17 +103,22 @@
     }
 
     i {padding-right: 6px;}
+
+    strong {font-weight: 400;}
   }
 
   strong {font-weight: 500;}
 
-  &#work {
+  &#constitution {
     h3,
     .subtitle,
-    .tldr i {color: $darkred;}
+    .none,
+    .tldr i,
+    strong {color: $darkred;}
 
     h3,
-    blockquote {border-color: $darkred;}
+    blockquote,
+    .none {border-color: $darkred;}
   }
 
   &#agriculture {

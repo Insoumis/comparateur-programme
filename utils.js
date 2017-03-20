@@ -1,5 +1,5 @@
 export const ico = {
-  work: 'briefcase',
+  constitution: 'university',
   agriculture: 'pagelines',
   ecology: 'leaf',
   health: 'heartbeat',
