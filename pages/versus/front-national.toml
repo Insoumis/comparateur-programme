@@ -118,7 +118,7 @@ candidat = "Marine Le Pen"
   [[categories.list]]
     title = "Corruption et lobbying"
 
-    [categories.list.us]
+    [categories.list.them]
     tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
@@ -162,4 +162,4 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
-    tldr = "<strong>Changement des institutions</strong> par la VIè république."
+    tldr = "<strong>Changement des institutions</strong> par la VIe république."

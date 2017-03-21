@@ -60,7 +60,7 @@
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "Nouvelle Constitution, 6e République."
+    tldr = "Nouvelle Constitution, VIe République."
 
   [[categories.list]]
     title = "Contrôle des élu.e.s"
@@ -137,7 +137,7 @@
   [[categories.list]]
     title = "Corruption et lobbying"
 
-    [categories.list.us]
+    [categories.list.them]
     quote = ""
     ref = ""
     link = ""
@@ -184,7 +184,7 @@
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
-    tldr = "<strong>Changement des institutions</strong> par la VIè république."
+    tldr = "<strong>Changement des institutions</strong> par la VIe république."
 
   [[categories.list]]
     title = "Administration territoriale"

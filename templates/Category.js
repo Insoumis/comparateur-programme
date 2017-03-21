@@ -33,16 +33,20 @@ const Category = ({ candidat, category }) => (
             </div>
           </Col>
           <Col md={6}>
-            {(item.us.quote) ?
             <div className="proposal">
-              <div className="ref">
-                Dans {item.us.ref} ( <a href={item.us.link} target="_blank">source</a> )
+            {(item.us.quote) ?
+              <div>
+                <div className="ref">
+                  Dans {item.us.ref} ( <a href={item.us.link} target="_blank">source</a> )
+                </div>
+                <blockquote
+                  dangerouslySetInnerHTML={{ __html: item.us.quote }}
+                />
               </div>
-              <blockquote
-                dangerouslySetInnerHTML={{ __html: item.us.quote }}
-              />
+            :
+              <div className="none"><i className="fa fa-question-circle-o" aria-hidden="true"></i></div>
+            }
             </div>
-            : false}
           </Col>
         </Hidden>
       </Row>

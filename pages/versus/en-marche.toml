@@ -23,7 +23,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Plus d’efficacité, c’est aussi plus de numérique : nous avons besoin de numériser notre démocratie, en instituant un vote électronique qui élargira la participation, réduira les coûts des élections et modernisera l’image de la politique."
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
     tldr = "Généraliser le <strong>vote électronique</strong>."
 
@@ -43,7 +43,7 @@ candidat = "Emmanuel Macron"
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "Nouvelle Constitution, <strong>6e République</strong>."
+    tldr = "Nouvelle Constitution, <strong>VIe République</strong>."
 
   [[categories.list]]
     title = "Contrôle des élu.e.s"
@@ -62,7 +62,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Nous demanderons aux parlementaires qui soutiennent notre action de mettre en place des dispositifs innovants d’évaluation du travail parlementaire (jurys citoyens, compte-rendus de mandat via les réseaux sociaux,...)"
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
     tldr = "Dispositifs d'<strong>évaluation</strong> laissés à l'initiative des <strong>parlementaires d'En Marche</strong>."
 
@@ -77,7 +77,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Nous mettrons en œuvre la parité dans les nominations des grands postes de l’Etat (agences et directeurs d’administration)."
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "http://www.en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
     tldr = "Imposer l'égalité des genres aux <strong>grands postes de l'Etat</strong>."
 
@@ -92,7 +92,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Nous instaurerons le non-cumul des mandats dans le temps. On ne pourra exercer plus de trois mandats identiques successifs."
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
     tldr = "<strong>Non-cumul</strong> des mandats."
 
@@ -107,7 +107,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Interdiction pour les élus et tout gestionnaire de deniers publics de recruter des membres de leur famille comme assistants parlementaires."
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
     tldr = "<strong>Interdiction</strong> de recruter des membres de sa famille comme assistant parlementaire."
 
@@ -117,9 +117,9 @@ candidat = "Emmanuel Macron"
   [[categories.list]]
     title = "Corruption et lobbying"
 
-    [categories.list.us]
+    [categories.list.them]
     quote = "Contrôle de l’utilisation de leurs indemnités par les parlementaires. L’indemnité représentative de frais de mandat (IRFM) sera intégrée à l’indemnité parlementaire en tant que telle et, à ce titre, fiscalisée."
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
     tldr = "<strong>Autocontrôle</strong> des indemnités parlementaires."
 
@@ -138,7 +138,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Nous réduirons le nombre d’agents publics de 120 000 emplois sur la durée du quinquennat. Cela correspondra à un volume de 50 000 postes non-renouvelés dans la fonction publique d’Etat [...]"
-    ref = "Emmanuel Macron président"
+    ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique"
     tldr = "<strong>Suppression de 50 000 postes</strong> dans la fonction publique d'Etat."
 
@@ -149,4 +149,4 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
-    tldr = "<strong>Changement des institutions</strong> par la VIè république."
+    tldr = "<strong>Changement des institutions</strong> par la VIe république."

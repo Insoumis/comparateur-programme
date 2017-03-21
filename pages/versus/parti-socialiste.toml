@@ -10,205 +10,149 @@ candidat = "Benoît Hamon"
     title = "Réforme constitutionnelle"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Nous mettrons en place, dès l’été 2017, une conférence pour une 6e République réunissant parlementaires, sages et citoyens. En cours de mandat, cette nouvelle constitution établira un système électoral législatif à la proportionnelle, permettant dans le même temps des majorités claires. Elle instaurera un septennat presidentiel non-renouvelable et limitera l’utilisation du 49.3 et le cumul dans le temps des mandats des élus."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Conférence pour une VIe République avec un <strong>programme pré-établi</strong>."
 
     [categories.list.us]
     quote = "La nouvelle Constitution dont la France a besoin doit être radicalement nouvelle, y compris dans sa méthode d'écriture : elle ne peut être un simple rafistolage de la 5e République, ni se résumer à quelques réformes octroyées par le futur président de la République. C'est le peuple lui-même qui doit s'emparer de la question et s'impliquer tout au long d'un processus constituant. Nous proposons la convocation d'une assemblée spécifiquement chargée de rédiger une nouvelle Constitution sous le contrôle des citoyens : une Assemblée constituante."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "Création d'une Assemblée Constituante pour une VIe République."
+    tldr = "Création d'une <strong>Assemblée Constituante</strong> pour une VIe République."
 
   [[categories.list]]
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Toute révision de la Constitution passera par un référendum."
+    tldr = "Toute révision de la Constitution passera par un <strong>référendum</strong>."
 
   [[categories.list]]
     title = "Droit de Vote"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Je soumettrai à référendum la reconnaissance du vote blanc et l’extension du droit de vote aux étrangers non communautaires pour les élections locales, qui existe déjà pour les ressortissants européens."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Reconnaissance du <strong>vote blanc</strong> et du <strong>vote des étrangers</strong> soumis à <strong>référendum</strong>."
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Doit de vote obligatoire à partir de 16 ans et reconnaissance du vote blanc."
+    tldr = "Doit de vote <strong>obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>."
 
   [[categories.list]]
     title = "49.3"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Elle (ndlr: la 6e République) instaurera un septennat presidentiel non-renouvelable et limitera l’utilisation du 49.3 et le cumul dans le temps des mandats des élus"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Limiter</strong> l’utilisation du 49.3."
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
-    tldr = "Nouvelle Constitution, 6e République."
+    tldr = "Nouvelle Constitution, <strong>VIe République</strong>."
 
   [[categories.list]]
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    tldr = "Nous n'avons pas encore trouvé de propositions"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Droit de révoquer les élu·e·s."
+    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
 
   [[categories.list]]
     title = "Initiative Populaire"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Je proposerai la mise en place du 49-3 citoyen, qui permet à 1 %, du corps électoral, soit de faire inscrire à l’ordre du jour du Parlement un proposition de loi citoyenne, soit de soumettre une loi votée à rédérendum sous condition de représentativité des signataires et de participation au scrutin et dans des domaines déterminés."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>\"49-3\"</strong> citoyen"
 
     [categories.list.us]
     quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Référendum d'initiative populaire."
+    tldr = "<strong>Référendum</strong> d'initiative populaire."
 
   [[categories.list]]
     title = "Parité dans les institutions"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Pour la parité en politique, j’augmenterai les amendes infligées aux partis en cas de non-respect de la parité lors des élections. "
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Amendes</strong> en cas de non respect de la parité <strong>lors des élections</strong>."
 
     [categories.list.us]
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/6/une-republique-universelle"
-    tldr = "Imposer l'égalité des genres dans les institutions."
+    tldr = "<strong>Imposer</strong> l'égalité des genres dans <strong>toutes les institutions</strong>."
 
   [[categories.list]]
     title = "Cumul des mandats"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Elle (ndlr: la 6e République) instaurera un septennat presidentiel non-renouvelable et limitera l’utilisation du 49.3 et le cumul dans le temps des mandats des élus"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Limiter</strong> le cumul des mandats."
 
     [categories.list.us]
     quote = "Rendre effectif le principe du non-cumul des mandats, y compris dans le temps."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Non-cumul des mandats."
-
-  [[categories.list]]
-    title = "Emploi de membres de la famille"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    tldr = "Pas de proposition."
+    tldr = "<strong>Non-cumul</strong> des mandats."
 
   [[categories.list]]
     title = "Corruption et lobbying"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "
+    <p>Nous mettrons fin à tout statut d'exception en supprimant la Cour de justice de la République, et nous réformerons le statut pénal du chef de l’État.</p>
+    <p>Pour prévenir les conflits d'intérêt, j’obligerai tout candidat à une élection à publier la liste de ses grands donateurs.</p>
+    "
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Suppression de la <strong>Cour de justice de la République</strong>, réforme du <strong>statut pénal du chef de l'État</strong>, publication des <strong>grands donateurs</strong> d'une élection."
 
     [categories.list.us]
-    quote = ""
+    quote = "
+    <p>Rendre inéligible à vie toute personne condamnée pour corruption.</p>
+    <p>Combattre la pollution du débat parlementaire par les lobbies, interdire l'entrée des lobbyistes dans l'enceinte du Parlement et les cadeaux faits aux parlementaires.</p>
+    <p>Appliquer les recommandations d'Anticor et de Transparency International visant à empêcher la corruption et à rapprocher les représentants des représentés, notamment obliger un élu à rendre publique sa déclaration de patrimoine transmise à la Haute autorité pour la transparence de la vie publique et supprimer la réserve parlementaire (enveloppe financière dépensée sans vote du Parlement, selon le bon vouloir de chaque parlementaire)</p>
+    "
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = ""
-    tldr = ""
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, interdiction des lobbyistes au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
 
   [[categories.list]]
     title = "Proportionnelle"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "En cours de mandat, cette nouvelle constitution établira un système électoral législatif à la proportionnelle, permettant dans le même temps des majorités claires."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Établissement de la proportionnelle pour les <strong>législatives</strong>."
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Généraliser la représentation proportionnelle."
-
-  [[categories.list]]
-    title = "Modification des procédures de l'assemblée"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Administration publique centrale"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Administration territoriale"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    tldr = "<strong>Généraliser</strong> la représentation proportionnelle."
