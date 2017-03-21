@@ -1,7 +1,3 @@
-title = "LAEC"
-alias = "ps"
-candidat = "Les Insoumis"
-
 [[categories]]
   id = "constitution"
   title = "Constitution et Institutions"
@@ -109,7 +105,7 @@ candidat = "Les Insoumis"
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/6/une-republique-universelle"
-    tldr = "Imposer l'égalité des genres dans les institutions."
+    tldr = "Imposer l'égalité des genres dans toutes les institutions."
 
   [[categories.list]]
     title = "Cumul des mandats"
@@ -189,3 +185,18 @@ candidat = "Les Insoumis"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
     tldr = "<strong>Changement des institutions</strong> par la VIè république."
+
+  [[categories.list]]
+    title = "Administration territoriale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""

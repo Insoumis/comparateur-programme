@@ -3,137 +3,150 @@ alias = "em"
 candidat = "Emmanuel Macron"
 
 [[categories]]
-  id = "work"
-  title = "Droit du Travail"
+  id = "constitution"
+  title = "Constitution et Institutions"
 
   [[categories.list]]
-    title = "35h"
+    title = "Révision de la Constitution"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Suppression</strong> des 35h"
+    tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Application</strong> réelle des 35h"
+    quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Toute révision de la Constitution passera par un <strong>référendum</strong>."
 
   [[categories.list]]
-    title = "Retaite"
+    title = "Droit de Vote"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>67</strong> ans"
+    quote = "Plus d’efficacité, c’est aussi plus de numérique : nous avons besoin de numériser notre démocratie, en instituant un vote électronique qui élargira la participation, réduira les coûts des élections et modernisera l’image de la politique."
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
+    tldr = "Généraliser le <strong>vote électronique</strong>."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>60</strong> ans"
-
-[[categories]]
-  id = "agriculture"
-  title = "Agriculture"
+    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Doit de vote <strong>obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>."
 
   [[categories.list]]
-    title = "35h"
+    title = "49.3"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Suppression</strong> des 35h"
+    tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Application</strong> réelle des 35h"
+    quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/1/reunir-une-assemblee-constituante"
+    tldr = "Nouvelle Constitution, <strong>6e République</strong>."
 
   [[categories.list]]
-    title = "Retaite"
+    title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>67</strong> ans"
+    tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>60</strong> ans"
-
-[[categories]]
-  id = "ecology"
-  title = "Écologie"
+    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
 
   [[categories.list]]
-    title = "35h"
+    title = "Initiative Populaire"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Suppression</strong> des 35h"
+    quote = "Nous demanderons aux parlementaires qui soutiennent notre action de mettre en place des dispositifs innovants d’évaluation du travail parlementaire (jurys citoyens, compte-rendus de mandat via les réseaux sociaux,...)"
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
+    tldr = "Dispositifs d'<strong>évaluation</strong> laissés à l'initiative des <strong>parlementaires d'En Marche</strong>."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Application</strong> réelle des 35h"
+    quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "<strong>Référendum</strong> d'initiative populaire."
 
   [[categories.list]]
-    title = "Retaite"
+    title = "Parité dans les institutions"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>67</strong> ans"
+    quote = "Nous mettrons en œuvre la parité dans les nominations des grands postes de l’Etat (agences et directeurs d’administration)."
+    ref = "Emmanuel Macron président"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
+    tldr = "Imposer l'égalité des genres aux <strong>grands postes de l'Etat</strong>."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>60</strong> ans"
-
-[[categories]]
-  id = "health"
-  title = "Santé"
+    quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/6/une-republique-universelle"
+    tldr = "Imposer l'égalité des genres dans <strong>toutes les institutions</strong>."
 
   [[categories.list]]
-    title = "35h"
+    title = "Cumul des mandats"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Suppression</strong> des 35h"
+    quote = "Nous instaurerons le non-cumul des mandats dans le temps. On ne pourra exercer plus de trois mandats identiques successifs."
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
+    tldr = "<strong>Non-cumul</strong> des mandats."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "<strong>Application</strong> réelle des 35h"
+    quote = "Rendre effectif le principe du non-cumul des mandats, y compris dans le temps."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "<strong>Non-cumul</strong> des mandats."
 
   [[categories.list]]
-    title = "Retaite"
+    title = "Emploi de membres de la famille"
 
     [categories.list.them]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>67</strong> ans"
+    quote = "Interdiction pour les élus et tout gestionnaire de deniers publics de recruter des membres de leur famille comme assistants parlementaires."
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
+    tldr = "<strong>Interdiction</strong> de recruter des membres de sa famille comme assistant parlementaire."
 
     [categories.list.us]
-    quote = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    ref = "Le Figaro - le 12/11/2016"
-    link = "http://www.lci.fr/elections/emmanuel-macron-et-les-35-heures-je-n-ai-pas-change-d-avis-2016893.html"
-    tldr = "Retraite à <strong>60</strong> ans"
+    tldr = "Nous n'avons pas encore trouvé de propositions."
+
+  [[categories.list]]
+    title = "Corruption et lobbying"
+
+    [categories.list.us]
+    quote = "Contrôle de l’utilisation de leurs indemnités par les parlementaires. L’indemnité représentative de frais de mandat (IRFM) sera intégrée à l’indemnité parlementaire en tant que telle et, à ce titre, fiscalisée."
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/vie-politique-et-vie-publique"
+    tldr = "<strong>Autocontrôle</strong> des indemnités parlementaires."
+
+    [categories.list.us]
+    quote = "
+    <p>Rendre inéligible à vie toute personne condamnée pour corruption.</p>
+    <p>Combattre la pollution du débat parlementaire par les lobbies, interdire l'entrée des lobbyistes dans l'enceinte du Parlement et les cadeaux faits aux parlementaires.</p>
+    <p>Appliquer les recommandations d'Anticor et de Transparency International visant à empêcher la corruption et à rapprocher les représentants des représentés, notamment obliger un élu à rendre publique sa déclaration de patrimoine transmise à la Haute autorité pour la transparence de la vie publique et supprimer la réserve parlementaire (enveloppe financière dépensée sans vote du Parlement, selon le bon vouloir de chaque parlementaire)</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, <strong>interdiction des lobbyistes</strong> au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
+
+  [[categories.list]]
+    title = "Administration publique centrale"
+
+    [categories.list.them]
+    quote = "Nous réduirons le nombre d’agents publics de 120 000 emplois sur la durée du quinquennat. Cela correspondra à un volume de 50 000 postes non-renouvelés dans la fonction publique d’Etat [...]"
+    ref = "Emmanuel Macron président"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique"
+    tldr = "<strong>Suppression de 50 000 postes</strong> dans la fonction publique d'Etat."
+
+    [categories.list.us]
+    quote = "
+    <p>Abolir la monarchie présidentielle en instaurant un régime parlementaire stable dans lequel le gouvernement détient le pouvoir exécutif et est responsable devant le Parlement, transférer le pouvoir de nomination au Parlement</p>
+    <p>Supprimer le Sénat et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
+    tldr = "<strong>Changement des institutions</strong> par la VIè république."

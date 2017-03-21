@@ -101,7 +101,7 @@ candidat = "Marine Le Pen"
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/6/une-republique-universelle"
-    tldr = "Imposer l'<strong>égalité</strong> des genres dans les institutions."
+    tldr = "Imposer l'<strong>égalité</strong> des genres dans toutes les institutions."
 
   [[categories.list]]
     title = "Cumul des mandats"
@@ -114,6 +114,22 @@ candidat = "Marine Le Pen"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
     tldr = "<strong>Non-cumul</strong> des mandats."
+
+  [[categories.list]]
+    title = "Corruption et lobbying"
+
+    [categories.list.us]
+    tldr = "Nous n'avons pas encore trouvé de propositions."
+
+    [categories.list.us]
+    quote = "
+    <p>Rendre inéligible à vie toute personne condamnée pour corruption.</p>
+    <p>Combattre la pollution du débat parlementaire par les lobbies, interdire l'entrée des lobbyistes dans l'enceinte du Parlement et les cadeaux faits aux parlementaires.</p>
+    <p>Appliquer les recommandations d'Anticor et de Transparency International visant à empêcher la corruption et à rapprocher les représentants des représentés, notamment obliger un élu à rendre publique sa déclaration de patrimoine transmise à la Haute autorité pour la transparence de la vie publique et supprimer la réserve parlementaire (enveloppe financière dépensée sans vote du Parlement, selon le bon vouloir de chaque parlementaire)</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, interdiction des lobbyistes au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
 
   [[categories.list]]
     title = "Proportionnelle"
@@ -129,3 +145,21 @@ candidat = "Marine Le Pen"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
     tldr = "<strong>Généraliser</strong> la représentation proportionnelle."
+
+  [[categories.list]]
+    title = "Administration publique centrale"
+
+    [categories.list.them]
+    quote = "Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/#0"
+    tldr = "Abaisser le nombre de <strong>députés à 300</strong> et le nombre de <strong>sénateurs à 200</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Abolir la monarchie présidentielle en instaurant un régime parlementaire stable dans lequel le gouvernement détient le pouvoir exécutif et est responsable devant le Parlement, transférer le pouvoir de nomination au Parlement</p>
+    <p>Supprimer le Sénat et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
+    tldr = "<strong>Changement des institutions</strong> par la VIè république."
