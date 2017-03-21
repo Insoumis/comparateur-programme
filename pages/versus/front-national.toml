@@ -47,10 +47,13 @@ candidat = "Marine Le Pen"
     tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
-    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    quote = "
+    <p>Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle.</p>
+    <p>Reconnaître le droit de vote aux élections locales pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.</p>
+    "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Doit de vote <strong>obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>."
+    tldr = "Droit de <strong>vote obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>. Droit de <strong>vote des étrangers</strong> aux élections locales."
 
   [[categories.list]]
     title = "49.3"

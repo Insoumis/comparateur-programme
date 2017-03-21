@@ -43,10 +43,13 @@ candidat = "François Fillon"
     tldr = "Nous n'avons pas encore trouvé de propositions."
 
     [categories.list.us]
-    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    quote = "
+    <p>Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle.</p>
+    <p>Reconnaître le droit de vote aux élections locales pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.</p>
+    "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Doit de vote <strong>obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>."
+    tldr = "Droit de <strong>vote obligatoire</strong> à partir de <strong>16 ans</strong> et reconnaissance du <strong>vote blanc</strong>. Droit de <strong>vote des étrangers</strong> aux élections locales."
 
   [[categories.list]]
     title = "49.3"
@@ -144,6 +147,18 @@ candidat = "François Fillon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
     tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, interdiction des lobbyistes au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
+
+  [[categories.list]]
+    title = "Proportionnelle"
+
+    [categories.list.them]
+    tldr = "Nous n'avons pas encore trouvé de propositions."
+
+    [categories.list.us]
+    quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Généraliser la représentation proportionnelle."
 
   [[categories.list]]
     title = "Administration publique centrale"
