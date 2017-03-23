@@ -1,6 +1,6 @@
 import React from 'react';
-import { Row, Col, Hidden } from 'react-grid-system';
 
+import Topic from './Topic';
 import './Category.scss';
 import { ico } from '../utils';
 
@@ -11,63 +11,14 @@ const Category = ({ candidat, category }) => (
       {' '}
       {category.title}
     </h3>
-    {category.list.map((item, i) => (
-    <div key={i}>
-      <Row>
-        <Col className="subtitle"><span>{item.title}</span></Col>
-        <Hidden sm xs>
-          <Col md={6}>
-            <div className="proposal">
-            {(item.them.quote) ?
-              <div>
-                <div className="ref">
-                  Dans {item.them.ref} ( <a href={item.them.link} target="_blank">source</a> )
-                </div>
-                <blockquote
-                  dangerouslySetInnerHTML={{ __html: item.them.quote }}
-                />
-              </div>
-            :
-              <div className="none"><i className="fa fa-question-circle-o" aria-hidden="true"></i></div>
-            }
-            </div>
-          </Col>
-          <Col md={6}>
-            <div className="proposal">
-            {(item.us.quote) ?
-              <div>
-                <div className="ref">
-                  Dans {item.us.ref} ( <a href={item.us.link} target="_blank">source</a> )
-                </div>
-                <blockquote
-                  dangerouslySetInnerHTML={{ __html: item.us.quote }}
-                />
-              </div>
-            :
-              <div className="none"><i className="fa fa-question-circle-o" aria-hidden="true"></i></div>
-            }
-            </div>
-          </Col>
-        </Hidden>
-      </Row>
-      <Row>
-        <Col md={6}>
-          <div className="candidat">Avec {candidat}</div>
-          <div
-            className="tldr"
-            dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.them.tldr}` }}
-          />
-        </Col>
-        <Col md={6}>
-          <div className="candidat">Avec Jean-Luc Mélenchon</div>
-          <div
-            className="tldr"
-            dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.us.tldr}` }}
-          />
-        </Col>
-      </Row>
+    <div className="sticky category">
+      <h3>
+        <i className={`fa fa-${ico[category.id]}`} aria-hidden="true"></i>
+        {' '}
+        {category.title}
+      </h3>
     </div>
-    ))}
+    {category.list.map((item, i) => <Topic candidat={candidat} item={item} key={i} />)}
   </div>
 );
 

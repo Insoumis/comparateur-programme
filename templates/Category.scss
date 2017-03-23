@@ -20,104 +20,19 @@
     i {padding-right: 4px;}
   }
 
-  .subtitle {
-    text-align: center;
-    margin: 60px 0 30px;
-
-    @media (max-width: 991px) {margin: 30px 0 25px;}
-
-    @media (max-width: 767px) {margin: 10px 0 30px;}
-
-    span {
-      background: #fff;
-      border-bottom: 1px solid $border;
-      border-radius: 4px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
-      display: inline-block;
-      line-height: 35px;
-      padding: 0 20px;
-    }
-  }
-
-  .proposal,
-  .tldr {
-    padding: 10px 30px;
-
-    @media (max-width: 991px) {padding: 10px 15px;}
-    @media (max-width: 767px) {padding: 10px 0;}
-  }
-
-  blockquote {
-    border-left: 2px solid $border;
-    font-size: 15px;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 24px;
-    margin: 0 0 15px;
-    padding: 0 25px;
-
-    @media (max-width: 991px) {
-      font-size: 14px;
-      padding: 0 20px;
-    }
-  }
-
-  .ref {
-    font-weight: 300;
-    font-size: 12px;
-    margin-bottom: 15px;
-    text-align: right;
-
-    a {
-      color: $link;
-      text-decoration: none;
-
-      &:hover {text-decoration: underline;}
-    }
-  }
-
-  .none {
-    border-left: 2px solid $border;
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 120px;
-    margin: 0 0 15px;
-    padding: 0 25px;
-    text-align: center;
-  }
-
-  .candidat {
-    display: none;
-    text-align: left !important;
-
-    @media (max-width: 767px) {display: block;}
-  }
-
-  .tldr {
-    font-size: 18px;
-
-    @media (max-width: 991px) {font-size: 16px;}
-    @media (max-width: 767px) {
-      font-size: 15px;
-      margin-bottom: 25px;
-    }
-
-    i {padding-right: 6px;}
-
-    strong {font-weight: 400;}
-  }
-
-  strong {font-weight: 500;}
+  .sticky.category {top: 131px;}
 
   &#constitution {
     h3,
     .subtitle,
     .none,
     .tldr i,
+    .more button,
     strong {color: $darkred;}
 
     h3,
     blockquote,
+    .more button,
     .none {border-color: $darkred;}
   }
 
@@ -147,5 +62,4 @@
     h3,
     blockquote {border-color: $cblue;}
   }
-
 }

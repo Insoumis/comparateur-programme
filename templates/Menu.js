@@ -4,7 +4,7 @@ import smoothScroll from 'smoothscroll';
 import './Menu.scss';
 import { ico } from '../utils';
 
-class Menu extends Component {
+export default class Menu extends Component {
   static propTypes = {
     data: React.PropTypes.object,
   };
@@ -56,5 +56,3 @@ class Menu extends Component {
     );
   }
 }
-
-export default Menu;
