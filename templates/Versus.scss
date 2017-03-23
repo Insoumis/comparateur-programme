@@ -24,24 +24,36 @@
 
   .sticky {
     background: #fff;
+    margin-left: -10px;
     opacity: 0;
-    padding-top: 20px;
-    pointer-events: none;
+    padding: 0 10px;
     position: fixed;
     top: 0;
     width: 920px;
     z-index: 1000;
 
-    &.header::after {
+    @media (max-width: 1199px) {width: 770px;}
+    @media (max-width: 991px) {width: 595px;}
+
+    &.visible {opacity: 1;}
+
+    &.versus {padding-top: 20px;}
+
+    &.versus::after {
       border-left: 2px dashed $border;
       content: '';
       display: block;
-      height: 47px;
+      height: 86px;
       left: 50%;
       margin-left: -1px;
       position: absolute;
-      bottom: 0;
+      bottom: -40px;
       width: 0;
+
+      @media (max-width: 991px) {
+        height: 86px;
+        bottom: -40px;
+      }
     }
   }
 

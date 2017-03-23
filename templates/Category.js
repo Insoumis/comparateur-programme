@@ -1,4 +1,5 @@
 import React from 'react';
+import { Hidden } from 'react-grid-system';
 
 import Topic from './Topic';
 import './Category.scss';
@@ -11,13 +12,15 @@ const Category = ({ candidat, category }) => (
       {' '}
       {category.title}
     </h3>
-    <div className="sticky category">
-      <h3>
-        <i className={`fa fa-${ico[category.id]}`} aria-hidden="true"></i>
-        {' '}
-        {category.title}
-      </h3>
-    </div>
+    <Hidden sm xs>
+      <div className="sticky category">
+        <h3>
+          <i className={`fa fa-${ico[category.id]}`} aria-hidden="true"></i>
+          {' '}
+          {category.title}
+        </h3>
+      </div>
+    </Hidden>
     {category.list.map((item, i) => <Topic candidat={candidat} item={item} key={i} />)}
   </div>
 );
