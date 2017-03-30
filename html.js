@@ -22,9 +22,7 @@ const HTML = ({ body }) => {
         {head.title.toComponent()}
         {head.meta.toComponent()}
 
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,500" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:300,300i,400,500|Roboto+Slab:400,700" rel="stylesheet" />
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossOrigin="anonymous" />
 
         <link rel="icon" href="https://actus.jlm2017.fr//app/uploads/2017/01/cropped-cropped-phi-32x32.png" sizes="32x32" />

@@ -281,3 +281,244 @@ candidat = "Emmanuel Macron"
       ref = "Pour l'émancipation de la jeunesse - 2017"
       link = "https://avenirencommun.fr/le-livret-jeunesse/"
       tldr = "Service citoyen <strong>rémunéré</strong> et <strong>obligatoire</strong> de 9 mois."
+
+[[categories]]
+  id = "education"
+  title = "Éducation et Recherche"
+
+  [[categories.list]]
+    title = "Rythme scolaire"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Abroger  la  réforme  des  rythmes  scolaires  et  garantir  l’égal  accès  de  tous les  élèves  du  1er  degré  à  des  enseignements  artistiques  et  sportifs  gratuits, dispensés par des personnels recrutés sur concours."
+    ref = "L’école de l’égalité et de l’émancipation - 2017"
+    link = "https://avenirencommun.fr/le-livret-education/"
+    tldr = "Abroger la réforme des rythmes scolaires."
+
+  [[categories.list]]
+    title = "Carte scolaire"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Instaurer une nouvelle carte scolaire établissant la mixité sociale."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
+    tldr = "Modifier la carte scolaire pour favoriser la mixité sociale."
+
+  [[categories.list]]
+    title = "Réforme des collèges"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>Abroger la réforme du collège du gouvernement Valls. Garantir le cadre national des programmes et des diplômes.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
+    tldr = "Abroger la réforme du collège du gouvernement Valls"
+
+  [[categories.list]]
+    title = "Enseignement professionnel"
+
+    [categories.list.them]
+    quote = "
+    <p>Nous développerons les périodes de pré-apprentissage, et les filières en alternance dans tous les lycées professionnels. Nous impliquerons pleinement les branches professionnelles dans la définition des programmes et l'organisation des formations.</p>
+    <p>Nous rassemblerons les aides et subventions existantes dans une aide unique qui sera fonction de la taille de l’entreprise et du niveau de qualification de l’apprenti.</p>
+    <p>Nous développerons pour les entreprises un guichet unique permettant d’enregistrer le contrat d’apprentissage et la demande des aides.</p>
+    <p>Nous ferons converger les deux contrats d’alternance qui existent aujourd’hui en un contrat unique, souple, adapté à la demande des entreprises et des branches, sans borne supérieure d’âge.</p>
+    <p>Nous affecterons la totalité de la taxe d’apprentissage au financement de l’apprentissage.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/alternance-apprentissage"
+    tldr = "Implication des entreprises dans la définition des programmes et de l'organisation des formations professionnelles. Suppression de la borne supérieure d'âge pour l'apprentissage. Assouplissement et facilitation du contrat d'apprentissage."
+
+    [categories.list.us]
+    quote = "
+    <p>Rétablir le bac professionnel en quatre ans.</p>
+    <p>Appuyer l'enseignement professionnel public, arrêter les fermetures de classes et de lycées professionnels et augmenter le nombre d'établissements.</p>
+    <p>Refonder l'organisation de la formation professionnelle des adultes et la formation continue, et l'inclure dans le service public de l'enseignement professionnel. Elle doit d'abord profiter aux travailleurs pas ou peu qualifiés et aux chômeurs.</p>
+    <p>Instaurer un enseignement de sciences économiques et sociales obligatoire en seconde et un enseignement de philosophie de 2h hebdomadaires en terminale professionnelle.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/74/qualifier-tout-le-monde"
+    tldr = "Bac professionnel en quatre ans. Augmenter le nombre d'établissements d'enseignement professionel. Refonder la formation professionnelle des adultes et la formation continue et l'inclure dans l'enseignement professionnel."
+
+  [[categories.list]]
+    title = "Condition du corps enseignant"
+
+    [categories.list.them]
+    quote = "Nous introduirons plus de souplesse dans la gestion des carrières avec des rémunérations plus individualisées et la promotion des mobilités."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique"
+    tldr = "Assouplissement de la gestion des carrières."
+
+    [categories.list.us]
+    quote = "Revaloriser le salaire des enseignants, en particulier ceux du primaire. Comme pour l’ensemble des fonctionnaires, la valeur du point d’indice sera augmentée de 7 % pour rattraper le gel entre 2010 et 2016."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
+    tldr = "Revaloriser le salaire des enseignants"
+
+  [[categories.list]]
+    title = "Prévention sanitaire à l'école"
+
+    [categories.list.them]
+    quote = "Nous créerons un service sanitaire de 3 mois pour tous les étudiants en santé : dans ce cadre, 40 000 d’entre eux interviendront dans les écoles, les entreprises, pour des actions de prévention."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/sante"
+    tldr = "Intervention dans les écoles d'étudiants en santé faisant un service sanitaire de 3 mois."
+
+    [categories.list.us]
+    quote = "
+    • Recruter 6 000 médecins, infirmiers, psychologues scolaires et assistants sociaux afin de permettre à tous les enfants d’avoir une visite annuelle ; créer une médecine du travail pour les personnels de l’EN ;<br />
+    • Former l’ensemble des personnels au PSC1 (Prévention et secours civiques de niveau 1), assurer dans tout le secondaire l’accès à la contraception d’urgence et à la prévention des infections sexuellement transmissibles (IST), renforcer la prévention des drogues et des jeux dangereux ;<br />
+    • Instaurer une visite médicale obligatoire dès la grande section de maternelle afin notamment de diagnostiquer les pathologies entraînant des troubles de l’apprentissage.
+    "
+    ref = "L’école de l’égalité et de l’émancipation - 2017"
+    link = "https://avenirencommun.fr/le-livret-education/"
+    tldr = "Création de 6000 postes de médecine scolaire. Accroître la prévention liée aux IST et aux drogues. Dépistage des troubles de l'apprentissage."
+
+  [[categories.list]]
+    title = "Accès à l'enseignement supérieur"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>La flambée des frais d’inscription est déjà programmée pour pallier la faillite des universités autonomes. Ceci pousse à un endettement accru des étudiants et alimente ce qui s’apparente à une bulle financière de la dette étudiante</p>
+    <p>L’université sera gratuite dès la rentrée 2017, prise en charge par l’État.</p>"
+    ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
+    link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
+    tldr = "Université gratuite à la rentrée 2017."
+
+  [[categories.list]]
+    title = "Autonomie des étudiants"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/27/donner-aux-jeunes-les-moyens-de-leur-autonomie"
+    tldr = "Mise en place d'une allocation d'autonomie pour les jeunes de 18 à 25 ans."
+
+  [[categories.list]]
+    title = "Budget de l'Enseignement Supérieur et de la Recherche"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Nous visons un doublement du budget de l’ESR (Enseignement Supérieur et Recherche) en cinq ans. Le plan d’investissement de début de mandat dégagera 2 Mds € pour rénover les universités et construire des logements étudiants. Il s’agira également d’aider les organismes (CNRS et EPST) à financer la construction de laboratoires, amphithéâtres et lieux de vie sociale, citoyenne et étudiante sur les campus.</p>
+    <p>Abrogation des lois Pécresse, Fioraso et Sauvadet ; mise en place d’un cadre national de l’Université.</p>
+    "
+    ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
+    link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
+    tldr = "Doublement du budget de l'ESR avec un 1er plan d'investissement de 2 milliards d'euros. Abrogation des lois Pécresse, Fioraso et Sauvadet."
+
+  [[categories.list]]
+    title = "Lien entre l'ESR et la société civile"
+
+    [categories.list.them]
+    quote = "Nous nous concentrerons sur les projets qui privilégient la prise de risque et l’exploration des frontières de la connaissance.
+    Les partenariats entre les entreprises et la recherche publique seront développés et les dispositifs d’encouragement des chercheurs à l’entreprenariat confortés."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/enseignement-superieur-recherche"
+    tldr = "Attribution de moyens supplémentaires pour le développement de partenariats de recherche avec les entreprises."
+
+    [categories.list.us]
+    quote = "
+    <p>Chaque université aura par exemple la responsabilité de \" Boutiques de Sciences\", déjà largement expérimentées à l’étranger et qui offrent un accès peu coûteux aux connaissances scientifiques et technologiques de pointe. </p>
+    <p>Chaque université aura pour mission de créer une \"université populaire\" ouverte, avec des cours libres assurés volontairement par des enseignant·e·s-chercheur·euse·s dans lecadre de leur service. Les projets associant les citoyen·ne·s seront encouragés dans un esprit de diffusion des savoirs et de réflexion citoyenne sur leur usage.</p>
+    "
+    ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
+    link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
+    tldr = " Création d'une \"Boutique de Sciences\" et d'une université populaire dans chaque université"
+
+  [[categories.list]]
+    title = "Crédit impôt recherche (CIR)"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "L’inefficace et très coûteux (5,5 Mds €) crédit d’impôt recherche (CIR) sera aboli. Fondé pour aider à la « compétitivité » et vanté pour favoriser « l’attractivité fiscale», il profite notamment aux grands groupes via des montages avec leurs filiales dans les  paradis  fiscaux.  Le  transfert  entre  la  recherche  publique  et  les  entreprises privées passera structurellement par l’augmentation du nombre de docteur·e·s au sein des entreprises et des aides ciblées aux PME."
+    ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
+    link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
+    tldr = "Suppression du crédit impôt recherche."
+
+  [[categories.list]]
+    title = "À l'étranger"
+
+    [categories.list.them]
+    quote = "Nous proposerons de généraliser progressivement le programme « Erasmus », avec l’objectif de 200 000 jeunes Français par an (soit 25% d’une classe d’âge) effectuant au moins un semestre à l’étranger d’ici 2022."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/europe"
+    tldr = "Généralisation du programme Erasmus."
+
+    [categories.list.us]
+    quote = "Nous créerons un Erasmus francophone ainsi qu’une alliance universitaire de la Méditerranée qui permettra des échanges d’étudiant·e·s, d’enseignant·e·s et de chercheur·euse·s des deux rives. La création d’universités internationales thématiques, comme la Mer et l’Espace, sera proposée à nos partenaires."
+    ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
+    link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
+    tldr = "Créer une académie et un Erasmus de la francophonie."
+
+  [[categories.list]]
+    title = "Francophonie"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens.</p>
+    <p>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</p>
+    <p>Développer au moins une revue scientifique internationale digne de ce nom en français.</p>
+    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</p>
+    <p>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/64/passer-a-la-francophonie-politique"
+    tldr = "Renforcer la présence du français."
+
+
+  [[categories.list]]
+    title = "Illétrisme"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>Éradiquer l'illettrisme pour les jeunes sortis du système scolaire et les adultes à l'horizon 2022.</p>
+    <p>Développer les structures d'alphabétisation et les cours de langue française pour les personnes non francophones.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/76/eradiquer-l-illettrisme-et-developper-l-alphabetisation"
+    tldr = "Éradiquer l'illetrisme à l'horizon 2022."
+
+  [[categories.list]]
+    title = ""
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = ""
+    tldr = ""
