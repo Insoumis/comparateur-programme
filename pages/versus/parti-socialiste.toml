@@ -25,7 +25,7 @@ candidat = "Benoît Hamon"
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
@@ -70,7 +70,7 @@ candidat = "Benoît Hamon"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions"
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -164,7 +164,7 @@ candidat = "Benoît Hamon"
     title = "Administration publique centrale"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -174,3 +174,108 @@ candidat = "Benoît Hamon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
     tldr = "<strong>Changement des institutions</strong> par la VIe république."
+
+[[categories]]
+  id = "justice"
+  title = "Justice et Sécurité"
+
+  [[categories.list]]
+    title = "Prison"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte <strong>contre l'insalubrité</strong>."
+
+  [[categories.list]]
+    title = "Contrôle au faciès"
+
+    [categories.list.them]
+    quote = "Pour lutter contre les contrôles au faciès et améliorer la relation entre la police et les citoyens, j’expérimenterai LE récépissé de contrôle d'identité, en préservant l’anonymat des agents et sans alourdir leur charge de travail."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Expérimentation</strong> de la remise de récépissé."
+
+    [categories.list.us]
+    quote = "Nous  modifierons  la  loi  sur  les  contrôles  d’identité  par  la  police  pour  prendre en compte la récente jurisprudence de la Cour de cassation contre les contrôles au faciès : inversion de la charge de la preuve, réforme de l’article 78-2 du  Code  de  procédure  pénale  pour  rendre  plus  exceptionnels  les  contrôles  d’identité,  obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles par la police sous peine de nullité de la procédure qui en découlerait."
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "<strong>Obligation</strong>  de  délivrance  d’un  récépissé  de  contrôle,  <strong>filmage</strong>  des  contrôles sous peine de nullité."
+
+  [[categories.list]]
+    title = "Sans papiers"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
+    tldr = "<strong>Régularisation</strong> des travailleurs sans papiers."
+
+  [[categories.list]]
+    title = "Renseignement"
+
+    [categories.list.them]
+    quote = "Je renforcerai le renseignement grâce à un coordonnateur national directement rattaché au Premier ministre. J’amplifierai les moyens du renseignement territorial qui, sur le terrain, est à même d’identifier les signaux faibles pouvant échapper aux technologies."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Nommer un <strong>coordonnateur national</strong> et amplifier le <strong>renseignement territorial</strong>."
+
+    [categories.list.us]
+    quote = "
+    • Renforcement du renseignement territorial et humain.<br />
+    • Revenir sur la fusion de la DST et des RG.<br />
+    • Privilégier l’infiltration, le travail de terrain et le redéploiement intelligent.<br />
+    • Renforcer les moyens d’analyses des renseignements collectés.<br />
+    • Recrutement d'analystes et de traducteurs en nombre suffisant.<br />
+    • Remise en question des pratiques et dispositifs de surveillance de masse sur l’Internet et les réseaux téléphoniques, inefficaces et liberticides. <br />
+    • Focalisation du renseignement sur les menaces sécuritaires et économiques hexagonales, et non sur la surveillance des mouvements sociaux.<br />
+    • Restauration de l’indépendance nationale en matière de renseignement, via la fin de la tutelle de fait exercée par les agences anglo-saxonnes.<br />
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Renforcer l'<strong>indépendance</strong>, le <strong>renseignement humain</strong> et les <strong>moyens</strong> d'analyse. Recentrer les missions sur les <strong>menaces sécuritaires</strong>."
+
+    [[categories.list]]
+      title = "Défense militaire"
+
+      [categories.list.them]
+      quote = "Je ferai préparer pour l’automne 2017 une loi de programmation en matière de défense qui prévoira des moyens pour la défense nationale à hauteur d’au moins de 2 % DU PIB à la fin du quinquennat."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Porter le budget de la Défense à <strong>2% du PIB en fin de mandat</strong>."
+
+      [categories.list.us]
+      quote = "
+      <p>Sortir de l'OTAN et refuser la participation de la France à toute alliance militaire permanente à l'exception des opérations de maintien de la paix sous l'égide de l'ONU.</p>
+      <p>Rédiger un nouveau Livre blanc et adopter une nouvelle loi de programmation militaire ayant pour objectif la restauration pleine et entière de l'indépendance militaire.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/chapitre/5/pour-l-independance-de-la-france"
+      tldr = "Sortie de l'<strong>OTAN</strong>. Restauration de l'<strong>indépendance</strong> militaire."
+
+    [[categories.list]]
+      title = "Service civique"
+
+      [categories.list.them]
+      quote = "Pour favoriser l’engagement de notre jeunesse, je généraliserai la prise en compte d’un service civique ou d’un bénévolat long dans la validation d’unités d’enseignements (UE) universitaires. Je permettrai aux jeunes de certifier leur engagement associatif afin qu’ils puissent le valoriser sur leur CV."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Service civique"
+
+      [categories.list.us]
+      quote = "
+      <p>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</p>
+      <p>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</p>
+      <p>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</p>
+      <p>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</p>
+      "
+      ref = "Pour l'émancipation de la jeunesse - 2017"
+      link = "https://avenirencommun.fr/le-livret-jeunesse/"
+      tldr = "Service citoyen <strong>rémunéré</strong> et <strong>obligatoire</strong> de 9 mois."

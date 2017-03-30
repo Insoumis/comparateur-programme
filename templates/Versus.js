@@ -34,16 +34,16 @@ class Versus extends Component {
         <Helmet
             title={`La France insoumise VS ${data.title}`}
         />
-        {/*<Hidden sm xs>
+        {<Hidden sm xs>
           <Menu data={data} />
-        </Hidden>*/}
+        </Hidden>}
         <Row>
           <Col offset={{md: 1}} md={10}>
           <Hidden sm xs>
             <VersusHeader data={data} />
-            <div className="sticky versus">
+            {/*<div className="sticky versus">
               <VersusHeader data={data} />
-            </div>
+            </div>*/}
           </Hidden>
             <div className="categories">
               {data.categories.map((cat, i) => <Category candidat={data.candidat} category={cat} key={i} />)}

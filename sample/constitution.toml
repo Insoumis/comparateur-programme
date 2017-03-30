@@ -135,7 +135,7 @@
     tldr = ""
 
     [categories.list.us]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
   [[categories.list]]
     title = "Corruption et lobbying"

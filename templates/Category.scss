@@ -24,44 +24,19 @@
     @media (max-width: 991px) {top: 154px;}
   }
 
-  &#constitution {
-    h3,
-    .subtitle,
-    .none,
-    .tldr i,
-    .more button,
-    strong {color: $darkred;}
+  @each $name, $color in $themes {
+    &##{$name} {
+      h3,
+      .subtitle,
+      .none,
+      .tldr i,
+      .more button,
+      strong {color: $color;}
 
-    h3,
-    blockquote,
-    .more button,
-    .none {border-color: $darkred;}
-  }
-
-  &#agriculture {
-    h3,
-    .subtitle,
-    .tldr i {color: $orange;}
-
-    h3,
-    blockquote {border-color: $orange;}
-  }
-
-  &#ecology {
-    h3,
-    .subtitle,
-    .tldr i {color: $green;}
-
-    h3,
-    blockquote {border-color: $green;}
-  }
-
-  &#health {
-    h3,
-    .subtitle,
-    .tldr i {color: $cblue;}
-
-    h3,
-    blockquote {border-color: $cblue;}
+      h3,
+      blockquote,
+      .more button,
+      .none {border-color: $color;}
+    }
   }
 }

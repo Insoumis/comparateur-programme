@@ -48,16 +48,12 @@
     text-decoration: none;
     transition: .2s linear;
 
-    &.constitution {color: $darkred;}
-    &.agriculture {color: $orange;}
-    &.ecology {color: $green;}
-    &.health {color: $cblue;}
+    @each $name, $color in $themes {
+      &.#{$name} {
+        color: $color;
 
-    &:hover {
-      &.constitution {border-color: $darkred;}
-      &.agriculture {border-color: $orange;}
-      &.ecology {border-color: $green;}
-      &.health {border-color: $cblue;}
+        &:hover {border-color: $color};
+      }
     }
 
     i {padding-right: 6px;}

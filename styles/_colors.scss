@@ -8,6 +8,11 @@ $darkblue: #0098B6;
 $red: #E23D22;
 $darkred: #C9462C;
 
-$orange: #ec8b00;
-$green: #32bf7c;
-$cblue: #3b78dd;
+$themes: (
+  constitution: $darkred,
+  justice: $blue
+);
+
+// $orange: #ec8b00;
+// $green: #32bf7c;
+// $blue: #3b78dd;

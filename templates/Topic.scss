@@ -115,6 +115,11 @@
     i {padding-right: 6px;}
 
     strong {font-weight: 400;}
+
+    .empty {
+      color: $secondary;
+      opacity: .6;
+    }
   }
 
   strong {font-weight: 500;}

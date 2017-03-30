@@ -1,7 +1,131 @@
-https://laec.fr/section/11/une-justice-au-nom-du-peuple
+[[categories]]
+  id = "justice"
+  title = "Justice et Sécurité"
 
-https://laec.fr/section/12/une-politique-antiterroriste-rationnelle
+  [[categories.list]]
+    title = "Indépendance du pouvoir judiciaire"
 
-https://laec.fr/section/13/garantir-la-securite-et-la-surete
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
 
-https://laec.fr/section/14/la-jeunesse-au-service-de-l-interet-general-et-de-la-surete-de-la-nation
+    [categories.list.us]
+    quote = "
+    <p>Organiser une distinction claire entre les pouvoirs :</p>
+    <p>• Fin du « verrou de Bercy » en matière fiscale, c’est-à-dire du pouvoir donné au ministère du Budget de faire obstacle aux poursuites pénales contre les fraudeurs fiscaux. La justice retrouvera ainsi la plénitude de ses compétences.</p>
+    <p>• Suppression de la Cour de justice de la République, juridiction d’exception en charge de juger de la responsabilité pénale des ministres (pour les actes commis dans le cadre de leurs fonctions). Composée de 12 parlementaires et 3 magistrats,elle ne présente pas les garanties d’une juridiction indépendante et organise l’impunité des politiques ainsi que l’a montré l’affaire Lagarde.</p>
+    <p>• Suppression de la possibilité pour les magistrat·e·s de passer du parquet au « siège », c’est-à-dire d’être procureur puis juge. Il faut mettre fin à cette situation absurde dans laquelle les juges sont tour à tour en position d’accuser et de  juger, ce qui porte évidemment atteinte au principe de l’impartialité du juge du siège.</p>
+    <p>• Renforcement de l’indépendance des juges d’instruction par la collégialité et le détachement d’officiers de police judiciaire auprès des juridictions, sur la base du volontariat et pour une période de trois ans renouvelable, afin d’éviter  l’intrusion de la hiérarchie du ministère de l’Intérieur au coeur des enquêtes sensibles.</p>
+    "
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "Renforcer l'impartialité et l'indépendance de la Justice."
+
+  [[categories.list]]
+    title = "Prison"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "Respect des droits des personnes détenues, lutte contre l'insalubrité."
+
+  [[categories.list]]
+    title = "Contrôle au faciès"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Nous  modifierons  la  loi  sur  les  contrôles  d’identité  par  la  police  pour  prendre en compte la récente jurisprudence de la Cour de cassation contre les contrôles au faciès : inversion de la charge de la preuve, réforme de l’article 78-2 du  Code  de  procédure  pénale  pour  rendre  plus  exceptionnels  les  contrôles  d’identité,  obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles par la police sous peine de nullité de la procédure qui en découlerait."
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles sous peine de nullité."
+
+  [[categories.list]]
+    title = "Sans papiers"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
+    tldr = "Régularisation des travailleurs sans papiers."
+
+  [[categories.list]]
+    title = "Renseignement"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    • Renforcement du renseignement territorial et humain.<br />
+    • Revenir sur la fusion de la DST et des RG.<br />
+    • Privilégier l’infiltration, le travail de terrain et le redéploiement intelligent.<br />
+    • Renforcer les moyens d’analyses des renseignements collectés.<br />
+    • Recrutement d'analystes et de traducteurs en nombre suffisant.<br />
+    • Remise en question des pratiques et dispositifs de surveillance de masse sur l’Internet et les réseaux téléphoniques, inefficaces et liberticides. <br />
+    • Focalisation du renseignement sur les menaces sécuritaires et économiques hexagonales, et non sur la surveillance des mouvements sociaux.<br />
+    • Restauration de l’indépendance nationale en matière de renseignement, via la fin de la tutelle de fait exercée par les agences anglo-saxonnes.<br />
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Renforcer l'indépendance, le renseignement humain et les moyens d'analyse. Recentrer les missions sur les menaces sécuritaires."
+
+    [[categories.list]]
+      title = "Défense militaire"
+
+      [categories.list.them]
+      quote = ""
+      ref = ""
+      link = ""
+      tldr = ""
+
+      [categories.list.us]
+      quote = "
+      <p>Sortir de l'OTAN et refuser la participation de la France à toute alliance militaire permanente à l'exception des opérations de maintien de la paix sous l'égide de l'ONU.</p>
+      <p>Rédiger un nouveau Livre blanc et adopter une nouvelle loi de programmation militaire ayant pour objectif la restauration pleine et entière de l'indépendance militaire.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/chapitre/5/pour-l-independance-de-la-france"
+      tldr = "Sortie de l'OTAN. Restauration de l'indépendance militaire."
+
+    [[categories.list]]
+      title = "Service civique"
+
+      [categories.list.them]
+      quote = ""
+      ref = ""
+      link = ""
+      tldr = ""
+
+      [categories.list.us]
+      quote = "
+      <p>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</p>
+      <p>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</p>
+      <p>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</p>
+      <p>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</p>
+      "
+      ref = "Pour l'émancipation de la jeunesse - 2017"
+      link = "https://avenirencommun.fr/le-livret-jeunesse/"
+      tldr = "Service citoyen rémunéré et obligatoire de 9 mois."

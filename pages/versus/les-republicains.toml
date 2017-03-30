@@ -28,7 +28,7 @@ candidat = "François Fillon"
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
@@ -40,7 +40,7 @@ candidat = "François Fillon"
     title = "Droit de Vote"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -55,7 +55,7 @@ candidat = "François Fillon"
     title = "49.3"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
@@ -67,7 +67,7 @@ candidat = "François Fillon"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -79,7 +79,7 @@ candidat = "François Fillon"
     title = "Initiative Populaire"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
@@ -127,7 +127,7 @@ candidat = "François Fillon"
     tldr = "<strong>Transparence</strong> des parlementaires sur l'emploi de membre de sa famille."
 
     [categories.list.us]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
   [[categories.list]]
     title = "Corruption et lobbying"
@@ -152,7 +152,7 @@ candidat = "François Fillon"
     title = "Proportionnelle"
 
     [categories.list.them]
-    tldr = "Nous n'avons pas encore trouvé de propositions."
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
@@ -164,10 +164,13 @@ candidat = "François Fillon"
     title = "Administration publique centrale"
 
     [categories.list.them]
-    quote = "Proposer aux Français par référendum, une réduction du nombre de parlementaires, à environ 400 députés et 200 sénateurs afin de donner à ceux-ci les moyens nécessaires pour exercer leur fonction."
+    quote = "
+    <p>Proposer aux Français par référendum, une réduction du nombre de parlementaires, à environ 400 députés et 200 sénateurs afin de donner à ceux-ci les moyens nécessaires pour exercer leur fonction.</p>
+    <p>Imposer aux fonctionnaires élus parlementaires qu’ils démissionnent de la fonction publique.</p>
+    "
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/projet/institutions/"
-    tldr = "<strong>Abaisser</strong> le nombre de députés à 400 et le nombre de sénateurs à 200 sur <strong>référendum</strong>."
+    tldr = "<strong>Abaisser</strong> le nombre de députés à 400 et le nombre de sénateurs à 200 sur <strong>référendum</strong>. Les fonctionnaires élus parlementaires devront <strong>démissionner</strong> de la fonction publique."
 
     [categories.list.us]
     quote = "
@@ -177,3 +180,129 @@ candidat = "François Fillon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
     tldr = "<strong>Changement des institutions</strong> par la VIe république."
+
+[[categories]]
+  id = "justice"
+  title = "Justice et Sécurité"
+
+  [[categories.list]]
+    title = "Indépendance du pouvoir judiciaire"
+
+    [categories.list.them]
+    quote = "Revoir la loi dite « Macron » et faire du ministère de la Justice, le seul interlocuteur des Notaires. Plus généralement, repositionner le ministère de la Justice en un « ministère du Droit » et estimer, à la diligence du ministère de la justice et avec les professionnels, l’apport annuel nécessaire de nouveaux professionnels dans chaque profession."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/justice/"
+    tldr = "Revoir la <strong>loi Macron</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Organiser une distinction claire entre les pouvoirs :</p>
+    <p>• Fin du « verrou de Bercy » en matière fiscale, c’est-à-dire du pouvoir donné au ministère du Budget de faire obstacle aux poursuites pénales contre les fraudeurs fiscaux. La justice retrouvera ainsi la plénitude de ses compétences.</p>
+    <p>• Suppression de la Cour de justice de la République, juridiction d’exception en charge de juger de la responsabilité pénale des ministres (pour les actes commis dans le cadre de leurs fonctions). Composée de 12 parlementaires et 3 magistrats,elle ne présente pas les garanties d’une juridiction indépendante et organise l’impunité des politiques ainsi que l’a montré l’affaire Lagarde.</p>
+    <p>• Suppression de la possibilité pour les magistrat·e·s de passer du parquet au « siège », c’est-à-dire d’être procureur puis juge. Il faut mettre fin à cette situation absurde dans laquelle les juges sont tour à tour en position d’accuser et de  juger, ce qui porte évidemment atteinte au principe de l’impartialité du juge du siège.</p>
+    <p>• Renforcement de l’indépendance des juges d’instruction par la collégialité et le détachement d’officiers de police judiciaire auprès des juridictions, sur la base du volontariat et pour une période de trois ans renouvelable, afin d’éviter  l’intrusion de la hiérarchie du ministère de l’Intérieur au coeur des enquêtes sensibles.</p>
+    "
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "Renforcer l'<strong>impartialité</strong> et l'<strong>indépendance</strong> de la Justice."
+
+  [[categories.list]]
+    title = "Prison"
+
+    [categories.list.them]
+    quote = "Créer 16 000 places de prison en séparant les primo délinquants des autres détenus."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/justice/"
+    tldr = "Créer <strong>16 000 places</strong> de prison."
+
+    [categories.list.us]
+    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte contre l'<strong>insalubrité</strong>."
+
+  [[categories.list]]
+    title = "Contrôle au faciès"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Nous  modifierons  la  loi  sur  les  contrôles  d’identité  par  la  police  pour  prendre en compte la récente jurisprudence de la Cour de cassation contre les contrôles au faciès : inversion de la charge de la preuve, réforme de l’article 78-2 du  Code  de  procédure  pénale  pour  rendre  plus  exceptionnels  les  contrôles  d’identité,  obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles par la police sous peine de nullité de la procédure qui en découlerait."
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Obligation  de  délivrance  d’un  <strong>récépissé</strong>  de  contrôle,  <strong>filmage</strong>  des  contrôles sous peine de nullité."
+
+  [[categories.list]]
+    title = "Sans papiers"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
+    tldr = "<strong>Régularisation</strong> des travailleurs sans papiers."
+
+  [[categories.list]]
+    title = "Renseignement"
+
+    [categories.list.them]
+    quote = "Doter notre service de renseignement extérieur de capacités d’écoute et de renseignement au fait de la technologie et renforcer la coordination de nos services de renseignement afin de les rendre plus efficaces."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://www.fillon2017.fr/projet/defense/"
+    tldr = "<strong>Renforcer</strong> le renseignement."
+
+    [categories.list.us]
+    quote = "
+    • Renforcement du renseignement territorial et humain.<br />
+    • Revenir sur la fusion de la DST et des RG.<br />
+    • Privilégier l’infiltration, le travail de terrain et le redéploiement intelligent.<br />
+    • Renforcer les moyens d’analyses des renseignements collectés.<br />
+    • Recrutement d'analystes et de traducteurs en nombre suffisant.<br />
+    • Remise en question des pratiques et dispositifs de surveillance de masse sur l’Internet et les réseaux téléphoniques, inefficaces et liberticides. <br />
+    • Focalisation du renseignement sur les menaces sécuritaires et économiques hexagonales, et non sur la surveillance des mouvements sociaux.<br />
+    • Restauration de l’indépendance nationale en matière de renseignement, via la fin de la tutelle de fait exercée par les agences anglo-saxonnes.<br />
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Renforcer l'<strong>indépendance</strong>, le <strong>renseignement humain</strong> et les <strong>moyens</strong> d'analyse. Recentrer les missions sur les <strong>menaces sécuritaires</strong>."
+
+    [[categories.list]]
+      title = "Défense militaire"
+
+      [categories.list.them]
+      quote = "
+      <p>Lancer un audit des besoins financiers de la défense afin d’évaluer le passif laissé par le gouvernement socialiste. Le budget de la défense augmentera progressivement lors du quinquennat avec pour objectif d’atteindre 2% du PIB à la fin de la prochaine LPM. Ces moyens supplémentaires seront affectés en priorité au renforcement des capacités opérationnelles puis à la modernisation de la force de dissuasion, afin de rétablir la cohérence entre les capacités, les contrats opérationnels et la trajectoire du budget de la Défense.</p>
+      <p>Maintenir une coopération étroite avec le Royaume-Uni et mutualiser avec nos partenaires européens et en priorité avec l’Allemagne le financement des opérations extérieures.</p>
+      "
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/projet/defense/"
+      tldr = "Porter le budget de la Défense à <strong>2% du PIB</strong>."
+
+      [categories.list.us]
+      quote = "
+      <p>Sortir de l'OTAN et refuser la participation de la France à toute alliance militaire permanente à l'exception des opérations de maintien de la paix sous l'égide de l'ONU.</p>
+      <p>Rédiger un nouveau Livre blanc et adopter une nouvelle loi de programmation militaire ayant pour objectif la restauration pleine et entière de l'indépendance militaire.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/chapitre/5/pour-l-independance-de-la-france"
+      tldr = "Sortie de l'<strong>OTAN</strong>. Restauration de l'<strong>indépendance</strong> militaire."
+
+    [[categories.list]]
+      title = "Service civique"
+
+      [categories.list.them]
+      tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+      [categories.list.us]
+      quote = "
+      <p>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</p>
+      <p>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</p>
+      <p>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</p>
+      <p>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</p>
+      "
+      ref = "Pour l'émancipation de la jeunesse - 2017"
+      link = "https://avenirencommun.fr/le-livret-jeunesse/"
+      tldr = "Service citoyen <strong>rémunéré</strong> et <strong>obligatoire</strong> de 9 mois."
