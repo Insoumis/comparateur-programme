@@ -582,3 +582,201 @@ candidat = "François Fillon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/76/eradiquer-l-illettrisme-et-developper-l-alphabetisation"
     tldr = "<strong>Éradiquer</strong> l'illetrisme à l'horizon 2022."
+
+[[categories]]
+  id = "territory"
+  title = "Territoire et Transport"
+
+  [[categories.list]]
+    title = "Accès aux soins"
+
+    [categories.list.them]
+    quote = "Assurer un bon accès aux soins sur l’ensemble du territoire en développant des incitations à l’installation dans les zones sous dotées."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "Développer des <strong>incitations</strong> à l’installation dans les zones sous dotées."
+
+    [categories.list.us]
+    quote = "Supprimer les Groupements hospitaliers de territoire (GHT) et reconstruire le maillage des hôpitaux et des maternités de proximité. Il s’agit de garantir la qualité de la prise en charge à toutes les générations et de combler les déserts médicaux par la création d’un corps de médecins généralistes fonctionnaires."
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Combler les <strong>déserts médicaux</strong>, Créer un corps de médecins généralistes <strong>fonctionnaires</strong>."
+
+  [[categories.list]]
+    title = "Éducation"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Abroger les « conventions ruralité » qui visent à diminuer le nombre d’écoles en milieu rural pour les remplacer par de grosses structures éloignées des lieux de vie des enfants ; maintenir les écoles à classe unique ; réouvrir les écoles."
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Abroger les \"conventions ruralité\" et <strong>réouvrir les écoles</strong>."
+
+  [[categories.list]]
+    title = "Haut débit"
+
+    [categories.list.them]
+    quote = "Garantir un déploiement du numérique à tous les Français en très haut débit, véritable oxygène pour la ruralité."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "Garantir l'accès au très <strong>haut débit</strong> à tous les français."
+
+    [categories.list.us]
+    quote = "Planifier l’accès au haut débit et au très haut débit, avec l’objectif de résorber en priorité les zones blanches. La couverture 4G sera étendue sous l’égide d’un service public du numérique et de la téléphonie."
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Planifier l'accès au <strong>haut débit</strong> et la couverture <strong>4G</strong> de tout le territoire."
+
+  [[categories.list]]
+    title = "Services publics"
+
+    [categories.list.them]
+    quote = "Revoir le dimensionnement et l’implantation des maisons de services au public (MSAP) en s’appuyant notamment sur les communautés de communes rurales.
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "Revoir le dimensionnement et l’implantation des <strong>maisons de services au public</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Défendre et reconstruire le maillage (...) de services publics sur tout le territoire, dans les départements ruraux et les quartiers populaires. </p>
+    <p>Faire un moratoire sur les fermetures de services publics et un plan de redéploiement des services publics sur les territoires ruraux et périurbains : services postaux, gares de proximité, hôpitaux et services  de santé, écoles, palais de justice.</p>
+    "
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Reconstruire le maillage de services publics sur <strong>tout le territoire</strong>."
+
+  [[categories.list]]
+    title = "Dotation des collectivités"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Refuser les baisses de dotations aux collectivités mises en place par le gouvernement Hollande et garantir une dotation à la hauteur des missions transférées aux collectivités. Il sera également mis fin au remplacement des dotations de l’État par des fonds d’investissement (du type de la DETR [Dotation d'équipement des territoires ruraux] ou des contrats de ruralité). Les collectivités doivent avoir les moyens d’investir mais également des dotations stables en fonctionnement."
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Garantir une dotation <strong>à la hauteur des missions</strong> transférées aux collectivités."
+
+  [[categories.list]]
+    title = "Aménagement urbain"
+
+    [categories.list.them]
+    quote = "Mettre en place un programme national d’interventions en faveur de la requalification des centres anciens en mettant notamment en place une défiscalisation spécifique pour la réhabilitation des logements. Cet outil est indispensable pour éviter la désertification et la dégradation des centres-villes des communes, en particulier dans les petites villes et les bourgs ruraux."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "Programme national d’interventions en faveur de la <strong>requalification des centres anciens</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre en place un commissariat à l’aménagement du territoire, doté de moyens d’analyse et de planification.</p>
+    <p>Promulguer une loi de justice territoriale visant à enrayer la loi du marché (...) et promouvoir la coopération et le développement soutenable et juste de tous les territoires de la République.</p>
+    <p>Renforcer le versement pour sous-densité (outil qui permet de lutter contre l’étalement urbain en autorisant l’instauration par les communes d’un seuil minimal de densité par secteur) et planifier le rapprochement des bassins de vie et des bassins d’emploi, afin de stopper l’étalement urbain.</p>
+    "
+    ref = "Le livret Ruralité et Aménagement du territoire
+ - 2017"
+    link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
+    tldr = "Promouvoir la coopération et le développement <strong>soutenable</strong> et <strong>juste</strong> de <strong>tous les territoires</strong> de la République."
+
+
+  [[categories.list]]
+    title = "Accès au logement"
+
+    [categories.list.them]
+    quote = "
+    <p>Coordonner les attributions de logements sociaux de manière à réduire la concentration des difficultés, à l’échelle des agglomérations.</p>
+    <p>Rendre plus transparente et décentraliser l’attribution des logements sociaux, en permettant aux maires de mieux la maîtriser.</p>
+    <p>Permettre à ceux qui en ont véritablement besoin d'accéder plus facilement au logement social, en baissant le plafond de ressources et en couplant cette baisse avec une politique active de développement de logements intermédiaires et rendre obligatoire le supplément de loyer de solidarité (le « surloyer ») pour ceux qui bénéficient d’un logement social malgré un revenu plus élevé.</p>
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "<strong>Répartir</strong> et <strong>rendre plus transparante</strong> l'attribution des logements sociaux sur le territoire."
+
+    [categories.list.us]
+    quote = "Aussi, afin de rendre le droit au logement réellement effectif, nous l’inscrirons dans la Constitution. Nous sortirons le logement et l’habitat des mécanismes du marché par un plan d’action volontariste qui démarrera dès le début de la mandature."
+    ref = "Pour un logement universel et durable - 2017"
+    link = "https://avenirencommun.fr/le-livret-logement/"
+    tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
+
+  [[categories.list]]
+    title = "Transport ferrovière"
+
+    [categories.list.them]
+    quote = "Inciter les régions à agir concrètement sur le cadencement des TER afin de faire le lien entre les bassins de vie et les bassins d'emploi."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-ville/"
+    tldr = "Inciter les régions à agir concrètement sur le <strong>cadencement des TER</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Sortir du tout TGV et développer les trains du quotidien (TER et Intercités) ; réouvrir les gares et lignes fermées ; assurer un maillage fin du territoire par la planification intermodale des moyens de déplacement.</p>
+    <p>Désobéir aux paquets ferroviaires européens pour bloquer l’ouverture à la concurrence du trafic intérieur des voyageurs prévue en 2023.</p>
+    <p>Développer les transports ferroviaires afin d’assurer un maillage adapté aux différentes échelles des territoires. Cela suppose de mettre en œuvre un plan de transport desservant harmonieusement et efficacement l’ensemble des liaisons TER, intercités, TGV. Nous assurerons les liaisons entre aggloméra par des TGV, des trains intercités, des TER et des trams-trains efficaces. </p>
+    "
+    ref = "Pour des transports écologiques et accessibles - 2017"
+    link = "https://avenirencommun.fr/le-livret-transports/"
+    tldr = "Développer les transports ferroviaires afin d’assurer un <strong>maillage adapté</strong> aux différentes échelles des territoires."
+
+  [[categories.list]]
+    title = "Covoiturage"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "Favoriser le co-voiturage, l’autopartage et le transport à la demande."
+    ref = "Pour des transports écologiques et accessibles - 2017"
+    link = "https://avenirencommun.fr/le-livret-transports/"
+    tldr = "<strong>Favoriser</strong> le co-voiturage, l’autopartage et le transport à la demande."
+
+  [[categories.list]]
+    title = "Diesel"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>Organiser un plan de sortie rapide du diesel en ville.</p>
+    <p>Supprimer progressivement les avantages fiscaux liés au diesel pour les flottes d’entreprises.</p>
+    "
+    ref = "Pour des transports écologiques et accessibles - 2017"
+    link = "https://avenirencommun.fr/le-livret-transports/"
+    tldr = "<strong>Sortie</strong> rapide du diesel en ville et <strong>suppression des avantages fiscaux</strong> pour les flottes d'entreprises."
+
+  [[categories.list]]
+    title = "Vélo"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    <p>Soutenir les formules combinant le vélo et le TER, essentielles dans le cadre des déplacements domicile-travail : dans les régions qui ont fait ce choix, les quantités de CO2 émis ont drastiquement baissé.</p>
+    <p>Mettre en place une politique nationale en faveur du vélo et du vélo à assistance électrique (VAE) cohérente du national au local et suivie sur le long terme. Une attention toute particulière sera portée à l’intermodalité entre vélo et transports collectifs.</p>
+    <p>Nous réaliserons des itinéraires cyclables pour relier les communes entre elles, comme c’est déjà le cas dans certains pays d’Europe (Pays-Bas, Danemark, Suisse). Les liaisons cyclables aux gares proches des parcours seront systématiques. Nous appuierons la réalisation de voies vertes et de véloroutes, appréciées de nos concitoyens comme des touristes étrangers, pour leurs loisirs et leurs vacances.</p>
+    "
+    ref = "Pour des transports écologiques et accessibles - 2017"
+    link = "https://avenirencommun.fr/le-livret-transports/"
+    tldr = "<strong>Favoriser</strong> le vélo et l'intermodalité entre vélo et <strong>transports collectifs</strong>."
+
+  [[categories.list]]
+    title = "Notre-Dame-des-Landes"
+
+    [categories.list.them]
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
+    [categories.list.us]
+    quote = "
+    Nous arrêterons immédiatement le projet de l’aéroport de Notre-Dame-des- Landes (NDDL). L’aéroport Nantes-Atlantique peut être agrandi. Les 1600 hectares prévus pour NDDL sont utiles à la préservation des écosystèmes et de l’agriculture biologique et paysanne.
+    "
+    ref = "Pour des transports écologiques et accessibles - 2017"
+    link = "https://avenirencommun.fr/le-livret-transports/"
+    tldr = "<strong>Arrêt immédiat</strong> du projet d'aéroport Notre-Dame-des- Landes."
