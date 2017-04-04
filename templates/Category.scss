@@ -20,12 +20,6 @@
     i {padding-right: 4px;}
   }
 
-  .sticky.category {
-    top: 151px;
-
-    @media (max-width: 991px) {top: 154px;}
-  }
-
   @each $name, $color in $themes {
     &##{$name} {
       h3,
@@ -39,6 +33,8 @@
       blockquote,
       .more button,
       .none {border-color: $color;}
+
+      .subtitle:after {background: $color;}
     }
   }
 }

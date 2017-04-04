@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import smoothScroll from 'smoothscroll';
 
+import Submenu from './Submenu';
 import './Menu.scss';
-import { ico } from '../utils';
 
 export default class Menu extends Component {
   static propTypes = {
@@ -32,7 +32,7 @@ export default class Menu extends Component {
     const { data } = this.props;
     return (
       <div className={`Menu${(this.state.visible ? ' visible': '')}`}>
-        <button onClick={() => this.setState({
+        <button className="open-menu" onClick={() => this.setState({
           visible: !this.state.visible,
         })}>
           <i className="fa fa-bars" aria-hidden="true"></i>
@@ -41,13 +41,7 @@ export default class Menu extends Component {
           {data.categories.map((cat, i) => {
             return (
               <li key={i}>
-                <a
-                  className={cat.id}
-                  href={`#${cat.id}`}
-                  onClick={this.scroll.bind(this)}
-                >
-                  <i className={`fa fa-${ico[cat.id]}`} aria-hidden="true"></i> {cat.title}
-                </a>
+                <Submenu cat={cat} onClick={(e) => this.scroll(e)} />
               </li>
             );
           })}

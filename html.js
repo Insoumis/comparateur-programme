@@ -35,6 +35,7 @@ const HTML = ({ body }) => {
       <body>
         <div id="react-mount" dangerouslySetInnerHTML={{ __html: body }} />
         <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+        <script async src="https://cdn.emailjs.com/dist/email.min.js"></script>
       </body>
     </html>
   );

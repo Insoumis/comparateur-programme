@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Row, Col, Hidden } from 'react-grid-system';
+import getSlug from 'speakingurl';
 
 import './Topic.scss';
 
@@ -20,7 +21,7 @@ export default class Topic extends Component {
   render() {
     const { candidat, item } = this.props;
     return (
-      <div className="Topic">
+      <div className="Topic" id={getSlug(item.title)}>
         <Row>
           <Col className="subtitle"><span>{item.title}</span></Col>
           <Hidden sm xs>
@@ -66,19 +67,33 @@ export default class Topic extends Component {
           </Hidden>
         </Row>
         <Row>
-          <Col md={6}>
+          <Col className="left" md={6}>
             <div className="candidat">Avec {candidat}</div>
+            {(item.them.quote) ?
             <div
               className="tldr"
               dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.them.tldr}` }}
             />
+            :
+            <div className="tldr">
+              <i className="fa fa-envelope-o" aria-hidden="true"></i>
+              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Nous sommes passés à côté de quelque chose ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
+            </div>
+            }
           </Col>
-          <Col md={6}>
+          <Col className="right" md={6}>
             <div className="candidat">Avec Jean-Luc Mélenchon</div>
+            {(item.us.quote) ?
             <div
               className="tldr"
               dangerouslySetInnerHTML={{ __html: `<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> ${item.us.tldr}` }}
             />
+            :
+            <div className="tldr">
+              <i className="fa fa-envelope-o" aria-hidden="true"></i>
+              <span className="empty">Nous n'avons pas encore trouvé de propositions. <a href="/contact/">Contactez-nous</a> si vous voulez nous aider à compléter ce comparatif.</span>
+            </div>
+          }
           </Col>
         </Row>
       </div>

@@ -17,7 +17,9 @@ const Template = ({ children }) => (
     <Outlinks />
     <Header />
     <Nav />
-    <div>{children}</div>
+    <div>
+      {children}
+    </div>
   </div>
 );
 

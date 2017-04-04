@@ -25,7 +25,7 @@ candidat = "Benoît Hamon"
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions. <i class=\"fa fa-envelope\" aria-hidden=\"true\">Nous en proposer une.</i></span>"
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
@@ -70,7 +70,6 @@ candidat = "Benoît Hamon"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -164,7 +163,6 @@ candidat = "Benoît Hamon"
     title = "Administration publique centrale"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -183,7 +181,6 @@ candidat = "Benoît Hamon"
     title = "Prison"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
@@ -210,7 +207,6 @@ candidat = "Benoît Hamon"
     title = "Sans papiers"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
@@ -267,7 +263,7 @@ candidat = "Benoît Hamon"
       quote = "Pour favoriser l’engagement de notre jeunesse, je généraliserai la prise en compte d’un service civique ou d’un bénévolat long dans la validation d’unités d’enseignements (UE) universitaires. Je permettrai aux jeunes de certifier leur engagement associatif afin qu’ils puissent le valoriser sur leur CV."
       ref = "Faire battre le coeur de la France - 03/2017"
       link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
-      tldr = "Service civique"
+      tldr = "Service civique."
 
       [categories.list.us]
       quote = "
@@ -288,7 +284,6 @@ candidat = "Benoît Hamon"
     title = "Rythme scolaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger  la  réforme  des  rythmes  scolaires  et  garantir  l’égal  accès  de  tous les  élèves  du  1er  degré  à  des  enseignements  artistiques  et  sportifs  gratuits, dispensés par des personnels recrutés sur concours."
@@ -333,7 +328,6 @@ candidat = "Benoît Hamon"
     title = "Réforme des collèges"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -451,7 +445,6 @@ candidat = "Benoît Hamon"
     title = "Lien entre l'ESR et la société civile"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -466,7 +459,6 @@ candidat = "Benoît Hamon"
     title = "Réforme administrative de l'Enseignement Supérieur et de la Recherche"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -481,7 +473,6 @@ candidat = "Benoît Hamon"
     title = "Crédit impôt recherche (CIR)"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "L’inefficace et très coûteux (5,5 Mds €) crédit d’impôt recherche (CIR) sera aboli. Fondé pour aider à la « compétitivité » et vanté pour favoriser « l’attractivité fiscale», il profite notamment aux grands groupes via des montages avec leurs filiales dans les  paradis  fiscaux.  Le  transfert  entre  la  recherche  publique  et  les  entreprises privées passera structurellement par l’augmentation du nombre de docteur·e·s au sein des entreprises et des aides ciblées aux PME."
@@ -530,7 +521,6 @@ candidat = "Benoît Hamon"
     title = "Illétrisme"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -565,7 +555,6 @@ candidat = "Benoît Hamon"
     title = "Éducation"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger les « conventions ruralité » qui visent à diminuer le nombre d’écoles en milieu rural pour les remplacer par de grosses structures éloignées des lieux de vie des enfants ; maintenir les écoles à classe unique ; réouvrir les écoles."
@@ -613,7 +602,6 @@ candidat = "Benoît Hamon"
     title = "Responsabilités et organisation des collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -646,7 +634,6 @@ candidat = "Benoît Hamon"
     title = "Démocratie et transparence dans les collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -678,7 +665,6 @@ candidat = "Benoît Hamon"
  - 2017"
     link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
     tldr = "Promouvoir la coopération et le développement <strong>soutenable</strong> et <strong>juste</strong> de <strong>tous les territoires</strong> de la République."
-
 
   [[categories.list]]
     title = "Accès au logement"
@@ -718,7 +704,6 @@ candidat = "Benoît Hamon"
     title = "Transport de marchandises"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -734,7 +719,6 @@ candidat = "Benoît Hamon"
     title = "Autoroutes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -749,7 +733,6 @@ candidat = "Benoît Hamon"
     title = "Covoiturage"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Favoriser le co-voiturage, l’autopartage et le transport à la demande."
@@ -761,7 +744,6 @@ candidat = "Benoît Hamon"
     title = "Diesel"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -776,7 +758,6 @@ candidat = "Benoît Hamon"
     title = "Vélo"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -792,7 +773,6 @@ candidat = "Benoît Hamon"
     title = "Notre-Dame-des-Landes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "

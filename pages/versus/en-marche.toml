@@ -10,7 +10,6 @@ candidat = "Emmanuel Macron"
     title = "Réforme constitutionnelle"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "La nouvelle Constitution dont la France a besoin doit être radicalement nouvelle, y compris dans sa méthode d'écriture : elle ne peut être un simple rafistolage de la 5e République, ni se résumer à quelques réformes octroyées par le futur président de la République. C'est le peuple lui-même qui doit s'emparer de la question et s'impliquer tout au long d'un processus constituant. Nous proposons la convocation d'une assemblée spécifiquement chargée de rédiger une nouvelle Constitution sous le contrôle des citoyens : une Assemblée constituante."
@@ -22,7 +21,6 @@ candidat = "Emmanuel Macron"
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
@@ -52,7 +50,6 @@ candidat = "Emmanuel Macron"
     title = "49.3"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
@@ -64,7 +61,6 @@ candidat = "Emmanuel Macron"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -127,7 +123,7 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Interdiction</strong> de recruter des membres de sa famille comme assistant parlementaire."
 
     [categories.list.us]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
+
 
   [[categories.list]]
     title = "Corruption et lobbying"
@@ -152,7 +148,6 @@ candidat = "Emmanuel Macron"
     title = "Proportionnelle"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
@@ -186,7 +181,6 @@ candidat = "Emmanuel Macron"
     title = "Indépendance du pouvoir judiciaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -204,7 +198,6 @@ candidat = "Emmanuel Macron"
     title = "Prison"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
@@ -231,7 +224,6 @@ candidat = "Emmanuel Macron"
     title = "Sans papiers"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
@@ -269,7 +261,6 @@ candidat = "Emmanuel Macron"
       title = "Service civique"
 
       [categories.list.them]
-      tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
       [categories.list.us]
       quote = "
@@ -290,7 +281,6 @@ candidat = "Emmanuel Macron"
     title = "Rythme scolaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger  la  réforme  des  rythmes  scolaires  et  garantir  l’égal  accès  de  tous les  élèves  du  1er  degré  à  des  enseignements  artistiques  et  sportifs  gratuits, dispensés par des personnels recrutés sur concours."
@@ -302,7 +292,6 @@ candidat = "Emmanuel Macron"
     title = "Carte scolaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer une nouvelle carte scolaire établissant la mixité sociale."
@@ -314,7 +303,6 @@ candidat = "Emmanuel Macron"
     title = "Réforme des collèges"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -388,7 +376,6 @@ candidat = "Emmanuel Macron"
     title = "Accès à l'enseignement supérieur"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -402,7 +389,6 @@ candidat = "Emmanuel Macron"
     title = "Autonomie des étudiants"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
@@ -414,10 +400,6 @@ candidat = "Emmanuel Macron"
     title = "Budget de l'Enseignement Supérieur et de la Recherche"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
     [categories.list.us]
     quote = "
@@ -451,7 +433,6 @@ candidat = "Emmanuel Macron"
     title = "Crédit impôt recherche (CIR)"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "L’inefficace et très coûteux (5,5 Mds €) crédit d’impôt recherche (CIR) sera aboli. Fondé pour aider à la « compétitivité » et vanté pour favoriser « l’attractivité fiscale», il profite notamment aux grands groupes via des montages avec leurs filiales dans les  paradis  fiscaux.  Le  transfert  entre  la  recherche  publique  et  les  entreprises privées passera structurellement par l’augmentation du nombre de docteur·e·s au sein des entreprises et des aides ciblées aux PME."
@@ -478,7 +459,6 @@ candidat = "Emmanuel Macron"
     title = "Francophonie"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -497,7 +477,6 @@ candidat = "Emmanuel Macron"
     title = "Illétrisme"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -507,21 +486,6 @@ candidat = "Emmanuel Macron"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/76/eradiquer-l-illettrisme-et-developper-l-alphabetisation"
     tldr = "Éradiquer l'illetrisme à l'horizon 2022."
-
-  [[categories.list]]
-    title = ""
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = ""
-    tldr = ""
 
 [[categories]]
   id = "territory"
@@ -550,7 +514,6 @@ candidat = "Emmanuel Macron"
     title = "Éducation"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger les « conventions ruralité » qui visent à diminuer le nombre d’écoles en milieu rural pour les remplacer par de grosses structures éloignées des lieux de vie des enfants ; maintenir les écoles à classe unique ; réouvrir les écoles."
@@ -646,7 +609,6 @@ candidat = "Emmanuel Macron"
     title = "Démocratie et transparence dans les collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -702,7 +664,6 @@ candidat = "Emmanuel Macron"
     title = "Transport ferrovière"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -718,7 +679,6 @@ candidat = "Emmanuel Macron"
     title = "Transport de marchandises"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -734,7 +694,6 @@ candidat = "Emmanuel Macron"
     title = "Autoroutes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -782,7 +741,6 @@ candidat = "Emmanuel Macron"
     title = "Vélo"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -798,7 +756,6 @@ candidat = "Emmanuel Macron"
     title = "Notre-Dame-des-Landes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "

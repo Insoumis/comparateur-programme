@@ -1,5 +1,30 @@
-import React from 'react';
+import React, { Component } from 'react';
+import { browserHistory } from 'react-router';
 
-const Index = () => <div>Blabla pour la home à ajouter</div>;
+class Index extends Component {
+  componentDidMount() {
+    const nbr = Math.floor(Math.random() * 4);
+    switch (nbr) {
+    case 0:
+      browserHistory.push('/versus/parti-socialiste/');
+      break;
+    case 1:
+      browserHistory.push('/versus/en-marche/');
+      break;
+    case 2:
+      browserHistory.push('/versus/les-republicains/');
+      break;
+    case 3:
+      browserHistory.push('/versus/front-national/');
+      break;
+    default:
+    }
+
+  }
+
+  render() {
+    return <div></div>;
+  }
+}
 
 export default Index;

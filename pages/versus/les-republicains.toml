@@ -28,7 +28,6 @@ candidat = "François Fillon"
     title = "Révision de la Constitution"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Rendre obligatoire le recours au référendum pour réviser la Constitution ou ratifier tout nouveau traité européen et garantir le respect de la décision populaire."
@@ -40,7 +39,6 @@ candidat = "François Fillon"
     title = "Droit de Vote"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -55,7 +53,6 @@ candidat = "François Fillon"
     title = "49.3"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
@@ -67,7 +64,6 @@ candidat = "François Fillon"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -79,7 +75,6 @@ candidat = "François Fillon"
     title = "Initiative Populaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer le référendum d'initiative citoyenne et le droit des citoyens de proposer une loi."
@@ -127,7 +122,6 @@ candidat = "François Fillon"
     tldr = "<strong>Transparence</strong> des parlementaires sur l'emploi de membre de sa famille."
 
     [categories.list.us]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
   [[categories.list]]
     title = "Corruption et lobbying"
@@ -152,7 +146,6 @@ candidat = "François Fillon"
     title = "Proportionnelle"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle."
@@ -225,7 +218,6 @@ candidat = "François Fillon"
     title = "Contrôle au faciès"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Nous  modifierons  la  loi  sur  les  contrôles  d’identité  par  la  police  pour  prendre en compte la récente jurisprudence de la Cour de cassation contre les contrôles au faciès : inversion de la charge de la preuve, réforme de l’article 78-2 du  Code  de  procédure  pénale  pour  rendre  plus  exceptionnels  les  contrôles  d’identité,  obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles par la police sous peine de nullité de la procédure qui en découlerait."
@@ -237,7 +229,6 @@ candidat = "François Fillon"
     title = "Sans papiers"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Régulariser les travailleurs sans-papiers pour assurer l'égalité sociale entre travailleurs."
@@ -294,7 +285,6 @@ candidat = "François Fillon"
       title = "Service civique"
 
       [categories.list.them]
-      tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
       [categories.list.us]
       quote = "
@@ -330,7 +320,6 @@ candidat = "François Fillon"
     title = "Carte scolaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer une nouvelle carte scolaire établissant la mixité sociale."
@@ -455,7 +444,6 @@ candidat = "François Fillon"
     title = "Autonomie des étudiants"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
@@ -572,7 +560,6 @@ candidat = "François Fillon"
     title = "Illétrisme"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -607,7 +594,6 @@ candidat = "François Fillon"
     title = "Éducation"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger les « conventions ruralité » qui visent à diminuer le nombre d’écoles en milieu rural pour les remplacer par de grosses structures éloignées des lieux de vie des enfants ; maintenir les écoles à classe unique ; réouvrir les écoles."
@@ -656,7 +642,6 @@ candidat = "François Fillon"
     title = "Dotation des collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Refuser les baisses de dotations aux collectivités mises en place par le gouvernement Hollande et garantir une dotation à la hauteur des missions transférées aux collectivités. Il sera également mis fin au remplacement des dotations de l’État par des fonds d’investissement (du type de la DETR [Dotation d'équipement des territoires ruraux] ou des contrats de ruralité). Les collectivités doivent avoir les moyens d’investir mais également des dotations stables en fonctionnement."
@@ -684,7 +669,6 @@ candidat = "François Fillon"
  - 2017"
     link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
     tldr = "Promouvoir la coopération et le développement <strong>soutenable</strong> et <strong>juste</strong> de <strong>tous les territoires</strong> de la République."
-
 
   [[categories.list]]
     title = "Accès au logement"
@@ -728,7 +712,6 @@ candidat = "François Fillon"
     title = "Covoiturage"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Favoriser le co-voiturage, l’autopartage et le transport à la demande."
@@ -740,7 +723,6 @@ candidat = "François Fillon"
     title = "Diesel"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -755,7 +737,6 @@ candidat = "François Fillon"
     title = "Vélo"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -771,7 +752,6 @@ candidat = "François Fillon"
     title = "Notre-Dame-des-Landes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "

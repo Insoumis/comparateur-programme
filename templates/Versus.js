@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Row, Col, Hidden } from 'react-grid-system';
-
 import Helmet from 'react-helmet';
 
 import Menu from './Menu';
+import VersusStickyHeader from './VersusStickyHeader';
 import VersusHeader from './VersusHeader';
 import Category from './Category';
 import './Versus.scss';
@@ -15,15 +15,27 @@ class Versus extends Component {
 
   componentDidMount() {
     window.addEventListener('scroll', () => {
-      const topPosition = document.getElementsByClassName('Versus')[0].offsetTop - 20;
-      if (window.scrollY >= topPosition && document.getElementsByClassName('sticky').length) {
-        document.getElementsByClassName('sticky')[0].classList.add('visible');
-        document.getElementsByClassName('sticky')[1].classList.add('visible');
-      } else if (document.getElementsByClassName('sticky').length) {
-        document.getElementsByClassName('sticky')[0].classList.remove('visible');
-        document.getElementsByClassName('sticky')[1].classList.remove('visible');
+      const categories = document.getElementsByClassName('categories')[0];
+      const titleHeight = document.getElementsByTagName('h3')[0].offsetHeight;
+      const topPosition = categories.offsetParent.offsetTop + categories.offsetTop + titleHeight;
+
+      if (window.scrollY >= topPosition && document.getElementsByClassName('VersusStickyHeader').length) {
+        document.getElementsByClassName('VersusStickyHeader')[0].classList.add('visible');
+      } else if (document.getElementsByClassName('VersusStickyHeader').length) {
+        document.getElementsByClassName('VersusStickyHeader')[0].classList.remove('visible');
       }
     });
+  }
+
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.data != this.props.data) {
+      this.container.style.transition = '0s';
+      this.container.style.opacity = 0;
+      requestAnimationFrame(() => {
+        this.container.style.opacity = 1;
+        this.container.style.transition = '.4s';
+      });
+    }
   }
 
   render() {
@@ -37,19 +49,19 @@ class Versus extends Component {
         {<Hidden sm xs>
           <Menu data={data} />
         </Hidden>}
-        <Row>
-          <Col offset={{md: 1}} md={10}>
-          <Hidden sm xs>
-            <VersusHeader data={data} />
-            {/*<div className="sticky versus">
+        <div className="container" ref={node => this.container = node}>
+          <Row>
+            <Col>
+            <Hidden sm xs>
+              <VersusStickyHeader data={data} />
               <VersusHeader data={data} />
-            </div>*/}
-          </Hidden>
-            <div className="categories">
-              {data.categories.map((cat, i) => <Category candidat={data.candidat} category={cat} key={i} />)}
-            </div>
-          </Col>
-        </Row>
+            </Hidden>
+              <div className="categories">
+                {data.categories.map((cat, i) => <Category candidat={data.candidat} category={cat} key={i} />)}
+              </div>
+            </Col>
+          </Row>
+        </div>
       </Container>
     );
   }

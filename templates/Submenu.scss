@@ -1,0 +1,55 @@
+@import "../styles/colors";
+
+.Submenu {
+
+  @each $name, $color in $themes {
+    &.#{$name} {
+      button {
+        color: $color;
+
+        &:hover {border-color: $color};
+      }
+
+      a:hover {
+        color: #fff;
+        background: $color;
+      }
+    }
+  }
+
+  button {
+    background: none;
+    border: 0;
+    border-bottom: 1px solid $border;
+    display: block;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    padding: 0 20px;
+    text-align: left;
+    text-decoration: none;
+    transition: .2s linear;
+    width: 100%;
+
+    i {padding-right: 6px;}
+  }
+
+  ul {
+    border-bottom: 1px solid $border;
+    height: 0;
+    overflow: auto;
+    position: relative;
+    transition: .2s;
+
+    &.visible {height: 190px;}
+  }
+
+  a {
+    color: $main;
+    display: block;
+    font-size: 15px;
+    padding: 8px 30px;
+    text-decoration: none;
+    transition: .1s;
+  }
+}

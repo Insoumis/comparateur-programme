@@ -12,15 +12,6 @@ const Category = ({ candidat, category }) => (
       {' '}
       {category.title}
     </h3>
-    {/*<Hidden sm xs>
-      <div className="sticky category">
-        <h3>
-          <i className={`fa fa-${ico[category.id]}`} aria-hidden="true"></i>
-          {' '}
-          {category.title}
-        </h3>
-      </div>
-    </Hidden>*/}
     {category.list.map((item, i) => <Topic candidat={candidat} item={item} key={i} />)}
   </div>
 );

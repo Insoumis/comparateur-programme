@@ -2,10 +2,12 @@
   "name": "vs-insoumis",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.4",
     "react": "^15.4.2",
     "react-grid-system": "^2.6.0",
     "react-helmet": "^4.0.0",
-    "smoothscroll": "^0.3.0"
+    "smoothscroll": "^0.3.0",
+    "speakingurl": "^13.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
@@ -27,6 +29,9 @@
       "browser": true,
       "node": true,
       "es6": true
+    },
+    "globals": {
+      "emailjs": true
     },
     "extends": [
       "eslint:recommended",

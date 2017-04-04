@@ -11,11 +11,86 @@ h2,
 h3 {font-family: Montserrat, sans-serif;}
 
 a:focus,
-button:focus {outline: 0;}
+button:focus,
+input:focus,
+textarea:focus {outline: 0;}
 
 #notfound {
   margin-top: 40px;
   text-align: center;
 
   h1 {color: $blue;}
+}
+
+#contact {
+  margin: 100px 0;
+  max-width: 800px !important;
+
+  h2 {font-size: 32px;}
+
+  form {
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  fieldset {
+    border: 0;
+    margin: 0 0 25px;
+    padding: 0;
+
+    &.error {
+      label {color: $red;}
+
+      input,
+      textarea {border-color: $red;}
+    }
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+    text-indent: 10px;
+  }
+
+  input,
+  textarea {
+    background: transparentize($border, .4);
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color: darken($secondary, 20%);
+    font-family: Roboto, sans-serif;
+    padding: 8px;
+    transition: .2s;
+    width: 100%;
+  }
+
+  input {height: 35px;}
+
+  textarea {
+    height: 200px;
+    resize: vertical;
+  }
+
+  .feedback {float: left;}
+
+  .loading {
+    font-size: 20px;
+    text-align: center;
+    width: 50px;
+  }
+
+  .success {color: $green;}
+
+  .error {color: $red;}
+
+  button {
+    background: $red;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    float: right;
+    transition: .2s;
+
+    &:hover {background: lighten($red, 20%);}
+  }
 }

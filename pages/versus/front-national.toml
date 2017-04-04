@@ -44,7 +44,6 @@ candidat = "Marine Le Pen"
     title = "Droit de Vote"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -59,7 +58,6 @@ candidat = "Marine Le Pen"
     title = "49.3"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Convoquer un référendum (article 11 de la Constitution) pour engager le processus constituant."
@@ -71,7 +69,6 @@ candidat = "Marine Le Pen"
     title = "Contrôle des élu.e.s"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
@@ -98,7 +95,6 @@ candidat = "Marine Le Pen"
     title = "Parité dans les institutions"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
@@ -110,7 +106,6 @@ candidat = "Marine Le Pen"
     title = "Cumul des mandats"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Rendre effectif le principe du non-cumul des mandats, y compris dans le temps."
@@ -122,7 +117,6 @@ candidat = "Marine Le Pen"
     title = "Corruption et lobbying"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -175,7 +169,6 @@ candidat = "Marine Le Pen"
     title = "Indépendance du pouvoir judiciaire"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -208,7 +201,6 @@ candidat = "Marine Le Pen"
     title = "Contrôle au faciès"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Nous  modifierons  la  loi  sur  les  contrôles  d’identité  par  la  police  pour  prendre en compte la récente jurisprudence de la Cour de cassation contre les contrôles au faciès : inversion de la charge de la preuve, réforme de l’article 78-2 du  Code  de  procédure  pénale  pour  rendre  plus  exceptionnels  les  contrôles  d’identité,  obligation  de  délivrance  d’un  récépissé  de  contrôle,  filmage  des  contrôles par la police sous peine de nullité de la procédure qui en découlerait."
@@ -398,7 +390,6 @@ candidat = "Marine Le Pen"
     title = "Prévention sanitaire à l'école"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -446,7 +437,6 @@ candidat = "Marine Le Pen"
     title = "Budget de l'Enseignement Supérieur et de la Recherche"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -461,7 +451,6 @@ candidat = "Marine Le Pen"
     title = "Lien entre l'ESR et la société civile"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -476,7 +465,6 @@ candidat = "Marine Le Pen"
     title = "Réforme administrative de l'Enseignement Supérieur et de la Recherche"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -506,7 +494,6 @@ candidat = "Marine Le Pen"
     title = "À l'étranger"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Nous créerons un Erasmus francophone ainsi qu’une alliance universitaire de la Méditerranée qui permettra des échanges d’étudiant·e·s, d’enseignant·e·s et de chercheur·euse·s des deux rives. La création d’universités internationales thématiques, comme la Mer et l’Espace, sera proposée à nos partenaires."
@@ -542,7 +529,6 @@ candidat = "Marine Le Pen"
     title = "Illétrisme"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -561,7 +547,6 @@ candidat = "Marine Le Pen"
     title = "Accès aux soins"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Supprimer les Groupements hospitaliers de territoire (GHT) et reconstruire le maillage des hôpitaux et des maternités de proximité. Il s’agit de garantir la qualité de la prise en charge à toutes les générations et de combler les déserts médicaux par la création d’un corps de médecins généralistes fonctionnaires."
@@ -574,7 +559,6 @@ candidat = "Marine Le Pen"
     title = "Éducation"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Abroger les « conventions ruralité » qui visent à diminuer le nombre d’écoles en milieu rural pour les remplacer par de grosses structures éloignées des lieux de vie des enfants ; maintenir les écoles à classe unique ; réouvrir les écoles."
@@ -622,7 +606,6 @@ candidat = "Marine Le Pen"
     title = "Responsabilités et organisation des collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -639,7 +622,6 @@ candidat = "Marine Le Pen"
     title = "Dotation des collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Refuser les baisses de dotations aux collectivités mises en place par le gouvernement Hollande et garantir une dotation à la hauteur des missions transférées aux collectivités. Il sera également mis fin au remplacement des dotations de l’État par des fonds d’investissement (du type de la DETR [Dotation d'équipement des territoires ruraux] ou des contrats de ruralité). Les collectivités doivent avoir les moyens d’investir mais également des dotations stables en fonctionnement."
@@ -652,7 +634,6 @@ candidat = "Marine Le Pen"
     title = "Démocratie et transparence dans les collectivités"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -684,7 +665,6 @@ candidat = "Marine Le Pen"
  - 2017"
     link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
     tldr = "Promouvoir la coopération et le développement <strong>soutenable</strong> et <strong>juste</strong> de <strong>tous les territoires</strong> de la République."
-
 
   [[categories.list]]
     title = "Accès au logement"
@@ -728,7 +708,6 @@ candidat = "Marine Le Pen"
     title = "Transport de marchandises"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -762,7 +741,6 @@ candidat = "Marine Le Pen"
     title = "Covoiturage"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "Favoriser le co-voiturage, l’autopartage et le transport à la demande."
@@ -774,7 +752,6 @@ candidat = "Marine Le Pen"
     title = "Diesel"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -789,7 +766,6 @@ candidat = "Marine Le Pen"
     title = "Vélo"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
@@ -805,7 +781,6 @@ candidat = "Marine Le Pen"
     title = "Notre-Dame-des-Landes"
 
     [categories.list.them]
-    tldr = "<span class=\"empty\">Nous n'avons pas encore trouvé de propositions.</span>"
 
     [categories.list.us]
     quote = "
