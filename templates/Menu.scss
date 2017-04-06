@@ -6,18 +6,18 @@
   border-bottom: 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   left: 0;
-  position: fixed;
-  transform: translateX(-270px);
+  position: absolute;
+  transform: translateX(-272px);
   transition: .4s;
   width: 270px;
   z-index: 20;
 
-  &.visible {transform: translateX(0px);}
+  &.open {transform: translateX(0px);}
 
   .open-menu {
-    background: #fff;
-    border: 1px solid $border;
-    color: $darkred;
+    background: $darkred;
+    border: 1px solid $darkred;
+    color: #fff;
     font-size: 20px;
     height: 42px;
     position: absolute;
@@ -27,8 +27,8 @@
     width: 40px;
 
     &:hover {
-      border-color: $blue;
-      color: $blue;
+      background: #fff;
+      color: $darkred;
     }
   }
 

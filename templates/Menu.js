@@ -13,7 +13,7 @@ export default class Menu extends Component {
     super(props);
 
     this.state = {
-      visible: false,
+      open: false,
     };
   }
 
@@ -24,16 +24,16 @@ export default class Menu extends Component {
     smoothScroll(destination);
 
     this.setState({
-      visible: false,
+      open: false,
     });
   }
 
   render() {
     const { data } = this.props;
     return (
-      <div className={`Menu${(this.state.visible ? ' visible': '')}`}>
+      <div className={`Menu${(this.state.open ? ' open': '')}`}>
         <button className="open-menu" onClick={() => this.setState({
-          visible: !this.state.visible,
+          open: !this.state.open,
         })}>
           <i className="fa fa-bars" aria-hidden="true"></i>
         </button>

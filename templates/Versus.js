@@ -15,14 +15,17 @@ class Versus extends Component {
 
   componentDidMount() {
     window.addEventListener('scroll', () => {
-      const categories = document.getElementsByClassName('categories')[0];
-      const titleHeight = document.getElementsByTagName('h3')[0].offsetHeight;
+      const categories = document.querySelector('.categories');
+      const titleHeight = document.querySelector('h3').offsetHeight;
       const topPosition = categories.offsetParent.offsetTop + categories.offsetTop + titleHeight;
 
-      if (window.scrollY >= topPosition && document.getElementsByClassName('VersusStickyHeader').length) {
-        document.getElementsByClassName('VersusStickyHeader')[0].classList.add('visible');
-      } else if (document.getElementsByClassName('VersusStickyHeader').length) {
-        document.getElementsByClassName('VersusStickyHeader')[0].classList.remove('visible');
+      if (window.scrollY >= topPosition &&              document.querySelector('.stickyHeader')
+      ) {
+        document.querySelector('.stickyHeader').classList.add('visible');
+      } else if (window.scrollY < topPosition &&
+        document.querySelector('.stickyHeader')
+      ) {
+        document.querySelector('.stickyHeader').classList.remove('visible');
       }
     });
   }
@@ -42,27 +45,32 @@ class Versus extends Component {
     const { data } = this.props;
 
     return (
-      <Container className="Versus">
-        <Helmet
-            title={`La France insoumise VS ${data.title}`}
-        />
+      <div>
         {<Hidden sm xs>
           <Menu data={data} />
         </Hidden>}
-        <div className="container" ref={node => this.container = node}>
-          <Row>
-            <Col>
-            <Hidden sm xs>
-              <VersusStickyHeader data={data} />
-              <VersusHeader data={data} />
-            </Hidden>
-              <div className="categories">
-                {data.categories.map((cat, i) => <Category candidat={data.candidat} category={cat} key={i} />)}
-              </div>
-            </Col>
-          </Row>
-        </div>
-      </Container>
+        <Container className="Versus">
+          <Helmet
+              title={`La France insoumise VS ${data.title}`}
+          />
+          <div className="container" ref={node => this.container = node}>
+            <Row>
+              <Col>
+              <Hidden sm xs>
+                <div className="stickyHeader">
+                  <VersusStickyHeader data={data} />
+                  <Menu data={data} />
+                </div>
+                <VersusHeader data={data} />
+              </Hidden>
+                <div className="categories">
+                  {data.categories.map((cat, i) => <Category candidat={data.candidat} category={cat} key={i} />)}
+                </div>
+              </Col>
+            </Row>
+          </div>
+        </Container>
+      </div>
     );
   }
 }
