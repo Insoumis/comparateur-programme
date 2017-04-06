@@ -77,7 +77,7 @@ export default class Topic extends Component {
             :
             <div className="tldr">
               <i className="fa fa-envelope-o" aria-hidden="true"></i>
-              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Nous sommes passés à côté de quelque chose ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
+              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
             </div>
             }
           </Col>
@@ -91,7 +91,7 @@ export default class Topic extends Component {
             :
             <div className="tldr">
               <i className="fa fa-envelope-o" aria-hidden="true"></i>
-              <span className="empty">Nous n'avons pas encore trouvé de propositions. <a href="/contact/">Contactez-nous</a> si vous voulez nous aider à compléter ce comparatif.</span>
+              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
             </div>
           }
           </Col>

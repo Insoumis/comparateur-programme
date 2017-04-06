@@ -18,7 +18,6 @@ export default class Menu extends Component {
   }
 
   scroll(e) {
-    e.preventDefault();
     let id = e.target.href.split('#')[1];
     let destination = document.querySelector(`#${id}`);
     smoothScroll(destination);
