@@ -151,7 +151,7 @@
     tldr = "Représentativité des organisation partonales sur la base d'élections."
 
   [[categories.list]]
-    title = ""
+    title = "SMIC"
 
     [categories.list.them]
     quote = ""
@@ -160,13 +160,13 @@
     tldr = ""
 
     [categories.list.us]
-    quote = ""
+    quote = "Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = ""
-    tldr = ""
+    link = "https://laec.fr/s30m1"
+    tldr = "Augmenter le Smic de 16% (1 326 € net)."
 
   [[categories.list]]
-    title = ""
+    title = "Financement des TPE et PME"
 
     [categories.list.them]
     quote = ""
@@ -175,7 +175,22 @@
     tldr = ""
 
     [categories.list.us]
-    quote = ""
+    quote = "Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif."
     ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21m6"
+    tldr = "Création d'un fonds de soutien interentreprise pour soulager les PME."
+
+  [[categories.list]]
+    title = "Contrats précaires"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
     link = ""
     tldr = ""
+
+    [categories.list.us]
+    quote = "Instaurer un quota maximum de contrats précaires dans les entreprises : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s25m2"
+    tldr = "Quota maximum de contrats précaires dans les entreprises."
