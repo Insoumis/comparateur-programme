@@ -9,15 +9,21 @@ $red: #E23D22;
 $darkred: #C9462C;
 
 $purple: #b92e66;
-$yellow: #ec8b00;
+$orange: #ec8b00;
 $green: #32bf7c;
+$yellow: #f8b81b;
+$deepblue: #3b78dd;
+$brown: #B45F06;
 
 $themes: (
-  constitution: $darkred,
-  justice: $blue,
+  constitution: $red,
+  work: $blue,
+  justice: $deepblue,
   education: $purple,
-  territory: $yellow
+  ecology: $green,
+  international: darken($green, 10%),
+  society: $yellow,
+  culture: $orange,
+  territory: $brown,
+  taxation: $secondary,
 );
-
-
-// $blue: #3b78dd;

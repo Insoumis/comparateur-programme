@@ -1,9 +1,12 @@
 export const ico = {
   constitution: 'university',
+  work: 'briefcase',
   justice: 'balance-scale',
   education: 'graduation-cap',
-  territory: 'subway',
-  agriculture: 'pagelines',
   ecology: 'leaf',
-  health: 'heartbeat',
+  international: 'globe',
+  society: 'heartbeat',
+  territory: 'subway',
+  culture: 'camera-retro',
+  taxation: 'calculator',
 };

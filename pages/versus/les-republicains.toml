@@ -175,6 +175,294 @@ candidat = "François Fillon"
     tldr = "<strong>Changement des institutions</strong> par la VIe république."
 
 [[categories]]
+  id = "work"
+  title = "Travail et Entreprises"
+
+  [[categories.list]]
+    title = "Salaire"
+
+    [categories.list.them]
+    quote = "Mettre en place un abattement forfaitaire généralisé des cotisations sociales salariées, ce qui permettra une augmentation immédiate des salaires nets sur la fiche de paie de l’ordre de 350€ par an par salarié."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Augmentation des salaires nets par <strong>diminution des cotisations salariales</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures.</p>
+    <p>Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s30m1"
+    tldr = "Augmenter le Smic de 16% (<strong>1 326 € net</strong>). Encadrer l'<strong>écart des rémunérations</strong> dans l'entreprise."
+
+  [[categories.list]]
+    title = "Temps de travail"
+
+    [categories.list.them]
+    quote = "Mettre fin à la durée légale du travail à 35 heures et laisser chaque entreprise décider de son temps de travail par la négociation et la signature d’accords collectifs. L’accord collectif majoritaire s’imposera au contrat de travail. Les accords devront être « gagnant-gagnant » : aucun accord ne pourra se traduire par une réduction salariale, par rapport à la situation actuelle. Une durée de référence de 39 heures sera introduite pour le cas particulier des entreprises sans dispositions conventionnelles sur le temps de travail (nouvelle entreprise par exemple)."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/droit-du-travail/"
+    tldr = "<strong>Fin de la durée légale</strong> du temps de travail."
+
+    [categories.list.us]
+    quote = "
+    <p>
+    Appliquer réellement et immédiatement les 35 heures :<br />
+    • Majorer les heures supplémentaires (25 % pour les 4 premières et 50 % et plus au-delà)<br />
+    • Revenir sur la flexibilisation, l'annualisation, l'intensification et les horaires fractionnés<br />
+    • Revenir sur le forfait-jour et le limiter aux seuls cadres dirigeants<br />
+    • Revenir sur les élargissements du travail du dimanche
+    </p>
+    <p>Convoquer une conférence nationale sur le partage du temps de travail et l'impact du progrès technologique, favoriser le passage à la semaine de quatre jours pour aller vers les 32 heures et appliquer les 32 heures pour les salariés en travail de nuit et les métiers pénibles
+    </p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/28/reduire-le-temps-de-travail-travailler-moins-pour-travailler-tous"
+    tldr = "Application <strong>réelle</strong> et <strong>immédiate</strong> des 35 heures. Favoriser le passage à la semaine de <strong>quatre jours</strong>."
+
+  [[categories.list]]
+    title = "Burn-Out"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Reconnaître le burn-out comme maladie professionnelle, lutter contre l'idéologie managériale et ses effets psychologiques et sanitaires et imposer l'enseignement des sciences sociales et des risques psychosociaux dans les cursus de gestion/commerce/ressources humaines."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s70m3"
+    tldr = "<strong>Reconnaître</strong> le burn-out comme maladie professionnelle."
+
+  [[categories.list]]
+    title = "Lutte contre le chômage"
+
+    [categories.list.them]
+    quote = "
+    <p>Encourager la reprise d’activité, en réformant les règles du régime d’assurance chômage, notamment via l’introduction d’une dégressivité dans l’attribution des allocations. Responsabiliser les demandeurs d’emplois en rendant obligatoire la motivation d’un refus d’emploi et en sanctionnant un deuxième refus insuffisamment motivé.</p>
+    <p>Supprimer les emplois d’avenir et les contrats de génération, qui coûtent 1,2 Md€ par an au budget de l’Etat, et réorienter intégralement ces sommes vers l’alternance. Cette suppression ne s’appliquera pas aux contrats aidés bénéficiant aux jeunes travailleurs handicapés. De manière générale, les moyens des contrats aidés du secteur non marchand consacrés aux jeunes doivent permettre de renforcer l’alternance et d’autres dispositifs efficaces pour apporter une réponse aux « décrocheurs » de notre système éducatif (écoles de la deuxième chance, EPIDE, dispositifs d’accompagnement renforcé…).</p>
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Introduction d'une <strong>dégressivité des allocations</strong> chômage. <strong>Sanctionner</strong> le deuxième refus d'emploi insuffisamment motivé. <strong>Suppression des contrats</strong> d'avenir et des contrats de génération."
+
+    [categories.list.us]
+    quote = "
+    <p>Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique.</p>
+    <p>Injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles.<br />
+    Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité pour financer la transition énergétique et les activités socialement utiles.</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Engager un <strong>plan de relance</strong> de l'activité et de l'emploi au service de la <strong>transition écologique</strong>. Droit opposable à l'emploi en faisant de l'État l'<strong>employeur en dernier ressort</strong>."
+
+  [[categories.list]]
+    title = "Contrat de travail"
+
+    [categories.list.them]
+    quote = "Faciliter les recrutements dans les petites entreprises à travers une rénovation du contrat de travail (contrat de mission pour une durée limitée, contrat à causes de rupture prédéfinies ...). Permettre aux entreprises qui doivent s’adapter en permanence de conforter leur compétitivité en clarifiant les règles du licenciement économique."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Changer le droit du travail</strong> au profit de l'employeur."
+
+    [categories.list.us]
+    quote = "Réaffirmer dans les faits le CDI comme norme du contrat de travail."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
+    tldr = "Réaffirmer dans les faits le <strong>CDI comme norme</strong> du contrat de travail."
+
+  [[categories.list]]
+    title = "Contrats précaires"
+
+    [categories.list.them]
+    quote = "Faciliter les recrutements dans les petites entreprises à travers une rénovation du contrat de travail (contrat de mission pour une durée limitée, contrat à causes de rupture prédéfinies...)."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Rénovation du contrat de travail avec <strong>ajout de contrats précaires</strong> dans les PME."
+
+    [categories.list.us]
+    quote = "Instaurer un quota maximum de contrats précaires dans les entreprises : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s25m2"
+    tldr = "<strong>Quota maximum</strong> de contrats précaires dans les entreprises."
+
+  [[categories.list]]
+    title = "Rupture de contrat"
+
+    [categories.list.them]
+    quote = "Sécuriser la rupture du contrat en plafonnant les indemnités prud’homales."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Plafonnement des indemnités</strong> prud’homales."
+
+    [categories.list.us]
+    quote = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
+    tldr = "Refonder le recours à la rupture conventionnelle pour empêcher les <strong>licenciements déguisés</strong>."
+
+  [[categories.list]]
+    title = "Loi El Khomri"
+
+    [categories.list.them]
+    quote = "Abroger le compte pénibilité inapplicable car trop complexe. Traiter la pénibilité par l’amélioration des conditions de travail, une politique de prévention plus ambitieuse et une prise en compte de la situation réelle des salariés notamment à travers un examen médical individuel, permettant une meilleure reconnaissance de l’incapacité au travail et de l’inaptitude."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Maintien</strong> de la loi El Khomri et suppression du <strong>compte pénibilité</strong>."
+
+    [categories.list.us]
+    quote = "La loi El Khomri a mis fin à la hiérarchie des normes sociales. Désormais, un accord d'entreprise peut s'imposer même si un accord de branche ou la loi sont plus favorables aux salariés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/24/abroger-la-loi-el-khomri"
+    tldr = "<strong>Abrogation</strong> la loi El Khomri."
+
+  [[categories.list]]
+    title = "Syndicats"
+
+    [categories.list.them]
+    quote = "
+    <p>Prévoir, dans les entreprises, une instance unique pour la représentation du personnel. Cette instance regroupera les actuels Délégués du Personnel, Comité d’Entreprise et Comité Hygiène, Sécurité et Conditions de Travail (CHSCT). Ses prérogatives et ses moyens  seront croissants en fonction de l’effectif de l’entreprise.</p>
+    <p>Moderniser les conditions d’exercice du mandat de représentant du personnel : limiter le temps consacré au mandat à 50% du temps de travail pour valoriser et dynamiser la représentation du personnel dans l’entreprise, et en parallèle, valoriser l’expérience syndicale sur le plan des compétences et de la gestion de carrière.</p>
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Instance unique de représentation</strong> du personnel dans les entreprises. <strong>Limiter les décharges syndicales</strong> à 50% du temps de travail."
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés.</p>
+    <p>Amnistier les syndicalistes et militants associatifs condamnés pour faits de luttes sociales, écologiques ou pour la défense des libertés, protéger les lanceurs d'alerte et investir les salariés d'une mission d'alerte sociale et environnementale.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+
+  [[categories.list]]
+    title = "Démocratie dans l'entreprise"
+
+    [categories.list.them]
+    quote = "Rendre possible le recours au référendum d’entreprise à l’initiative du chef d’entreprise."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Rendre possible le recours au <strong>référendum d’entreprise</strong> à l’<strong>initiative du chef d’entreprise</strong>."
+
+    [categories.list.us]
+    quote = "Accorder un droit de veto suspensif aux comités d'entreprise sur les plans de licenciements, réformer les tribunaux de commerce et les procédures de redressement et liquidation d'entreprise pour donner plus de pouvoirs aux salariés et à leurs représentants, refondre la procédure judiciaire de contestation des licenciements économiques pour qu'ils ne puissent être effectifs avant épuisement des recours."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
+    tldr = "<strong>Droit de véto</strong> suspensif pour les CE sur les plans de licenciements et <strong>réforme</strong> pour donner plus de pouvoir aux salariés."
+
+  [[categories.list]]
+    title = "Ubérisation"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Encadrer le développement des activités liées à l'économie collaborative pour préserver le caractère de partage et d'utilité sociale contre la privatisation, l'évasion fiscale, la concurrence déloyale et stopper l'ubérisation des activités."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m3"
+    tldr = "<strong>Stopper</strong> l'ubérisation des activités."
+
+  [[categories.list]]
+    title = "Indépendants"
+
+    [categories.list.them]
+    quote = "
+    <p>Réformer radicalement le RSI, transformé en une Caisse de Protection des Indépendants (CPI) :<br />
+    • Confier à cette caisse le calcul des contributions, la collecte et la gestion.<br />
+    • Mettre en place un calcul et un paiement en temps réel des cotisations liées au salaire, lorsque c’est applicable.<br />
+    • Permettre aux indépendants qui ont de faibles revenus et versent la cotisation retraite minimum de valider quatre trimestres de retraite au lieu de trois aujourd’hui.</p>
+    <p>Mettre en place un système d’assurance pour les travailleurs indépendants en cas de perte d’activité, sur une base volontaire. Ce fonds sera adossé à la Caisse de Protection des Indépendants (CPI).</p>
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Transformer le RSI en <strong>Caisse de Protection des Indépendants</strong> (CPI)."
+
+    [categories.list.us]
+    quote = "Permettre  à  tou·te·s  les  travailleur·euse·s  affilié·e·es  au  régime  social  des  indépendants (RSI) de rejoindre le régime général de la sécurité sociale. À l’heure où le travail indépendant est une grande réserve de travail à moindre coût, il est nécessaire d’harmoniser les protections et les garanties de l’ensemble des travailleur·euse·s en élargissant le régime général à toute la population active."
+    ref = "Alternatives à l’Ubérisation - 2017"
+    link = "https://avenirencommun.fr/le-livret-uberisation/"
+    tldr = "Permettre  aux travailleurs affiliés au régime  social  des  indépendants (RSI) de rejoindre le <strong>régime général de la sécurité sociale</strong>."
+
+  [[categories.list]]
+    title = "Financement des TPE et PME"
+
+    [categories.list.them]
+    quote = "Renforcer la compétitivité de nos PME/PMI grâce au numérique : passer en cinq ans de 10% à 100% des PME/PMI accompagnées ; un grand plan de rattrapage et d’accompagnement sera mis en oeuvre à l’issue des états généraux de l’industrie et de l’innovation ; une partie des investissements d’avenir sera réallouée au programme «investissements du futur."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Renforcer la compétitivité de nos PME/PMI <strong>grâce au numérique</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif.
+    </p>
+    <p>Financer l'escompte des PME à taux zéro par le pôle financier public.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21"
+    tldr = "Création d'un <strong>fonds de soutien</strong> interentreprise pour soulager les PME. Escompte des PME à <strong>taux 0</strong>."
+
+  [[categories.list]]
+    title = "Lutte contre la délocalisation"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer un protectionnisme solidaire pour produire en France.</p>
+    <p>Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…), augmenter immédiatement les droits de douane pour les pays aux droits sociaux limités (travail des enfants, absence de droits syndicaux), prendre des mesures de rétorsion commerciales contre les paradis fiscaux</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Instaurer un <strong>protectionnisme solidaire</strong> pour produire en France."
+
+  [[categories.list]]
+    title = "Travail détaché"
+
+    [categories.list.them]
+    quote = "Renégocier de fond en comble la directive sur le détachement des travailleurs et en suspendre l’application en France si la négociation n’a pas abouti avant la fin de 2017."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Renégocier</strong> la directive sur le détachement des travailleurs."
+
+    [categories.list.us]
+    quote = "Cesser d'appliquer unilatéralement la directive sur le détachement de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet"
+    tldr = "<strong>Arrêt unilatéral</strong> de l'application de la directive sur le détachement des travailleurs en France."
+
+  [[categories.list]]
+    title = "Pension retraite"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.</p>
+    <p>Assurer le financement durable des régimes de retraites solidaires, intergénérationnelles et par répartition, par la mise en contribution des revenus financiers des entreprises, par l'augmentation du nombre de cotisants et de l'assiette des cotisations (créations d'emplois, hausse des salaires, recul de la précarité, hausse de l'activité des femmes, etc.) et de leur taux, la fin des exonérations fiscales pour les régimes de retraite par capitalisation.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
+    tldr = "Revalorisation des <strong>\"petites\" retraites</strong>, pérénnisation du financement des retraites."
+
+  [[categories.list]]
+    title = "Âge de départ à la retraite"
+
+    [categories.list.them]
+    quote = "Faire passer progressivement l’âge légal à 65 ans. Le dispositif de départ pour carrières longues sera étendu pour permettre aux personnes ayant commencé à travailler jeunes de prendre leur retraite dès 63 ans.
+    L’âge maximal du taux plein sera maintenu à 67 ans."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Reculer</strong> l'âge de départ à la retraite à <strong>65 ans</strong>."
+
+    [categories.list.us]
+    quote = "Restaurer le droit à la retraite à 60 ans à taux plein, ramener la durée de cotisation pour une retraite complète à quarante ans."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
+    tldr = "Restaurer le droit à la retraite à <strong>60 ans</strong> et <strong>40 annuités</strong> de cotisation."
+
+[[categories]]
   id = "justice"
   title = "Justice et Sécurité"
 

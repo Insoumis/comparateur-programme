@@ -3,7 +3,25 @@
   title = "Travail et Entreprises"
 
   [[categories.list]]
-    title = ""
+    title = "Salaire"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures.</p>
+    <p>Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s30m1"
+    tldr = "Augmenter le Smic de 16% (1 326 € net). Encadrer l'écart des rémunérations dans l'entreprise."
+
+  [[categories.list]]
+    title = "Temps de travail"
 
     [categories.list.them]
     quote = ""
@@ -28,7 +46,7 @@
     tldr = "Application réelle et immédiate des 35 heures. Favoriser le passage à la semaine de quatre jours."
 
   [[categories.list]]
-    title = "Loi El Khomri"
+    title = "Burn-Out"
 
     [categories.list.them]
     quote = ""
@@ -37,13 +55,13 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "La loi El Khomri a mis fin à la hiérarchie des normes sociales. Désormais, un accord d'entreprise peut s'imposer même si un accord de branche ou la loi sont plus favorables aux salariés."
+    quote = "Reconnaître le burn-out comme maladie professionnelle, lutter contre l'idéologie managériale et ses effets psychologiques et sanitaires et imposer l'enseignement des sciences sociales et des risques psychosociaux dans les cursus de gestion/commerce/ressources humaines."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/24/abroger-la-loi-el-khomri"
-    tldr = "Abrogation la loi El Khomri."
+    link = "https://laec.fr/s70m3"
+    tldr = "Reconnaître le burn-out comme maladie professionnelle."
 
   [[categories.list]]
-    title = "Rupture conventionnelle"
+    title = "Lutte contre le chômage"
 
     [categories.list.them]
     quote = ""
@@ -52,10 +70,15 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+    quote = "
+    <p>Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique.</p>
+    <p>Injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles.<br />
+    Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité pour financer la transition énergétique et les activités socialement utiles.</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
-    tldr = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique. Droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort."
 
   [[categories.list]]
     title = "Contrat de travail"
@@ -73,7 +96,7 @@
     tldr = "Réaffirmer dans les faits le CDI comme norme du contrat de travail."
 
   [[categories.list]]
-    title = "Travail détaché"
+    title = "Contrats précaires"
 
     [categories.list.them]
     quote = ""
@@ -82,10 +105,58 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Cesser d'appliquer unilatéralement la directive sur le détachement de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales."
+    quote = "Instaurer un quota maximum de contrats précaires dans les entreprises : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet"
-    tldr = "Arrêt unilatéral de l'application de la directive sur le détachement des travailleurs en France."
+    link = "https://laec.fr/s25m2"
+    tldr = "Quota maximum de contrats précaires dans les entreprises."
+
+  [[categories.list]]
+    title = "Rupture de contrat"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
+    tldr = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+
+  [[categories.list]]
+    title = "Loi El Khomri"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "La loi El Khomri a mis fin à la hiérarchie des normes sociales. Désormais, un accord d'entreprise peut s'imposer même si un accord de branche ou la loi sont plus favorables aux salariés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/24/abroger-la-loi-el-khomri"
+    tldr = "Abrogation la loi El Khomri."
+
+  [[categories.list]]
+    title = "Syndicats"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés.</p>
+    <p>Amnistier les syndicalistes et militants associatifs condamnés pour faits de luttes sociales, écologiques ou pour la défense des libertés, protéger les lanceurs d'alerte et investir les salariés d'une mission d'alerte sociale et environnementale.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Représentativité des organisation partonales sur la base d'élections. Amnistie des syndicalistes et militants condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -101,6 +172,89 @@
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
     tldr = "Droit de véto suspensif pour les CE sur les plans de licenciements et réforme pour donner plus de pouvoir aux salariés."
+
+  [[categories.list]]
+    title = "Ubérisation"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Encadrer le développement des activités liées à l'économie collaborative pour préserver le caractère de partage et d'utilité sociale contre la privatisation, l'évasion fiscale, la concurrence déloyale et stopper l'ubérisation des activités."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m3"
+    tldr = "Stopper l'ubérisation des activités."
+
+  [[categories.list]]
+    title = "Indépendants"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Permettre  à  tou·te·s  les  travailleur·euse·s  affilié·e·es  au  régime  social  des  indépendants (RSI) de rejoindre le régime général de la sécurité sociale. À l’heure où le travail indépendant est une grande réserve de travail à moindre coût, il est nécessaire d’harmoniser les protections et les garanties de l’ensemble des travailleur·euse·s en élargissant le régime général à toute la population active."
+    ref = "Alternatives à l’Ubérisation - 2017"
+    link = "https://avenirencommun.fr/le-livret-uberisation/"
+    tldr = "Permettre  aux travailleurs affiliés au régime  social  des  indépendants (RSI) de rejoindre le régime général de la sécurité sociale."
+
+  [[categories.list]]
+    title = "Financement des TPE et PME"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif.
+    </p>
+    <p>Financer l'escompte des PME à taux zéro par le pôle financier public.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21"
+    tldr = "Création d'un fonds de soutien interentreprise pour soulager les PME. Escompte des PME à taux 0."
+
+  [[categories.list]]
+    title = "Lutte contre la délocalisation"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer un protectionnisme solidaire pour produire en France.</p>
+    <p>Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…), augmenter immédiatement les droits de douane pour les pays aux droits sociaux limités (travail des enfants, absence de droits syndicaux), prendre des mesures de rétorsion commerciales contre les paradis fiscaux</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Instaurer un protectionnisme solidaire pour produire en France."
+
+  [[categories.list]]
+    title = "Travail détaché"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Cesser d'appliquer unilatéralement la directive sur le détachement de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet"
+    tldr = "Arrêt unilatéral de l'application de la directive sur le détachement des travailleurs en France."
 
   [[categories.list]]
     title = "Pension retraite"
@@ -134,63 +288,3 @@
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
     tldr = "Restaurer le droit à la retraite à 60 ans et 40 annuités de cotisation."
-
-  [[categories.list]]
-    title = "Syndicats"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des organisation partonales sur la base d'élections."
-
-  [[categories.list]]
-    title = "SMIC"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s30m1"
-    tldr = "Augmenter le Smic de 16% (1 326 € net)."
-
-  [[categories.list]]
-    title = "Financement des TPE et PME"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s21m6"
-    tldr = "Création d'un fonds de soutien interentreprise pour soulager les PME."
-
-  [[categories.list]]
-    title = "Contrats précaires"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Instaurer un quota maximum de contrats précaires dans les entreprises : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s25m2"
-    tldr = "Quota maximum de contrats précaires dans les entreprises."

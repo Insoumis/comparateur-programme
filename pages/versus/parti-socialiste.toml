@@ -174,6 +174,281 @@ candidat = "Benoît Hamon"
     tldr = "<strong>Changement des institutions</strong> par la VIe république."
 
 [[categories]]
+  id = "work"
+  title = "Travail et Entreprises"
+
+  [[categories.list]]
+    title = "Salaire"
+
+    [categories.list.them]
+    quote = "Pour permettre à ceux qui ont moins de vivre mieux, nous augmenterons le SMIC et les minima sociaux. J’encouragerai la négociation des partenaires sociaux, notamment sur les salaires, l’encadrement des contrats précaires, la reconnaissance des qualifications, l’amélioration des conditions de travail."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Augmentation du <strong>SMIC</strong> et des <strong>minima sociaux</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures.</p>
+    <p>Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s30m1"
+    tldr = "Augmenter le Smic de 16% (<strong>1 326 € net</strong>). Encadrer l'<strong>écart des rémunérations</strong> dans l'entreprise."
+
+  [[categories.list]]
+    title = "Temps de travail"
+
+    [categories.list.them]
+    quote = "Je favoriserai l’établissement de contreparties réelles et négociées, en termes d’emploi, de recherche, d’innovation, ou de réduction du temps de travail, au crédit d’impôt pour la compétitivité et l’emploi (CICE) dans les entreprises de plus de 50 salariés."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Incitation</strong> à la réduction du temps de travail via le <strong>CICE</strong> (crédit d’impôt pour la compétitivité et l’emploi)."
+
+    [categories.list.us]
+    quote = "
+    <p>
+    Appliquer réellement et immédiatement les 35 heures :<br />
+    • Majorer les heures supplémentaires (25 % pour les 4 premières et 50 % et plus au-delà)<br />
+    • Revenir sur la flexibilisation, l'annualisation, l'intensification et les horaires fractionnés<br />
+    • Revenir sur le forfait-jour et le limiter aux seuls cadres dirigeants<br />
+    • Revenir sur les élargissements du travail du dimanche
+    </p>
+    <p>Convoquer une conférence nationale sur le partage du temps de travail et l'impact du progrès technologique, favoriser le passage à la semaine de quatre jours pour aller vers les 32 heures et appliquer les 32 heures pour les salariés en travail de nuit et les métiers pénibles
+    </p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/28/reduire-le-temps-de-travail-travailler-moins-pour-travailler-tous"
+    tldr = "Application <strong>réelle</strong> et <strong>immédiate</strong> des 35 heures. Favoriser le passage à la semaine de <strong>quatre jours</strong>."
+
+  [[categories.list]]
+    title = "Burn-Out"
+
+    [categories.list.them]
+    quote = "Je poursuivrai le chantier de l’amélioration des conditions de travail, par le renforcement de la médecine du travail, la prévention de la pénibilité et la reconnaissance burn-out, syndrome d’épuisement professionnel."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Reconnaître</strong> le burn-out comme maladie professionnelle."
+
+    [categories.list.us]
+    quote = "Reconnaître le burn-out comme maladie professionnelle, lutter contre l'idéologie managériale et ses effets psychologiques et sanitaires et imposer l'enseignement des sciences sociales et des risques psychosociaux dans les cursus de gestion/commerce/ressources humaines."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s70m3"
+    tldr = "<strong>Reconnaître</strong> le burn-out comme maladie professionnelle."
+
+  [[categories.list]]
+    title = "Lutte contre le chômage"
+
+    [categories.list.them]
+    quote = "
+    <p>Pour créer les emplois de demain et réduire vraiment le chômage, je déploierai un programme d’investissements stratégiques. Je porterai l’effort de recherche et développement à 3 % du PIB. Je lancerai un plan de 100 milliards d’euros sur cinq ans pour la rénovation urbaine et thermique, et pour le bien vivre en ville et dans la ruralité.</p>
+    <p>Pour répondre aux mutations du travail, je créerai une contribution sociale sur les robots. Elle alimentera un Fonds de Transition Travail (FTT), dont la mission sera de créer autant d’emplois nouveaux que ceux qui disparaîtront, et de financer la formation des salariés à ces nouveaux métiers. Les entreprises dont la robotisation s’accompagne d’une augmentation des effectifs seront dispensées de cette contribution.</p>
+    "
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Déploiement d'un <strong>programme d'investissement</strong> stratégique pour créer les emplois de demain. Création d'une contribution sociale sur les <strong>robots</strong> pour alimenter un Fonds de Transition Travail."
+
+    [categories.list.us]
+    quote = "
+    <p>Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique.</p>
+    <p>Injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles.<br />
+    Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité pour financer la transition énergétique et les activités socialement utiles.</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Engager un <strong>plan de relance</strong> de l'activité et de l'emploi au service de la <strong>transition écologique</strong>. Droit opposable à l'emploi en faisant de l'État l'<strong>employeur en dernier ressort</strong>."
+
+  [[categories.list]]
+    title = "Contrat de travail"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Réaffirmer dans les faits le CDI comme norme du contrat de travail."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
+    tldr = "Réaffirmer dans les faits le <strong>CDI comme norme</strong> du contrat de travail."
+
+  [[categories.list]]
+    title = "Contrats précaires"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instaurer un quota maximum de contrats précaires dans les entreprises : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s25m2"
+    tldr = "<strong>Quota maximum</strong> de contrats précaires dans les entreprises."
+
+  [[categories.list]]
+    title = "Rupture de contrat"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
+    tldr = "Refonder le recours à la rupture conventionnelle pour empêcher les <strong>licenciements déguisés</strong>."
+
+  [[categories.list]]
+    title = "Loi El Khomri"
+
+    [categories.list.them]
+    quote = "Nous remplacerons la loi travail par une nouvelle loi, qui, en concertation avec les partenaires sociaux, encouragera la poursuite de la réduction collective du temps de travail sur la base du volontariat et par la négociation, renforcera le compte pénibilité et le compte personnel d’activité, confortera le droit à la déconnexion, rétablira le principe de faveur."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Remplacement</strong> de la loi El Khomri par une nouvelle loi."
+
+    [categories.list.us]
+    quote = "La loi El Khomri a mis fin à la hiérarchie des normes sociales. Désormais, un accord d'entreprise peut s'imposer même si un accord de branche ou la loi sont plus favorables aux salariés."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/24/abroger-la-loi-el-khomri"
+    tldr = "<strong>Abrogation</strong> la loi El Khomri."
+
+  [[categories.list]]
+    title = "Syndicats"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés.</p>
+    <p>Amnistier les syndicalistes et militants associatifs condamnés pour faits de luttes sociales, écologiques ou pour la défense des libertés, protéger les lanceurs d'alerte et investir les salariés d'une mission d'alerte sociale et environnementale.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+
+  [[categories.list]]
+    title = "Démocratie dans l'entreprise"
+
+    [categories.list.them]
+    quote = "Nous renforcerons la démocratie en entreprise. Les salariés représenteront la moitié des membres votants des conseils d’administration des grandes entreprises et des entreprises de taille intermédiaire (ETI). Je conforterai la démocratie sociale et maintiendrai le paritarisme."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Porter à 50% la représentation des salariés dans les <strong>conseils d'administration</strong> des grandes entreprises et ETI."
+
+    [categories.list.us]
+    quote = "Accorder un droit de veto suspensif aux comités d'entreprise sur les plans de licenciements, réformer les tribunaux de commerce et les procédures de redressement et liquidation d'entreprise pour donner plus de pouvoirs aux salariés et à leurs représentants, refondre la procédure judiciaire de contestation des licenciements économiques pour qu'ils ne puissent être effectifs avant épuisement des recours."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/23/empecher-les-licenciements-boursiers-dans-l-entreprise-pour-conserver-et-developper-l-emploi"
+    tldr = "<strong>Droit de véto</strong> suspensif pour les CE sur les plans de licenciements et <strong>réforme</strong> pour donner plus de pouvoir aux salariés."
+
+  [[categories.list]]
+    title = "Ubérisation"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Encadrer le développement des activités liées à l'économie collaborative pour préserver le caractère de partage et d'utilité sociale contre la privatisation, l'évasion fiscale, la concurrence déloyale et stopper l'ubérisation des activités."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m3"
+    tldr = "<strong>Stopper</strong> l'ubérisation des activités."
+
+  [[categories.list]]
+    title = "Indépendants"
+
+    [categories.list.them]
+    quote = "Pour garantir à tous le meilleur niveau de protection et lutter contre l’ubérisation débridée, je créerai un statut de l'actif. Il permettra aux travailleurs qui ne bénéficient pas aujourd’hui de la protection du Code du travail et du régime général de la Sécurité sociale d’accéder à un socle de protections et de droits fondamentaux."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Créer un <strong>statut de l'actif</strong> permettant d'accéder à un <strong>socle de protections</strong> et de <strong>droits fondamentaux</strong>."
+
+    [categories.list.us]
+    quote = "Permettre  à  tou·te·s  les  travailleur·euse·s  affilié·e·es  au  régime  social  des  indépendants (RSI) de rejoindre le régime général de la sécurité sociale. À l’heure où le travail indépendant est une grande réserve de travail à moindre coût, il est nécessaire d’harmoniser les protections et les garanties de l’ensemble des travailleur·euse·s en élargissant le régime général à toute la population active."
+    ref = "Alternatives à l’Ubérisation - 2017"
+    link = "https://avenirencommun.fr/le-livret-uberisation/"
+    tldr = "Permettre  aux travailleurs affiliés au régime  social  des  indépendants (<strong>RSI</strong>) de rejoindre le <strong>régime général de la sécurité sociale</strong>."
+
+  [[categories.list]]
+    title = "Financement des TPE et PME"
+
+    [categories.list.them]
+    quote = "Pour aider nos petites et moyennes entreprises à se développer, je faciliterai leur accès aux financements à tous les stades de leur croissance. La Banque Publique d’Investissement (BPI) interviendra en garantie comme en prêteur lorsque les banques seront réticentes à accompagner les projets.
+    Je créerai une monnaie alternative inter-entreprises qui leur permettra de s’échanger des services sans mobiliser leur trésorerie."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Garantie</strong> par la Banque Publique d'Investissement pour les PME."
+
+    [categories.list.us]
+    quote = "
+    <p>Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif.
+    </p>
+    <p>Financer l'escompte des PME à taux zéro par le pôle financier public.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21"
+    tldr = "Création d'un <strong>fonds de soutien</strong> interentreprise pour soulager les PME. Escompte des PME à <strong>taux 0</strong>."
+
+  [[categories.list]]
+    title = "Lutte contre la délocalisation"
+
+    [categories.list.them]
+    quote = "Pour une économie renforcée face à la mondialisation, j’accorderai la priorité au made in france : 50 % des marchés publics seront réservés aux petites et moyennes entreprises (PME-PMI-TPE), j’introduirai des clauses sociales, environnementales, d’emploi et de « produire local ». Les entreprises qui délocalisent devront rembourser les aides publiques reçues. Je m’opposerai aux traités de libre-échange (CETA et TAFTA) qui menacent nos préférences collectives. J’exclurai les services publics et l’agriculture du champ des négociations commerciales."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Priorité au <strong>Made in France</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer un protectionnisme solidaire pour produire en France.</p>
+    <p>Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…), augmenter immédiatement les droits de douane pour les pays aux droits sociaux limités (travail des enfants, absence de droits syndicaux), prendre des mesures de rétorsion commerciales contre les paradis fiscaux</p>
+    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
+    tldr = "Instaurer un <strong>protectionnisme solidaire</strong> pour produire en France."
+
+  [[categories.list]]
+    title = "Travail détaché"
+
+    [categories.list.them]
+    quote = "Sur le volet social, je veux mettre fin à la concurrence entre les peuples. Je demandrai une révision de la directive sur les travailleurs détachés. J’œuvrerai aussi à la création d’un socle européen des droits sociaux comprenant un salaire minimum garanti pour que le salaire des uns ne soit plus un avantage comparatif contre les autres."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Révision</strong> de la directive sur les travailleurs détachés."
+
+    [categories.list.us]
+    quote = "Cesser d'appliquer unilatéralement la directive sur le détachement de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet"
+    tldr = "<strong>Arrêt unilatéral</strong> de l'application de la directive sur les travailleurs détachés en France."
+
+  [[categories.list]]
+    title = "Pension retraite"
+
+    [categories.list.them]
+    quote = "Pour que chacun puisse bénéficier d’une même durée de retraite en bonne santé, je maintiendrai et j’étendrai les comptes pénibilités, qui permettent à ceux qui ont eu les carrières les plus difficiles de partir plus tôt."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Extension des <strong>comptes pénibilité</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.</p>
+    <p>Assurer le financement durable des régimes de retraites solidaires, intergénérationnelles et par répartition, par la mise en contribution des revenus financiers des entreprises, par l'augmentation du nombre de cotisants et de l'assiette des cotisations (créations d'emplois, hausse des salaires, recul de la précarité, hausse de l'activité des femmes, etc.) et de leur taux, la fin des exonérations fiscales pour les régimes de retraite par capitalisation.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
+    tldr = "<strong>Revalorisation</strong> des \"petites\" retraites au niveau du <strong>smic</strong>, porter le <strong>minimum vieillesse</strong> au niveau du seuil de pauvreté, pérénnisation du financement des retraites."
+
+  [[categories.list]]
+    title = "Âge de départ à la retraite"
+
+    [categories.list.them]
+    quote = "Je ne repousserai pas l’âge de départ en retraite. Nous permettrons des transferts de trimestres validés entre conjoints pour favoriser les retraites à taux-plein."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Maintien</strong> de l'âge de départ en retraite actuel."
+
+    [categories.list.us]
+    quote = "Restaurer le droit à la retraite à 60 ans à taux plein, ramener la durée de cotisation pour une retraite complète à quarante ans."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
+    tldr = "Restaurer le droit à la retraite à <strong>60 ans</strong> et <strong>40 annuités</strong> de cotisation."
+
+[[categories]]
   id = "justice"
   title = "Justice et Sécurité"
 
