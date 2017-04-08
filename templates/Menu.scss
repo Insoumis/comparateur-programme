@@ -7,9 +7,9 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   left: 0;
   position: absolute;
-  transform: translateX(-272px);
+  transform: translateX(-302px);
   transition: .4s;
-  width: 270px;
+  width: 300px;
   z-index: 20;
 
   &.open {transform: translateX(0px);}

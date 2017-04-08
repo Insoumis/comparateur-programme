@@ -39,8 +39,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle.</p>
-    <p>Reconnaître le droit de vote aux élections locales pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.</p>
+    <strong>Fixer le droit de vote à 16 ans, instaurer le vote obligatoire et la reconnaissance du vote blanc comme suffrage exprimé et généraliser la représentation proportionnelle.</strong>
+    <strong>Reconnaître le droit de vote aux élections locales pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
@@ -136,9 +136,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Rendre inéligible à vie toute personne condamnée pour corruption.</p>
-    <p>Combattre la pollution du débat parlementaire par les lobbies, interdire l'entrée des lobbyistes dans l'enceinte du Parlement et les cadeaux faits aux parlementaires.</p>
-    <p>Appliquer les recommandations d'Anticor et de Transparency International visant à empêcher la corruption et à rapprocher les représentants des représentés, notamment obliger un élu à rendre publique sa déclaration de patrimoine transmise à la Haute autorité pour la transparence de la vie publique et supprimer la réserve parlementaire (enveloppe financière dépensée sans vote du Parlement, selon le bon vouloir de chaque parlementaire)</p>
+    <strong>Rendre inéligible à vie toute personne condamnée pour corruption.</strong>
+    <strong>Combattre la pollution du débat parlementaire par les lobbies, interdire l'entrée des lobbyistes dans l'enceinte du Parlement et les cadeaux faits aux parlementaires.</strong>
+    <strong>Appliquer les recommandations d'Anticor et de Transparency International visant à empêcher la corruption et à rapprocher les représentants des représentés, notamment obliger un élu à rendre publique sa déclaration de patrimoine transmise à la Haute autorité pour la transparence de la vie publique et supprimer la réserve parlementaire (enveloppe financière dépensée sans vote du Parlement, selon le bon vouloir de chaque parlementaire)</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
@@ -166,8 +166,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Abolir la monarchie présidentielle en instaurant un régime parlementaire stable dans lequel le gouvernement détient le pouvoir exécutif et est responsable devant le Parlement, transférer le pouvoir de nomination au Parlement</p>
-    <p>Supprimer le Sénat et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois</p>
+    <strong>Abolir la monarchie présidentielle en instaurant un régime parlementaire stable dans lequel le gouvernement détient le pouvoir exécutif et est responsable devant le Parlement, transférer le pouvoir de nomination au Parlement</strong>
+    <strong>Supprimer le Sénat et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/4/abolir-la-monarchie-presidentielle"
@@ -181,7 +181,7 @@ candidat = "Emmanuel Macron"
     title = "Salaire"
 
     [categories.list.them]
-    quote = "<p>Les principes fondamentaux (durée légale du temps de travail, égalité professionnelle, salaire minimum...) resteront dans la loi. Mais, par exemple, les horaires effectifs ou l’organisation du travail seront négociés au plus près du terrain. Ils seront définis par accord majoritaire ou par référendum d’entreprise sur la base d’un accord.</p>
+    quote = "<strong>Les principes fondamentaux (durée légale du temps de travail, égalité professionnelle, salaire minimum...) resteront dans la loi. Mais, par exemple, les horaires effectifs ou l’organisation du travail seront négociés au plus près du terrain. Ils seront définis par accord majoritaire ou par référendum d’entreprise sur la base d’un accord.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
@@ -189,8 +189,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures.</p>
-    <p>Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise.</p>
+    <strong>Augmenter immédiatement le smic net mensuel de 16 % pour le porter à 1 326 euros net pour 35 heures.</strong>
+    <strong>Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s30m1"
@@ -207,15 +207,15 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>
+    <strong>
     Appliquer réellement et immédiatement les 35 heures :<br />
     • Majorer les heures supplémentaires (25 % pour les 4 premières et 50 % et plus au-delà)<br />
     • Revenir sur la flexibilisation, l'annualisation, l'intensification et les horaires fractionnés<br />
     • Revenir sur le forfait-jour et le limiter aux seuls cadres dirigeants<br />
     • Revenir sur les élargissements du travail du dimanche
-    </p>
-    <p>Convoquer une conférence nationale sur le partage du temps de travail et l'impact du progrès technologique, favoriser le passage à la semaine de quatre jours pour aller vers les 32 heures et appliquer les 32 heures pour les salariés en travail de nuit et les métiers pénibles
-    </p>
+    </strong>
+    <strong>Convoquer une conférence nationale sur le partage du temps de travail et l'impact du progrès technologique, favoriser le passage à la semaine de quatre jours pour aller vers les 32 heures et appliquer les 32 heures pour les salariés en travail de nuit et les métiers pénibles
+    </strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/28/reduire-le-temps-de-travail-travailler-moins-pour-travailler-tous"
@@ -243,10 +243,10 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique.</p>
-    <p>Injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles.<br />
-    Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité pour financer la transition énergétique et les activités socialement utiles.</p>
-    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    <strong>Engager un plan de relance de l'activité et de l'emploi au service de la transition écologique.</strong>
+    <strong>Injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles.<br />
+    Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité pour financer la transition énergétique et les activités socialement utiles.</strong>
+    <strong>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
@@ -315,8 +315,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés.</p>
-    <p>Amnistier les syndicalistes et militants associatifs condamnés pour faits de luttes sociales, écologiques ou pour la défense des libertés, protéger les lanceurs d'alerte et investir les salariés d'une mission d'alerte sociale et environnementale.</p>
+    <strong>Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprise : fonder la représentativité des organisations patronales sur la base d'élections, comme c'est déjà le cas pour les syndicats de salariés.</strong>
+    <strong>Amnistier les syndicalistes et militants associatifs condamnés pour faits de luttes sociales, écologiques ou pour la défense des libertés, protéger les lanceurs d'alerte et investir les salariés d'une mission d'alerte sociale et environnementale.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
@@ -366,9 +366,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif.
-    </p>
-    <p>Financer l'escompte des PME à taux zéro par le pôle financier public.</p>
+    <strong>Créer un fonds de solidarité interentreprises pour mutualiser la contribution sociale entre toutes les entreprises et les groupes pour soulager les PME et assurer la solidarité financière entre donneurs d'ordre et sous-traitants. Il sera financé grâce à une contribution des entreprises selon un barème progressif.
+    </strong>
+    <strong>Financer l'escompte des PME à taux zéro par le pôle financier public.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s21"
@@ -385,9 +385,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Instaurer un protectionnisme solidaire pour produire en France.</p>
-    <p>Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…), augmenter immédiatement les droits de douane pour les pays aux droits sociaux limités (travail des enfants, absence de droits syndicaux), prendre des mesures de rétorsion commerciales contre les paradis fiscaux</p>
-    <p>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</p>
+    <strong>Instaurer un protectionnisme solidaire pour produire en France.</strong>
+    <strong>Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…), augmenter immédiatement les droits de douane pour les pays aux droits sociaux limités (travail des enfants, absence de droits syndicaux), prendre des mesures de rétorsion commerciales contre les paradis fiscaux</strong>
+    <strong>Établir le droit opposable à l'emploi en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/18/engager-un-plan-de-relance-de-l-activite-et-de-l-emploi-au-service-de-la-transition-ecologique"
@@ -419,8 +419,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.</p>
-    <p>Assurer le financement durable des régimes de retraites solidaires, intergénérationnelles et par répartition, par la mise en contribution des revenus financiers des entreprises, par l'augmentation du nombre de cotisants et de l'assiette des cotisations (créations d'emplois, hausse des salaires, recul de la précarité, hausse de l'activité des femmes, etc.) et de leur taux, la fin des exonérations fiscales pour les régimes de retraite par capitalisation.</p>
+    <strong>Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.</strong>
+    <strong>Assurer le financement durable des régimes de retraites solidaires, intergénérationnelles et par répartition, par la mise en contribution des revenus financiers des entreprises, par l'augmentation du nombre de cotisants et de l'assiette des cotisations (créations d'emplois, hausse des salaires, recul de la précarité, hausse de l'activité des femmes, etc.) et de leur taux, la fin des exonérations fiscales pour les régimes de retraite par capitalisation.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/31/restaurer-le-droit-a-la-retraite-a-60-ans-augmenter-les-petites-pensions"
@@ -452,11 +452,11 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Organiser une distinction claire entre les pouvoirs :</p>
-    <p>• Fin du « verrou de Bercy » en matière fiscale, c’est-à-dire du pouvoir donné au ministère du Budget de faire obstacle aux poursuites pénales contre les fraudeurs fiscaux. La justice retrouvera ainsi la plénitude de ses compétences.</p>
-    <p>• Suppression de la Cour de justice de la République, juridiction d’exception en charge de juger de la responsabilité pénale des ministres (pour les actes commis dans le cadre de leurs fonctions). Composée de 12 parlementaires et 3 magistrats,elle ne présente pas les garanties d’une juridiction indépendante et organise l’impunité des politiques ainsi que l’a montré l’affaire Lagarde.</p>
-    <p>• Suppression de la possibilité pour les magistrat·e·s de passer du parquet au « siège », c’est-à-dire d’être procureur puis juge. Il faut mettre fin à cette situation absurde dans laquelle les juges sont tour à tour en position d’accuser et de  juger, ce qui porte évidemment atteinte au principe de l’impartialité du juge du siège.</p>
-    <p>• Renforcement de l’indépendance des juges d’instruction par la collégialité et le détachement d’officiers de police judiciaire auprès des juridictions, sur la base du volontariat et pour une période de trois ans renouvelable, afin d’éviter  l’intrusion de la hiérarchie du ministère de l’Intérieur au coeur des enquêtes sensibles.</p>
+    <strong>Organiser une distinction claire entre les pouvoirs :</strong>
+    <strong>• Fin du « verrou de Bercy » en matière fiscale, c’est-à-dire du pouvoir donné au ministère du Budget de faire obstacle aux poursuites pénales contre les fraudeurs fiscaux. La justice retrouvera ainsi la plénitude de ses compétences.</strong>
+    <strong>• Suppression de la Cour de justice de la République, juridiction d’exception en charge de juger de la responsabilité pénale des ministres (pour les actes commis dans le cadre de leurs fonctions). Composée de 12 parlementaires et 3 magistrats,elle ne présente pas les garanties d’une juridiction indépendante et organise l’impunité des politiques ainsi que l’a montré l’affaire Lagarde.</strong>
+    <strong>• Suppression de la possibilité pour les magistrat·e·s de passer du parquet au « siège », c’est-à-dire d’être procureur puis juge. Il faut mettre fin à cette situation absurde dans laquelle les juges sont tour à tour en position d’accuser et de  juger, ce qui porte évidemment atteinte au principe de l’impartialité du juge du siège.</strong>
+    <strong>• Renforcement de l’indépendance des juges d’instruction par la collégialité et le détachement d’officiers de police judiciaire auprès des juridictions, sur la base du volontariat et pour une période de trois ans renouvelable, afin d’éviter  l’intrusion de la hiérarchie du ministère de l’Intérieur au coeur des enquêtes sensibles.</strong>
     "
     ref = "Une justice au nom du peuple - 2017"
     link = "https://avenirencommun.fr/le-livret-justice/"
@@ -504,7 +504,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous améliorerons notre renseignement, à tous les niveaux (extérieur, européen, national et territorial). Les acteurs seront davantage coordonnés avec une centralisation de la planification des interventions sur le territoire et une planification des secours et réactions. Ainsi, l’interopérabilité entre les différentes forces sera accrue.</p>
+    <strong>Nous améliorerons notre renseignement, à tous les niveaux (extérieur, européen, national et territorial). Les acteurs seront davantage coordonnés avec une centralisation de la planification des interventions sur le territoire et une planification des secours et réactions. Ainsi, l’interopérabilité entre les différentes forces sera accrue.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/securite"
@@ -532,10 +532,10 @@ candidat = "Emmanuel Macron"
 
       [categories.list.us]
       quote = "
-      <p>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</p>
-      <p>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</p>
-      <p>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</p>
-      <p>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</p>
+      <strong>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</strong>
+      <strong>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</strong>
+      <strong>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</strong>
+      <strong>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</strong>
       "
       ref = "Pour l'émancipation de la jeunesse - 2017"
       link = "https://avenirencommun.fr/le-livret-jeunesse/"
@@ -574,7 +574,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Abroger la réforme du collège du gouvernement Valls. Garantir le cadre national des programmes et des diplômes.</p>
+    <strong>Abroger la réforme du collège du gouvernement Valls. Garantir le cadre national des programmes et des diplômes.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
@@ -585,11 +585,11 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous développerons les périodes de pré-apprentissage, et les filières en alternance dans tous les lycées professionnels. Nous impliquerons pleinement les branches professionnelles dans la définition des programmes et l'organisation des formations.</p>
-    <p>Nous rassemblerons les aides et subventions existantes dans une aide unique qui sera fonction de la taille de l’entreprise et du niveau de qualification de l’apprenti.</p>
-    <p>Nous développerons pour les entreprises un guichet unique permettant d’enregistrer le contrat d’apprentissage et la demande des aides.</p>
-    <p>Nous ferons converger les deux contrats d’alternance qui existent aujourd’hui en un contrat unique, souple, adapté à la demande des entreprises et des branches, sans borne supérieure d’âge.</p>
-    <p>Nous affecterons la totalité de la taxe d’apprentissage au financement de l’apprentissage.</p>
+    <strong>Nous développerons les périodes de pré-apprentissage, et les filières en alternance dans tous les lycées professionnels. Nous impliquerons pleinement les branches professionnelles dans la définition des programmes et l'organisation des formations.</strong>
+    <strong>Nous rassemblerons les aides et subventions existantes dans une aide unique qui sera fonction de la taille de l’entreprise et du niveau de qualification de l’apprenti.</strong>
+    <strong>Nous développerons pour les entreprises un guichet unique permettant d’enregistrer le contrat d’apprentissage et la demande des aides.</strong>
+    <strong>Nous ferons converger les deux contrats d’alternance qui existent aujourd’hui en un contrat unique, souple, adapté à la demande des entreprises et des branches, sans borne supérieure d’âge.</strong>
+    <strong>Nous affecterons la totalité de la taxe d’apprentissage au financement de l’apprentissage.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/alternance-apprentissage"
@@ -597,10 +597,10 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Rétablir le bac professionnel en quatre ans.</p>
-    <p>Appuyer l'enseignement professionnel public, arrêter les fermetures de classes et de lycées professionnels et augmenter le nombre d'établissements.</p>
-    <p>Refonder l'organisation de la formation professionnelle des adultes et la formation continue, et l'inclure dans le service public de l'enseignement professionnel. Elle doit d'abord profiter aux travailleurs pas ou peu qualifiés et aux chômeurs.</p>
-    <p>Instaurer un enseignement de sciences économiques et sociales obligatoire en seconde et un enseignement de philosophie de 2h hebdomadaires en terminale professionnelle.</p>
+    <strong>Rétablir le bac professionnel en quatre ans.</strong>
+    <strong>Appuyer l'enseignement professionnel public, arrêter les fermetures de classes et de lycées professionnels et augmenter le nombre d'établissements.</strong>
+    <strong>Refonder l'organisation de la formation professionnelle des adultes et la formation continue, et l'inclure dans le service public de l'enseignement professionnel. Elle doit d'abord profiter aux travailleurs pas ou peu qualifiés et aux chômeurs.</strong>
+    <strong>Instaurer un enseignement de sciences économiques et sociales obligatoire en seconde et un enseignement de philosophie de 2h hebdomadaires en terminale professionnelle.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
@@ -647,8 +647,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>La flambée des frais d’inscription est déjà programmée pour pallier la faillite des universités autonomes. Ceci pousse à un endettement accru des étudiants et alimente ce qui s’apparente à une bulle financière de la dette étudiante</p>
-    <p>L’université sera gratuite dès la rentrée 2017, prise en charge par l’État.</p>"
+    <strong>La flambée des frais d’inscription est déjà programmée pour pallier la faillite des universités autonomes. Ceci pousse à un endettement accru des étudiants et alimente ce qui s’apparente à une bulle financière de la dette étudiante</strong>
+    <strong>L’université sera gratuite dès la rentrée 2017, prise en charge par l’État.</strong>"
     ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
     link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
     tldr = "Université gratuite à la rentrée 2017."
@@ -671,8 +671,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Nous visons un doublement du budget de l’ESR (Enseignement Supérieur et Recherche) en cinq ans. Le plan d’investissement de début de mandat dégagera 2 Mds € pour rénover les universités et construire des logements étudiants. Il s’agira également d’aider les organismes (CNRS et EPST) à financer la construction de laboratoires, amphithéâtres et lieux de vie sociale, citoyenne et étudiante sur les campus.</p>
-    <p>Abrogation des lois Pécresse, Fioraso et Sauvadet ; mise en place d’un cadre national de l’Université.</p>
+    <strong>Nous visons un doublement du budget de l’ESR (Enseignement Supérieur et Recherche) en cinq ans. Le plan d’investissement de début de mandat dégagera 2 Mds € pour rénover les universités et construire des logements étudiants. Il s’agira également d’aider les organismes (CNRS et EPST) à financer la construction de laboratoires, amphithéâtres et lieux de vie sociale, citoyenne et étudiante sur les campus.</strong>
+    <strong>Abrogation des lois Pécresse, Fioraso et Sauvadet ; mise en place d’un cadre national de l’Université.</strong>
     "
     ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
     link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
@@ -690,8 +690,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Chaque université aura par exemple la responsabilité de \" Boutiques de Sciences\", déjà largement expérimentées à l’étranger et qui offrent un accès peu coûteux aux connaissances scientifiques et technologiques de pointe. </p>
-    <p>Chaque université aura pour mission de créer une \"université populaire\" ouverte, avec des cours libres assurés volontairement par des enseignant·e·s-chercheur·euse·s dans lecadre de leur service. Les projets associant les citoyen·ne·s seront encouragés dans un esprit de diffusion des savoirs et de réflexion citoyenne sur leur usage.</p>
+    <strong>Chaque université aura par exemple la responsabilité de \" Boutiques de Sciences\", déjà largement expérimentées à l’étranger et qui offrent un accès peu coûteux aux connaissances scientifiques et technologiques de pointe. </strong>
+    <strong>Chaque université aura pour mission de créer une \"université populaire\" ouverte, avec des cours libres assurés volontairement par des enseignant·e·s-chercheur·euse·s dans lecadre de leur service. Les projets associant les citoyen·ne·s seront encouragés dans un esprit de diffusion des savoirs et de réflexion citoyenne sur leur usage.</strong>
     "
     ref = "Le choix du savoir : des moyens pour chercher et étudier - 2017"
     link = "https://avenirencommun.fr/livret-de-lenseignement-de-recherche/"
@@ -730,11 +730,11 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens.</p>
-    <p>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</p>
-    <p>Développer au moins une revue scientifique internationale digne de ce nom en français.</p>
-    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</p>
-    <p>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</p>
+    <strong>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens.</strong>
+    <strong>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</strong>
+    <strong>Développer au moins une revue scientifique internationale digne de ce nom en français.</strong>
+    <strong>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</strong>
+    <strong>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/64/passer-a-la-francophonie-politique"
@@ -748,12 +748,317 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Éradiquer l'illettrisme pour les jeunes sortis du système scolaire et les adultes à l'horizon 2022.</p>
-    <p>Développer les structures d'alphabétisation et les cours de langue française pour les personnes non francophones.</p>
+    <strong>Éradiquer l'illettrisme pour les jeunes sortis du système scolaire et les adultes à l'horizon 2022.</strong>
+    <strong>Développer les structures d'alphabétisation et les cours de langue française pour les personnes non francophones.</strong>
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/76/eradiquer-l-illettrisme-et-developper-l-alphabetisation"
     tldr = "Éradiquer l'illetrisme à l'horizon 2022."
+
+[[categories]]
+  id = "ecology"
+  title = "Environnement et Agriculture"
+
+  [[categories.list]]
+    title = "Énergies renouvelables"
+
+    [categories.list.us]
+    quote = "
+    <p>Adopter un plan de transition énergétique avec un double axe sobriété/efficacité énergétique et transition vers les énergies renouvelables.</p>
+    <p>La sortie des énergies fossiles et du nucléaire sera rendue possible par la baisse de la consommation, le développement des énergies renouvelables, le soutien aux infrastructures de réseaux et l’investissement dans les innovations énergétiques.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
+    tldr = "<strong>Développer</strong> l'ensemble des énergies renouvelables."
+
+    [categories.list.them]
+    quote = "
+    <p>Nous financerons le développement des énergies renouvelables : d’ici à 2022, nous avons pour objectif de doubler la capacité en éolien et en solaire photovoltaïque.</p>
+    <p>Nous focaliserons les efforts de recherche, de développement et d’investissement des opérateurs sur le stockage de l’énergie et les réseaux électriques intelligents.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "Focalisation des efforts de recherches sur les opérateurs de <strong>stockage de l'énergie</strong>."
+
+  [[categories.list]]
+    title = "Barrages"
+
+    [categories.list.us]
+    quote = "Stopper la privatisation des barrages hydroélectriques."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m1"
+    tldr = "<strong>Stopper la privatisation</strong> des barrages hydroélectriques."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Énergies carbonnées"
+
+    [categories.list.us]
+    quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
+    tldr = "<strong>Sortir</strong> des énergies carbonées au profit des énergies renouvelables."
+
+    [categories.list.them]
+    quote = "Nous fermerons les centrales à charbon restantes en 5 ans."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "Fermeture des <strong>centrales à charbon</strong>."
+
+  [[categories.list]]
+    title = "Gaz de schiste"
+
+    [categories.list.us]
+    quote = "Interdire l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
+    ref = "100% énergies renouvelables - 2017"
+    link = "https://avenirencommun.fr/le-livret-energie/"
+    tldr = "<strong>Interdire</strong> l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
+
+    [categories.list.them]
+    quote = "Nous interdirons l’exploration des gaz de schiste et ne délivrerons aucun nouveau permis d’exploration d’hydrocarbures."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "<strong>Interdiction</strong> de l'exploration des gaz de schiste."
+
+  [[categories.list]]
+    title = "Nucléaire"
+
+    [categories.list.us]
+    quote = "
+    Sortir du nucléaire<br />
+    • Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démantèlement.<br />
+    • Abandonner l'opération du grand carénage visant à prolonger la vie des centrales nucléaires au-delà de quarante ans.<br />
+    • Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure.
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m2"
+    tldr = "<strong>Sortir</strong> du nucléaire. Fermer <strong>Fessenheim</strong> en garantissant l'emploi des salariés. Abandonner l'opération du <strong>grand carénage</strong>. Abandonner les projets d'<strong>EPR</strong>."
+
+    [categories.list.them]
+    quote = "
+    <p>La fermeture de la centrale de Fessenheim sera confirmée. Elle interviendra au moment de la mise en service de l'EPR de Flamanville.</p>
+    <p>Nous réduirons notre dépendance à l'énergie nucléaire, avec l'objectif de 50% d'énergie nucléaire à l'horizon 2025.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "Fermeture <strong>différée</strong> de la centrale nucléaire de <strong>Fessenheim</strong> jusqu'à l'ouverture de l'<strong>EPR</strong> de Flamanville. <strong>Maintien à 50%</strong> de l'energie nucléaire."
+
+  [[categories.list]]
+    title = "Enfouissement des déchets nucléaire"
+
+    [categories.list.us]
+    quote = "
+    • Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure.<br />
+    • Rendre publique les données sur l'enfouissement des déchets nucléaires depuis soixante ans et informer sur les dangers sanitaires avérés et/ou éventuels.
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m2"
+    tldr = "<strong>Abandonner</strong> l'enfouissement des déchets nucléaires à Bure. <strong>Rendre publique les données</strong> sur l'enfouissement des déchets nucléaires."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Gaspillage et Recyclage"
+
+    [categories.list.us]
+    quote = "
+    <p>Combattre l'obsolescence programmée des biens de consommation par un allongement des durées de garanties légales des produits.</p>
+    <p>Lutter contre le suremballage, le gaspillage (notamment alimentaire) et refuser le tout jetable.</p>
+    <p>Rendre obligatoires le recyclage, le compostage ou l'incinération avec récupération de l'énergie produite pour tous les déchets, généraliser les consignes dans les commerces.</p>
+    <p>Soutenir toutes les initiatives s'appuyant sur la réutilisation des matériaux (ressourceries…) et développer les filières scolaires et universitaires professionnelles dans le secteur.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/44/une-france-zero-dechet"
+    tldr = "Combattre l'<strong>obsolescence programmée</strong>. Lutter contre le <strong>suremballage</strong> et le <strong>gaspillage</strong>. Rendre <strong>obligatoire</strong> le recyclage, le compostage ou l'incinération."
+
+    [categories.list.them]
+    quote = "
+    <p>Nous généraliserons les engagements volontaires de lutte et lancerons de nouvelles initiatives contre le gaspillage alimentaire avec les fédérations professionnelles concernées.</p>
+    <p>Nous renforcerons la lutte contre l’obsolescence programmée en renforçant l’affichage de la durée de vie des appareils électroménagers.</p>
+    <p>Nous visons « 100% de plastique recyclé sur tout le territoire » d’ici 2025, grâce à la modernisation des centres de tri par l’augmentation progressive de la taxe générale sur les activités polluantes (sur l’incinération et l’enfouissement).</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "Renforcer la lutte contre l'<strong>obsolescence programmée</strong>. Modernisation des <strong>centres de tri</strong>."
+
+  [[categories.list]]
+    title = "Rénovation écologique des bâtiments"
+
+    [categories.list.us]
+    quote = "
+    <p>Assurer l'isolation d'au moins 700 000 logements par an.</p>
+    <p>Renforcer les programmes locaux de détection des passoires énergétiques, avec davantage de moyens humains et financiers.</p>
+    <p>Mettre fin aux situations de précarité énergétique que vivent les ménages.</p>
+    <p>Former, labelliser et coordonner les professionnels de la rénovation énergétique afin d'imposer une obligation de résultats.</p>
+    <p>Mettre en place un guichet unique regroupant les demandes de financement, l'évaluation des besoins, la coordination des professionnels nécessaires pour organiser la rénovation par les propriétaires individuels.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s40m1"
+    tldr = "Isolation d'au moins <strong>700 000 logements par an</strong>. Mettre fin aux situations de précarité énergétique."
+
+    [categories.list.them]
+    quote = "Nous rénoverons 1 million de logements mal isolés d’ici 2022, et en priorité ceux des propriétaires les plus modestes."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme"
+    tldr = "Rénovation d'<strong>1 million de logements</strong> mal isolés <strong>d’ici 2022</strong>."
+
+    [[categories.list]]
+      title = "Les biens communs"
+
+      [categories.list.us]
+      quote = "
+      <p>Constitutionnaliser la règle verte : ne pas prélever sur la nature davantage que ce qu'elle peut reconstituer ni produire plus que ce qu'elle peut supporter.</p>
+      <p>Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie, la monnaie ne sont pas des marchandises. Ils doivent être gérés démocratiquement : le droit de propriété doit être soumis à l'intérêt général, la propriété commune protégée et les services publics développés.</p>
+      <p>Nous établirons la gratuité des premiers m³ d’eau nécessaires à une vie digne et une tarification progressive et différenciée pour pénaliser les mésusages.<br />
+      L’usage de l’eau ne peut pas être accessible dans les mêmes conditions selon qu’il s’agit d’une résidence principale ou secondaire ; dans la cuisine et la salle de bains d’une famille ou pour concourir au chiffre d’affaires d’une entreprise...</p>
+      <p>Nous ferons de la question de l’eau, de sa protection et de son accès pour tou·te·s un enjeu de la politique internationale et de coopération de la France. Nous renforcerons la gestion démocratique dans le secteur de l’eau à l’échelle mondiale et garantirons la mise en oeuvre effective du droit à l’eau et à l’assainissement avec des mécanismes de solidarité envers les peuples les plus défavorisés.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s9m2"
+      tldr = "Constitutionnaliser la <strong>règle verte</strong>. Protéger les <strong>biens communs</strong> : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. <strong>Gratuité</strong> des premiers m³ d’eau nécessaires à une <strong>vie digne</strong>. Renforcer la <strong>gestion démocratique</strong> dans le secteur de l’eau à l’<strong>échelle mondiale</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Perspectives agricoles"
+
+    [categories.list.us]
+    quote = "
+    <p>Engager la réforme agraire pour faciliter l'installation des jeunes agriculteurs en limitant la concentration des terres et la course à l'agrandissement et créer 300 000 emplois agricoles grâce à des prix rémunérateurs et une refonte de la PAC.</p>
+    <p>Favoriser les circuits courts, la vente directe, la transformation sur place et plafonner les marges de la grande distribution par un coefficient multiplicateur limité pour garantir des prix rémunérateurs aux producteurs et interdire les ventes à perte pour les agriculteurs.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne"
+    tldr = "Refonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
+
+    [categories.list.them]
+    quote = "
+    Nous soutiendrons nos agriculteurs.<br />
+    • Nous lancerons un plan de transformation agricole de 5 milliards d’euros.<br />
+    • Nous rémunérerons les services environnementaux rendus par les agriculteurs.
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
+    tldr = "<strong>Soutien</strong> aux agriculteurs."
+
+  [[categories.list]]
+    title = "Terres agricoles"
+
+    [categories.list.us]
+    quote = "Création d’Établissements Publics Fonciers Ruraux (EPFR), refondant et élargissant les missions des Sociétés d'aménagement foncier et d'établissement rural (SAFER), au service d’une plus grande cohérence entre les divers instruments, d’une politique favorable au développement de l’agriculture écologique et paysanne et de la baisse du prix du foncier."
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Création d'EPFR au service du développement d'une agriculture <strong>écologique</strong> et <strong>paysanne</strong> et de la <strong>baisse du prix</strong> du foncier."
+
+    [categories.list.them]
+    quote = "Nous renforcerons la transparence des transactions agricoles en soumettant toutes les sociétés foncières au contrôle des SAFER."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme"
+    tldr = "Renforcer la <strong>transparence des transactions</strong> agricole."
+
+  [[categories.list]]
+    title = "Agriculture biologique, OGM et pesticides"
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une agriculture diversifiée et écologique (polyculture, élevage, permaculture, etc.) et promouvoir les arbres fruitiers dans les espaces publics.</p>
+    <p>Refuser les OGM, bannir les pesticides nuisibles, en commençant par une interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.).</p>
+    <p>Imposer l’objectif d’une alimentation 100 % biologique locale dans la restauration collective.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Instaurer une agriculture <strong><strong>diversifiée</strong></strong> et <strong>écologique</strong>. Refuser les <strong>OGM</strong>, bannir les <strong>pesticides nuisibles</strong>. Imposer l’objectif d’une alimentation <strong>100 % biologique dans les cantines</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Élevages"
+
+    [categories.list.us]
+    quote = "
+    Nous mettrons en œuvre un plan national visant à accompagner l’ensemble des agriculteurs dans la transition écologique de l’agriculture. Il est basé sur :<br />
+    • L’arrêt des projets de fermes-usines.<br />
+    • La redéfinition des normes d’élevage (densité, aire de pâturage) en vue du respect de la condition de vie des animaux d’élevage ; l’amélioration et l’application effective de la réglementation sur les conditions d’abattage, afin de limiter au maximum la souffrance animale et de rendre possible l'abattage à la ferme.
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Redéfinition des normes d’élevage en vue du respect de la <strong>condition de vie des animaux</strong>. Arrêt des projets de <strong>fermes-usines</strong>. Application effective de la réglementation sur les <strong>conditions d’abattage</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Politique agricole commune (PAC)"
+
+    [categories.list.us]
+    quote = "
+    <strong>Sortir des traités européens et exiger la refondation de la politique agricole commune pour en finir avec le libre-échange généralisé, la course au gigantisme et à l’agro-business, et le dumping fiscal et social à l’intérieur de l’Union européenne.</strong>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Exiger</strong> la refondation de la politique agricole commune."
+
+    [categories.list.them]
+    quote = "Nous agirons pour que les agriculteurs pèsent plus dans leurs négociations avec les industriels de l’agro-alimentaire. Nous plaiderons activement pour faire évoluer le droit européen de la concurrence au bénéfice de nos producteurs."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/agriculture"
+    tldr = "<strong>Plaider activement</strong> pour faire évoluer le droit européen."
+
+  [[categories.list]]
+    title = "Grande distribution"
+
+    [categories.list.us]
+    quote = "
+    Mise en place, pour certaines productions, de prix minimums aux producteurs et de taxes à l’importation. Ces taxes seront appliquées, si besoin, afin de ne pas créer de distorsions de concurrence entre les produits français et les produits importés de pays où les niveaux de rémunération du travail seraient inférieurs. Par la suite, seront également mis en place des « coefficients multiplicateurs » maximum, après concertation des organismes interprofessionnels, en vue de garantir une juste rémunération des producteurs (et notamment éviter les ventes à pertes) et de limiter les phénomènes de captation de la valeur ajoutée des intermédiaires et de la grande distribution.
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Mise en place de <strong>prix minimums</strong> aux producteurs et de <strong>taxes à l’importation</strong>."
+
+    [categories.list.them]
+    quote = "Nous encouragerons le développement de véritables organisations de producteurs, avec des capacités de négociations renforcées pour peser plus dans les négociations commerciales avec les centrales d’achat de la grande distribution."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
+    tldr = "Développement d'<strong>organisations de producteurs</strong> pour peser dans les négociations avec la grande distribution."
+
+  [[categories.list]]
+    title = "Traités européens"
+
+    [categories.list.us]
+    quote = "Il conviendra de renégocier ou de refuser ceux des accords européens et internationaux qui contribuent à l’accroissement de la crise écologique (exemples : CETA, TAFTA, TISA) et d’appliquer pleinement les engagements en faveur de l’environnement."
+    ref = "Face à l’urgence climatique, la planification écologique - 2017"
+    link = "https://avenirencommun.fr/livret-planification-ecologique-regle-verte/"
+    tldr = "<strong>Renégocier</strong> les accords qui contribuent à la <strong>crise écologique</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Exportation"
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre en œuvre une politique agricole cohérente portant l’objectif de souveraineté alimentaire par une production centrée sur les besoins du marché intérieur, par la protection dudit marché, par l’interdiction d’utiliser directement ou indirectement des aides pour exporter à prix de dumping, (...).</p>
+    <p>Défense intransigeante et extension des appellations d’origine dans le cadre du protectionnisme solidaire et de la sortie des traités européens.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Interdiction</strong> d’utiliser directement ou indirectement des aides pour exporter à prix de <strong>dumping</strong>. Défense intransigeante et extension des <strong>appellations d’origine</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Importation"
+
+    [categories.list.us]
+    quote = "
+    <p>C'est le règne du déménagement permanent des marchandises. Les chaînes de production et les lieux de consommation sont de plus en plus éloignés. Pour relocaliser les productions au plus près des consommateurs, le protectionnisme solidaire doit s'accompagner d'une politique qui pénalise les transports de longue distance, notamment routiers.</p>
+    <p>Généraliser au terme de cinq ans, et par le biais d’une norme d’importation spécifique, des importations de produits issus du commerce équitable (garantissant notamment un prix minimum aux produits issus de l'agriculture paysanne) pour tous les produits agricoles concernés.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Protectionnisme solidaire</strong>. Pénalisation des transports de <strong>longue distance</strong>. Favoriser l'importation de produits issus du <strong>commerce équitable</strong>."
+
+    [categories.list.them]
 
 [[categories]]
   id = "territory"
@@ -764,8 +1069,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous investirons dans le numérique et nous développerons la télé-médecine pour permettre les prises en charge à distance.</p>
-    <p>Nous doublerons le nombre de maisons de santé d’ici 2022.</p>
+    <strong>Nous investirons dans le numérique et nous développerons la télé-médecine pour permettre les prises en charge à distance.</strong>
+    <strong>Nous doublerons le nombre de maisons de santé d’ici 2022.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
@@ -795,8 +1100,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous couvrirons en très haut débit l’ensemble du territoire. Ce sera fait d’ici la fin du quinquennat, pour ne laisser aucun territoire à la traîne dans la transition numérique. Nous éliminerons les zones sans réseau (aussi appelées zones blanches).</p>
-    <p>Les opérateurs devront y apporter la 4G et améliorer la couverture en doublant le nombre d’antennes mobiles. L’Etat soutiendra cette initiative en consentant des conditions économiques favorables sur les redevances d’utilisation des fréquences hertziennes. S’ils ne tiennent pas leurs objectifs, les opérateurs seront sanctionnés financièrement.</p>
+    <strong>Nous couvrirons en très haut débit l’ensemble du territoire. Ce sera fait d’ici la fin du quinquennat, pour ne laisser aucun territoire à la traîne dans la transition numérique. Nous éliminerons les zones sans réseau (aussi appelées zones blanches).</strong>
+    <strong>Les opérateurs devront y apporter la 4G et améliorer la couverture en doublant le nombre d’antennes mobiles. L’Etat soutiendra cette initiative en consentant des conditions économiques favorables sur les redevances d’utilisation des fréquences hertziennes. S’ils ne tiennent pas leurs objectifs, les opérateurs seront sanctionnés financièrement.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
@@ -814,9 +1119,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous organiserons le retour des services publics dans les quartiers, nous sanctuariserons les soutiens aux associations et aux professionnels de terrain qui construisent et nous associerons les habitants aux décisions qui les concernent.</p>
-    <p>Nous élargirons les horaires d’ouverture des services publics pour les adapter aux contraintes des usagers : certains services publics ouvriront le samedi et en soirée, afin d’être plus facilement accessibles par tous les usagers, et notamment ceux qui travaillent toute la semaine et en journée.</p>
-    <p> Nous donnerons accès aux services publics en développant les maisons de services publics qui regrouperont dans un même lieu (sous-préfectures notamment) tous les services essentiels à la vie quotidienne (poste, prestations sociales, accès à l’emploi...).</p>
+    <strong>Nous organiserons le retour des services publics dans les quartiers, nous sanctuariserons les soutiens aux associations et aux professionnels de terrain qui construisent et nous associerons les habitants aux décisions qui les concernent.</strong>
+    <strong>Nous élargirons les horaires d’ouverture des services publics pour les adapter aux contraintes des usagers : certains services publics ouvriront le samedi et en soirée, afin d’être plus facilement accessibles par tous les usagers, et notamment ceux qui travaillent toute la semaine et en journée.</strong>
+    <strong> Nous donnerons accès aux services publics en développant les maisons de services publics qui regrouperont dans un même lieu (sous-préfectures notamment) tous les services essentiels à la vie quotidienne (poste, prestations sociales, accès à l’emploi...).</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
@@ -824,8 +1129,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Défendre et reconstruire le maillage (...) de services publics sur tout le territoire, dans les départements ruraux et les quartiers populaires. </p>
-    <p>Faire un moratoire sur les fermetures de services publics et un plan de redéploiement des services publics sur les territoires ruraux et périurbains : services postaux, gares de proximité, hôpitaux et services  de santé, écoles, palais de justice.</p>
+    <strong>Défendre et reconstruire le maillage (...) de services publics sur tout le territoire, dans les départements ruraux et les quartiers populaires. </strong>
+    <strong>Faire un moratoire sur les fermetures de services publics et un plan de redéploiement des services publics sur les territoires ruraux et périurbains : services postaux, gares de proximité, hôpitaux et services  de santé, écoles, palais de justice.</strong>
     "
     ref = "Le livret Ruralité et Aménagement du territoire
  - 2017"
@@ -837,7 +1142,7 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Nous donnerons plus de souplesse aux collectivités pour gérer leurs finances. Nous donnerons de la visibilité aux collectivités sur leurs ressources, sur 5 ans. Les normes imposées d’en haut seront simplifiées. Nous accompagnerons les collectivités pour rendre plus efficaces leurs politiques d’achat ou de gestion des déchets.</p>
+    <strong>Nous donnerons plus de souplesse aux collectivités pour gérer leurs finances. Nous donnerons de la visibilité aux collectivités sur leurs ressources, sur 5 ans. Les normes imposées d’en haut seront simplifiées. Nous accompagnerons les collectivités pour rendre plus efficaces leurs politiques d’achat ou de gestion des déchets.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
@@ -845,9 +1150,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Reconnaître le principe de libre administration des collectivités, par des communautés de communes choisies et non plus imposées. À l’opposé d’une logique de régionalisation, l’État reprendra le premier rôle de mise en cohérence du développement économique des territoires, dans un objectif d’intérêt général et de transition planifiée et écologique de l’économie.</p>
+    <strong>Reconnaître le principe de libre administration des collectivités, par des communautés de communes choisies et non plus imposées. À l’opposé d’une logique de régionalisation, l’État reprendra le premier rôle de mise en cohérence du développement économique des territoires, dans un objectif d’intérêt général et de transition planifiée et écologique de l’économie.</strong>
 
-    <p>Abroger les lois de l’Acte 3 de la décentralisation (loi NOTRe, loi MAPTAM [Modernisation de l'action publique territoriale et d'affirmation des métropoles], loi relative à la délimitation des régions) pour mettre en place une organisation territoriale autour des communes et des départements. Ces collectivités seront le pivot de la construction d’espaces de souveraineté à l’échelle des bassins de vie.</p>
+    <strong>Abroger les lois de l’Acte 3 de la décentralisation (loi NOTRe, loi MAPTAM [Modernisation de l'action publique territoriale et d'affirmation des métropoles], loi relative à la délimitation des régions) pour mettre en place une organisation territoriale autour des communes et des départements. Ces collectivités seront le pivot de la construction d’espaces de souveraineté à l’échelle des bassins de vie.</strong>
     "
     ref = "Le livret Ruralité et Aménagement du territoire
  - 2017"
@@ -859,8 +1164,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "
-    <p>Les collectivités devront s’engager à réduire la dépense publique locale, à hauteur de 10 milliards d’euros.</p>
-    <p>Nous consacrerons 10 milliards d’euros du plan d’investissement aux actions des collectivités.</p>
+    <strong>Les collectivités devront s’engager à réduire la dépense publique locale, à hauteur de 10 milliards d’euros.</strong>
+    <strong>Nous consacrerons 10 milliards d’euros du plan d’investissement aux actions des collectivités.</strong>
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
@@ -880,9 +1185,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Assurer la transparence des décisions et en finir avec la concentration du pouvoir  dans  les  collectivités  locales.  Le  code  général  des  collectivités  territoriales sera notamment modifié afin de séparer fonctions délibératives et fonctions exécutives. Il s’agit, à travers ces mesures, de garantir le fonctionnement démo-cratique des institutions, les territoires ne devant pas être des baronnies minées par le clientélisme.</p>
-    <p>Permettre la participation des citoyen·ne·s aux décisions des collec- tivités par l’instauration de conférences citoyennes de territoire.</p>
-    <p>Abroger la loi NOTRe : contre les nouvelles féodalités et l'éloignement du pouvoir des citoyens, refonder l'organisation territoriale de la République et défendre les libertés communales.</p>
+    <strong>Assurer la transparence des décisions et en finir avec la concentration du pouvoir  dans  les  collectivités  locales.  Le  code  général  des  collectivités  territoriales sera notamment modifié afin de séparer fonctions délibératives et fonctions exécutives. Il s’agit, à travers ces mesures, de garantir le fonctionnement démo-cratique des institutions, les territoires ne devant pas être des baronnies minées par le clientélisme.</strong>
+    <strong>Permettre la participation des citoyen·ne·s aux décisions des collec- tivités par l’instauration de conférences citoyennes de territoire.</strong>
+    <strong>Abroger la loi NOTRe : contre les nouvelles féodalités et l'éloignement du pouvoir des citoyens, refonder l'organisation territoriale de la République et défendre les libertés communales.</strong>
     "
     ref = "Le livret Ruralité et Aménagement du territoire
  - 2017"
@@ -901,9 +1206,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Mettre en place un commissariat à l’aménagement du territoire, doté de moyens d’analyse et de planification.</p>
-    <p>Promulguer une loi de justice territoriale visant à enrayer la loi du marché (...) et promouvoir la coopération et le développement soutenable et juste de tous les territoires de la République.</p>
-    <p>Renforcer le versement pour sous-densité (outil qui permet de lutter contre l’étalement urbain en autorisant l’instauration par les communes d’un seuil minimal de densité par secteur) et planifier le rapprochement des bassins de vie et des bassins d’emploi, afin de stopper l’étalement urbain.</p>
+    <strong>Mettre en place un commissariat à l’aménagement du territoire, doté de moyens d’analyse et de planification.</strong>
+    <strong>Promulguer une loi de justice territoriale visant à enrayer la loi du marché (...) et promouvoir la coopération et le développement soutenable et juste de tous les territoires de la République.</strong>
+    <strong>Renforcer le versement pour sous-densité (outil qui permet de lutter contre l’étalement urbain en autorisant l’instauration par les communes d’un seuil minimal de densité par secteur) et planifier le rapprochement des bassins de vie et des bassins d’emploi, afin de stopper l’étalement urbain.</strong>
     "
     ref = "Le livret Ruralité et Aménagement du territoire
  - 2017"
@@ -935,9 +1240,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Sortir du tout TGV et développer les trains du quotidien (TER et Intercités) ; réouvrir les gares et lignes fermées ; assurer un maillage fin du territoire par la planification intermodale des moyens de déplacement.</p>
-    <p>Désobéir aux paquets ferroviaires européens pour bloquer l’ouverture à la concurrence du trafic intérieur des voyageurs prévue en 2023.</p>
-    <p>Développer les transports ferroviaires afin d’assurer un maillage adapté aux différentes échelles des territoires. Cela suppose de mettre en œuvre un plan de transport desservant harmonieusement et efficacement l’ensemble des liaisons TER, intercités, TGV. Nous assurerons les liaisons entre aggloméra par des TGV, des trains intercités, des TER et des trams-trains efficaces. </p>
+    <strong>Sortir du tout TGV et développer les trains du quotidien (TER et Intercités) ; réouvrir les gares et lignes fermées ; assurer un maillage fin du territoire par la planification intermodale des moyens de déplacement.</strong>
+    <strong>Désobéir aux paquets ferroviaires européens pour bloquer l’ouverture à la concurrence du trafic intérieur des voyageurs prévue en 2023.</strong>
+    <strong>Développer les transports ferroviaires afin d’assurer un maillage adapté aux différentes échelles des territoires. Cela suppose de mettre en œuvre un plan de transport desservant harmonieusement et efficacement l’ensemble des liaisons TER, intercités, TGV. Nous assurerons les liaisons entre aggloméra par des TGV, des trains intercités, des TER et des trams-trains efficaces. </strong>
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
@@ -950,9 +1255,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Nous organiserons, en différents lieux de l’agglomération (gare, nœud autoroutier, sortie d’autoroute, port) des centres de distribution urbaine, bases logistiques de tri, de stockage, éventuellement de vente, où s’opérera cette rupture de charge. À partir de ces centres, nous mettrons en place une logistique « du dernier kilomètre » par toutes sortes de modes non polluants (camions au gaz naturel, camionnettes électriques, tramways de fret, triporteurs à assistance électrique). Pour les produits frais, issus de l’agriculture et de l’élevage, une logistique particulière de proximité sera mise en place, favorisant les circuits courts de distribution, avec des véhicules non-polluants.</p>
-    <p>Nous relancerons le transport de fret par voie ferrée, en particulier grâce au développement du transport combiné rail-route et du ferroutage (camions mis sur les trains), afin de réduire la part du transport routier des marchandises. Nous lancerons ainsi un grand plan ferroutage avec comme objectif que tous les camions traversant notre pays entre la frontière belge et la frontière espagnole passent sur des trains.</p>
-    <p>Le transport fluvial est le moins polluant à la tonne transportée, (...). Nous favoriserons des investissements et des innovations dans ce mode de transports, en rénovant les infrastructures fluviales existantes, et en augmentant leurs capacités. Le transport fluvial devra être systématiquement relié aux ports maritimes.</p>
+    <strong>Nous organiserons, en différents lieux de l’agglomération (gare, nœud autoroutier, sortie d’autoroute, port) des centres de distribution urbaine, bases logistiques de tri, de stockage, éventuellement de vente, où s’opérera cette rupture de charge. À partir de ces centres, nous mettrons en place une logistique « du dernier kilomètre » par toutes sortes de modes non polluants (camions au gaz naturel, camionnettes électriques, tramways de fret, triporteurs à assistance électrique). Pour les produits frais, issus de l’agriculture et de l’élevage, une logistique particulière de proximité sera mise en place, favorisant les circuits courts de distribution, avec des véhicules non-polluants.</strong>
+    <strong>Nous relancerons le transport de fret par voie ferrée, en particulier grâce au développement du transport combiné rail-route et du ferroutage (camions mis sur les trains), afin de réduire la part du transport routier des marchandises. Nous lancerons ainsi un grand plan ferroutage avec comme objectif que tous les camions traversant notre pays entre la frontière belge et la frontière espagnole passent sur des trains.</strong>
+    <strong>Le transport fluvial est le moins polluant à la tonne transportée, (...). Nous favoriserons des investissements et des innovations dans ce mode de transports, en rénovant les infrastructures fluviales existantes, et en augmentant leurs capacités. Le transport fluvial devra être systématiquement relié aux ports maritimes.</strong>
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
@@ -965,8 +1270,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Nationaliser les autoroutes.</p>
-    <p>Garantir la responsabilité de l’État dans la gestion et l’entretien des routes nationales. L’enveloppe budgétaire ainsi économisée par les régions sera réattribuée à la création de stations d’alimentation en énergies propres pour les véhicules. Nous mettrons de cette manière en œuvre les conditions de mutation du parc automobile vers les énergies propres (électricité et gaz). </p>
+    <strong>Nationaliser les autoroutes.</strong>
+    <strong>Garantir la responsabilité de l’État dans la gestion et l’entretien des routes nationales. L’enveloppe budgétaire ainsi économisée par les régions sera réattribuée à la création de stations d’alimentation en énergies propres pour les véhicules. Nous mettrons de cette manière en œuvre les conditions de mutation du parc automobile vers les énergies propres (électricité et gaz). </strong>
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
@@ -998,8 +1303,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Organiser un plan de sortie rapide du diesel en ville.</p>
-    <p>Supprimer progressivement les avantages fiscaux liés au diesel pour les flottes d’entreprises.</p>
+    <strong>Organiser un plan de sortie rapide du diesel en ville.</strong>
+    <strong>Supprimer progressivement les avantages fiscaux liés au diesel pour les flottes d’entreprises.</strong>
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
@@ -1012,9 +1317,9 @@ candidat = "Emmanuel Macron"
 
     [categories.list.us]
     quote = "
-    <p>Soutenir les formules combinant le vélo et le TER, essentielles dans le cadre des déplacements domicile-travail : dans les régions qui ont fait ce choix, les quantités de CO2 émis ont drastiquement baissé.</p>
-    <p>Mettre en place une politique nationale en faveur du vélo et du vélo à assistance électrique (VAE) cohérente du national au local et suivie sur le long terme. Une attention toute particulière sera portée à l’intermodalité entre vélo et transports collectifs.</p>
-    <p>Nous réaliserons des itinéraires cyclables pour relier les communes entre elles, comme c’est déjà le cas dans certains pays d’Europe (Pays-Bas, Danemark, Suisse). Les liaisons cyclables aux gares proches des parcours seront systématiques. Nous appuierons la réalisation de voies vertes et de véloroutes, appréciées de nos concitoyens comme des touristes étrangers, pour leurs loisirs et leurs vacances.</p>
+    <strong>Soutenir les formules combinant le vélo et le TER, essentielles dans le cadre des déplacements domicile-travail : dans les régions qui ont fait ce choix, les quantités de CO2 émis ont drastiquement baissé.</strong>
+    <strong>Mettre en place une politique nationale en faveur du vélo et du vélo à assistance électrique (VAE) cohérente du national au local et suivie sur le long terme. Une attention toute particulière sera portée à l’intermodalité entre vélo et transports collectifs.</strong>
+    <strong>Nous réaliserons des itinéraires cyclables pour relier les communes entre elles, comme c’est déjà le cas dans certains pays d’Europe (Pays-Bas, Danemark, Suisse). Les liaisons cyclables aux gares proches des parcours seront systématiques. Nous appuierons la réalisation de voies vertes et de véloroutes, appréciées de nos concitoyens comme des touristes étrangers, pour leurs loisirs et leurs vacances.</strong>
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"

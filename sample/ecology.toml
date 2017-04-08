@@ -1,6 +1,6 @@
 [[categories]]
   id = "ecology"
-  title = "Environnement et Transport"
+  title = "Environnement et Agriculture"
 
   [[categories.list]]
     title = "Énergies renouvelables"
@@ -77,7 +77,7 @@
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m2"
-    tldr = "Sortir du nucléaire. Fermer Fessenheim en garantissant l'emploi des salariés. Abandonner l'opération du grand carénage. bandonner les projets d'EPR."
+    tldr = "Sortir du nucléaire. Fermer Fessenheim en garantissant l'emploi des salariés. Abandonner l'opération du grand carénage. Abandonner les projets d'EPR."
 
     [categories.list.them]
     quote = ""
@@ -144,19 +144,20 @@
     link = ""
     tldr = ""
 
-  [[categories.list]]
-    title = "Les biens communs"
+    [[categories.list]]
+      title = "Les biens communs"
 
-    [categories.list.us]
-    quote = "
-    <p>Constitutionnaliser la règle verte : ne pas prélever sur la nature davantage que ce qu'elle peut reconstituer ni produire plus que ce qu'elle peut supporter.</p>
-    <p>Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie, la monnaie ne sont pas des marchandises. Ils doivent être gérés démocratiquement : le droit de propriété doit être soumis à l'intérêt général, la propriété commune protégée et les services publics développés.</p>
-    <p>Nous établirons la gratuité des premiers m³ d’eau nécessaires à une vie digne et une tarification progressive et différenciée pour pénaliser les mésusages.<br />
-    L’usage de l’eau ne peut pas être accessible dans les mêmes conditions selon qu’il s’agit d’une résidence principale ou secondaire ; dans la cuisine et la salle de bains d’une famille ou pour concourir au chiffre d’affaires d’une entreprise...</p>
-    "
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s9m2"
-    tldr = "Constitutionnaliser la règle verte. Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. Gratuité des premiers m³ d’eau nécessaires à une vie digne."
+      [categories.list.us]
+      quote = "
+      <p>Constitutionnaliser la règle verte : ne pas prélever sur la nature davantage que ce qu'elle peut reconstituer ni produire plus que ce qu'elle peut supporter.</p>
+      <p>Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie, la monnaie ne sont pas des marchandises. Ils doivent être gérés démocratiquement : le droit de propriété doit être soumis à l'intérêt général, la propriété commune protégée et les services publics développés.</p>
+      <p>Nous établirons la gratuité des premiers m³ d’eau nécessaires à une vie digne et une tarification progressive et différenciée pour pénaliser les mésusages.<br />
+      L’usage de l’eau ne peut pas être accessible dans les mêmes conditions selon qu’il s’agit d’une résidence principale ou secondaire ; dans la cuisine et la salle de bains d’une famille ou pour concourir au chiffre d’affaires d’une entreprise...</p>
+      <p>Nous ferons de la question de l’eau, de sa protection et de son accès pour tou·te·s un enjeu de la politique internationale et de coopération de la France. Nous renforcerons la gestion démocratique dans le secteur de l’eau à l’échelle mondiale et garantirons la mise en oeuvre effective du droit à l’eau et à l’assainissement avec des mécanismes de solidarité envers les peuples les plus défavorisés.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s9m2"
+      tldr = "Constitutionnaliser la règle verte. Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. Gratuité des premiers m³ d’eau nécessaires à une vie digne. Renforcer la gestion démocratique dans le secteur de l’eau à l’échelle mondiale."
 
     [categories.list.them]
     quote = ""

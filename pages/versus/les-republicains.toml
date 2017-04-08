@@ -859,6 +859,291 @@ candidat = "François Fillon"
     tldr = "<strong>Éradiquer</strong> l'illetrisme à l'horizon 2022."
 
 [[categories]]
+  id = "ecology"
+  title = "Environnement et Agriculture"
+
+  [[categories.list]]
+    title = "Énergies renouvelables"
+
+    [categories.list.us]
+    quote = "
+    <p>Adopter un plan de transition énergétique avec un double axe sobriété/efficacité énergétique et transition vers les énergies renouvelables.</p>
+    <p>La sortie des énergies fossiles et du nucléaire sera rendue possible par la baisse de la consommation, le développement des énergies renouvelables, le soutien aux infrastructures de réseaux et l’investissement dans les innovations énergétiques.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
+    tldr = "Développer l'ensemble des énergies renouvelables."
+
+    [categories.list.them]
+    quote = "Investir dans les énergies «propres» et développer la production des énergies renouvelables là où c’est pertinent."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/ruralite/"
+    tldr = "<strong>Développer</strong> la production des énergies renouvelables \"là où c’est pertinent\"."
+
+  [[categories.list]]
+    title = "Barrages"
+
+    [categories.list.us]
+    quote = "Stopper la privatisation des barrages hydroélectriques."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m1"
+    tldr = "<strong>Stopper la privatisation</strong> des barrages hydroélectriques."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Énergies carbonnées"
+
+    [categories.list.us]
+    quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
+    tldr = "<strong>Sortir</strong> des énergies carbonées au profit des énergies renouvelables."
+
+    [categories.list.them]
+    quote = "Éliminer les énergies fossiles de la production d’électricité avec un prix plancher de la tonne de carbone de 30 euros minimum."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Éliminer les énergies fossiles de la <strong>production d’électricité</strong>."
+
+  [[categories.list]]
+    title = "Gaz de schiste"
+
+    [categories.list.us]
+    quote = "Interdire l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
+    ref = "100% énergies renouvelables - 2017"
+    link = "https://avenirencommun.fr/le-livret-energie/"
+    tldr = "<strong>Interdire</strong> l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Nucléaire"
+
+    [categories.list.us]
+    quote = "
+    Sortir du nucléaire<br />
+    • Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démantèlement.<br />
+    • Abandonner l'opération du grand carénage visant à prolonger la vie des centrales nucléaires au-delà de quarante ans.<br />
+    • Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure.
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m2"
+    tldr = "<strong>Sortir</strong> du nucléaire. Fermer <strong>Fessenheim</strong> en garantissant l'emploi des salariés. Abandonner l'opération du <strong>grand carénage</strong>. Abandonner les projets d'<strong>EPR</strong>."
+
+    [categories.list.them]
+    quote = "
+    <p>Finaliser la restructuration de la filière industrielle nucléaire, moderniser le parc nucléaire pour en prolonger la durée d’exploitation en veillant à une sécurité et une sûreté maximales de nos installations sous le contrôle de l’Autorité de Sûreté Nucléaire et à la rentabilité économique des investissements. Une nouvelle loi de transition énergétique sera adoptée avec de nouveaux objectifs pour notre mix énergétique.</p>
+    "
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Moderniser le parc nucléaire pour en <strong>prolonger la durée</strong> d'exploitation."
+
+  [[categories.list]]
+    title = "Enfouissement des déchets nucléaire"
+
+    [categories.list.us]
+    quote = "
+    • Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure.<br />
+    • Rendre publique les données sur l'enfouissement des déchets nucléaires depuis soixante ans et informer sur les dangers sanitaires avérés et/ou éventuels.
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s39m2"
+    tldr = "<strong>Abandonner</strong> l'enfouissement des déchets nucléaires à Bure. <strong>Rendre publique les données</strong> sur l'enfouissement des déchets nucléaires."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Gaspillage et Recyclage"
+
+    [categories.list.us]
+    quote = "
+    <p>Combattre l'obsolescence programmée des biens de consommation par un allongement des durées de garanties légales des produits.</p>
+    <p>Lutter contre le suremballage, le gaspillage (notamment alimentaire) et refuser le tout jetable.</p>
+    <p>Rendre obligatoires le recyclage, le compostage ou l'incinération avec récupération de l'énergie produite pour tous les déchets, généraliser les consignes dans les commerces.</p>
+    <p>Soutenir toutes les initiatives s'appuyant sur la réutilisation des matériaux (ressourceries…) et développer les filières scolaires et universitaires professionnelles dans le secteur.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/44/une-france-zero-dechet"
+    tldr = "Combattre l'<strong>obsolescence programmée</strong>. Lutter contre le <strong>suremballage</strong> et le <strong>gaspillage</strong>. Rendre <strong>obligatoire</strong> le recyclage, le compostage ou l'incinération avec récupération de l'énergie produite."
+
+    [categories.list.them]
+    quote = "Encourager les filières du recyclage, aussi bien de déchets que de matériaux et produits qui peuvent avoir plusieurs vies."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "<strong>Encourager</strong> les filières du recyclage."
+
+  [[categories.list]]
+    title = "Rénovation écologique des bâtiments"
+
+    [categories.list.us]
+    quote = "
+    <p>Assurer l'isolation d'au moins 700 000 logements par an.</p>
+    <p>Renforcer les programmes locaux de détection des passoires énergétiques, avec davantage de moyens humains et financiers.</p>
+    <p>Mettre fin aux situations de précarité énergétique que vivent les ménages.</p>
+    <p>Former, labelliser et coordonner les professionnels de la rénovation énergétique afin d'imposer une obligation de résultats.</p>
+    <p>Mettre en place un guichet unique regroupant les demandes de financement, l'évaluation des besoins, la coordination des professionnels nécessaires pour organiser la rénovation par les propriétaires individuels.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s40m1"
+    tldr = "Isolation d'au moins <strong>700 000 logements</strong> par an. Mettre fin aux situations de <strong>précarité énergétique</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Les biens communs"
+
+    [categories.list.us]
+    quote = "
+    <p>Constitutionnaliser la règle verte : ne pas prélever sur la nature davantage que ce qu'elle peut reconstituer ni produire plus que ce qu'elle peut supporter.</p>
+    <p>Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie, la monnaie ne sont pas des marchandises. Ils doivent être gérés démocratiquement : le droit de propriété doit être soumis à l'intérêt général, la propriété commune protégée et les services publics développés.</p>
+    <p>Nous établirons la gratuité des premiers m³ d’eau nécessaires à une vie digne et une tarification progressive et différenciée pour pénaliser les mésusages.<br />
+    L’usage de l’eau ne peut pas être accessible dans les mêmes conditions selon qu’il s’agit d’une résidence principale ou secondaire ; dans la cuisine et la salle de bains d’une famille ou pour concourir au chiffre d’affaires d’une entreprise...</p>
+    <p>Nous ferons de la question de l’eau, de sa protection et de son accès pour tou·te·s un enjeu de la politique internationale et de coopération de la France. Nous renforcerons la gestion démocratique dans le secteur de l’eau à l’échelle mondiale et garantirons la mise en oeuvre effective du droit à l’eau et à l’assainissement avec des mécanismes de solidarité envers les peuples les plus défavorisés.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s9m2"
+    tldr = "Constitutionnaliser la <strong>règle verte</strong>. Protéger les <strong>biens communs</strong> : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. <strong>Gratuité</strong> des premiers m³ d’eau nécessaires à une <strong>vie digne</strong>. Renforcer la <strong>gestion démocratique</strong> dans le secteur de l’eau à l’<strong>échelle mondiale</strong>."
+
+    [categories.list.them]
+    quote = "Généraliser la formule du chèque-énergie qui vient remplacer les tarifs sociaux de l’énergie car l’énergie est un bien de première nécessité auquel chacun doit avoir accès, trop de Français sont confrontés à la précarité énergétique."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Généraliser la formule du <strong>chèque-énergie</strong>."
+
+  [[categories.list]]
+    title = "Perspectives agricoles"
+
+    [categories.list.us]
+    quote = "
+    <p>Engager la réforme agraire pour faciliter l'installation des jeunes agriculteurs en limitant la concentration des terres et la course à l'agrandissement et créer 300 000 emplois agricoles grâce à des prix rémunérateurs et une refonte de la PAC.</p>
+    <p>Favoriser les circuits courts, la vente directe, la transformation sur place et plafonner les marges de la grande distribution par un coefficient multiplicateur limité pour garantir des prix rémunérateurs aux producteurs et interdire les ventes à perte pour les agriculteurs.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne"
+    tldr = "Réfonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Terres agricoles"
+
+    [categories.list.us]
+    quote = "Création d’Établissements Publics Fonciers Ruraux (EPFR), refondant et élargissant les missions des Sociétés d'aménagement foncier et d'établissement rural (SAFER), au service d’une plus grande cohérence entre les divers instruments, d’une politique favorable au développement de l’agriculture écologique et paysanne et de la baisse du prix du foncier."
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Création d'EPFR au service du développement d'une agriculture <strong>écologique</strong> et <strong>paysanne</strong> et de la <strong>baisse du prix</strong> du foncier."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Agriculture biologique, OGM et pesticides"
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une agriculture diversifiée et écologique (polyculture, élevage, permaculture, etc.) et promouvoir les arbres fruitiers dans les espaces publics.</p>
+    <p>Refuser les OGM, bannir les pesticides nuisibles, en commençant par une interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.).</p>
+    <p>Imposer l’objectif d’une alimentation 100 % biologique locale dans la restauration collective.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Instaurer une agriculture <strong>diversifiée</strong> et <strong>écologique</strong>. Refuser les <strong>OGM</strong>, bannir les <strong>pesticides nuisibles</strong>. Imposer l’objectif d’une alimentation <strong>100 % biologique dans les cantines</strong>."
+
+    [categories.list.them]
+    quote = "Lutter contre la pollution liée aux perturbateurs endocriniens qui affectent particulièrement les publics fragiles."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Lutter contre la pollution liée aux <strong>perturbateurs endocriniens</strong>."
+
+  [[categories.list]]
+    title = "Élevages"
+
+    [categories.list.us]
+    quote = "
+    Nous mettrons en œuvre un plan national visant à accompagner l’ensemble des agriculteurs dans la transition écologique de l’agriculture. Il est basé sur :<br />
+    • L’arrêt des projets de fermes-usines.<br />
+    • La redéfinition des normes d’élevage (densité, aire de pâturage) en vue du respect de la condition de vie des animaux d’élevage ; l’amélioration et l’application effective de la réglementation sur les conditions d’abattage, afin de limiter au maximum la souffrance animale et de rendre possible l'abattage à la ferme.
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Redéfinition des normes d’élevage en vue du respect de la <strong>condition de vie des animaux</strong>. Arrêt des projets de <strong>fermes-usines</strong>. Application effective de la réglementation sur les <strong>conditions d’abattage</strong>."
+
+    [categories.list.them]
+    quote = "Améliorer le bien-être des animaux d’élevage et renforcer le contrôle des abattoirs."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Renforcer le <strong>contrôle des abattoirs</strong>."
+
+  [[categories.list]]
+    title = "Politique agricole commune (PAC)"
+
+    [categories.list.us]
+    quote = "
+    <p>Sortir des traités européens et exiger la refondation de la politique agricole commune pour en finir avec le libre-échange généralisé, la course au gigantisme et à l’agro-business, et le dumping fiscal et social à l’intérieur de l’Union européenne.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Exiger</strong> la refondation de la politique agricole commune."
+
+    [categories.list.them]
+    quote = "Fonder la PAC 2020 sur la gestion des risques et sur le soutien à l’investissement, en ne s’interdisant aucun mode d’intervention et en maintenant à l’euro près le budget actuel."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet"
+    tldr = "Fonder la <strong>PAC 2020</strong>."
+
+  [[categories.list]]
+    title = "Grande distribution"
+
+    [categories.list.us]
+    quote = "
+    Mise en place, pour certaines productions, de prix minimums aux producteurs et de taxes à l’importation. Ces taxes seront appliquées, si besoin, afin de ne pas créer de distorsions de concurrence entre les produits français et les produits importés de pays où les niveaux de rémunération du travail seraient inférieurs. Par la suite, seront également mis en place des « coefficients multiplicateurs » maximum, après concertation des organismes interprofessionnels, en vue de garantir une juste rémunération des producteurs (et notamment éviter les ventes à pertes) et de limiter les phénomènes de captation de la valeur ajoutée des intermédiaires et de la grande distribution.
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "Mise en place de <strong>prix minimums</strong> aux producteurs et de <strong>taxes à l’importation</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Traités européens"
+
+    [categories.list.us]
+    quote = "Il conviendra de renégocier ou de refuser ceux des accords européens et internationaux qui contribuent à l’accroissement de la crise écologique (exemples : CETA, TAFTA, TISA) et d’appliquer pleinement les engagements en faveur de l’environnement."
+    ref = "Face à l’urgence climatique, la planification écologique - 2017"
+    link = "https://avenirencommun.fr/livret-planification-ecologique-regle-verte/"
+    tldr = "Renégocier les accords qui contribuent à la <strong>crise écologique</strong>. "
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Exportation"
+
+    [categories.list.us]
+    quote = "
+    <p>Mettre en œuvre une politique agricole cohérente portant l’objectif de souveraineté alimentaire par une production centrée sur les besoins du marché intérieur, par la protection dudit marché, par l’interdiction d’utiliser directement ou indirectement des aides pour exporter à prix de dumping, (...).</p>
+    <p>Défense intransigeante et extension des appellations d’origine dans le cadre du protectionnisme solidaire et de la sortie des traités européens.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Interdiction</strong> d’utiliser directement ou indirectement des aides pour exporter à prix de <strong>dumping</strong>. Défense intransigeante et extension des <strong>appellations d’origine</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Importation"
+
+    [categories.list.us]
+    quote = "
+    <p>C'est le règne du déménagement permanent des marchandises. Les chaînes de production et les lieux de consommation sont de plus en plus éloignés. Pour relocaliser les productions au plus près des consommateurs, le protectionnisme solidaire doit s'accompagner d'une politique qui pénalise les transports de longue distance, notamment routiers.</p>
+    <p>Généraliser au terme de cinq ans, et par le biais d’une norme d’importation spécifique, des importations de produits issus du commerce équitable (garantissant notamment un prix minimum aux produits issus de l'agriculture paysanne) pour tous les produits agricoles concernés.</p>
+    "
+    ref = "Pour une agriculture écologique et paysanne - 2017"
+    link = "https://avenirencommun.fr/livret-agriculture/"
+    tldr = "<strong>Protectionnisme solidaire</strong>. Pénalisation des transports de <strong>longue distance</strong>. Favoriser l'importation de produits issus du <strong>commerce équitable</strong>."
+
+    [categories.list.them]
+
+[[categories]]
   id = "territory"
   title = "Territoire et Transport"
 
