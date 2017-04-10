@@ -28,6 +28,11 @@ class Submenu extends Component {
         >
           <i className={`fa fa-${ico[cat.id]}`} aria-hidden="true"></i> {cat.title}
         </button>
+        {(cat.teasing) ?
+        <div className={`teasing${(this.state.isOpen) ? ' visible' : ''}`}>
+          À venir très prochainement
+        </div>
+        :
         <ul className={(this.state.isOpen) ? 'visible' : ''}>
           {cat.list.map((topic, i) => (
             <li key={i}><a
@@ -36,6 +41,7 @@ class Submenu extends Component {
             >{topic.title}</a></li>
           ))}
         </ul>
+        }
       </div>
     );
   }

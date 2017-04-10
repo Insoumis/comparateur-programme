@@ -12,7 +12,11 @@ const Category = ({ candidat, category }) => (
       {' '}
       {category.title}
     </h3>
-    {category.list.map((item, i) => <Topic candidat={candidat} item={item} key={i} />)}
+    {(category.teasing) ?
+      <div className="teasing">Nous travaillons activement pour ajouter cette catégorie au comparateur. Revenez d'ici quelques jours !</div>
+    :
+      category.list.map((item, i) => <Topic candidat={candidat} item={item} key={i} />)
+    }
   </div>
 );
 

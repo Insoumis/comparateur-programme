@@ -20,6 +20,15 @@
     i {padding-right: 4px;}
   }
 
+  .teasing {
+    border-radius: 4px;
+    color: #fff;
+    margin: 40px auto 0;
+    padding: 10px;
+    text-align: center;
+    width: 75%;
+  }
+
   @each $name, $color in $themes {
     &##{$name} {
       h3,
@@ -35,6 +44,8 @@
       .none {border-color: $color;}
 
       .subtitle:after {background: $color;}
+
+      .teasing {background: $color;}
     }
   }
 }

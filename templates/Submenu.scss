@@ -31,17 +31,22 @@
     transition: .2s linear;
     width: 100%;
 
+    &:hover {text-indent: 3px;}
+
     i {padding-right: 6px;}
   }
 
   ul {
-    border-bottom: 1px solid $border;
+    border-bottom: 1px solid transparent;
     height: 0;
     overflow: auto;
     position: relative;
     transition: .2s;
 
-    &.visible {height: 190px;}
+    &.visible {
+      border-color: $border;
+      height: 190px;
+    }
   }
 
   a {
@@ -51,5 +56,21 @@
     padding: 8px 30px;
     text-decoration: none;
     transition: .1s;
+  }
+
+  .teasing {
+    border-bottom: 1px solid transparent;
+    color: $secondary;
+    font-size: 15px;
+    height: 0;
+    line-height: 40px;
+    overflow: hidden;
+    padding: 0 30px;
+    transition: .2s;
+
+    &.visible {
+      border-color: $border;
+      height: 40px;
+    }
   }
 }

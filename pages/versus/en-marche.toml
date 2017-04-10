@@ -1061,6 +1061,16 @@ candidat = "Emmanuel Macron"
     [categories.list.them]
 
 [[categories]]
+  id = "international"
+  title = "Europe et International"
+  teasing = true
+
+[[categories]]
+  id = "society"
+  title = "Société"
+  teasing = true
+
+[[categories]]
   id = "territory"
   title = "Territoire et Transport"
 
@@ -1084,7 +1094,7 @@ candidat = "Emmanuel Macron"
     tldr = "Combler les <strong>déserts médicaux</strong>, Créer un corps de médecins généralistes <strong>fonctionnaires</strong>."
 
   [[categories.list]]
-    title = "Éducation"
+    title = "École"
 
     [categories.list.them]
 
@@ -1337,3 +1347,13 @@ candidat = "Emmanuel Macron"
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
     tldr = "<strong>Arrêt immédiat</strong> du projet d'aéroport Notre-Dame-des- Landes."
+
+[[categories]]
+  id = "culture"
+  title = "Culture et Médias"
+  teasing = true
+
+[[categories]]
+  id = "taxation"
+  title = "Fiscalité"
+  teasing = true

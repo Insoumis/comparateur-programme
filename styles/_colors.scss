@@ -17,13 +17,13 @@ $brown: #B45F06;
 
 $themes: (
   constitution: $red,
-  work: $blue,
+  work: $purple,
   justice: $deepblue,
-  education: $purple,
+  education: $blue,
   ecology: $green,
   international: darken($green, 10%),
   society: $yellow,
   culture: $orange,
   territory: $brown,
-  taxation: $secondary,
+  taxation: lighten($main, 10%),
 );
