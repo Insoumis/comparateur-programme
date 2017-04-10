@@ -8,15 +8,15 @@ import Header from '../templates/Header';
 import Nav from '../templates/Nav';
 import '../styles/main.scss';
 
-const Template = ({ children }) => (
+const Template = ({ children, location }) => (
   <div>
     <Helmet
         title={config.siteTitle}
         description={config.siteDescription}
     />
     <Outlinks />
-    <Header />
-    <Nav />
+    <Header isHome={location.pathname == '/'} />
+    <Nav isHome={location.pathname == '/'} />
     <div>
       {children}
     </div>
@@ -24,7 +24,8 @@ const Template = ({ children }) => (
 );
 
 Template.propTypes = {
-  children: React.PropTypes.object
+  children: React.PropTypes.object,
+  location: React.PropTypes.object,
 };
 
 export default Template;

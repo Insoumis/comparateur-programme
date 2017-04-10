@@ -11,15 +11,15 @@ const VersusStickyHeader = ({ data }) => (
     <Row>
       <Col className="clearfix" md={6}>
         <div className="logo">
-          <img src={prefixLink(`/assets/${data.alias}-logo.png`)} alt={`Logo ${data.title}`}/>
-        </div>
-        {data.title}
-      </Col>
-      <Col className="clearfix" md={6}>
-        <div className="logo">
           <img src={prefixLink('/assets/fi-logo.png')} alt="Logo de la France insoumise"/>
         </div>
         La France insoumise
+      </Col>
+      <Col className="clearfix" md={6}>
+        <div className="logo">
+          <img src={prefixLink(`/assets/${data.alias}-logo.png`)} alt={`Logo ${data.title}`}/>
+        </div>
+        {data.title}
       </Col>
       <button
         onClick={() => smoothScroll(document.querySelector('body'))}
