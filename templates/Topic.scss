@@ -41,6 +41,11 @@
       border: 1px solid;
       border-radius: 50%;
       padding: 2px 5px;
+      transition: .2s;
+
+      &:hover {
+        transform: scale(1.5);
+      }
     }
   }
 

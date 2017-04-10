@@ -50,9 +50,12 @@ class Versus extends Component {
           <Menu data={data} />
         </Hidden>}
         <Container className="Versus">
-          <Helmet
-              title={`La France insoumise VS ${data.title}`}
-          />
+          <Helmet>
+              <title>{`La France insoumise VS ${data.title}`}</title>
+              <meta name="description" content={`Comparez le programme de la France Insoumise avec celui de ${data.title}.`} />
+              <meta property="og:title" content={`La France insoumise VS ${data.title}`} />
+              <meta property="og:description" content={`Comparez le programme de la France Insoumise avec celui de ${data.title}.`} />
+          </Helmet>
           <div className="container" ref={node => this.container = node}>
             <Row>
               <Col>
