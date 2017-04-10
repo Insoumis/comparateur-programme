@@ -808,7 +808,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
-    tldr = "Développer l'ensemble des énergies renouvelables."
+    tldr = "Développer l'ensemble des <strong>énergies renouvelables</strong>."
 
     [categories.list.them]
     quote = "
@@ -817,7 +817,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Moratoire immédiat sur l’éolien. Développer massivement les énergies renouvelables."
+    tldr = "Moratoire immédiat sur l’<strong>éolien</strong>. Développer massivement les <strong>énergies renouvelables</strong>."
 
   [[categories.list]]
     title = "Barrages"
@@ -826,7 +826,7 @@ candidat = "Marine Le Pen"
     quote = "Stopper la privatisation des barrages hydroélectriques."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m1"
-    tldr = "Stopper la privatisation des barrages hydroélectriques."
+    tldr = "<strong>Stopper la privatisation</strong> des barrages hydroélectriques."
 
     [categories.list.them]
 
@@ -837,7 +837,7 @@ candidat = "Marine Le Pen"
     quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/39/100-d-energies-renouvelables-en-2050"
-    tldr = "Sortir des énergies carbonées au profit des énergies renouvelables."
+    tldr = "<strong>Sortir</strong> des énergies carbonées au profit des énergies renouvelables."
 
     [categories.list.them]
 
@@ -848,13 +848,13 @@ candidat = "Marine Le Pen"
     quote = "Interdire l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
     ref = "100% énergies renouvelables - 2017"
     link = "https://avenirencommun.fr/le-livret-energie/"
-    tldr = "Interdire l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
+    tldr = "<strong>Interdire</strong> l’exploitation du gaz de schiste et du pétrole de schiste et de houille."
 
     [categories.list.them]
     quote = "Interdire l’exploitation du gaz de schiste, tant que des conditions satisfaisantes en matière d’environnement, de sécurité et de santé ne seront pas réunies."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Interdire l’exploitation du gaz de schiste tant que des conditions satisfaisantes ne seront pas réunies."
+    tldr = "<strong>Interdire</strong> l’exploitation du gaz de schiste tant que des <strong>conditions satisfaisantes</strong> ne seront pas réunies."
 
   [[categories.list]]
     title = "Nucléaire"
@@ -868,13 +868,13 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m2"
-    tldr = "Sortir du nucléaire. Fermer Fessenheim en garantissant l'emploi des salariés. Abandonner l'opération du grand carénage. Abandonner les projets d'EPR."
+    tldr = "<strong>Sortir</stron<strong>Fermer</strong>nucléaire. Fermer Fessenheim en ga<strong>Abandonner</strong> l'emploi des salariés. Abandonn<strong>Abandonner</strong>tion du grand carénage. Abandonner les projets d'EPR."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Pour maintenir, moderniser et sécuriser la filière nucléaire française, engager le Grand Carénage, et garder le contrôle de l’État sur EDF, en lui redonnant une véritable mission de service public. Refuser la fermeture de la centrale de Fessenheim."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Engager</strong> le Grand Carénage. <strong>Refuser la fermeture</strong> de la centrale de Fessenheim."
 
   [[categories.list]]
     title = "Enfouissement des déchets nucléaire"
@@ -886,13 +886,9 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m2"
-    tldr = "Abandonner l'enfouissement des déchets nucléaires à Bure. Rendre publique les données sur l'enfouissement des déchets nucléaires."
+    tldr = "<strong>Abandonner</strong> l'enfouissement des déchets nucléaires à Bure. <strong>Rendre publique</strong> les données sur l'enfouissement des déchets nucléaires."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
   [[categories.list]]
     title = "Gaspillage et Recyclage"
@@ -906,13 +902,9 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/44/une-france-zero-dechet"
-    tldr = "Combattre l'obsolescence programmée. Lutter contre le suremballage et le gaspillage. Rendre obligatoire le recyclage, le compostage ou l'incinération."
+    tldr = "Combattre l'<strong>obsolescence programmée</strong>. Lutter contre le <strong>suremballage</strong> et le <strong>gaspillage</strong>. Rendre <strong>obligatoire</strong> le recyclage, le compostage ou l'incinération."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
   [[categories.list]]
     title = "Rénovation écologique des bâtiments"
@@ -927,13 +919,13 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s40m1"
-    tldr = "Isolation d'au moins 700 000 logements par an. Mettre fin aux situations de précarité énergétique."
+    tldr = "Isolation d'au moins <strong>700 000 logements</strong> par an. Mettre fin aux situations de <strong>précarité énergétique</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Afin de lutter contre la précarité énergétique et agir directement sur le pouvoir d’achat des Français, faire de l’isolation de l’habitat une priorité budgétaire du quinquennat, parce que l’énergie la moins chère est celle que l’on ne consomme pas."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Faire de l’isolation de l’habitat une <strong>priorité budgétaire</strong> du quinquennat."
 
     [[categories.list]]
       title = "Les biens communs"
@@ -948,13 +940,13 @@ candidat = "Marine Le Pen"
       "
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s9m2"
-      tldr = "Constitutionnaliser la règle verte. Protéger les biens communs : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. Gratuité des premiers m³ d’eau nécessaires à une vie digne. Renforcer la gestion démocratique dans le secteur de l’eau à l’échelle mondiale."
+      tldr = "Constitutionnaliser la <strong>règle verte</strong>. Protéger les <strong>biens communs</strong> : l'air, l'eau, l'alimentation, le vivant, la santé, l'énergie. <strong>Gratuité</strong> des premiers m³ d’eau nécessaires à <strong>une vie digne</strong>. Renforcer la <strong>gestion démocratique</strong> dans le secteur de l’eau à l’<strong>échelle mondiale</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Garantir l’égal accès au service public (eau) sur tout le territoire et en particulier en milieu rural."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Garantir l’<strong>égal accès au service</strong> public (eau) sur tout le territoire et en particulier en milieu rural."
 
   [[categories.list]]
     title = "Perspectives agricoles"
@@ -966,13 +958,16 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne"
-    tldr = "Réfonte de la PAC, création de 300 000 emplois agricoles, limitation de la concentration des terres. Favoriser les circuits courts, la vente directe, la transformation sur place."
+    tldr = "Réfonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "
+    <p>Simplifier le quotidien des agriculteurs en stoppant l’explosion des normes administratives et encourager l’installation des jeunes agriculteurs, par le biais de défiscalisations durant les premières années. </p>
+    <p>Appliquer le patriotisme économique aux produits agricoles français pour soutenir immédiatement nos paysans et nos pêcheurs, notamment au travers de la commande publique (État et collectivités).</p>
+    "
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Appliquer le <strong>patriotisme économique</strong> aux produits agricoles."
 
   [[categories.list]]
     title = "Terres agricoles"
@@ -981,13 +976,9 @@ candidat = "Marine Le Pen"
     quote = "Création d’Établissements Publics Fonciers Ruraux (EPFR), refondant et élargissant les missions des Sociétés d'aménagement foncier et d'établissement rural (SAFER), au service d’une plus grande cohérence entre les divers instruments, d’une politique favorable au développement de l’agriculture écologique et paysanne et de la baisse du prix du foncier."
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Création d'EPFR au service du développement d'une agriculture écologique et paysanne et de la baisse du prix du foncier."
+    tldr = "Création d'EPFR au service du développement d'une agriculture <strong>écologique</strong> et <strong>paysanne</strong> et de la <strong>baisse du prix</strong> du foncier."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
   [[categories.list]]
     title = "Agriculture biologique, OGM et pesticides"
@@ -1000,13 +991,13 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Instaurer une agriculture diversifiée et écologique. Refuser les OGM, bannir les pesticides nuisibles. Imposer l’objectif d’une alimentation 100 % biologique dans les cantines."
+    tldr = "Instaurer une agriculture <strong>diversifiée</strong> et <strong>écologique</strong>. Refuser les <strong>OGM</strong>, bannir les <strong>pesticides nuisibles</strong>. Imposer l’objectif d’une alimentation <strong>100 % biologique dans les cantines</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Appliquer le principe de précaution en interdisant les OGM."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Interdiction des <strong>OGM</strong>."
 
   [[categories.list]]
     title = "Élevages"
@@ -1019,13 +1010,13 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Redéfinition des normes d’élevage en vue du respect de la condition de vie des animaux. Arrêt des projets de fermes-usines. Application effective de la réglementation sur les conditions d’abattage."
+    tldr = "Redéfinition des normes d’élevage en vue du respect de la <strong>condition de vie des animaux</strong>. Arrêt des projets de <strong>fermes-usines</strong>. Application effective de la réglementation sur les <strong>conditions d’abattage</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Défendre la qualité : afin de lutter contre la concurrence déloyale, interdire l’importation des produits agricoles et alimentaires qui ne respectent pas les normes de production françaises en matière de sécurité sanitaire, de bien-être animal et d’environnement. Imposer la traçabilité totale de l’origine géographique et du lieu de transformation sur l’étiquette, afin de garantir la transparence et l’information complète des consommateurs."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Interdire l’importation des produits agricoles et alimentaires qui ne respectent pas les <strong>normes de production</strong> françaises. Imposer la <strong>traçabilité totale</strong>."
 
   [[categories.list]]
     title = "Politique agricole commune (PAC)"
@@ -1036,13 +1027,13 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Exiger la refondation de la politique agricole commune."
+    tldr = "Exiger la <strong>refondation</strong> de la politique agricole commune."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Transformer la Politique Agricole Commune en Politique Agricole Française. Garantir le montant des subventions dont les critères seront fixés par la France et non plus par l’Union européenne, avec l’objectif de sauver et soutenir le modèle français des exploitations familiales."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Transformer la Politique Agricole Commune en <strong>Politique Agricole Française</strong>."
 
   [[categories.list]]
     title = "Grande distribution"
@@ -1053,7 +1044,9 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Mise en place de prix minimums aux producteurs et de taxes à l’importation."
+    tldr = "Mise en place de <strong>prix minimums</strong> aux producteurs et de <strong>taxes à l’importation</strong>."
+
+    [categories.list.them]
 
   [[categories.list]]
     title = "Traités européens"
@@ -1062,13 +1055,13 @@ candidat = "Marine Le Pen"
     quote = "Il conviendra de renégocier ou de refuser ceux des accords européens et internationaux qui contribuent à l’accroissement de la crise écologique (exemples : CETA, TAFTA, TISA) et d’appliquer pleinement les engagements en faveur de l’environnement."
     ref = "Face à l’urgence climatique, la planification écologique - 2017"
     link = "https://avenirencommun.fr/livret-planification-ecologique-regle-verte/"
-    tldr = "Renégocier les accords qui contribuent à la crise écologique. "
+    tldr = "<strong>Renégocier</strong> les accords qui contribuent à la <strong>crise écologique</strong>. "
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Refuser les traités de libre-échange (TAFTA, CETA, Australie, Nouvelle-Zélande, etc.). Développer les circuits courts de la production à la consommation, en réorganisant les filières."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Refuser</strong> les traités de <strong>libre-échange</strong>."
 
   [[categories.list]]
     title = "Exportation"
@@ -1080,13 +1073,13 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Interdiction d’utiliser directement ou indirectement des aides pour exporter à prix de dumping. Défense intransigeante et extension des appellations d’origine."
+    tldr = "<strong>Interdiction</strong> d’utiliser directement ou indirectement des aides pour exp<strong>dumping</strong>̀ prix de dumping. Défense intransigeante et extension des <strong>appellations d’origine</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Promouvoir les exportations agricoles, notamment en soutenant les labels de qualité."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Promouvoir les exportations agricoles, notamment en soutenant les <strong>labels de qualité</strong>."
 
   [[categories.list]]
     title = "Importation"
@@ -1098,13 +1091,13 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "Protectionnisme solidaire. Pénalisation des transports de longue distance. Favoriser l'importation de produits issus du commerce équitable."
+    tldr = "<strong>Protectionnisme solidaire</strong>. Pénalisation des transports de l<strong>ongue distance</strong>. Favoriser l'importation de produits issus du <strong>commerce équitable</strong>."
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Pour préserver l’environnement, rompre avec le modèle économique fondé sur la mondialisation sauvage des échanges et le dumping social, sanitaire et environnemental ; la véritable écologie consiste à produire et consommer au plus près et retraiter sur place."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Rompre</strong> avec le modèle économique fondé sur la <strong>mondialisation sauvage</strong> des échanges et le <strong>dumping</strong> social, sanitaire et environnemental."
 
 [[categories]]
   id = "territory"
