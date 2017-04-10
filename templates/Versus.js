@@ -14,6 +14,12 @@ class Versus extends Component {
   };
 
   componentDidMount() {
+    let hash = document.location.hash;
+    if (hash != '') {
+      hash = hash.replace('#', '');
+      document.getElementById(hash).scrollIntoView();
+    }
+
     window.addEventListener('scroll', () => {
       const categories = document.querySelector('.categories');
       const titleHeight = document.querySelector('h3').offsetHeight;
