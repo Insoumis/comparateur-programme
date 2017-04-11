@@ -6,6 +6,12 @@ import './HomeSelector.scss';
 
 const HomeSelector = ({ selected }) => (
   <div className="HomeSelector">
+    <div style={{display: 'none'}}>
+      <img src={prefixLink('/assets/hamon.png')} alt=""/>
+      <img src={prefixLink('/assets/macron.png')} alt=""/>
+      <img src={prefixLink('/assets/fillon.png')} alt=""/>
+      <img src={prefixLink('/assets/lepen.png')} alt=""/>
+    </div>
     <Container className="container">
       <Row className={`default${(!selected) ? ' visible' : ''}`}>
         Choisissez<br/>

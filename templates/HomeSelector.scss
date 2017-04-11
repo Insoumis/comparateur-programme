@@ -85,14 +85,14 @@
       background: url('../pages/assets/logo.png') no-repeat;
       background-size: cover;
       bottom: 60px;
-      height: 200px;
+      height: 160px;
       left: 50%;
-      margin-left: -100px;
+      margin-left: -80px;
       position: absolute;
       text-indent: -9000px;
       transform: rotate(10deg) scale(0.8);
       transition: .1s;
-      width: 200px;
+      width: 160px;
 
       @media(max-width: 1199px) {
         height: 150px;
