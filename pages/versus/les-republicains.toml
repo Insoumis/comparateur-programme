@@ -61,17 +61,6 @@ candidat = "François Fillon"
     tldr = "Nouvelle Constitution, <strong>VIe République</strong>."
 
   [[categories.list]]
-    title = "Contrôle des élu.e.s"
-
-    [categories.list.them]
-
-    [categories.list.us]
-    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
-
-  [[categories.list]]
     title = "Initiative Populaire"
 
     [categories.list.them]
@@ -113,6 +102,17 @@ candidat = "François Fillon"
     tldr = "<strong>Non-cumul</strong> des mandats."
 
   [[categories.list]]
+    title = "Contrôle des élu.e.s"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
+
+  [[categories.list]]
     title = "Emploi de membres de la famille"
 
     [categories.list.them]
@@ -141,6 +141,21 @@ candidat = "François Fillon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
     tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, interdiction des lobbyistes au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
+
+  [[categories.list]]
+    title = "Pantouflage"
+
+    [categories.list.them]
+    quote = "Imposer aux fonctionnaires élus parlementaires qu’ils démissionnent de la fonction publique."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/institutions/"
+    tldr = "<strong>Imposer</strong> aux fonctionnaires élus parlementaires qu’ils <strong>démissionnent</strong> de la fonction publique."
+
+    [categories.list.us]
+    quote = "Mettre fin au pantouflage : tout haut fonctionnaire souhaitant travailler dans le privé devra démissionner de la fonction publique et rembourser le prix de sa formation s'il n'a pas servi au moins dix ans, supprimer le concours externe de l'ENA pour toute personne n'ayant jamais travaillé, durcir les règles contre les conflits d'intérêts, allonger les périodes d'interdiction d'exercer une fonction privée après avoir exercé une activité publique dans le même secteur."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Tout haut fonctionnaire souhaitant travailler dans le privé <strong>devra démissionner</strong> de la fonction publique."
 
   [[categories.list]]
     title = "Proportionnelle"

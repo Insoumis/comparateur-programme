@@ -58,17 +58,6 @@ candidat = "Emmanuel Macron"
     tldr = "Nouvelle Constitution, <strong>VIe République</strong>."
 
   [[categories.list]]
-    title = "Contrôle des élu.e.s"
-
-    [categories.list.them]
-
-    [categories.list.us]
-    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
-
-  [[categories.list]]
     title = "Initiative Populaire"
 
     [categories.list.them]
@@ -114,6 +103,17 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Non-cumul</strong> des mandats."
 
   [[categories.list]]
+    title = "Contrôle des élu.e.s"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
+
+  [[categories.list]]
     title = "Emploi de membres de la famille"
 
     [categories.list.them]
@@ -123,7 +123,6 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Interdiction</strong> de recruter des membres de sa famille comme assistant parlementaire."
 
     [categories.list.us]
-
 
   [[categories.list]]
     title = "Corruption et lobbying"
@@ -145,6 +144,24 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, <strong>interdiction des lobbyistes</strong> au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
 
   [[categories.list]]
+    title = "Pantouflage"
+
+    [categories.list.them]
+    quote = "
+    <p>S’ils décident de quitter le service de l’État, les hauts fonctionnaires ne pourront plus, au-delà d’une certaine période, cumuler les rémunérations offertes par le secteur privé et la sécurité procurée par la faculté de retourner à leur guise dans le service public.</p>
+    <p>Dans la fonction publique, nous limiterons à cinq ans la durée de mise en disponibilité ou de détachement des fonctionnaires dans des entreprises à caractère commercial.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique"
+    tldr = "Les hauts fonctionnaires ne pourront plus, <strong>au-delà d’une certaine période non précisée</strong>, cumuler les rémunérations du secteur privé et la sécurité procurée par le service public."
+
+    [categories.list.us]
+    quote = "Mettre fin au pantouflage : tout haut fonctionnaire souhaitant travailler dans le privé devra démissionner de la fonction publique et rembourser le prix de sa formation s'il n'a pas servi au moins dix ans, supprimer le concours externe de l'ENA pour toute personne n'ayant jamais travaillé, durcir les règles contre les conflits d'intérêts, allonger les périodes d'interdiction d'exercer une fonction privée après avoir exercé une activité publique dans le même secteur."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Tout haut fonctionnaire souhaitant travailler dans le privé <strong>devra démissionner</strong> de la fonction publique."
+
+  [[categories.list]]
     title = "Proportionnelle"
 
     [categories.list.them]
@@ -159,7 +176,7 @@ candidat = "Emmanuel Macron"
     title = "Administration publique centrale"
 
     [categories.list.them]
-    quote = "Nous réduirons le nombre d’agents publics de 120 000 emplois sur la durée du quinquennat. Cela correspondra à un volume de 50 000 postes non-renouvelés dans la fonction publique d’Etat [...]"
+    quote = "Nous réduirons le nombre d’agents publics de 120 000 emplois sur la durée du quinquennat. Cela correspondra à un volume de 50 000 postes non-renouvelés dans la fonction publique d’Etat."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique"
     tldr = "<strong>Suppression de 50 000 postes</strong> dans la fonction publique d'Etat."
@@ -525,21 +542,39 @@ candidat = "Emmanuel Macron"
     link = "https://avenirencommun.fr/le-livret-securite/"
     tldr = "Renforcer l'<strong>indépendance</strong>, le <strong>renseignement humain</strong> et les <strong>moyens</strong> d'analyse. Recentrer les missions sur les <strong>menaces sécuritaires</strong>."
 
-    [[categories.list]]
-      title = "Service civique"
+  [[categories.list]]
+    title = "Défense militaire"
 
-      [categories.list.them]
+    [categories.list.them]
+    quote = "Nous mobiliserons 2% du PIB qui serviront à renouveler les avions ravitailleurs, à moderniser les blindés de l’armée de terre, ainsi que la flotte de surface de notre marine nationale."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/defense"
+    tldr = "Porter le budget de la Défense à 2% du PIB."
 
-      [categories.list.us]
-      quote = "
-      <strong>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</strong>
-      <strong>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</strong>
-      <strong>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</strong>
-      <strong>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</strong>
-      "
-      ref = "Pour l'émancipation de la jeunesse - 2017"
-      link = "https://avenirencommun.fr/le-livret-jeunesse/"
-      tldr = "Service citoyen <strong>rémunéré</strong> et <strong>obligatoire</strong> de 9 mois."
+    [categories.list.us]
+    quote = "
+    <p>Sortir de l'OTAN et refuser la participation de la France à toute alliance militaire permanente à l'exception des opérations de maintien de la paix sous l'égide de l'ONU.</p>
+    <p>Rédiger un nouveau Livre blanc et adopter une nouvelle loi de programmation militaire ayant pour objectif la restauration pleine et entière de l'indépendance militaire.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/chapitre/5/pour-l-independance-de-la-france"
+    tldr = "Sortie de l'OTAN. Restauration de l'indépendance militaire."
+
+  [[categories.list]]
+    title = "Service civique"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <strong>Le service citoyen obligatoire, c’est neuf mois rémunérés au smic et comprenant une formation militaire initiale avec un droit à l’objection de conscience. Ils’appliquera pour les femmes et pour les hommes, sur tout le territoire, y compris dans les départements d’outre-mer, les zones rurales et les quartiers populaires par conscription avant 25 ans. Ce service sera proche du lieu de vie, en limitant le « casernement » aux fonctions qui l’exigent réellement.</strong>
+    <strong>Les jeunes seront affecté·e·s à des tâches d’intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l’environnement, appui à des associations labellisées d’intérêt général. Participer au service citoyen, c’est être au service de soi et au service de tou·te·s.</strong>
+    <strong>Le service citoyen est aussi un moment de remise à niveau gratuite des jeunes qui ont pu décrocher du système scolaire ou qui sont en difficulté. Il comprend en effet un bilan de santé, une évaluation des capacités d’écriture, de lecture et de calcul avec leur éventuelle mise à niveau, mais aussi la formation gratuite à la conduite et le passage de l’examen du permis de conduire.</strong>
+    <strong>Le service citoyen garantira le droit à changer de corps d’affectation en cas de problèmes manifestes. Les jeunes qui le souhaitent pourront aussi rejoindre la garde nationale, placée sous commandement civil.</strong>
+    "
+    ref = "Pour l'émancipation de la jeunesse - 2017"
+    link = "https://avenirencommun.fr/le-livret-jeunesse/"
+    tldr = "Service citoyen <strong>rémunéré</strong> et <strong>obligatoire</strong> de 9 mois."
 
 [[categories]]
   id = "education"

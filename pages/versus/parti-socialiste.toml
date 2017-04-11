@@ -66,17 +66,6 @@ candidat = "Benoît Hamon"
     tldr = "Nouvelle Constitution, <strong>VIe République</strong>."
 
   [[categories.list]]
-    title = "Contrôle des élu.e.s"
-
-    [categories.list.them]
-
-    [categories.list.us]
-    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
-    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
-
-  [[categories.list]]
     title = "Initiative Populaire"
 
     [categories.list.them]
@@ -98,7 +87,7 @@ candidat = "Benoît Hamon"
     quote = "Pour la parité en politique, j’augmenterai les amendes infligées aux partis en cas de non-respect de la parité lors des élections. "
     ref = "Faire battre le coeur de la France - 03/2017"
     link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
-    tldr = "<strong>Amendes</strong> en cas de non respect de la parité <strong>lors des élections</strong>."
+    tldr = "Augmentation des <strong>amendes</strong> en cas de non respect de la parité <strong>lors des élections</strong>."
 
     [categories.list.us]
     quote = "Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives."
@@ -110,7 +99,7 @@ candidat = "Benoît Hamon"
     title = "Cumul des mandats"
 
     [categories.list.them]
-    quote = "Elle (ndlr: la 6e République) instaurera un septennat presidentiel non-renouvelable et limitera l’utilisation du 49.3 et le cumul dans le temps des mandats des élus"
+    quote = "Elle (ndlr: la 6e République) instaurera un septennat presidentiel non-renouvelable et limitera l’utilisation du 49.3 et le cumul dans le temps des mandats des élus."
     ref = "Faire battre le coeur de la France - 03/2017"
     link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
     tldr = "<strong>Limiter</strong> le cumul des mandats."
@@ -120,6 +109,17 @@ candidat = "Benoît Hamon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
     tldr = "<strong>Non-cumul</strong> des mandats."
+
+  [[categories.list]]
+    title = "Contrôle des élu.e.s"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Créer un droit de révoquer un élu en cours de mandat, par référendum, sur demande d'une partie du corps électoral."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/3/une-republique-permettant-l-intervention-populaire"
+    tldr = "Droit de <strong>révoquer</strong> les élu·e·s."
 
   [[categories.list]]
     title = "Corruption et lobbying"
@@ -142,6 +142,17 @@ candidat = "Benoît Hamon"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
     tldr = "<strong>Inéligibilité</strong> des personnes condamnées pour corruption, interdiction des lobbyistes au Parlement, publication de la <strong>déclaration de patrimoine</strong> des élus et suppression de la <strong>réserve parlementaire</strong>."
+
+  [[categories.list]]
+    title = "Pantouflage"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Mettre fin au pantouflage : tout haut fonctionnaire souhaitant travailler dans le privé devra démissionner de la fonction publique et rembourser le prix de sa formation s'il n'a pas servi au moins dix ans, supprimer le concours externe de l'ENA pour toute personne n'ayant jamais travaillé, durcir les règles contre les conflits d'intérêts, allonger les périodes d'interdiction d'exercer une fonction privée après avoir exercé une activité publique dans le même secteur."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
+    tldr = "Tout haut fonctionnaire souhaitant travailler dans le privé <strong>devra démissionner</strong> de la fonction publique."
 
   [[categories.list]]
     title = "Proportionnelle"
