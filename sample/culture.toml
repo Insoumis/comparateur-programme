@@ -1,0 +1,174 @@
+[[categories]]
+  id = "culture"
+  title = "Culture et Médias"
+
+  [[categories.list]]
+    title = "Budget"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Porter le budget consacré à l'art, à la culture et à la création à 1 % du PIB chaque année pour :<br />
+    • Pérenniser le régime des intermittents du spectacle sur la base de l'accord du 28 avril 2016 et l'étendre aux professions artistiques précaires<br />
+    • Soutenir la création, le spectacle vivant, et l'appropriation par tous des œuvres et pratiques culturelles, et ce par le renouveau de l'éducation artistique à l'école et dans les conservatoires, de l'éducation populaire et de la culture en entreprise </p>
+    <p>Note : Avec cette mesure, le budget 2017 de la culture aurait été de 21.18 milliards d'euros (en prenant le PIB de 2016 de 2 118 milliards d'euros), contre les 7,701 milliards actuellement.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77m2"
+    tldr = "Porter le budget de la Culture à 1 % du PIB chaque année"
+
+  [[categories.list]]
+    title = "Musées"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant
+des subventions publiques nationales, à commencer par un accès gratuit tous
+les dimanches."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Étendre la gratuité des musées recevant des subventions publiques nationales"
+
+  [[categories.list]]
+    title = "Lieux culturels"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Mettre les associations au coeur de l’action culturelle sur tout le territoire dans l'espace public. Leur donner par des conventionnements durables les moyens financiers adaptés afin de remédier à l'absence d'équipements culturels.</p>
+    <p>Jumeler tous les établissements (écoles, collèges, lycées) avec des établissements culturels, dans des projets profitant à tou·te·s les élèves et encourager les pratiques artistiques collectives ; favoriser la médiation socioculturelle dans ces établissements.</p>
+    <p>Favoriser et promouvoir la médiation culturelle dans l’ensemble des lieux patrimoniaux et institutions culturelles subventionnés (musées, orchestres, théâtres, etc.), notamment en leur faisant obligation de recourir à des guidesconférencier·e·s diplômé·e·s et titulaires de la carte professionnelle. Encourager, dans les critères de subvention, la co-construction de la programmation culturelle avec les publics pour une participation active de chacun·e à la vie sociale et culturelle.</p>
+    <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Défendre le maillage national des médiathèques, garantir leur budget et embaucher des professionnel·le·s pour assurer de plus larges ouvertures"
+
+  [[categories.list]]
+    title = "Éducation artistique"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Faire de l'éducation artistique une vraie priorité de la maternelle à l'université, jusqu'en entreprise. La mettre dans toute sa diversité et dans ses trois dimensions au coeur de l'enseignement artistique (fréquentation des oeuvres, pratique, acquisition des connaissances).</p>
+    <p>Transformer l’enseignement artistique supérieur en véritable service public national : sortir les écoles d’art et les conservatoires de musique et de danse du statut inadapté d’Établissement public de coopération culturelle (EPCC). L’État définira les programmes et les règles applicables aux personnels.</p>
+    <p>Soutenir les conservatoires de musique, de danse et d'art dramatique dans leur mission d'ouverture à tous les publics et en créer de nouveaux. Mettre fin à la précarité des enseignant·e·s de ces établissements.</p>
+    <p>Développer une filière de la création numérique dans l'enseignement professionnel.</p>"
+    ref = ""
+    link = ""
+    tldr = "Faire de l'éducation artistique une vraie priorité"
+
+  [[categories.list]]
+    title = "Intermittents"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
+    <p>Étendre ce régime aux professions artistiques précaires, dont les artistes visuels.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Pérenniser le <b>régime des intermittent·e·s du spectacle</b> sur la base de l’accord du 28 avril 2016 et l'étendre aux professions artistiques précaires"
+
+  [[categories.list]]
+    title = "Domaine public commun"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Instituer un domaine public commun constitué de l'ensemble des oeuvres qui désormais ne seront plus soumises aux droits d'auteur, afin de participer au financement du régime de sécurité sociale pour les artistes précaires"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Financer une Sécurité sociale pour les artistes par une <b>cotisation sur la vente d'œuvres du domaine public</b>"
+
+  [[categories.list]]
+    title = "Invasion publicitaire dans l'espace public"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Nous lutterons contre l’invasion publicitaire dans les services publics et sur les bâtiments publics, dans les rues, aux abords des villes et des villages. Voici plusieurs actions prioritaires :<br />
+    • Mettre fin à l’affichage publicitaire sur les bâtiments publics et au « nommage » de lieux culturels publics, tel le AccorHotels Arena.<br />
+    • Interdire les écrans publicitaires numériques et connectés, vrai scandale écologique et déontologique, dans les lieux et transports publics.<br />
+    • Créer un fonds d’appui aux communes qui transforment les panneaux publicitaires en espaces d’affichage culturel  et  d’expression libre avec une stricte application de l’usage à but non lucratif.<br />
+    • Réguler la publicité, notamment aux entrées de villes et de bourgs aujourd’hui défigurées."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "<b>Régulation</b> de l'<b>affichage publicitaire</b> notamment dans les lieux publics"
+
+  [[categories.list]]
+    title = "Enfants et publicité"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = "<b>Interdire la publicité dans les programmes</b> de télévision <b>destinés aux enfants</b> et la mise en scène d'enfants dans les publicités"
+
+  [[categories.list]]
+    title = "Défense de la francophonie"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>La langue française est la troisième langue la plus parlée au monde. Mais si peu est fait pour la mettre en valeur, la diffuser, multiplier ses usages et les liens entre ceux qui l'ont en usage commun. C'est un trésor à faire vivre pour un monde meilleur et davantage de mises en commun</p>
+    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64m1"
+    tldr = "Réorganiser les institutions de la francophonie en agissant pour son recentrage sur <b>la défense, le rayonnement de la langue et son usage commun</b>"
+
+  [[categories.list]]
+    title = "Programme d'échange francophone type Erasmus"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>A l'intérieur de l’espace francophone, mettre en place progressivement un <b>visa privilégié</b> permettant la libre circulation en son sein des artistes, <b>des universitaires, des chercheur·se·s</b>, des ingénieur·e·s, des acteur·trice·s économiques et des <b>étudiant·e·s</b> ;<br />
+    • Comme première concrétisation de ce projet, créer un programme de mobilité étudiante francophone du type Erasmus ; établir un fonds commun des pays francophones en faveur du financement de ce programme ;<br />
+    • Développer les Centres internationaux d’études françaises (CIEF) afin d’étendre l’usage du français dans l’enseignement supérieur pour les étudiant·e·s des pays membres de l’OIF. Le but étant de valoriser une authentique identité francophone qui s’harmonise avec les  identités nationales respectives.</p>
+    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens</p>
+    <p>Étendre l’exception culturelle à la sphère numérique.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Renforcer les programmes d'échanges, le réseau des instituts/alliances francais et étendre l'exception culturelle à la sphère numérique"
