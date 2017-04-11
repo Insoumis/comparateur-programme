@@ -4,7 +4,10 @@
   background: url('../pages/assets/bg-home.png') #1e1e1f center no-repeat;
   box-shadow: inset 0 2px 8px rgba(0, 0, 0, .4);
   color: #fff;
-  height: 390px;
+  height: 378px;
+
+  @media(max-width: 1199px) {height: 315px;}
+  @media(max-width: 991px) {height: 240px;}
 
   .container {
     position: relative;
@@ -21,7 +24,7 @@
     font-family: Montserrat, sans-serif;
     font-size: 60px;
     font-weight: 700;
-    height: 390px;
+    height: 378px;
     line-height: 70px;
     opacity: 0;
     padding-top: 65px;
@@ -29,12 +32,40 @@
     text-shadow: 0 0 10px black;
     transition: .2s;
 
+    @media(max-width: 1199px) {
+      background-position: calc(50% + 240px) calc(50% + 28px);
+      background-size: 35%;
+      font-size: 55px;
+      height: 315px;
+      line-height: 65px;
+      padding-top: 40px;
+    }
+
+    @media(max-width: 991px) {
+      background-position: calc(50% + 190px) calc(50% + 22px);
+      background-size: 32%;
+      font-size: 45px;
+      height: 240px;
+      line-height: 55px;
+      padding-top: 30px;
+    }
+
     &.visible {opacity: 1;}
 
     i {
       display: inline-block;
       font-size: 75px;
       margin-top: 50px;
+
+      @media(max-width: 1199px) {
+        font-size: 70px;
+        margin-top: 35px;
+      }
+
+      @media(max-width: 991px) {
+        font-size: 55px;
+        margin-top: 20px;
+      }
     }
   }
 
@@ -43,7 +74,12 @@
     text-align: center;
     transition: .2s;
 
-    img {width: 390px;}
+    img {
+      width: 378px;
+
+      @media(max-width: 1199px) {width: 315px;}
+      @media(max-width: 991px) {width: 240px;}
+    }
 
     .stamp {
       background: url('../pages/assets/logo.png') no-repeat;
@@ -57,6 +93,18 @@
       transform: rotate(10deg) scale(0.8);
       transition: .1s;
       width: 200px;
+
+      @media(max-width: 1199px) {
+        height: 150px;
+        margin-left: -75px;
+        width: 150px;
+      }
+
+      @media(max-width: 991px) {
+        height: 120px;
+        margin-left: -60px;
+        width: 120px;
+      }
     }
 
     .left,

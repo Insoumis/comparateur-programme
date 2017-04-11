@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router';
-import { Container, Row, Col } from 'react-grid-system';
+import { Container, Row, Col, Hidden } from 'react-grid-system';
 import { prefixLink } from 'gatsby-helpers';
 
 import HomeSelector from './HomeSelector';
@@ -23,9 +23,11 @@ class Nav extends Component {
   render() {
     return (
       <div>
-        {(this.props.isHome) ?
-        <HomeSelector selected={this.state.versus} />
-        : false}
+        <Hidden sm xs>
+          {(this.props.isHome) ?
+          <HomeSelector selected={this.state.versus} />
+          : false}
+        </Hidden>
         <nav className="Nav">
           <Container>
             <Row>
