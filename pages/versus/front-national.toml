@@ -449,19 +449,66 @@ candidat = "Marine Le Pen"
     tldr = "Renforcer l'<strong>impartialité</strong> et l'<strong>indépendance</strong> de la Justice."
 
   [[categories.list]]
-    title = "Prison"
+    title = "Mission de la police"
 
     [categories.list.them]
-    quote = "Instaurer une peine de prison de perpétuité réelle incompressible pour les crimes les plus graves."
+    quote = "Recentrer la police et la gendarmerie sur leur mission de sécurité publique en les libérant des tâches indues et administratives."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme"
-    tldr = "Instaurer la <strong>perpétuité incompressible</strong>."
+    tldr = "Recentrer la police et la gendarmerie sur leur mission de sécurité publique en les libérant des tâches indues et administratives."
 
     [categories.list.us]
-    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
-    ref = "Une justice au nom du peuple - 2017"
-    link = "https://avenirencommun.fr/le-livret-justice/"
-    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte contre l'<strong>insalubrité</strong>."
+    quote = "
+    <p>En matière de sécurité, nos maître-mots sont prévention, dissuasion, sanction.</p>
+    <p>Restaurer la police de proximité en refondant les objectifs des polices municipales et affirmant la distinction entre les missions nationales et locales.</p>
+    <p>La République a besoin d'une police républicaine, agissant pour protéger les libertés individuelles et collectives. La politique de sécurité doit être refondée en lien avec la population, par l'intégration des conscrits, loin des coups de menton et du deux poids deux mesures. </p>
+    <p>L’absurde politique du chiffre mise en place par Sarkozy n’a fait que se poursuivre depuis 2012. La « bâtonnite » (action qui vise à mettre des bâtons dans les cases) continue comme avant, avec à la clef de belles primes pour la haute hiérarchie, en complète déconnexion avec la réalité du terrain.</p>
+    <p>L’interdiction immédiate des tasers et flashball et la refondation de la doctrine du maintien de l’ordre pour favoriser la désescalade et la prévention des actes violents. Nous devons démonter les engrenages de violence de deux camps qui s’affrontent. Ainsi seront évités les drames de manifestants choqués, blessés, éborgnés, et des fonctionnaires épuisés, blessés et ayant le sentiment d’être instrumentalisés par le pouvoir politique. </p>
+    <p>Le démantèlement des brigades anti-criminalité (BAC) limitera la spécialisation d’unités qui ne font que du flagrant délit et ne permettent pas d’assurer une bonne relation police-population.</p>
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démenteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
+
+  [[categories.list]]
+    title = "Effectifs de la police"
+
+    [categories.list.them]
+    quote = "Réarmer massivement les forces de l’ordre : en personnels (plan de recrutement de 15 000 policiers et gendarmes), en matériels (modernisation des équipements, des commissariats et des casernes, adaptation des armements aux nouvelles menaces), mais aussi moralement et juridiquement (notamment par la présomption de légitime défense)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "Recrutement de 15 000 policiers et gendarmes."
+
+    [categories.list.us]
+    quote = "
+    • Le recrutement de 5 000 agents administratifs pour libérer policiers et gendarmes aptes à aller sur le terrain et qui travaillent aujourd'hui sur des postes  administratifs ;<br />
+    • Le retour des effectifs de policiers et gendarmes à ceux de 2007 (soit le recrutement de 3 000 agents) ;<br />
+    • Le doublement des effectifs de la police technique et scientifique (soit l'embauche de 2 000 nouveaux personnels) ;<br />
+    • La suppression du statut précaire et peu qualifié des 11 000 adjoints de sécurité en permettant la formation et la titularisation de celles et ceux qui le souhaitent ;
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Recrutement de <strong>5 000 agents administratifs</strong> pour libérer policiers et gendarmes. Recrutement de <strong>3 000 agents</strong> (policiers et gendarmes). Doublement des effectifs de la <strong>police technique et scientifique</strong>. <strong>Suppression</strong> du statut précaire de 11 000 <strong>adjoints de sécurité</strong> par la formation et la titularisation."
+
+  [[categories.list]]
+    title = "Équipement de la police"
+
+    [categories.list.them]
+    quote = "Réarmer massivement les forces de l’ordre : en personnels (plan de recrutement de 15 000 policiers et gendarmes), en matériels (modernisation des équipements, des commissariats et des casernes, adaptation des armements aux nouvelles menaces), mais aussi moralement et juridiquement (notamment par la présomption de légitime défense)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "Réarmer massivement les forces de l’ordre."
+
+    [categories.list.us]
+    quote = "
+    <p>• Lancer un plan de rénovation et de construction de commissariats de police pour lutter contre la clochardisation du bâti et l'abandon de certains territoires<br />
+    • Dotation des services en moyens techniques et matériels suffisants<br />
+    • Renouvellement général du parc informatique sous contrainte de sécurité des échanges</p>
+    <p>Interdiction immédiate des tasers et flashball.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s13m3"
+    tldr = "Rénovation et construction de <p>commissariats</p>. <p>Dotation</p> des services en moyens suffisants. Renouvellement du <p>parc informatique</p>. Interdiction immédiate des <p>tasers et flashball</p>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -488,6 +535,21 @@ candidat = "Marine Le Pen"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
     tldr = "<strong>Régularisation</strong> des <strong>travailleurs</strong> sans papiers."
+
+  [[categories.list]]
+    title = "Prison"
+
+    [categories.list.them]
+    quote = "Instaurer une peine de prison de perpétuité réelle incompressible pour les crimes les plus graves."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "Instaurer la <strong>perpétuité incompressible</strong>."
+
+    [categories.list.us]
+    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte contre l'<strong>insalubrité</strong>."
 
   [[categories.list]]
     title = "Renseignement"
@@ -879,7 +941,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m2"
-    tldr = "<strong>Sortir</stron<strong>Fermer</strong>nucléaire. Fermer Fessenheim en ga<strong>Abandonner</strong> l'emploi des salariés. Abandonn<strong>Abandonner</strong>tion du grand carénage. Abandonner les projets d'EPR."
+    tldr = "<strong>Sortir</strong> du nucléaire. Fermer <strong>Fessenheim</strong> en garantissant l'emploi des salariés. Abandonner l'opération du <strong>grand carénage</strong>. Abandonner les projets d'<strong>EPR</strong>."
 
     [categories.list.them]
     quote = "Pour maintenir, moderniser et sécuriser la filière nucléaire française, engager le Grand Carénage, et garder le contrôle de l’État sur EDF, en lui redonnant une véritable mission de service public. Refuser la fermeture de la centrale de Fessenheim."
