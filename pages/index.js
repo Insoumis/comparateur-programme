@@ -1,9 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router';
 import { Container, Row, Col } from 'react-grid-system';
+import Helmet from 'react-helmet';
+
+import { config } from 'config';
 
 const Index = () => (
   <Container>
+    <Helmet>
+      <title>{config.siteTitle}</title>
+      <meta name="description" content={config.siteDescription} />
+    </Helmet>
+    <Helmet>
+      <title>{config.siteTitle}</title>
+      <meta name="description" content={config.siteDescription} />
+      <meta property="og:title" content={config.siteTitle} />
+      <meta property="og:description" content={config.siteDescription} />
+      <meta property="og:image" content="http://comparateur-programme.fr/assets/preview-home.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="635" />
+      <meta name="twitter:card" content="summary_large_image" />
+    </Helmet>
     <Row>
       <Col id="home" md={8} offset={{md: 2}}>
         <h2>Bienvenue sur le comparateur de programmes de la France Insoumise !</h2>
@@ -11,7 +28,7 @@ const Index = () => (
           Ce site a été réalisé par des membres du <a href="http://discord.insoumis.online/" target="_blank">Discord Insoumis</a>. C'est une initiative citoyenne qui n'a aucun lien direct avec l'<a href="https://jlm2017.fr/" target="_blank">équipe de campagne officielle de Jean-Luc Mélenchon</a>.
         </p>
         <p>
-          Le but de ce comparateur est avant tout d'aider nos concitoyens à s'informer sur le programme de la France Insoumise, <a href="https://laec.fr/" target="_blank">l'Avenir en Commun</a>, mais aussi de leur permettre de le comparer à celui d'autres candidats. Nous sommes conscients que tous les candidats à la présidentielle ne sont pas présents et le regrettons sincèrement, mais notre petit effectif ne nous permettait malheureusement pas de traiter les programmes des 11 candidats à la présidentielle dans le peu de temps qui nous était imparti.
+          Le but de ce comparateur est avant tout d'aider nos concitoyens à s'informer sur le programme de la France Insoumise, <a href="https://laec.fr/" target="_blank">l'Avenir en commun</a>, mais aussi de leur permettre de le comparer à celui d'autres candidats. Nous sommes conscients que tous les candidats à la présidentielle ne sont pas présents et le regrettons sincèrement, mais notre petit effectif ne nous permettait malheureusement pas de traiter les programmes des 11 candidats à la présidentielle dans le peu de temps qui nous était imparti.
         </p>
         <p>
           Si vous êtes curieux du programme des candidats manquants vous pourrez les trouver dans cette liste&nbsp;:
