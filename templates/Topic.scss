@@ -14,10 +14,11 @@
       content: '';
       display: block;
       height: 1px;
+      left: 15px;
       opacity: .15;
       position: absolute;
       top: 25px;
-      width: 100%;
+      width: calc(100% - 30px);
       z-index: -1;
     }
 

@@ -539,7 +539,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s13m3"
-    tldr = "Rénovation et construction de <p>commissariats</p>. <p>Dotation</p> des services en moyens suffisants. Renouvellement du <p>parc informatique</p>. Interdiction immédiate des <p>tasers et flashball</p>."
+    tldr = "Rénovation et construction de <strong>commissariats</strong>. <strong>Dotation</strong> des services en moyens suffisants. Renouvellement du <strong>parc informatique</strong>. Interdiction immédiate des <strong>tasers et flashball</strong>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -701,7 +701,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
-    tldr = "Bac professionnel en <strong>quatre ans</strong>. Augmenter le <strong>nombre d'établissements</strong> d'enseignement professionel. Refonder la <strong>formation professionnelle des adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
+    tldr = "Bac professionnel en <strong>quatre ans</strong>. Augmenter le <strong>nombre d'établissements</strong> d'enseignement professionnel. Refonder la <strong>formation professionnelle des adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Condition du corps enseignant"
@@ -725,7 +725,7 @@ candidat = "Emmanuel Macron"
     quote = "Nous créerons un service sanitaire de 3 mois pour tous les étudiants en santé : dans ce cadre, 40 000 d’entre eux interviendront dans les écoles, les entreprises, pour des actions de prévention."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/sante"
-    tldr = "<strong>Intervention d'étudiants</strong> en santé en santé faisant un service sanitaire de 3 mois."
+    tldr = "<strong>Intervention d'étudiants</strong> en santé faisant un service sanitaire de 3 mois."
 
     [categories.list.us]
     quote = "
@@ -839,7 +839,7 @@ candidat = "Emmanuel Macron"
 
 
   [[categories.list]]
-    title = "Illétrisme"
+    title = "Illettrisme"
 
     [categories.list.them]
 
@@ -1068,6 +1068,13 @@ candidat = "Emmanuel Macron"
     tldr = "Instaurer une agriculture <strong><strong>diversifiée</strong></strong> et <strong>écologique</strong>. Refuser les <strong>OGM</strong>, bannir les <strong>pesticides nuisibles</strong>. Imposer l’objectif d’une alimentation <strong>100 % biologique dans les cantines</strong>."
 
     [categories.list.them]
+    quote= "
+    <p>L'Etat interdira au plus vite les perturbateurs endocriniens repérés comme ayant des impacts sanitaires avérés ou probables, dès lors qu'il existe des solutions scientifiquement reconnues comme moins toxiques.</p>
+    <p>D’ici à 2022, l’ensemble de la restauration collective – les cantines des écoles et les restaurants d’entreprise – devra proposer au moins 50% de produits biologiques, labels de qualité, ou local.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
+    tldr = "<strong>Interdire</strong> les perturbateurs endrocriniens <strong>s'il existe des solutions reconnues comme moins toxiques</strong>. Proposer au moins <strong>50%</strong> de produits <strong>biologiques</strong>, <strong>labels de qualité</strong>, ou <strong>local</strong> dans la restauration collection d'ici à <strong>2022</strong>."
 
   [[categories.list]]
     title = "Élevages"
@@ -1083,6 +1090,10 @@ candidat = "Emmanuel Macron"
     tldr = "Redéfinition des normes d’élevage en vue du respect de la <strong>condition de vie des animaux</strong>. Arrêt des projets de <strong>fermes-usines</strong>. Application effective de la réglementation sur les <strong>conditions d’abattage</strong>."
 
     [categories.list.them]
+    quote = "Projets de modernisation des exploitations ayant un impact positif sur l’environnement et le bien-être animal."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/agriculture"
+    tldr = "Projets de <strong>modernisation</strong> des exploitations ayant un impact <strong>positif sur l’environnemen<strong>bien-être animal</strong> bien-être animal."
 
   [[categories.list]]
     title = "Politique agricole commune (PAC)"
@@ -1340,7 +1351,7 @@ candidat = "Emmanuel Macron"
     tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
 
   [[categories.list]]
-    title = "Transport ferrovière"
+    title = "Transport ferroviaire"
 
     [categories.list.them]
 

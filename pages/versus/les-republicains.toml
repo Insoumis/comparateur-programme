@@ -567,7 +567,7 @@ candidat = "François Fillon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s13m3"
-    tldr = "Rénovation et construction de <p>commissariats</p>. <p>Dotation</p> des services en moyens suffisants. Renouvellement du <p>parc informatique</p>. Interdiction immédiate des <p>tasers et flashball</p>."
+    tldr = "Rénovation et construction de <strong>commissariats</strong>. <strong>Dotation</strong> des services en moyens suffisants. Renouvellement du <strong>parc informatique</strong>. Interdiction immédiate des <strong>tasers et flashball</strong>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -754,7 +754,7 @@ candidat = "François Fillon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
-    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
+    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionnel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Condition du corps enseignant"
@@ -927,7 +927,7 @@ candidat = "François Fillon"
     tldr = "<strong>Renforcer</strong> la présence du français."
 
   [[categories.list]]
-    title = "Illétrisme"
+    title = "Illettrisme"
 
     [categories.list.them]
 
@@ -1355,7 +1355,7 @@ candidat = "François Fillon"
     tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
 
   [[categories.list]]
-    title = "Transport ferrovière"
+    title = "Transport ferroviaire"
 
     [categories.list.them]
     quote = "Inciter les régions à agir concrètement sur le cadencement des TER afin de faire le lien entre les bassins de vie et les bassins d'emploi."

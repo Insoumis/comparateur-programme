@@ -497,7 +497,7 @@ candidat = "Marine Le Pen"
     quote = "Réarmer massivement les forces de l’ordre : en personnels (plan de recrutement de 15 000 policiers et gendarmes), en matériels (modernisation des équipements, des commissariats et des casernes, adaptation des armements aux nouvelles menaces), mais aussi moralement et juridiquement (notamment par la présomption de légitime défense)."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme"
-    tldr = "Réarmer massivement les forces de l’ordre."
+    tldr = "<strong>Réarmer massivement</strong> les forces de l’ordre."
 
     [categories.list.us]
     quote = "
@@ -508,7 +508,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s13m3"
-    tldr = "Rénovation et construction de <p>commissariats</p>. <p>Dotation</p> des services en moyens suffisants. Renouvellement du <p>parc informatique</p>. Interdiction immédiate des <p>tasers et flashball</p>."
+    tldr = "Rénovation et construction de <strong>commissariats</strong>. <strong>Dotation</strong> des services en moyens suffisants. Renouvellement du <strong>parc informatique</strong>. Interdiction immédiate des <strong>tasers et flashball</strong>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -697,7 +697,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
-    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
+    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionnel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Condition du corps enseignant"
@@ -854,7 +854,7 @@ candidat = "Marine Le Pen"
 
 
   [[categories.list]]
-    title = "Illétrisme"
+    title = "Illettrisme"
 
     [categories.list.them]
 
@@ -1329,7 +1329,7 @@ candidat = "Marine Le Pen"
     tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
 
   [[categories.list]]
-    title = "Transport ferrovière"
+    title = "Transport ferroviaire"
 
     [categories.list.them]
     quote = "La libéralisation du rail voulue par l’Union Européenne sera refusée. La Poste et la SNCF resteront des entreprises publiques."

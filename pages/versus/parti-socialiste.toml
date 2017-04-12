@@ -519,7 +519,7 @@ candidat = "Benoît Hamon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s13m3"
-    tldr = "Rénovation et construction de <p>commissariats</p>. <p>Dotation</p> des services en moyens suffisants. Renouvellement du <p>parc informatique</p>. Interdiction immédiate des <p>tasers et flashball</p>."
+    tldr = "Rénovation et construction de <strong>commissariats</strong>. <strong>Dotation</strong> des services en moyens suffisants. Renouvellement du <strong>parc informatique</strong>. Interdiction immédiate des <strong>tasers et flashball</strong>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -699,7 +699,7 @@ candidat = "Benoît Hamon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
-    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionel. <strong>Refonder</strong> la formation professionnelle des adultes et la formation continue et l'inclure dans l'enseignement professionnel."
+    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionnel. <strong>Refonder</strong> la formation professionnelle des adultes et la formation continue et l'inclure dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Condition du corps enseignant"
@@ -862,7 +862,7 @@ candidat = "Benoît Hamon"
 
 
   [[categories.list]]
-    title = "Illétrisme"
+    title = "Illettrisme"
 
     [categories.list.them]
 
@@ -1330,7 +1330,7 @@ candidat = "Benoît Hamon"
     tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
 
   [[categories.list]]
-    title = "Transport ferrovière"
+    title = "Transport ferroviaire"
 
     [categories.list.them]
     quote = "Je consoliderai le maillage du réseau ferroviaire, afin que tous nos territoires restent correctement desservis et que la sécurité soit assurée. Tous les arrêts de train des lignes d’équilibre du territoire, tel que reconnu par le schéma national des services de transport, seront maintenus."
@@ -1392,6 +1392,10 @@ candidat = "Benoît Hamon"
     title = "Diesel"
 
     [categories.list.them]
+    quote = "Pour lutter contre les particules fines dans l’air, responsables de plus 40 000 décès par an, je programmerai la sortie maîtrisée du diesel à horizon 2025 pour les voitures neuves."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Sortie</strong> maîtrisée du diesel <strong>à horizon 2025</strong> pour les voitures neuves."
 
     [categories.list.us]
     quote = "
