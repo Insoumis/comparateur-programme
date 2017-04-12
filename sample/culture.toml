@@ -140,3 +140,222 @@
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s64"
     tldr = "Mise en place d'un VISA francophone privilégié. Renforcer le réseau des Instituts/Alliances français."
+
+  [[categories.list]]
+    title = "Anti-concentration / indépendance"
+    # FIXME: Une section découpée en deux sur le drive, seulement le premier morceau est inclus ci-dessous
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Adopter une loi anti-concentration des médias, protégeant le secteur des intérêts financiers, favorisant la transformation des médias en coopératives de salariés et de lecteurs/auditeurs/téléspectateurs et attribuer des fréquences aux médias locaux et associatifs"
+    ref = ""
+    link = "https://laec.fr/s8m2 | https://avenirencommun.fr/le-livret-medias" # FIXME: quel lien ?
+    tldr = "Adopter une loi anti-concentration des médias, attribuer des fréquences aux médias locaux et associatifs."
+
+  [[categories.list]]
+    title = "Médias publics"
+    # FIXME: Une section découpée en deux sur le drive, seulement le premier morceau est inclus ci-dessous
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Nous réaffirmerons la volonté politique d’un service public audiovisuel valorisant la création culturelle, le pluralisme démocratique et la diversité.</p>
+    <p>La fonction sociale de la télévision et de la radio ne peut être soumise aux aléas du marché et de la finance.</p>
+    <p>Les nouveaux usages de la télévision et la convergence des médias, sur de nouveaux supports, comme les box, les tablettes, les smartphones, appellent à la définition d’un cadre réglementaire capable de résister à l’émergence de quelques monopoles, tant anglo-saxons que français, dans la production et la circulation de programmes.</p>
+    <p>Élire, par le Parlement, les président·e·s de l’audiovisuel public (France Télévision, Radio France, France Médias Monde) à l’issue d’une campagne publique de présentation des candidat·e·s et des projets en compétition.</p>
+    "
+    ref = ""
+    link = "https://laec.fr/s8m1 | https://avenirencommun.fr/le-livret-medias" # FIXME: quel lien ?
+    tldr = "Réaffirmation de la volonté d'un service public audiovisuel indépendant des aléas du marchz et de la finance. Election des présidents de l'audiovisuel public par le Parlement"
+
+  [[categories.list]]
+    title = "Aide aux médias"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Nous réformerons la gestion et l’octroi des aides publiques à la presse écrite et en ligne, et nous inscrirons dans la loi-cadre :<br />
+    • L’unification des critères d’accès aux aides publiques actuelles de la presse écrite (papier et en ligne), des radios associatives privées et des médias locaux d’information. <b>Ces aides seront réservées aux médias d’information sans but lucratif</b> et ne possédant qu’un média de chaque type ou périodicité (pour la presse imprimée).<br />
+    • L’exclusion du bénéfice des aides publiques des supports et publications condamnés pour incitation à la haine, violation de la vie privée et atteinte à la dignité des personnes.</p>
+    "
+    ref = ""
+    link = "https://laec.fr/s8m5 | https://avenirencommun.fr/le-livret-medias" # FIXME: quel lien?
+    tldr = "Refonder les aides publiques à la presse pour les réserver aux médias d'information et mutualiser les outils de production."
+
+  [[categories.list]]
+    title = "Représentation de la société dans les médias"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Le débat public et démocratique se porte mal dans le notre pays à cause d’un traitement éditorial favorable à la pensée libérale dominante et à une représentation inéquitable de la diversité des composantes de la société.</p>
+    <p>Nous voulons ouvrir le débat et garantir un traitement juste des opinions publiques (dans le respect de la loi) par :<br />
+    • L’instauration d’un temps de parole des différentes options politiques en lice suivant le principe d’équité proportionnelle aux résultats des élections législatives.<br />
+    • L’organisation de débats publics télévisés, locaux et nationaux, avec l’obligation d’inviter tou·te·s les candidat·e·s en lice pendant les périodes électorales.<br />
+    • Redresser le temps dévolu à la couverture de l’actualité internationale dans l’audiovisuel, en l’inscrivant dans le cahier des charges de chaque chaîne de télévision et en favorisant le recours aux correspondants étrangers.</p>
+    <p>La question de l’<b>indépendance des instituts de sondage</b>, des principes de <b>leur propriété</b> et de <b>leur financement</b>, doit être soulevée. Leur publication et l’usage qui en est fait par les médias dans le cadre du débat démocratique doivent être encadrés. Pour combattre la « sondocratie », nous proposons l’interdiction des sondages 60 jours avant une élection et l’adoption de la proposition de loi sur les sondages votée à l’unanimité par le Sénat en 2011.</p>
+    <p>Encourager les programmes et émissions valorisant la diversité sociale et culturelle du pays, notamment celle des catégories socio-professionnelles les moins représentées.</p>
+    <p>Renforcer les sanctions (suspension, retrait d’autorisation d’émettre) lorsque les médias audiovisuels diffuseront des programmes sexistes, racistes, xénophobes, LGBTIphobes ou portant atteinte à la dignité des personnes en situation de handicap.</p>
+    "
+    ref = ""
+    link = "https://laec.fr/s8m5 | https://avenirencommun.fr/le-livret-medias" # FIXME: quel lien ?
+    tldr = "Restaurer une représentation équitable de la diversité des composantes de la société et limiter l'influence des instituts de sondages dans la construction de l'opinion."
+
+  [[categories.list]]
+    title = "HADOPI"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Supprimer la Hadopi, qui n'a pas fonctionné, et mettre en place un nouveau cadre du partage numérique de la culture par :<br />
+    • L'instauration d'une cotisation universelle sur les abonnements internet, finançant la création et ouvrant droit en contrepartie au téléchargement non marchand<br />
+    • La création d'un service public nouveau de l'internet et d'une médiathèque publique en ligne, avec une plate-forme publique d'offre légale en ligne de musique, films et contenus culturels</p>
+    "
+    ref = ""
+    link = "https://laec.fr/s77m3"
+    tldr = "Remplacer Hadopi par une cotisation universelle sur les abonnements internet. Création d'une médiathèque publique en ligne."
+
+  [[categories.list]]
+    title = "Protection des données personnelles"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Promouvoir une économie numérique vraiment collaborative :<br />
+    • S'opposer aux logiques de privatisation des services liés au numérique, lutter contre l'évasion fiscale et la création de nouvelles rentes privées par les plateformes lucratives<br />
+    • Soutenir la création d'associations à but non lucratif, de coopératives (SCOP, SCIC, etc.) ou d'entreprises publiques pour fournir les services collaboratifs rendus possibles par le numérique et l'exploitation des données publiques (État, entreprises de transports, etc.)<br />
+    • Protéger les données personnelles contre leur utilisation mercantile<br />
+    • Soutenir la création de Fablabs et autres lieux collectifs de création et de fabrication, liés au numérique, à l'impression 3D, etc.</p>"
+    ref = ""
+    link = "https://laec.fr/s83m4"
+    tldr = "Protéger les données personnelles contre leur utilisation mercantile. Promouvoir une économie numérique vraiment collaborative."
+
+  [[categories.list]]
+    title = "Généraliser la pratique sportive"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport comme <b>moyen d’insertion professionnelle</b> et soutenir toutes les initiatives visant à faire du sport un vecteur de réinsertion des jeunes en difficulté en termes d’accès au travail, en s’appuyant sur des acteur·trice·s associatif·ve·s et privé·e·s, et veiller à ce que ces dispositifs fassent une <b>large part au public féminin</b> et aux <b>publics en situation de handicap.</b></p>
+    <p><b>Favoriser la gratuité</b> pour les populations modestes et promouvoir la fixation des coûts d’accès en fonction des revenus et de la taille des familles.</p>"
+    ref = ""
+    link = "https://laec.fr/s83m4"
+    tldr = "Développer la pratique du sport pour tou.te.s."
+
+  [[categories.list]]
+    title = "Infrastructures sportives"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs (stades, piscines et gymnases notamment), en partenariat avec les collectivités territoriales (dont les dotations seront « dégelées ») et dans le respect de normes environnementales fortes, pour réduire les inégalités et stopper la concurrence entre les territoires."
+    ref = ""
+    link = "" # FIXME: pas de lien dans le drive
+    tldr = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs."
+
+  [[categories.list]]
+    title = "Encadrement sportif"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Réaffirmer le rôle des professeurs d'EPS dans la transmission d'une éducation physique obligatoire pour toutes et tous</p>
+    <p>Recruter des éducateur·trice·s physiques ou sportif·ve·s en nombre suffisant afin d’assurer les missions de rééquilibrage des territoires, de garantir l’accessibilité de la pratique sportive et la structuration pérenne des  associations.</p>"
+    ref = ""
+    link = "" # FIXME: pas de lien dans le drive
+    tldr = "Recruter des intervenants sportifs et réaffirmer l'importance de leur rôle à l'école et dans les associations."
+
+  [[categories.list]]
+    title = "Sport-Santé"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport-santé et l’activité physique adaptée sur ordonnance en formant les médecins.</p>
+    <p>Inciter au développement de la pratique de l’activité physique au sein des entreprises et sur les lieux de travail en général.</p>"
+    ref = ""
+    link = "" # FIXME: pas de lien dans le drive
+    tldr = "Développer le sport-santé et la pratique de l’activité physique au sein des entreprises."
+
+  [[categories.list]]
+    title = "Sport de haut niveau"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération"
+    ref = ""
+    link = "https://laec.fr/s78m5"
+    tldr = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, démocratiser la gestion des fédérations sportives."
+
+  [[categories.list]]
+    title = "Libérer le sport de l’argent"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Interdire le « nommage » et les partenariats public-privé qui, sous leur forme actuelle, n’offrent à la partie publique aucune garantie, privatisant les bénéfices au profit de grands prestataires privés, toujours les mêmes, tout en faisant supporter les risques à la collectivité.</p>
+    <p>S’opposer à de nouvelles collaborations entre le public et le privé en mettant fin au principe de privatisation des bénéfices et de socialisation des pertes et à l’appropriation commerciale des équipements et compétitions.</p>
+    <p><b>Interdire à tout sportif qui n’est pas fiscalement domicilié en France de participer à l’équipe nationale</b> dans le cadre des dispositions d’imposition des Français·es à l’étranger, refuser toute forme de défiscalisation et de réduction de cotisations sociales sur les revenus des sportifs professionnels.</p>
+    <p>Accompagner les transformations des associations sportives qui le souhaitent en sociétés anonymes sportives professionnelles, avec un encadrement juridique et administratif renforcé, en privilégiant un nouveau modèle de statut de société coopérative à objet sportif sur l’exemple des sociétés coopératives d’intérêt collectif et dans la sphère de l’économie sociale et solidaire.</p>
+    <p>Taxer les transferts et les commissions des agent·e·s et des intermédiaires financier·e·s afin de renforcer le soutien aux clubs amateurs, le développement des écoles du sport et des équipements sportifs de proximité ; encadrer le rôle et la rémunération des agent·e·s sportif·ve·s.</p>"
+    ref = ""
+    link = "" # FIXME: pas de lien dans le drive
+    tldr = "Encadrer le rôle de l'argent du sport et le mettre à disposition de la proposition du mouvement sportif."
