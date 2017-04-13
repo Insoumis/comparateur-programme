@@ -1,0 +1,455 @@
+[[categories]]
+  id = "society"
+  title = "Société"
+
+  [[categories.list]]
+    title = "Fermeture de lieux de cultes"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s12m2"
+    tldr = "Mener une politique antiterroriste rationnelle."
+
+  [[categories.list]]
+    title = "Financement des lieux de cultes"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7m4"
+    tldr = "Refuser les financement publics pour la construction des édifices religieux."
+
+  [[categories.list]]
+    title = "Aumônerie"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Étendre le bénéfice de l'application de la loi de 1905 à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer)</p>
+    <p>Garantir la liberté de conscience et l'égalité de toutes les options spirituelles devant la loi</p>
+    <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Une République laïque."
+
+  [[categories.list]]
+    title = "Communautarisme"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Combattre tous les communautarismes et l'usage politique des religions"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Combattre tous les communautarismes et l'usage politique des religions."
+
+  [[categories.list]]
+    title = "Etudes en médecine"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Le développement massif de centres de santé locaux et pluri-professionnels.<br />
+    Cela encouragera l’exercice des soins primaires en équipes (médecins, infirmières, kinésithérapeutes, diététiciens, médiateurs de santé, etc.) entretenant des liens étroits avec les hôpitaux publics. Les professionnels y seront salariés et ces centres pourront être organisés sous la forme juridique de sociétés coopératives d’intérêt collectif (SCIC) ou d’établissements publics, et gérés, selon les lieux, par la Sécurité sociale, les établissements hospitaliers, les mutuelles du livre III du Code de la Mutualité ou les collectivités territoriales.<br />
+    La prévention et la prise en charge des malades chroniques y seront des priorités. Ces centres seront aussi des lieux de formation privilégiés pour les étudiants se destinant à l’exercice des soins primaires.<br />
+    • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m3"
+    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+
+  [[categories.list]]
+    title = "Dépassement d'honoraires / Tiers payant"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>Le développement massif de centres de santé locaux et pluri-professionnels.<br />
+    Cela encouragera l’exercice des soins primaires en équipes (médecins, infirmières, kinésithérapeutes, diététiciens, médiateurs de santé, etc.) entretenant des liens étroits avec les hôpitaux publics. Les professionnels y seront salariés et ces centres pourront être organisés sous la forme juridique de sociétés coopératives d’intérêt collectif (SCIC) ou d’établissements publics, et gérés, selon les lieux, par la Sécurité sociale, les établissements hospitaliers, les mutuelles du livre III du Code de la Mutualité ou les collectivités territoriales.<br />
+    La prévention et la prise en charge des malades chroniques y seront des priorités. Ces centres seront aussi des lieux de formation privilégiés pour les étudiants se destinant à l’exercice des soins primaires.<br />
+    • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m3"
+    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+
+  [[categories.list]]
+    title = "Santé à l'école"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "S’agissant de la prévention primaire, la santé publique deviendra une discipline majeure du cursus des futurs professionnels de santé et le réseau de structures relais sera considérablement densifié : les Protections maternelles et infantiles (PMI) verront leurs moyens renforcés tandis que les effectifs de médecins du travail et de médecins scolaires seront significativement augmentés grâce à des recrutements ambitieux et à la revalorisation des rémunérations."
+    ref = "La santé, notre bien commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-sante/"
+    tldr = "Les effectifs de médecins scolaires seront significativement augmentés grâce à des recrutements ambitieux et à la revalorisation des rémunérations."
+
+  [[categories.list]]
+    title = "Pesticides et perturbateurs endocriniens"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refuser les OGM, bannir les pesticides nuisibles en commençant par une interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.)"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s45m2"
+    tldr = "Instaurer une politique de santé publique et de prévention cohérente."
+
+  [[categories.list]]
+    title = "Médicaments"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m6"
+    tldr = "Faciliter l'accès aux traitements par la création d'un pôle public du médicament."
+
+  [[categories.list]]
+    title = "Cannabis"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Légaliser et encadrer la consommation, la production et la vente de cannabis dans des conditions permettant de lutter contre l'addiction par le contrôle de la qualité des produits et des quantités écoulées : production et vente encadrées par l'État (entreprises publiques ou système de licences délivrées par l'administration), taxation, interdiction de la vente d'alcool et de cannabis dans un même lieu, interdiction effective de la vente aux mineurs"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s69m2"
+    tldr = "Encadrer la consommation, la production et la vente de cannabis."
+
+  [[categories.list]]
+    title = "Zéro obstacle"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s68"
+    tldr = "Pas d'obstacle aux personnes en situation de handicap."
+
+  [[categories.list]]
+    title = "Allocation Adulte Handicapé"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s68m4"
+    tldr = "Augmenter de 42,2% l'allocation aux adultes handicapés au niveau du smic ."
+
+  [[categories.list]]
+    title = "Moyens"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>
+    • Imposer l'égalité de conditions entre les femmes et les hommes dans les institutions politiques, administratives, économiques, syndicales et associatives<br />
+    • Renforcer la loi et les moyens contre les violences faites aux femmes<br />
+    • Généraliser le Planning familial dans ses missions de formation et d'éducation pour la contraception et le droit à l'avortement<br />
+    • Adopter une loi de lutte contre le sexisme<br />
+    • Abolir la prostitution et garantir la dignité de la personne humaine
+    </p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s6m3"
+    tldr = "Abolir le patriarcat dans l'État et la société."
+
+  [[categories.list]]
+    title = "Inégalités homme-femme travail"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Partout dans le monde, les femmes subissent l’oppression et la domination masculines. En France, l’écart salarial moyen est de 26 % et la retraite des femmes est inférieure de 40 % à celle des hommes. La domination patriarcale s’exprime d’abord dans ses conditions sociales et économiques. Ainsi, nous lutterons contre les diverses formes de précarité et améliorerons les conditions de vie de toutes et tous, et donc des femmes.</p>
+    <p>
+    • Étendre à toutes les entreprises l'obligation d'adopter un plan ou un accord d'entreprise contre les inégalités de salaires et de carrière entre hommes et femmes, aujourd'hui limitée aux entreprises de plus de 50 salariés<br />
+    • Augmenter les sanctions financières et pénales contre les entreprises qui ne respectent pas cette égalité, pouvant aller jusqu'à l'interdiction d'accès aux marchés publics<br />
+    • Revaloriser les métiers occupés majoritairement par des femmes (qualifications, grilles salariales…) et agir pour l'égal accès à toutes les formations et à tous les métiers<br />
+    • Favoriser des congés parentaux de durée identique entre les parents
+    </p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s32"
+    tldr = "Réprimer les inégalités femmes-hommes dans les entreprises."
+
+  [[categories.list]]
+    title = "Petite enfance"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m2"
+    tldr = "Ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans."
+
+  [[categories.list]]
+    title = "Contraception, IVG, Grossesse, Accouchement"
+    # FIXME: sujet séparé en trois parties dans le drive, seule la première est inclue ci-dessous
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Permettre un accès à la contraception et à l’avortement garanti dans les faits(remboursement  intégral  de  tous  les  moyens  de  contraception</p>
+    <p>Remise des pilules d’urgence par les infirmières des établissements scolaires</p>
+    "
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Accès à la contraception garanti et gratuit."
+
+  [[categories.list]]
+    title = "Procréation Médicalement Assistée"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes, ...faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5m3"
+    tldr = "Reconnaître le droit à la Procréation Médicalement Assistée <b>pour toutes les femmes.</b>"
+
+  [[categories.list]]
+    title = "Gestation Pour Autrui"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5m3"
+    tldr = "Refuser la Gestation Pour Autrui."
+
+  [[categories.list]]
+    title = "Violences"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Le second pan d’une politique féministe assumée est de combattre les violences faites aux femmes. Elles sont systémiques et se retrouvent dans tous les milieux sociaux. Il est urgent de les combattre avec fermeté et de permettre aux victimes de faire valoir leurs droits dans les meilleures conditions.</p>
+    <p>
+    • Renforcer la politique de logements prioritaires et d’hébergements d’urgence pour les femmes en danger<br />
+    • Organiser  des  campagnes  d’information  et  de  sensibilisation  permanentes<br />
+    • Assurer une formation spécifique et obligatoire en matière de prévention pour tou·te·s les professionnel·le·s concerné·e·s (santé, police, justice, éducation nationale, services sociaux) et mettre en place une antenne spécialisée dans la réception de plaintes pour violences sexistes et sexuelles dans tous les commissariats.<br />
+    • Mettre en œuvre un plan de lutte contre les violences sexistes et sexuelles au travail<br />
+    • Octroyer le statut de réfugiée pour toute femme demandant l’asile parce que victime de violences sexistes, sexuelles ou lesbophobes.<br />
+    • Interdire  les  déqualifications  des  violences  sexuelles <br />
+    • Abolir le principe de prescription pour les crimes à caractère sexuel<br />
+    • Développer un plan de lutte contre le harcèlement de rue et dans les transports<br />
+    • Mettre en œuvre une politique réelle de lutte contre les violences liées à la prostitution
+    </p>"
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Combattre les violences faites aux femmes."
+
+  [[categories.list]]
+    title = "Langues régionales"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Changement d'état civil"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5m2"
+    tldr = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil."
+
+  [[categories.list]]
+    title = "Statut de beau-parent"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Droit de mourir dans la dignité"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>
+    • Instaurer dans la loi le droit à l’aide à mourir.<br />
+    • Rendre les directives anticipées opposables au corps médical.<br />
+    • Développer les moyens pour l’hôpital public et l’aide sociale : l’effectivité de ce droit et l’absence d’abus dépendent aussi de la qualité du service public de la santé.<br />
+    • Étendre le bénéfice de la pension de réversion au conjoint survivant des couples pacsés.<br />
+    • Le droit à « pourvoir aux funérailles » du partenaire survivant sera sécurisé.
+    </p>
+    "
+    ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
+    link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
+    tldr = "Constitutionnaliser le droit de mourir dans la dignité."
+
+  [[categories.list]]
+    title = "La jeunesse au service de l'intérêt général"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>
+    Créer un service citoyen obligatoire<br />
+    • Pour les femmes et les hommes<br />
+    • Par conscription avant 25 ans, proche du lieu de vie, en limitant le casernement aux fonctions qui l'exigent réellement<br />
+    • D'une durée totale de neuf mois, comprenant une formation militaire initiale incluant un droit à l'objection de conscience<br />
+    • Rémunéré au smic<br />
+    • Affecté à des tâches d'intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l'environnement, appui à des associations labellisées d'intérêt général<br />
+    • Présence sur tout le territoire, y compris les Outre-mer, les zones rurales et les quartiers populaires<br />
+    • Comprenant un bilan de santé, une évaluation des capacités d'écriture, de lecture et de calcul avec leur éventuelle mise à niveau, la formation gratuite à la conduite et le passage de l'examen du permis de conduire
+    </p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s14m1"
+    tldr = "Créer un service citoyen obligatoire rémunéré affecté à des tâches d'intérêt général."
+
+  [[categories.list]]
+    title = "Sécurité sociale"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Assurer la continuité des droits personnels hors du contrat de travail (droit à la formation, ancienneté, etc.)</p>
+    <p>Garantir la continuité du revenu en cas de perte d'emploi ou de retrait d'activité, dans le cadre d'une Sécurité sociale professionnelle</p>
+    <p>Donner la liberté aux artisans, commerçants, indépendants, chefs d'entreprises et auto-entrepreneurs de s'affilier au régime général de la Sécurité sociale plutôt qu'au Régime social des indépendants (RSI)</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s26"
+    tldr = "Construire un nouveau statut protecteur pour les travailleurs : la Sécurité sociale intégrale."
+
+  [[categories.list]]
+    title = "Fraude aux prestations sociales"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
