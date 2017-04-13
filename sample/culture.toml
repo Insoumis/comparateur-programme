@@ -143,7 +143,7 @@
 
   [[categories.list]]
     title = "Anti-concentration / indépendance"
-    # FIXME: Une section découpée en deux sur le drive, seulement le premier morceau est inclus ci-dessous
+    # FIXME: Une section découpée en deux sur le drive, seul le premier morceau est inclus ci-dessous
 
     [categories.list.them]
     quote = ""
@@ -159,7 +159,7 @@
 
   [[categories.list]]
     title = "Médias publics"
-    # FIXME: Une section découpée en deux sur le drive, seulement le premier morceau est inclus ci-dessous
+    # FIXME: Une section découpée en deux sur le drive, seul le premier morceau est inclus ci-dessous
 
     [categories.list.them]
     quote = ""
