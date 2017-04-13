@@ -126,10 +126,12 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Refuser les OGM, bannir les pesticides nuisibles en commençant par une interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.)"
+    quote = "
+    <p>Refuser les OGM, bannir les pesticides nuisibles en commençant par une interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.)</p>
+    <p>Instaurer une politique de santé publique et de prévention cohérente.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s45m2"
-    tldr = "Instaurer une politique de santé publique et de prévention cohérente."
+    tldr = "" # FIXME: no tl;dr
 
   [[categories.list]]
     title = "Médicaments"
