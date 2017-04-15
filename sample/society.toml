@@ -455,3 +455,353 @@
     ref = ""
     link = ""
     tldr = ""
+
+  [[categories.list]]
+    title = "Remboursement des soins"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Rembourser à 100% les soins de santé prescrits, dont les soins et appareils dentaires, optiques et auditifs, faire baisser les tarifs des lunettes et appareils auditifs</p>
+    <p>Le passage au 100 % Sécu, c’est la garantie d’une prise en charge intégrale par l’Assurance maladie des dépenses de santé. Une telle mesure est :<br />
+    • Solidaire : l’Assurance  maladie propose le même niveau de couverture pour tous et est financée par des cotisations sociales et la CSG, proportionnelles aux salaires.<br />
+    • Efficace : cette mesure permettra de supprimer les 7 Mds € de frais de gestion qui ne contribuent en rien à la santé de la population. C’est aussi une mesure qui simplifiera la vie des usagers.<br />
+    • Simple à financer : la transformation des primes versées aux complémentaires en cotisations sociales, les économies réalisées sur les frais de gestion, la suppression des dépassements d’honoraires et la régulation de prix aujourd’hui excessifs (médicaments, optique, dentaire),   permettent de financer aisément cette mesure.</p>
+    <p>Le 100 % Sécu ne se traduira par aucun licenciement :
+    Les salariés des complémentaires dont les activités sont concernées par le « 100 % Sécu » se verront proposer une intégration au sein de l’Assurance maladie.<br />
+    Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
+    ref = ""
+    link = "https://avenirencommun.fr/le-livret-sante/ | https://laec.fr/s67m1" # FIXME: quel lien ?
+    tldr = "Rembourser à 100% par la Sécurité Sociale intégrale les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+
+  [[categories.list]]
+    title = "Allocations familiales"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Verser une allocation familiale dès le premier enfant."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m1"
+    tldr = "Verser une allocation familiale dès le premier enfant."
+
+  [[categories.list]]
+    title = "Revalorisation des petites retraites"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s31m2"
+    tldr = "Revaloriser les pensions de retraite au niveau du smic et augmenter le minimum vieillesse."
+
+  [[categories.list]]
+    title = "Chômage"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s26m3"
+    tldr = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort."
+
+  [[categories.list]]
+    title = "Santé"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une politique de santé publique et de prévention :<br />
+    • Élaborer un plan de santé environnementale (lutte contre la pollution, interdiction des pesticides…)<br />
+    • Engager un plan de santé au travail, implanter un réseau sans faille de médecine du travail<br />
+    • Éradiquer les maladies chroniques liées à l'alimentation : lutte drastique contre l'obésité, contre la malbouffe et les abus de sel, sucre et graisses par l'industrie agro-alimentaire…<br />
+    • Abolir le logement insalubre et lutter contre le mal-logement et leurs conséquences sanitaires<br />
+    • Faire de la prévention et de l'éducation à la santé dès le plus jeune âge, en renforçant la médecine scolaire et la Protection maternelle et infantile<br />
+    • Imposer un plan de lutte et de prévention contre les maladies sexuellement transmissibles et promouvoir des politiques de santé sexuelle et reproductive émancipatrices des personnes</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m2"
+    tldr = "Instaurer une politique de santé publique et de prévention."
+
+  [[categories.list]]
+    title = "Dépendance / perte d'autonomie"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Réduire le reste à charge de 500 euros par mois pour les personnes en établissement et augmenter de 50 % le montant de l'APA (aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées</p>
+    <p>Construire une prise en charge solidaire de la dépendance, financée par une mise à contribution des revenus immobiliers et des successions sur les gros patrimoines</p>
+    <p>Développer un réseau public de maisons de retraite avec des tarifs harmonisés et accessibles, <b>créer 10 000 places par an en EHPAD publics</b> pendant cinq ans</p>
+    <p>Former, qualifier et recruter en nombre suffisant le personnel nécessaire, soit au moins 100 000 personnes</p>
+    <p>Refondre les grillles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s71"
+    tldr = "Faire face collectivement au vieillissement de la population et à la perte d'autonomie."
+
+  [[categories.list]]
+    title = "Solde migratoire"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "<b>Tout étranger persécuté dans son pays peut trouver asile en France.</b>"
+
+  [[categories.list]]
+    title = "Financement de la politique migratoire"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "<p>
+    • Mettre en oeuvre un accueil digne des migrants avec une répartition sur l’ensemble du territoire européen mettant fin aux hot spots qui sont devenus des « centres de détention » ;<br />
+    • Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents ;<br />
+    • Construire des centres d’accueil aux normes internationales sur le modèle de celui de Grande-Synthe, pour proposer aux migrants des conditions dignes.
+    </p>"
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Construire des centres d’accueil aux normes internationales."
+
+  [[categories.list]]
+    title = "Demande d'asile"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Assouplir les politiques de visas « au titre de l’asile », en veillant notamment à empêcher que les coûts des visas nationaux soient utilisés comme des mesures de dissuasion.</p>
+    <p>Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier</p>
+    "
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Autoriser les demandeurs d'asile à travailler pendant la période d'examen de leur dossier."
+
+  [[categories.list]]
+    title = "Rétention administrative"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents"
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Remplacer les centre de rétention par des centre d'accueil aux normes internationales."
+
+  [[categories.list]]
+    title = "Naturalisation"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives"
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Faciliter l'accès à la nationalité française."
+
+  [[categories.list]]
+    title = "Droit du sol"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s6m1"
+    tldr = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+
+  [[categories.list]]
+    title = "Regroupement familial"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Prestations sociales"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "AME"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Pauvreté"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Nous créerons pour toutes les personnes majeures vivant sous le seuil de pauvreté, une garantie dignité de 1 000 € par mois pour une personne seule. Ce dispositif reposera sur le renforcement, l’élargissement et l’automaticité du Revenu de solidarité active (RSA).</p>
+    <p>Créer un Plan personnalisé contre la pauvreté (PPP) prenant en compte la situation des personnes dans leur globalité (revenus, état de santé, insertion professionnelle, logement, etc.)</p>
+    <p>Créer une « garantie dignité » en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté)</p>
+    <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base</p>
+    <p>Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal</p>"
+    ref = ""
+    link = "https://laec.fr/s33 | https://avenirencommun.fr/le-livret-pauvrete" # FIXME: quel lien ?
+    tldr = "Renforcement, élargissement et <b>automaticité</b> d'une garantie dignité de 1000€/mois pour une personne seule vivant sous le seuil de pauvreté."
+
+  [[categories.list]]
+    title = "Précarité énergétique"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Mettre fin aux situations de précarité énergétique que vivent les ménages"
+    ref = ""
+    link = "https://laec.fr/s40m3"
+    tldr = "Mettre fin aux situations de précarité énergétique que vivent les ménages."
+
+  [[categories.list]]
+    title = "Aides aux jeunes adultes"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s27m1"
+    tldr = "Allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+
+  [[categories.list]]
+    title = "Exclusion"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Pôle emploi verra ses effectifs augmentés et les départements se verront imposer une obligation de financement des politiques d’insertion. Des lieux d’accueil physique seront ainsi réouverts, en milieu urbain comme en milieu rural.</p>
+    <p>Les structures d’accueil de jour et d’hébergement, aujourd’hui de plus en plus réduites à une seule fonction de mise à l’abri, verront leurs moyens d’accompagnement revalorisés, afin d’aider les personnes, non seulement à survivre, mais à sortir de la  précarité.</p>
+    <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Apporter un accompagnement global et surtout respectueux des personnes par un référent unique."
+
+  [[categories.list]]
+    title = "Logement social"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s9m3"
+    tldr = "Constitutionnaliser et rendre effectifs le droit au logement."
+
+  [[categories.list]]
+    title = "Hébergement d'urgence"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Interdire les expulsions locatives sans relogement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s34m1"
+    tldr = "Interdire les expulsions locatives sans relogement."
