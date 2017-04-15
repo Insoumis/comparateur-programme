@@ -36,14 +36,10 @@ class Versus extends Component {
     });
   }
 
-  componentWillReceiveProps(nextProps) {
+  componentWillUpdate(nextProps) {
     if (nextProps.data != this.props.data) {
-      this.container.style.transition = '0s';
-      this.container.style.opacity = 0;
-      requestAnimationFrame(() => {
-        this.container.style.opacity = 1;
-        this.container.style.transition = '.4s';
-      });
+      this.container.classList.add('animated');
+      setTimeout(() => this.container.classList.remove('animated'), 200);
     }
   }
 

@@ -302,7 +302,7 @@ candidat = "Emmanuel Macron"
     quote = "Nous ouvrirons les droits à l’assurance-chômage aux salariés qui démissionnent. Ce droit ne sera utilisable qu’une fois tous les cinq ans. En contrepartie, l’insuffisance des efforts de recherche d’emploi ou le refus d’offres raisonnables entraîneront la suspension des allocations."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Droit à l'<p>assurance-chômage</p> pour les salariés qui démissionnent tous les cinq ans. <p>Suspension des allocations</p> en cas de refus d'offres \"raisonnables\"."
+    tldr = "Droit à l'<strong>assurance-chômage</strong> pour les salariés qui démissionnent tous les cinq ans. <strong>Suspension des allocations</strong> en cas de refus d'offres \"raisonnables\"."
 
     [categories.list.us]
     quote = "Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés."
@@ -337,7 +337,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -1093,7 +1093,7 @@ candidat = "Emmanuel Macron"
     quote = "Projets de modernisation des exploitations ayant un impact positif sur l’environnement et le bien-être animal."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/agriculture"
-    tldr = "Projets de <strong>modernisation</strong> des exploitations ayant un impact <strong>positif sur l’environnemen<strong>bien-être animal</strong> bien-être animal."
+    tldr = "Projets de <strong>modernisation</strong> des exploitations ayant un impact positif sur l’environnemen<strong>bien-être animal</strong> bien-être animal."
 
   [[categories.list]]
     title = "Politique agricole commune (PAC)"

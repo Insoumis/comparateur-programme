@@ -302,7 +302,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -1527,13 +1527,13 @@ candidat = "Marine Le Pen"
     quote = "Renforcer la solidarité intergénérationnelle en permettant à chaque parent de transmettre sans taxation 100 000 euros à chaque enfant tous les cinq ans (au lieu de quinze ans actuellement) et en augmentant le plafond des donations sans taxation aux petits-enfants à 50 000 euros, également tous les cinq ans."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Modifier la taxation pour renforcer la solidarité intergénérationnelle."
+    tldr = "<strong>Modifier</strong> la taxation pour renforcer la solidarité intergénérationnelle."
 
     [categories.list.us]
     quote = "Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les fortunes les plus importantes (égal au patrimoine des 0,01 % les plus riches, soit 33 millions d'euros en 2012)."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s36m5"
-    tldr = "Augmenter les droits de succession sur les gros patrimoines."
+    tldr = "<strong>Augmenter</strong> les droits de succession sur les <strong>gros patrimoines</strong>."
 
   [[categories.list]]
     title = "Niches fiscales"
@@ -1544,7 +1544,7 @@ candidat = "Marine Le Pen"
     quote = "Remettre à plat l'ensemble des aides publiques et exonérations d'impôt ou de cotisation accordées aux entreprises, évaluer leur efficacité, et revenir sur les aides antisociales et anti-écologiques."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = ""
-    tldr = "Évaluer chacune des niches fiscales et supprimer les niches injustes, inefficaces socialement ou nuisibles écologiquement."
+    tldr = "Évaluer chacune des niches fiscales et <strong>supprimer</strong> les niches <strong>injustes</strong>, inefficaces <strong>socialement</strong> ou nuisibles <strong>écologiquement</strong>."
 
   [[categories.list]]
     title = "Immobilier"
@@ -1555,7 +1555,7 @@ candidat = "Marine Le Pen"
     quote = "Imposer les hautes transactions immobilières par une taxe progressive."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s34m5"
-    tldr = "Imposer les hautes transactions immobilières par une taxe progressive."
+    tldr = "Imposer les <strong>hautes transactions</strong> immobilières par une <strong>taxe progressive</strong>."
 
   [[categories.list]]
     title = "Outre-mer"
@@ -1566,7 +1566,7 @@ candidat = "Marine Le Pen"
     quote = "Supprimer les exemptions fiscales bénéficiant aux ultra-riches pour les investissements outre-mer (notamment sur l'ISF)."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s15m3"
-    tldr = "Supprimer les exemptions fiscales bénéficiant aux ultra-riches pour les investissements outre-mer (notamment sur l'ISF)."
+    tldr = "<strong>Supprimer</strong> les exemptions fiscales bénéficiant aux <strong>ultra-riches</strong> pour les investissements <strong>outre-mer</strong>."
 
   [[categories.list]]
     title = "Impôt univesel"
@@ -1577,22 +1577,22 @@ candidat = "Marine Le Pen"
     quote = "Mettre en place la taxation différentielle permettant de soumettre chaque citoyen français aux impôts français quel que soit son pays de résidence"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s37m1"
-    tldr = "Mettre en place une taxation différentielle quel que soit le pays de résidence."
+    tldr = "Mettre en place une taxation différentielle <strong>quel que soit le pays</strong> de résidence."
 
   [[categories.list]]
     title = "Lutte contre la fraude fiscale"
 
     [categories.list.them]
-    quote = "Remettre de l’ordre dans nos finances publiques ... par la lutte contre la fraude sociale et fiscale."
-    ref = ""
+    quote = "Remettre de l’ordre dans nos finances publiques [...] par la lutte contre la fraude sociale et fiscale."
+    ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = ""
+    tldr = "<strong>Lutte</strong> contre la fraude sociale et fiscale."
 
     [categories.list.us]
     quote = "Supprimer le monopole du déclenchement de poursuites judiciaires par l'administration fiscale en cas de fraude : la justice doit pouvoir enquêter librement et de sa propre initiative, même contre l'avis du ministre."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s2m2"
-    tldr = "Donner à la Justice le droit de déclencher des poursuites fiscales de sa propre initiative."
+    tldr = "Donner à la <strong>Justice</strong> le droit de déclencher des poursuites fiscales de sa <strong>propre initiative</strong>."
 
   [[categories.list]]
     title = "Impôt sur les sociétés"
@@ -1603,7 +1603,7 @@ candidat = "Marine Le Pen"
     quote = "Moduler l'impôt sur les sociétés selon l'usage des bénéfices pour encourager l'investissement en France : un taux réduit pour les bénéfices réinvestis en France, un taux plein pour les bénéfices distribués aux actionnaires."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s20m3"
-    tldr = "Instaurer un taux d'imposition réduit pour les entreprise qui réinvestissent leurs bénéfices en France."
+    tldr = "Instaurer un <strong>taux d'imposition réduit</strong> pour les entreprise qui <strong>réinvestissent</strong> leurs bénéfices en France."
 
   [[categories.list]]
     title = "Impôts TPE et PME"
@@ -1611,15 +1611,15 @@ candidat = "Marine Le Pen"
     [categories.list.them]
     quote = "<p>Alléger la complexité administrative et fiscale pesant sur les TPE-PME...</p>
     <p>Maintenir le dispositif à taux réduit à 15 % de l’impôt sur les sociétés pour les TPE-PME et créer un taux intermédiaire à 24 % (au lieu de 33 %) pour les PME. Fluidifier la transmission d’entreprises en accordant l’exonération totale des plus-values de cession des actions et parts sociales des PME-PMI au bout de sept ans.</p>"
-    ref = ""
+    ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = ""
+    tldr = "Maintenir le taux réduit de l'impôt sur les TPE-PME à <strong>15%</strong>, créer un taux intermédiaire d'imposition à <strong>24%</strong> pour les PME."
 
     [categories.list.us]
     quote = "Refonder l'impôt sur les sociétés pour établir l'égalité devant l'impôt entre PME et grands groupes, instaurer un barème progressif et favoriser l'investissement plutôt que la distribution de dividendes."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s36m3"
-    tldr = "Établir l'égalité devant l'impôt entre PME et grands groupes."
+    tldr = "Établir <strong>l'égalité devant l'impôt</strong> entre PME et grands groupes."
 
   [[categories.list]]
     title = "Taxe sur les transactions financières"
@@ -1633,7 +1633,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/19/mettre-au-pas-la-finance#mesure-3"
-    tldr = "Taxer les transactions financières. Interdire aux banques toute activité dans les paradis fiscaux."
+    tldr = "<strong>Taxer</strong> les transactions financières. Interdire aux banques toute activité dans les <strong>paradis fiscaux</strong>."
 
 
   [[categories.list]]
@@ -1645,4 +1645,4 @@ candidat = "Marine Le Pen"
     quote = "Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité (soit 2% du PIB chaque année, 200 milliards d'euros sur un quinquennat) pour financer la transition énergétique et les activités socialement utiles."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s18m2"
-    tldr = "Supprimer le CICE et le réinvestir dans la transition énergétique et les activités socialement utiles."
+    tldr = "<strong>Supprimer</strong> le CICE et le réinvestir dans la <strong>transition énergétique</strong> et les activités <strong>socialement utiles</strong>."
