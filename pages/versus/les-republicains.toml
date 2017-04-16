@@ -349,7 +349,7 @@ candidat = "François Fillon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -1372,6 +1372,35 @@ candidat = "François Fillon"
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
     tldr = "Développer les transports ferroviaires afin d’assurer un <strong>maillage adapté</strong> aux différentes échelles des territoires."
+
+    [[categories.list]]
+      title = "Transport de marchandises"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "
+      <p>Nous organiserons, en différents lieux de l’agglomération (gare, nœud autoroutier, sortie d’autoroute, port) des centres de distribution urbaine, bases logistiques de tri, de stockage, éventuellement de vente, où s’opérera cette rupture de charge. À partir de ces centres, nous mettrons en place une logistique « du dernier kilomètre » par toutes sortes de modes non polluants (camions au gaz naturel, camionnettes électriques, tramways de fret, triporteurs à assistance électrique). Pour les produits frais, issus de l’agriculture et de l’élevage, une logistique particulière de proximité sera mise en place, favorisant les circuits courts de distribution, avec des véhicules non-polluants.</p>
+      <p>Nous relancerons le transport de fret par voie ferrée, en particulier grâce au développement du transport combiné rail-route et du ferroutage (camions mis sur les trains), afin de réduire la part du transport routier des marchandises. Nous lancerons ainsi un grand plan ferroutage avec comme objectif que tous les camions traversant notre pays entre la frontière belge et la frontière espagnole passent sur des trains.</p>
+      <p>Le transport fluvial est le moins polluant à la tonne transportée, (...). Nous favoriserons des investissements et des innovations dans ce mode de transports, en rénovant les infrastructures fluviales existantes, et en augmentant leurs capacités. Le transport fluvial devra être systématiquement relié aux ports maritimes.</p>
+      "
+      ref = "Pour des transports écologiques et accessibles - 2017"
+      link = "https://avenirencommun.fr/le-livret-transports/"
+      tldr = "Remplacer le transport par camions par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
+
+    [[categories.list]]
+      title = "Autoroutes"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "
+      <p>Nationaliser les autoroutes.</p>
+      <p>Garantir la responsabilité de l’État dans la gestion et l’entretien des routes nationales. L’enveloppe budgétaire ainsi économisée par les régions sera réattribuée à la création de stations d’alimentation en énergies propres pour les véhicules. Nous mettrons de cette manière en œuvre les conditions de mutation du parc automobile vers les énergies propres (électricité et gaz). </p>
+      "
+      ref = "Pour des transports écologiques et accessibles - 2017"
+      link = "https://avenirencommun.fr/le-livret-transports/"
+      tldr = "<strong>Re-nationaliser</strong> les autoroutes."
 
   [[categories.list]]
     title = "Covoiturage"

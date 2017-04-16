@@ -20,10 +20,52 @@ export default class Topic extends Component {
 
   render() {
     const { candidat, item } = this.props;
+    let url, twitterText;
+    if (typeof document == 'object') {
+      url = encodeURI(`http://comparateur-programme.fr${document.location.pathname}#${getSlug(item.title)}`);
+      twitterText = encodeURIComponent(`Jean-Luc Mélenchon VS ${candidat} : ${item.title} ${url}`);
+    }
+
     return (
       <div className="Topic" id={getSlug(item.title)}>
         <Row>
-          <Col className="subtitle"><span>{item.title}</span></Col>
+          <Col className="subtitle">
+            <span>{item.title}</span>
+            <div className="social">
+              <a
+                href={`https://www.facebook.com/sharer/sharer.php?u=${url}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.open(e.currentTarget, 'Partager sur Facebook', 'width=560,height=430');
+                }}
+              >
+                <i className="fa fa-facebook" aria-hidden="true"></i>
+              </a>
+              <a
+                href={`https://twitter.com/home?status=${twitterText}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.open(e.currentTarget, 'Partager sur Twitter', 'width=430,height=284');
+                }}
+              >
+                <i className="fa fa-twitter" aria-hidden="true"></i>
+              </a>
+              <a
+                href={`https://plus.google.com/share?url=${url}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.open(e.currentTarget, 'Partager sur Google+', 'width=400,height=415');
+                }}
+              >
+                <i className="fa fa-google-plus" aria-hidden="true"></i>
+              </a>
+              <a
+                href={`#${getSlug(item.title)}`}
+              >
+                <i className="fa fa-anchor" aria-hidden="true"></i>
+              </a>
+            </div>
+          </Col>
           <Hidden sm xs>
             <Col className="more" md={12}>
               <button onClick={() => this.setState({
