@@ -16,7 +16,7 @@ candidat = "François Fillon"
     "
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/projet"
-    tldr = "Ajouter des <strong>quotats d'immigration</strong> à la Constitution. <strong>Modifier le principe de précaution</strong> visant à protéger environnement et santé."
+    tldr = "Ajouter des <strong>quotas d'immigration</strong> à la Constitution. <strong>Modifier le principe de précaution</strong> visant à protéger environnement et santé."
 
     [categories.list.us]
     quote = "La nouvelle Constitution dont la France a besoin doit être radicalement nouvelle, y compris dans sa méthode d'écriture : elle ne peut être un simple rafistolage de la 5e République, ni se résumer à quelques réformes octroyées par le futur président de la République. C'est le peuple lui-même qui doit s'emparer de la question et s'impliquer tout au long d'un processus constituant. Nous proposons la convocation d'une assemblée spécifiquement chargée de rédiger une nouvelle Constitution sous le contrôle des citoyens : une Assemblée constituante."
@@ -672,7 +672,7 @@ candidat = "François Fillon"
   title = "Éducation et Recherche"
 
   [[categories.list]]
-    title = "Rythme scolaire"
+    title = "Rythmes scolaires"
 
     [categories.list.them]
     quote = "Laisser les collectivités territoriales décider de l’organisation du temps scolaire à l’école primaire. A ce titre, elles pourront revenir sur la réforme des rythmes scolaires et favoriser un temps pour les devoirs après la classe."
@@ -710,7 +710,7 @@ candidat = "François Fillon"
     quote = "Mettre en œuvre un plan de lutte contre les inégalités à l'école maternelle et primaire, notamment avec un droit à la scolarisation dès 2 ans, la baisse du nombre d'élèves par classe en primaire, la présence de davantage d'instituteurs que de classes dans les écoles, le développement des Réseaux d'aide aux élèves en difficulté."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
-    tldr = "<strong>Droit</strong> à la scolarité dés 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
+    tldr = "<strong>Droit</strong> à la scolarité dès 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
 
   [[categories.list]]
     title = "Réforme des collèges"
@@ -974,7 +974,7 @@ candidat = "François Fillon"
     [categories.list.them]
 
   [[categories.list]]
-    title = "Énergies carbonnées"
+    title = "Énergies carbonées"
 
     [categories.list.us]
     quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
@@ -1022,7 +1022,7 @@ candidat = "François Fillon"
     tldr = "Moderniser le parc nucléaire pour en <strong>prolonger la durée</strong> d'exploitation."
 
   [[categories.list]]
-    title = "Enfouissement des déchets nucléaire"
+    title = "Enfouissement des déchets nucléaires"
 
     [categories.list.us]
     quote = "
@@ -1103,7 +1103,7 @@ candidat = "François Fillon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne"
-    tldr = "Réfonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
+    tldr = "Refonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
 
     [categories.list.them]
 
@@ -1346,7 +1346,7 @@ candidat = "François Fillon"
     "
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/projet/politique-ville/"
-    tldr = "<strong>Répartir</strong> et <strong>rendre plus transparante</strong> l'attribution des logements sociaux sur le territoire."
+    tldr = "<strong>Répartir</strong> et <strong>rendre plus transparente</strong> l'attribution des logements sociaux sur le territoire."
 
     [categories.list.us]
     quote = "Aussi, afin de rendre le droit au logement réellement effectif, nous l’inscrirons dans la Constitution. Nous sortirons le logement et l’habitat des mécanismes du marché par un plan d’action volontariste qui démarrera dès le début de la mandature."
@@ -1386,7 +1386,7 @@ candidat = "François Fillon"
       "
       ref = "Pour des transports écologiques et accessibles - 2017"
       link = "https://avenirencommun.fr/le-livret-transports/"
-      tldr = "Remplacer le transport par camions par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
+      tldr = "Remplacer le transport par camion par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
 
     [[categories.list]]
       title = "Autoroutes"
@@ -1516,7 +1516,7 @@ candidat = "François Fillon"
     quote = "Mettre en place un « plan musée » au profit des territoires pour mieux valoriser les collections en accompagnant les musées pour les faire entrer dans l’ère numérique."
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
-    tldr = "Mettre en place « plan musée » au profit des territoires. Accompagner les musées pour les faire entrer dans <strong>l’ère numérique</strong>."
+    tldr = "Mettre en place un « plan musée » au profit des territoires. Accompagner les musées pour les faire entrer dans <strong>l’ère numérique</strong>."
 
     [categories.list.us]
     quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches."
@@ -1540,7 +1540,7 @@ candidat = "François Fillon"
     <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissement scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
+    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissements scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
 
   [[categories.list]]
     title = "Éducation artistique"
@@ -1567,7 +1567,7 @@ candidat = "François Fillon"
     quote = "Préserver le régime des intermittents du spectacle, en luttant contre les abus, en excluant toute forme d'emploi permanent, et en réservant son bénéfice aux artistes et techniciens qui collaborent à des œuvres de création originale dont la fabrication ou l’exécution est limitée dans le temps."
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
-    tldr = "Limiter le régime des intermmittents à des <strong>emplois courts</strong> et l<strong>abus</strong>r contre les abus."
+    tldr = "Limiter le régime des intermittents à des <strong>emplois courts</strong> et lutter contre les <strong>abus</strong>."
 
     [categories.list.us]
     quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
@@ -1730,7 +1730,7 @@ candidat = "François Fillon"
     quote = "Encourager les établissements d’enseignement supérieur à favoriser la pratique sportive avec la prise en compte spécifique des parcours des sportifs de haut-niveau."
     ref = "Mon projet pour la France - 13/03/2017"
     link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
-    tldr = "Favoriser la pratique sportive dans les <strong>établissement d'enseignement supérieur</strong>."
+    tldr = "Favoriser la pratique sportive dans les <strong>établissements d'enseignement supérieur</strong>."
 
     [categories.list.us]
     quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération."
