@@ -15,7 +15,7 @@ const HomeSelector = ({ selected }) => (
     <Container className="container">
       <Row className={`default${(!selected) ? ' visible' : ''}`}>
         Choisissez<br/>
-        votre adversaire<br />
+        le programme<br />
         <i className="fa fa-chevron-circle-down" aria-hidden="true"></i>
       </Row>
       <Row className={`versus${(selected) ? ' visible' : ''}`}>

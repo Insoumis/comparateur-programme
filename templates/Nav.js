@@ -21,6 +21,11 @@ class Nav extends Component {
   }
 
   render() {
+    let touchDevice;
+    if (typeof window == 'object') {
+      touchDevice = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+    }
+
     return (
       <div>
         <Hidden sm xs>
@@ -35,7 +40,7 @@ class Nav extends Component {
                 <Link
                   activeClassName="active"
                   className="ps"
-                  onMouseOver={() => this.setState({ versus: 'hamon' })}
+                  onMouseOver={(!touchDevice) ? () => this.setState({ versus: 'hamon' }) : false}
                   onMouseOut={() => this.setState({ versus: null })}
                   to={prefixLink('/versus/parti-socialiste/')}
                 >Parti Socialiste</Link>
@@ -44,7 +49,7 @@ class Nav extends Component {
                 <Link
                   activeClassName="active"
                   className="em"
-                  onMouseOver={() => this.setState({ versus: 'macron' })}
+                  onMouseOver={(!touchDevice) ? () => this.setState({ versus: 'macron' }) : false}
                   onMouseOut={() => this.setState({ versus: null })}
                   to={prefixLink('/versus/en-marche/')}
                 >En Marche</Link>
@@ -53,7 +58,7 @@ class Nav extends Component {
                 <Link
                   activeClassName="active"
                   className="lr"
-                  onMouseOver={() => this.setState({ versus: 'fillon' })}
+                  onMouseOver={(!touchDevice) ? () => this.setState({ versus: 'fillon' }) : false}
                   onMouseOut={() => this.setState({ versus: null })}
                   to={prefixLink('/versus/les-republicains/')}
                 >Les Républicains</Link>
@@ -62,7 +67,7 @@ class Nav extends Component {
                 <Link
                   activeClassName="active"
                   className="fn"
-                  onMouseOver={() => this.setState({ versus: 'lepen' })}
+                  onMouseOver={(!touchDevice) ? () => this.setState({ versus: 'lepen' }) : false}
                   onMouseOut={() => this.setState({ versus: null })}
                   to={prefixLink('/versus/front-national/')}
                 >Front National</Link>

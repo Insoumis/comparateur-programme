@@ -22,6 +22,16 @@
     @media (max-width: 767px) {display: none;}
   }
 
+  .container {
+    transition: .7s;
+
+    &.animated {
+      opacity: 0;
+      transform: translateY(-20px);
+      transition: 0s;
+    }
+  }
+
   .stickyHeader {
     left: 0;
     opacity: 0;

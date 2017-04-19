@@ -302,7 +302,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation partonales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisations patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -449,19 +449,66 @@ candidat = "Marine Le Pen"
     tldr = "Renforcer l'<strong>impartialité</strong> et l'<strong>indépendance</strong> de la Justice."
 
   [[categories.list]]
-    title = "Prison"
+    title = "Mission de la police"
 
     [categories.list.them]
-    quote = "Instaurer une peine de prison de perpétuité réelle incompressible pour les crimes les plus graves."
+    quote = "Recentrer la police et la gendarmerie sur leur mission de sécurité publique en les libérant des tâches indues et administratives."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme"
-    tldr = "Instaurer la <strong>perpétuité incompressible</strong>."
+    tldr = "Recentrer la police et la gendarmerie sur leur mission de sécurité publique en les libérant des tâches indues et administratives."
 
     [categories.list.us]
-    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
-    ref = "Une justice au nom du peuple - 2017"
-    link = "https://avenirencommun.fr/le-livret-justice/"
-    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte contre l'<strong>insalubrité</strong>."
+    quote = "
+    <p>En matière de sécurité, nos maître-mots sont prévention, dissuasion, sanction.</p>
+    <p>Restaurer la police de proximité en refondant les objectifs des polices municipales et affirmant la distinction entre les missions nationales et locales.</p>
+    <p>La République a besoin d'une police républicaine, agissant pour protéger les libertés individuelles et collectives. La politique de sécurité doit être refondée en lien avec la population, par l'intégration des conscrits, loin des coups de menton et du deux poids deux mesures. </p>
+    <p>L’absurde politique du chiffre mise en place par Sarkozy n’a fait que se poursuivre depuis 2012. La « bâtonnite » (action qui vise à mettre des bâtons dans les cases) continue comme avant, avec à la clef de belles primes pour la haute hiérarchie, en complète déconnexion avec la réalité du terrain.</p>
+    <p>L’interdiction immédiate des tasers et flashball et la refondation de la doctrine du maintien de l’ordre pour favoriser la désescalade et la prévention des actes violents. Nous devons démonter les engrenages de violence de deux camps qui s’affrontent. Ainsi seront évités les drames de manifestants choqués, blessés, éborgnés, et des fonctionnaires épuisés, blessés et ayant le sentiment d’être instrumentalisés par le pouvoir politique. </p>
+    <p>Le démantèlement des brigades anti-criminalité (BAC) limitera la spécialisation d’unités qui ne font que du flagrant délit et ne permettent pas d’assurer une bonne relation police-population.</p>
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démanteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
+
+  [[categories.list]]
+    title = "Effectifs de la police"
+
+    [categories.list.them]
+    quote = "Réarmer massivement les forces de l’ordre : en personnels (plan de recrutement de 15 000 policiers et gendarmes), en matériels (modernisation des équipements, des commissariats et des casernes, adaptation des armements aux nouvelles menaces), mais aussi moralement et juridiquement (notamment par la présomption de légitime défense)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "Recrutement de 15 000 policiers et gendarmes."
+
+    [categories.list.us]
+    quote = "
+    • Le recrutement de 5 000 agents administratifs pour libérer policiers et gendarmes aptes à aller sur le terrain et qui travaillent aujourd'hui sur des postes  administratifs ;<br />
+    • Le retour des effectifs de policiers et gendarmes à ceux de 2007 (soit le recrutement de 3 000 agents) ;<br />
+    • Le doublement des effectifs de la police technique et scientifique (soit l'embauche de 2 000 nouveaux personnels) ;<br />
+    • La suppression du statut précaire et peu qualifié des 11 000 adjoints de sécurité en permettant la formation et la titularisation de celles et ceux qui le souhaitent ;
+    "
+    ref = "Sécurité : retour à la raison - 2017"
+    link = "https://avenirencommun.fr/le-livret-securite/"
+    tldr = "Recrutement de <strong>5 000 agents administratifs</strong> pour libérer policiers et gendarmes. Recrutement de <strong>3 000 agents</strong> (policiers et gendarmes). Doublement des effectifs de la <strong>police technique et scientifique</strong>. <strong>Suppression</strong> du statut précaire de 11 000 <strong>adjoints de sécurité</strong> par la formation et la titularisation."
+
+  [[categories.list]]
+    title = "Équipement de la police"
+
+    [categories.list.them]
+    quote = "Réarmer massivement les forces de l’ordre : en personnels (plan de recrutement de 15 000 policiers et gendarmes), en matériels (modernisation des équipements, des commissariats et des casernes, adaptation des armements aux nouvelles menaces), mais aussi moralement et juridiquement (notamment par la présomption de légitime défense)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "<strong>Réarmer massivement</strong> les forces de l’ordre."
+
+    [categories.list.us]
+    quote = "
+    <p>• Lancer un plan de rénovation et de construction de commissariats de police pour lutter contre la clochardisation du bâti et l'abandon de certains territoires<br />
+    • Dotation des services en moyens techniques et matériels suffisants<br />
+    • Renouvellement général du parc informatique sous contrainte de sécurité des échanges</p>
+    <p>Interdiction immédiate des tasers et flashball.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s13m3"
+    tldr = "Rénovation et construction de <strong>commissariats</strong>. <strong>Dotation</strong> des services en moyens suffisants. Renouvellement du <strong>parc informatique</strong>. Interdiction immédiate des <strong>tasers et flashball</strong>."
 
   [[categories.list]]
     title = "Contrôle au faciès"
@@ -488,6 +535,21 @@ candidat = "Marine Le Pen"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/25/eradiquer-la-precarite-respecter-les-metiers-et-les-travailleurs"
     tldr = "<strong>Régularisation</strong> des <strong>travailleurs</strong> sans papiers."
+
+  [[categories.list]]
+    title = "Prison"
+
+    [categories.list.them]
+    quote = "Instaurer une peine de prison de perpétuité réelle incompressible pour les crimes les plus graves."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme"
+    tldr = "Instaurer la <strong>perpétuité incompressible</strong>."
+
+    [categories.list.us]
+    quote = "Garantie du respect des droits des personnes détenues  par le développement du  budget  «réinsertion»  de  l’administration  pénitentiaire,  l’engagement  de  travaux  urgents  de  lutte  contre  l’insalubrité,  la  mise  en  place  d’un  numerus clausus comme mesure transitoire, le respect du droit à l’encellulement individuel, la mise en place de bureaux de vote dans les établissements, le respect du droit du travail pour les détenu·e·s."
+    ref = "Une justice au nom du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-justice/"
+    tldr = "<strong>Respect</strong> des droits des personnes détenues, lutte contre l'<strong>insalubrité</strong>."
 
   [[categories.list]]
     title = "Renseignement"
@@ -556,7 +618,7 @@ candidat = "Marine Le Pen"
   title = "Éducation et Recherche"
 
   [[categories.list]]
-    title = "Rythme scolaire"
+    title = "Rythmes scolaires"
 
     [categories.list.them]
     quote = "Revenir sur la réforme des rythmes scolaires"
@@ -598,7 +660,7 @@ candidat = "Marine Le Pen"
     quote = "Mettre en œuvre un plan de lutte contre les inégalités à l'école maternelle et primaire, notamment avec un droit à la scolarisation dès 2 ans, la baisse du nombre d'élèves par classe en primaire, la présence de davantage d'instituteurs que de classes dans les écoles, le développement des Réseaux d'aide aux élèves en difficulté."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
-    tldr = "<strong>Droit à la scolarité</strong> dés 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
+    tldr = "<strong>Droit à la scolarité</strong> dès 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
 
   [[categories.list]]
     title = "Réforme des collèges"
@@ -635,7 +697,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/74/qualifier-tout-le-monde"
-    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
+    tldr = "Bac professionnel en <strong>quatre ans</strong>. <strong>Augmenter</strong> le nombre d'établissements d'enseignement professionnel. Refonder la formation professionnelle des <strong>adultes</strong> et la formation continue et l'inclure dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Condition du corps enseignant"
@@ -691,7 +753,7 @@ candidat = "Marine Le Pen"
     quote = "Pour une vraie justice sociale, transférer aux établissements supérieurs d’enseignement général et professionnel la charge de trouver une offre de stage à chaque étudiant."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Transférer aux établissement la charge de trouver une <strong>offre de stage</strong> à chaque étudiant."
+    tldr = "Transférer aux établissements la charge de trouver une <strong>offre de stage</strong> à chaque étudiant."
 
     [categories.list.us]
     quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
@@ -792,7 +854,7 @@ candidat = "Marine Le Pen"
 
 
   [[categories.list]]
-    title = "Illétrisme"
+    title = "Illettrisme"
 
     [categories.list.them]
 
@@ -842,7 +904,7 @@ candidat = "Marine Le Pen"
     [categories.list.them]
 
   [[categories.list]]
-    title = "Énergies carbonnées"
+    title = "Énergies carbonées"
 
     [categories.list.us]
     quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
@@ -879,7 +941,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s39m2"
-    tldr = "<strong>Sortir</stron<strong>Fermer</strong>nucléaire. Fermer Fessenheim en ga<strong>Abandonner</strong> l'emploi des salariés. Abandonn<strong>Abandonner</strong>tion du grand carénage. Abandonner les projets d'EPR."
+    tldr = "<strong>Sortir</strong> du nucléaire. Fermer <strong>Fessenheim</strong> en garantissant l'emploi des salariés. Abandonner l'opération du <strong>grand carénage</strong>. Abandonner les projets d'<strong>EPR</strong>."
 
     [categories.list.them]
     quote = "Pour maintenir, moderniser et sécuriser la filière nucléaire française, engager le Grand Carénage, et garder le contrôle de l’État sur EDF, en lui redonnant une véritable mission de service public. Refuser la fermeture de la centrale de Fessenheim."
@@ -888,7 +950,7 @@ candidat = "Marine Le Pen"
     tldr = "<strong>Engager</strong> le Grand Carénage. <strong>Refuser la fermeture</strong> de la centrale de Fessenheim."
 
   [[categories.list]]
-    title = "Enfouissement des déchets nucléaire"
+    title = "Enfouissement des déchets nucléaires"
 
     [categories.list.us]
     quote = "
@@ -969,7 +1031,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne"
-    tldr = "Réfonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
+    tldr = "Refonte de la PAC, création de <strong>300 000 emplois</strong> agricoles, limitation de la <strong>concentration des terres</strong>. Favoriser les <strong>circuits courts</strong>, la <strong>vente directe</strong>, la transformation sur place."
 
     [categories.list.them]
     quote = "
@@ -1084,7 +1146,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour une agriculture écologique et paysanne - 2017"
     link = "https://avenirencommun.fr/livret-agriculture/"
-    tldr = "<strong>Interdiction</strong> d’utiliser directement ou indirectement des aides pour exp<strong>dumping</strong>̀ prix de dumping. Défense intransigeante et extension des <strong>appellations d’origine</strong>."
+    tldr = "<strong>Interdiction</strong> d’utiliser directement ou indirectement des aides pour exporter à prix de <strong>dumping</strong>. Défense intransigeante et extension des <strong>appellations d’origine</strong>."
 
     [categories.list.them]
     quote = "Promouvoir les exportations agricoles, notamment en soutenant les labels de qualité."
@@ -1146,7 +1208,7 @@ candidat = "Marine Le Pen"
     ref = "Le livret Ruralité et Aménagement du territoire
  - 2017"
     link = "https://avenirencommun.fr/livret-ruralite-amenagement-territoire/"
-    tldr = "Abroger les \"conventions ruralité\" et <strong>réouvrir les écoles</strong>."
+    tldr = "Abroger les \"conventions ruralité\" et <strong>réouvrir les écoles</strong> en milieu rural."
 
   [[categories.list]]
     title = "Haut débit"
@@ -1212,7 +1274,7 @@ candidat = "Marine Le Pen"
     tldr = "Garantir une dotation <strong>à la hauteur des missions</strong> transférées aux collectivités."
 
   [[categories.list]]
-    title = "Démocratie et transparence dans les collectivités"
+    title = "Démocratie et transparence dans les collectivités."
 
     [categories.list.them]
 
@@ -1267,7 +1329,7 @@ candidat = "Marine Le Pen"
     tldr = "Inscrire le <strong>droit au logement</strong> dans la <strong>Constitution</strong>. Sortir le logement des <strong>mécanismes de marché</strong>."
 
   [[categories.list]]
-    title = "Transport ferrovière"
+    title = "Transport ferroviaire"
 
     [categories.list.them]
     quote = "La libéralisation du rail voulue par l’Union Européenne sera refusée. La Poste et la SNCF resteront des entreprises publiques."
@@ -1298,7 +1360,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
-    tldr = "Remplacer le transport par camions par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
+    tldr = "Remplacer le transport par camion par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
 
   [[categories.list]]
     title = "Autoroutes"
@@ -1374,9 +1436,470 @@ candidat = "Marine Le Pen"
 [[categories]]
   id = "culture"
   title = "Culture et Médias"
-  teasing = true
+
+  [[categories.list]]
+    title = "Anti-concentration / indépendance"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Adopter une loi anti-concentration des médias, protégeant le secteur des intérêts financiers, favorisant la transformation des médias en coopératives de salariés et de lecteurs/auditeurs/téléspectateurs et attribuer des fréquences aux médias locaux et associatifs.</p>
+    <p>Protéger les sources et l'indépendance des rédactions à l'égard des pouvoirs économiques et politiques par le renforcement du statut juridique des rédactions et une charte déontologique dans la convention collective.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s8"
+    tldr = "Adopter une <strong>loi anti-concentration</strong> des médias. Protéger <strong>l'indépendance des rédactions</strong> à l'égard des pouvoirs économiques et politiques."
+
+  [[categories.list]]
+    title = "Médias publics"
+
+    [categories.list.them]
+    quote = "Réformer le Conseil Supérieur de l’Audiovisuel avec la création de trois collèges : l’un composé des représentants de l’État, le deuxième de professionnels, le troisième de représentants de la société civile (associations de consommateurs, de téléspectateurs, etc.)."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Réformer</strong> le CSA."
+
+    [categories.list.us]
+    quote = "
+    <p>Élire, par le Parlement, les président·e·s de l’audiovisuel public (France Télévision, Radio France, France Médias Monde) à l’issue d’une campagne publique de présentation des candidat·e·s et des projets en compétition.</p>
+    <p>Nous réaffirmerons la volonté politique d’un service public audiovisuel valorisant la création culturelle, le pluralisme démocratique et la diversité.</p>
+    <p>La fonction sociale de la télévision et de la radio ne peut être soumise aux aléas du marché et de la finance.</p>
+    <p>Les nouveaux usages de la télévision et la convergence des médias, sur de nouveaux supports, comme les box, les tablettes, les smartphones, appellent à la définition d’un cadre réglementaire capable de résister à l’émergence de quelques monopoles, tant anglo-saxons que français, dans la production et la circulation de programmes.</p>
+    "
+    ref = "Des médias au service du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-medias"
+    tldr = "<strong>Élection</strong> des président·e·s de l’audiovisuel public par le Parlement. Valorisation de la création culturelle et du <strong>pluralisme démocratique</strong>."
+
+  [[categories.list]]
+    title = "Budget de la Culture"
+
+    [categories.list.them]
+    quote = "Bâtir une loi de programmation du patrimoine pour permettre un meilleur soutien à l’entretien et à la préservation du patrimoine. Augmenter le budget alloué de 25 %."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Augmenter de 25% le budget alloué à la <strong>préservation du patrimoine</strong>."
+
+    [categories.list.us]
+    quote = "<p>Porter le budget consacré à l'art, à la culture et à la création à 1 % du PIB chaque année pour :<br />
+    • Pérenniser le régime des intermittents du spectacle sur la base de l'accord du 28 avril 2016 et l'étendre aux professions artistiques précaires<br />
+    • Soutenir la création, le spectacle vivant, et l'appropriation par tous des œuvres et pratiques culturelles, et ce par le renouveau de l'éducation artistique à l'école et dans les conservatoires, de l'éducation populaire et de la culture en entreprise </p>
+    <p>Note : Avec cette mesure, le budget 2017 de la culture aurait été de 21.18 milliards d'euros (en prenant le PIB de 2016 de 2 118 milliards d'euros), contre les 7,701 milliards actuellement.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "Porter le budget de la Culture à <strong>1 % du PIB</strong> chaque année."
+
+  [[categories.list]]
+    title = "Musées"
+
+    [categories.list.them]
+    quote = "Défendre l’identité nationale, les valeurs et les traditions de notre civilisation française. Inscrire dans la Constitution la défense et la promotion de notre patrimoine historique et culturel."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Défendre <strong>l'identité nationale</strong>. Inscrire dans la <strong>constitution</strong> la promotion du patrimoine historique et culturel."
+
+    [categories.list.us]
+    quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Étendre la <strong>gratuité</strong> des musées recevant des subventions publiques nationales."
+
+  [[categories.list]]
+    title = "Lieux culturels"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Mettre les associations au coeur de l’action culturelle sur tout le territoire dans l'espace public. Leur donner par des conventionnements durables les moyens financiers adaptés afin de remédier à l'absence d'équipements culturels.</p>
+    <p>Jumeler tous les établissements (écoles, collèges, lycées) avec des établissements culturels, dans des projets profitant à tou·te·s les élèves et encourager les pratiques artistiques collectives ; favoriser la médiation socioculturelle dans ces établissements.</p>
+    <p>Favoriser et promouvoir la médiation culturelle dans l’ensemble des lieux patrimoniaux et institutions culturelles subventionnés (musées, orchestres, théâtres, etc.), notamment en leur faisant obligation de recourir à des guidesconférencier·e·s diplômé·e·s et titulaires de la carte professionnelle. Encourager, dans les critères de subvention, la co-construction de la programmation culturelle avec les publics pour une participation active de chacun·e à la vie sociale et culturelle.</p>
+    <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissements scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
+
+  [[categories.list]]
+    title = "Éducation artistique"
+
+    [categories.list.them]
+    quote = "Lancer un grand plan national de création de filières (lycées, universités) des métiers d’art dans nos territoires et implanter un réseau de pépinières d’artistes sur tout le territoire. Restaurer une véritable éducation musicale généraliste dans les établissements scolaires."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Création de filières de <strong>métiers d'art</strong>. Implantation de <strong>pépinières d'artistes</strong>. Éducation musicale en milieu scolaire."
+
+    [categories.list.us]
+    quote = "<p>Faire de l'éducation artistique une vraie priorité de la maternelle à l'université, jusqu'en entreprise. La mettre dans toute sa diversité et dans ses trois dimensions au coeur de l'enseignement artistique (fréquentation des oeuvres, pratique, acquisition des connaissances).</p>
+    <p>Transformer l’enseignement artistique supérieur en véritable service public national : sortir les écoles d’art et les conservatoires de musique et de danse du statut inadapté d’Établissement public de coopération culturelle (EPCC). L’État définira les programmes et les règles applicables aux personnels.</p>
+    <p>Soutenir les conservatoires de musique, de danse et d'art dramatique dans leur mission d'ouverture à tous les publics et en créer de nouveaux. Mettre fin à la précarité des enseignant·e·s de ces établissements.</p>
+    <p>Développer une filière de la création numérique dans l'enseignement professionnel.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Faire de l'éducation artistique une <strong>vraie priorité</strong>. Soutenir les <strong>conservatoires</strong>. Développer une filière de la <strong>création numérique</strong> dans l'enseignement professionnel."
+
+  [[categories.list]]
+    title = "Intermittents"
+
+    [categories.list.them]
+    quote = "Remettre en ordre le statut d’intermittent du spectacle par la création d’une carte professionnelle afin de préserver ce régime tout en opérant un meilleur contrôle des structures qui en abusent."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Contrôle des structures qui <strong>abusent</strong> du régime des intermittents."
+
+    [categories.list.us]
+    quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
+    <p>Étendre ce régime aux professions artistiques précaires, dont les artistes visuels.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "<strong>Pérenniser</strong> le régime des intermittent·e·s et l'étendre aux professions <strong>artistiques précaires</strong>."
+
+  [[categories.list]]
+    title = "Domaine public commun"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instituer un domaine public commun constitué de l'ensemble des oeuvres qui désormais ne seront plus soumises aux droits d'auteur, afin de participer au financement du régime de sécurité sociale pour les artistes précaires."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Financer une <strong>sécurité sociale pour les artistes</strong> par une cotisation sur la vente d'œuvres du domaine public."
+
+  [[categories.list]]
+    title = "Défense de la francophonie"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Réorganiser les institutions de la francophonie en agissant pour son recentrage sur la défense, le rayonnement de la langue et son usage commun.</p>
+    <p>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</p>
+    <p>Élaborer des contenus éducatifs et des diplômes communs entre pays francophones.</p>
+    <p>Développer au moins une revue scientifique internationale digne de ce nom en français.</p>
+    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</p>
+    <p>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mettre en valeur, <strong>diffuser</strong> et <strong>multiplier</strong> les usages du français et les liens entre ceux qui l'ont en usage commun."
+
+  [[categories.list]]
+    title = "Programme d'échange francophone"
+
+    [categories.list.them]
+    quote = "Renforcer les liens entre les peuples qui ont le français en partage."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Renforcer les liens</strong> entre les peuples francophones."
+
+    [categories.list.us]
+    quote = "<p>A l'intérieur de l’espace francophone, mettre en place progressivement un visa privilégié permettant la libre circulation en son sein des artistes, des universitaires, des chercheur·se·s, des ingénieur·e·s, des acteur·trice·s économiques et des étudiant·e·s. Comme première concrétisation de ce projet, créer un programme de mobilité étudiante francophone du type Erasmus ; établir un fonds commun des pays francophones en faveur du financement de ce programme.
+    </p>
+    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mise en place d'un <strong>VISA francophone</strong> privilégié. Renforcer le réseau des Instituts/Alliances français."
+
+  [[categories.list]]
+    title = "Droit d'auteur"
+
+    [categories.list.them]
+    quote = "Supprimer Hadopi et ouvrir le chantier de la licence globale."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Supprimer Hadopi</strong> et ouvrir le chantier de la <strong>licence globale</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Supprimer la Hadopi, qui n'a pas fonctionné, et mettre en place un nouveau cadre du partage numérique de la culture par :<br />
+    • L'instauration d'une cotisation universelle sur les abonnements internet, finançant la création et ouvrant droit en contrepartie au téléchargement non marchand.<br />
+    • La création d'un service public nouveau de l'internet et d'une médiathèque publique en ligne, avec une plate-forme publique d'offre légale en ligne de musique, films et contenus culturels.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "<strong>Supprimer Hadopi</strong>. Mettre en place une <strong>cotisation universelle</strong> sur les abonnements internet ouvrant droit en contrepartie au <strong>téléchargement gratuit</strong> via une médiathèque publique en ligne."
+
+  [[categories.list]]
+    title = "Protection des données personnelles"
+
+    [categories.list.them]
+    quote = "Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Protéger</strong> les données personnelles des Français."
+
+    [categories.list.us]
+    quote = "Protéger les données personnelles contre leur utilisation mercantile"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83"
+    tldr = "<strong>Protéger</strong> les données personnelles contre leur utilisation mercantile."
+
+  [[categories.list]]
+    title = "Généraliser la pratique sportive"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport comme moyen d’insertion professionnelle et soutenir toutes les initiatives visant à faire du sport un vecteur de réinsertion des jeunes en difficulté en termes d’accès au travail, en s’appuyant sur des acteur·trice·s associatif·ve·s et privé·e·s, et veiller à ce que ces dispositifs fassent une large part au public féminin et aux publics en situation de handicap.</p>
+    <p>Favoriser la gratuité pour les populations modestes et promouvoir la fixation des coûts d’accès en fonction des revenus et de la taille des familles.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Favoriser la gratuité pour les populations modestes et l'accès au public féminin et en situation de handicap."
+
+  [[categories.list]]
+    title = "Infrastructures sportives"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs (stades, piscines et gymnases notamment), en partenariat avec les collectivités territoriales (dont les dotations seront « dégelées ») et dans le respect de normes environnementales fortes, pour réduire les inégalités et stopper la concurrence entre les territoires."
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Élaborer un plan national d’urgence pour la <strong>construction</strong> et la <strong>rénovation</strong> des équipements sportifs."
+
+  [[categories.list]]
+    title = "Encadrement sportif"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Réaffirmer le rôle des professeurs d'EPS dans la transmission d'une éducation physique obligatoire pour toutes et tous.</p>
+    <p>Recruter des éducateur·trice·s physiques ou sportif·ve·s en nombre suffisant afin d’assurer les missions de rééquilibrage des territoires, de garantir l’accessibilité de la pratique sportive et la structuration pérenne des  associations.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Recruter des <strong>intervenants sportifs</strong> et réaffirmer l'importance de leur rôle à l'école et dans les associations."
+
+  [[categories.list]]
+    title = "Sport-Santé"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport-santé et l’activité physique adaptée sur ordonnance en formant les médecins.</p>
+    <p>Inciter au développement de la pratique de l’activité physique au sein des entreprises et sur les lieux de travail en général.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Développer le sport-santé et la pratique de l’activité physique <strong>au sein des entreprises</strong>."
+
+  [[categories.list]]
+    title = "Sport de haut niveau"
+
+    [categories.list.them]
+    quote = "Créer un « contrat sportif de haut niveau » d’une durée de trois ans renouvelable permettant aux sportifs amateurs représentant la Nation dans les compétitions internationales de vivre dignement et de se consacrer entièrement à leur discipline."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Donner</strong> aux sportifs amateurs <strong>les moyens</strong> de se consacrer entièrement à leur discipline."
+
+    [categories.list.us]
+    quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s78"
+    tldr = "Renforcer les liens de solidarité entre le <strong>sport pour tous</strong> et le <strong>sport de haut niveau</strong>, <strong>démocratiser</strong> la gestion des fédérations sportives."
 
 [[categories]]
   id = "taxation"
   title = "Fiscalité"
-  teasing = true
+
+  [[categories.list]]
+    title = "TVA"
+
+    [categories.list.them]
+    quote = "Assurer une juste contribution fiscale, en refusant toute hausse de la TVA et de la CSG et en maintenant l’ISF."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Refuser</strong> toute <strong>hausse</strong> de la TVA."
+
+    [categories.list.us]
+    quote = "Réduire la TVA sur les produits de première nécessité, revenir sur les hausses récentes et réinstaurer une TVA grand luxe pour financer ces baisses."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m6"
+    tldr = "Réduire la TVA sur les <strong>produits de première nécessité</strong>, réinstaurer une <strong>TVA grand luxe</strong> pour financer ces baisses."
+
+  [[categories.list]]
+    title = "Impôt sur le revenu (des personnes physiques)"
+
+    [categories.list.them]
+    quote = "<p>Supprimer le prélèvement à la source afin de protéger la vie privée des Français et d’éviter une complexité administrative supplémentaire pour les entreprises.</p>
+    <p>Baisser de 10 % l’impôt sur le revenu sur les trois premières tranches.</p>"
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Baisser de 10 % sur les <strong>trois premières tranches</strong>. Supprimer le <strong>prélèvement à la source</strong>."
+
+    [categories.list.us]
+    quote = "
+    Refonder l'imposition sur les revenus grâce à un impôt citoyen garantissant les recettes de l'État et celles de la Sécurité sociale et en conservant leur affectation distincte<br />
+     • Imposer les revenus du capital comme ceux du travail par une assiette large et unifiée<br />
+     • Rendre l'impôt sur les revenus plus progressif avec un barème à 14 tranches contre 5 aujourd'hui : tout le monde doit payer et chacun selon ses moyens réels<br />
+     • Instaurer un revenu maximum autorisé : 90% d'impôt pour la tranche au dessus de 20 fois le revenu médian, soit 400 000 euros de revenus annuels (33 000 euros par mois)
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m1"
+    tldr = "Rendre l'impôt sur les revenus <strong>plus progressif</strong> avec un barème à <strong>14 tranches</strong> contre 5 aujourd'hui. <a href=\"https://impots.jlm2017.fr\" target=\"_blank\">Simulateur</a>."
+
+  [[categories.list]]
+    title = "Quotient familial"
+
+    [categories.list.them]
+    quote = "Réhausser progressivement le plafond du quotient familial."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Réhausser</strong> progressivement le plafond du quotient familial."
+
+    [categories.list.us]
+    quote = "Remplacer l'injuste quotient familial fiscal actuel par un crédit d'impôt par enfant."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m1"
+    tldr = "<strong>Remplacer</strong> le quotient familial par un crédit d'impôt par enfant."
+
+  [[categories.list]]
+    title = "Impôt sur la fortune"
+
+    [categories.list.them]
+    quote = "<p>Opérer une simplification fiscale en supprimant les impôts à très faible rendement.</p>
+    <p>Assurer une juste contribution fiscale, en refusant toute hausse de la TVA et de la CSG et en maintenant l’ISF.</p>"
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Maintien</strong> de l'ISF."
+
+    [categories.list.us]
+    quote = "Renforcer l'ISF."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m4"
+    tldr = "<strong>Renforcer</strong> l'ISF."
+
+  [[categories.list]]
+    title = "Revenus du patrimoine"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Imposer les revenus du capital comme ceux du travail par une assiette large et unifiée."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m1"
+    tldr = "Imposer les revenus du capital <strong>comme ceux du travail</strong> par une assiette large et unifiée."
+
+  [[categories.list]]
+    title = "Droits de succession"
+
+    [categories.list.them]
+    quote = "Renforcer la solidarité intergénérationnelle en permettant à chaque parent de transmettre sans taxation 100 000 euros à chaque enfant tous les cinq ans (au lieu de quinze ans actuellement) et en augmentant le plafond des donations sans taxation aux petits-enfants à 50 000 euros, également tous les cinq ans."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Modifier</strong> la taxation pour renforcer la solidarité intergénérationnelle."
+
+    [categories.list.us]
+    quote = "Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les fortunes les plus importantes (égal au patrimoine des 0,01 % les plus riches, soit 33 millions d'euros en 2012)."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m5"
+    tldr = "<strong>Augmenter</strong> les droits de succession sur les <strong>gros patrimoines</strong>."
+
+  [[categories.list]]
+    title = "Niches fiscales"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Remettre à plat l'ensemble des aides publiques et exonérations d'impôt ou de cotisation accordées aux entreprises, évaluer leur efficacité, et revenir sur les aides antisociales et anti-écologiques."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = ""
+    tldr = "Évaluer chacune des niches fiscales et <strong>supprimer</strong> les niches <strong>injustes</strong>, inefficaces <strong>socialement</strong> ou nuisibles <strong>écologiquement</strong>."
+
+  [[categories.list]]
+    title = "Immobilier"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Imposer les hautes transactions immobilières par une taxe progressive."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s34m5"
+    tldr = "Imposer les <strong>hautes transactions</strong> immobilières par une <strong>taxe progressive</strong>."
+
+  [[categories.list]]
+    title = "Outre-mer"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Supprimer les exemptions fiscales bénéficiant aux ultra-riches pour les investissements outre-mer (notamment sur l'ISF)."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s15m3"
+    tldr = "<strong>Supprimer</strong> les exemptions fiscales bénéficiant aux <strong>ultra-riches</strong> pour les investissements <strong>outre-mer</strong>."
+
+  [[categories.list]]
+    title = "Impôt universel"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Mettre en place la taxation différentielle permettant de soumettre chaque citoyen français aux impôts français quel que soit son pays de résidence"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s37m1"
+    tldr = "Mettre en place une taxation différentielle <strong>quel que soit le pays</strong> de résidence."
+
+  [[categories.list]]
+    title = "Lutte contre la fraude fiscale"
+
+    [categories.list.them]
+    quote = "Remettre de l’ordre dans nos finances publiques [...] par la lutte contre la fraude sociale et fiscale."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Lutte</strong> contre la fraude sociale et fiscale."
+
+    [categories.list.us]
+    quote = "Supprimer le monopole du déclenchement de poursuites judiciaires par l'administration fiscale en cas de fraude : la justice doit pouvoir enquêter librement et de sa propre initiative, même contre l'avis du ministre."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s2m2"
+    tldr = "Donner à la <strong>Justice</strong> le droit de déclencher des poursuites fiscales de sa <strong>propre initiative</strong>."
+
+  [[categories.list]]
+    title = "Impôt sur les sociétés"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Moduler l'impôt sur les sociétés selon l'usage des bénéfices pour encourager l'investissement en France : un taux réduit pour les bénéfices réinvestis en France, un taux plein pour les bénéfices distribués aux actionnaires."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s20m3"
+    tldr = "Instaurer un <strong>taux d'imposition réduit</strong> pour les entreprises qui <strong>réinvestissent</strong> leurs bénéfices en France."
+
+  [[categories.list]]
+    title = "Impôts TPE et PME"
+
+    [categories.list.them]
+    quote = "<p>Alléger la complexité administrative et fiscale pesant sur les TPE-PME...</p>
+    <p>Maintenir le dispositif à taux réduit à 15 % de l’impôt sur les sociétés pour les TPE-PME et créer un taux intermédiaire à 24 % (au lieu de 33 %) pour les PME. Fluidifier la transmission d’entreprises en accordant l’exonération totale des plus-values de cession des actions et parts sociales des PME-PMI au bout de sept ans.</p>"
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "Maintenir le taux réduit de l'impôt sur les TPE-PME à <strong>15%</strong>, créer un taux intermédiaire d'imposition à <strong>24%</strong> pour les PME."
+
+    [categories.list.us]
+    quote = "Refonder l'impôt sur les sociétés pour établir l'égalité devant l'impôt entre PME et grands groupes, instaurer un barème progressif et favoriser l'investissement plutôt que la distribution de dividendes."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s36m3"
+    tldr = "Établir <strong>l'égalité devant l'impôt</strong> entre PME et grands groupes."
+
+  [[categories.list]]
+    title = "Taxe sur les transactions financières"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une taxe réelle sur les transactions financières.</p>
+    <p>Interdire aux banques françaises toute activité dans les paradis fiscaux en retirant les licences bancaires des établissements récalcitrants.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/19/mettre-au-pas-la-finance#mesure-3"
+    tldr = "<strong>Taxer</strong> les transactions financières. Interdire aux banques toute activité dans les <strong>paradis fiscaux</strong>."
+
+
+  [[categories.list]]
+    title = "CICE"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité (soit 2% du PIB chaque année, 200 milliards d'euros sur un quinquennat) pour financer la transition énergétique et les activités socialement utiles."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s18m2"
+    tldr = "<strong>Supprimer</strong> le CICE et le réinvestir dans la <strong>transition énergétique</strong> et les activités <strong>socialement utiles</strong>."
