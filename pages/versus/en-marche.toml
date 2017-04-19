@@ -337,7 +337,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisations patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -503,7 +503,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Sécurité : retour à la raison - 2017"
     link = "https://avenirencommun.fr/le-livret-securite/"
-    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démenteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
+    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démanteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
 
   [[categories.list]]
     title = "Effectifs de la police"
@@ -1848,7 +1848,7 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Supprimer</strong> les exemptions fiscales bénéficiant aux <strong>ultra-riches</strong> pour les investissements <strong>outre-mer</strong>."
 
   [[categories.list]]
-    title = "Impôt univesel"
+    title = "Impôt universel"
 
     [categories.list.them]
 
