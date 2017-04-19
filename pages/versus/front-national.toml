@@ -1436,7 +1436,6 @@ candidat = "Marine Le Pen"
 [[categories]]
   id = "culture"
   title = "Culture et Médias"
-  teasing = true
 
   [[categories.list]]
     title = "Anti-concentration / indépendance"
@@ -1448,7 +1447,7 @@ candidat = "Marine Le Pen"
     <p>Protéger les sources et l'indépendance des rédactions à l'égard des pouvoirs économiques et politiques par le renforcement du statut juridique des rédactions et une charte déontologique dans la convention collective.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s8"
-    tldr = "Adopter une loi anti-concentration des médias. Protéger l'indépendance des rédactions à l'égard des pouvoirs économiques et politiques."
+    tldr = "Adopter une <strong>loi anti-concentration</strong> des médias. Protéger <strong>l'indépendance des rédactions</strong> à l'égard des pouvoirs économiques et politiques."
 
   [[categories.list]]
     title = "Médias publics"
@@ -1457,7 +1456,7 @@ candidat = "Marine Le Pen"
     quote = "Réformer le Conseil Supérieur de l’Audiovisuel avec la création de trois collèges : l’un composé des représentants de l’État, le deuxième de professionnels, le troisième de représentants de la société civile (associations de consommateurs, de téléspectateurs, etc.)."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Recomposition du CSA avec des représentants de l’État, des professionnels, le troisième et des représentants de la société civile."
+    tldr = "<strong>Réformer</strong> le CSA."
 
     [categories.list.us]
     quote = "
@@ -1468,7 +1467,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Des médias au service du peuple - 2017"
     link = "https://avenirencommun.fr/le-livret-medias"
-    tldr = "Élection des président·e·s de l’audiovisuel public par le Parlement. Valorisation de la création culturelle et du pluralisme démocratique."
+    tldr = "<strong>Élection</strong> des président·e·s de l’audiovisuel public par le Parlement. Valorisation de la création culturelle et du <strong>pluralisme démocratique</strong>."
 
   [[categories.list]]
     title = "Budget de la Culture"
@@ -1477,7 +1476,7 @@ candidat = "Marine Le Pen"
     quote = "Bâtir une loi de programmation du patrimoine pour permettre un meilleur soutien à l’entretien et à la préservation du patrimoine. Augmenter le budget alloué de 25 %."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Augmenter de 25% le budget alloué à la préservation du patrimoine."
+    tldr = "Augmenter de 25% le budget alloué à la <strong>préservation du patrimoine</strong>."
 
     [categories.list.us]
     quote = "<p>Porter le budget consacré à l'art, à la culture et à la création à 1 % du PIB chaque année pour :<br />
@@ -1486,7 +1485,7 @@ candidat = "Marine Le Pen"
     <p>Note : Avec cette mesure, le budget 2017 de la culture aurait été de 21.18 milliards d'euros (en prenant le PIB de 2016 de 2 118 milliards d'euros), contre les 7,701 milliards actuellement.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s77"
-    tldr = "Porter le budget de la Culture à 1 % du PIB chaque année."
+    tldr = "Porter le budget de la Culture à <strong>1 % du PIB</strong> chaque année."
 
   [[categories.list]]
     title = "Musées"
@@ -1495,13 +1494,13 @@ candidat = "Marine Le Pen"
     quote = "Défendre l’identité nationale, les valeurs et les traditions de notre civilisation française. Inscrire dans la Constitution la défense et la promotion de notre patrimoine historique et culturel."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Défendre l'identité nationale. Incrire dans la constitution la promotion du patrimoine historique et culturel."
+    tldr = "Défendre <strong>l'identité nationale</strong>. Incrire dans la <strong>constitution</strong> la promotion du patrimoine historique et culturel."
 
     [categories.list.us]
     quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches."
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Étendre la gratuité des musées recevant des subventions publiques nationales."
+    tldr = "Étendre la <strong>gratuité</strong> des musées recevant des subventions publiques nationales."
 
   [[categories.list]]
     title = "Lieux culturels"
@@ -1515,7 +1514,7 @@ candidat = "Marine Le Pen"
     <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Donner par des conventionnements durables aux associations. Jumeler tous les établissement scolaires avec des établissements culturels. Défendre le maillage national des bibliothèques et médiathèques et garantir leur budget."
+    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissement scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
 
   [[categories.list]]
     title = "Éducation artistique"
@@ -1524,7 +1523,7 @@ candidat = "Marine Le Pen"
     quote = "Lancer un grand plan national de création de filières (lycées, universités) des métiers d’art dans nos territoires et implanter un réseau de pépinières d’artistes sur tout le territoire. Restaurer une véritable éducation musicale généraliste dans les établissements scolaires."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Création de filières de métiers d'art. Implantation de pépinières d'artistes. Education musicale en milieu scolaire."
+    tldr = "Création de filières de <strong>métiers d'art</strong>. Implantation de <strong>pépinières d'artistes</strong>. Éducation musicale en milieu scolaire."
 
     [categories.list.us]
     quote = "<p>Faire de l'éducation artistique une vraie priorité de la maternelle à l'université, jusqu'en entreprise. La mettre dans toute sa diversité et dans ses trois dimensions au coeur de l'enseignement artistique (fréquentation des oeuvres, pratique, acquisition des connaissances).</p>
@@ -1533,7 +1532,7 @@ candidat = "Marine Le Pen"
     <p>Développer une filière de la création numérique dans l'enseignement professionnel.</p>"
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Faire de l'éducation artistique une vraie priorité. Soutenir les conservatoires. Développer une filière de la création numérique dans l'enseignement professionnel."
+    tldr = "Faire de l'éducation artistique une <strong>vraie priorité</strong>. Soutenir les <strong>conservatoires</strong>. Développer une filière de la <strong>création numérique</strong> dans l'enseignement professionnel."
 
   [[categories.list]]
     title = "Intermittents"
@@ -1542,14 +1541,14 @@ candidat = "Marine Le Pen"
     quote = "Remettre en ordre le statut d’intermittent du spectacle par la création d’une carte professionnelle afin de préserver ce régime tout en opérant un meilleur contrôle des structures qui en abusent."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Contrôle des structures qui abusent du régime des intermittents."
+    tldr = "Contrôle des structures qui <strong>abusent</strong> du régime des intermittents."
 
     [categories.list.us]
     quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
     <p>Étendre ce régime aux professions artistiques précaires, dont les artistes visuels.</p>"
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Pérenniser le régime des intermittent·e·s et l'étendre aux professions artistiques précaires."
+    tldr = "<strong>Pérenniser</strong> le régime des intermittent·e·s et l'étendre aux professions <strong>artistiques précaires</strong>."
 
   [[categories.list]]
     title = "Domaine public commun"
@@ -1560,7 +1559,7 @@ candidat = "Marine Le Pen"
     quote = "Instituer un domaine public commun constitué de l'ensemble des oeuvres qui désormais ne seront plus soumises aux droits d'auteur, afin de participer au financement du régime de sécurité sociale pour les artistes précaires."
     ref = "Les arts insoumis, la culture en commun - 2017"
     link = "https://avenirencommun.fr/le-livret-culture/"
-    tldr = "Financer une sécurité sociale pour les artistes par une cotisation sur la vente d'œuvres du domaine public."
+    tldr = "Financer une <strong>sécurité sociale pour les artistes</strong> par une cotisation sur la vente d'œuvres du domaine public."
 
   [[categories.list]]
     title = "Défense de la francophonie"
@@ -1578,7 +1577,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s64"
-    tldr = "Mettre en valeur, diffuser et multiplier les usages du français et les liens entre ceux qui l'ont en usage commun."
+    tldr = "Mettre en valeur, <strong>diffuser</strong> et <strong>multiplier</strong> les usages du français et les liens entre ceux qui l'ont en usage commun."
 
   [[categories.list]]
     title = "Programme d'échange francophone"
@@ -1587,7 +1586,7 @@ candidat = "Marine Le Pen"
     quote = "Renforcer les liens entre les peuples qui ont le français en partage."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Renforcer les liens entre les peuples francophones."
+    tldr = "<strong>Renforcer les liens</strong> entre les peuples francophones."
 
     [categories.list.us]
     quote = "<p>A l'intérieur de l’espace francophone, mettre en place progressivement un visa privilégié permettant la libre circulation en son sein des artistes, des universitaires, des chercheur·se·s, des ingénieur·e·s, des acteur·trice·s économiques et des étudiant·e·s. Comme première concrétisation de ce projet, créer un programme de mobilité étudiante francophone du type Erasmus ; établir un fonds commun des pays francophones en faveur du financement de ce programme.
@@ -1595,16 +1594,16 @@ candidat = "Marine Le Pen"
     <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s64"
-    tldr = "Mise en place d'un VISA francophone privilégié. Renforcer le réseau des Instituts/Alliances français."
+    tldr = "Mise en place d'un <strong>VISA francophone</strong> privilégié. Renforcer le réseau des Instituts/Alliances français."
 
   [[categories.list]]
-    title = "HADOPI"
+    title = "Droit d'auteur"
 
     [categories.list.them]
     quote = "Supprimer Hadopi et ouvrir le chantier de la licence globale."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "" # FIXME: pas de tl;dr
+    tldr = "<strong>Supprimer Hadopi</strong> et ouvrir le chantier de la <strong>licence globale</strong>."
 
     [categories.list.us]
     quote = "
@@ -1614,7 +1613,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s77"
-    tldr = "Remplacer Hadopi par une cotisation universelle sur les abonnements internet ouvrant droit en contrepartie au téléchargement non marchand via une médiathèque publique en ligne."
+    tldr = "<strong>Supprimer Hadopi</strong>. Mettre en place une <strong>cotisation universelle</strong> sur les abonnements internet ouvrant droit en contrepartie au <strong>téléchargement gratuit</strong> via une médiathèque publique en ligne."
 
   [[categories.list]]
     title = "Protection des données personnelles"
@@ -1623,13 +1622,13 @@ candidat = "Marine Le Pen"
     quote = "Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Protéger les données personnelles des Français"
+    tldr = "<strong>Protéger</strong> les données personnelles des Français."
 
     [categories.list.us]
     quote = "Protéger les données personnelles contre leur utilisation mercantile"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s83"
-    tldr = "Protéger les données personnelles contre leur utilisation mercantile."
+    tldr = "<strong>Protéger</strong> les données personnelles contre leur utilisation mercantile."
 
   [[categories.list]]
     title = "Généraliser la pratique sportive"
@@ -1653,7 +1652,7 @@ candidat = "Marine Le Pen"
     quote = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs (stades, piscines et gymnases notamment), en partenariat avec les collectivités territoriales (dont les dotations seront « dégelées ») et dans le respect de normes environnementales fortes, pour réduire les inégalités et stopper la concurrence entre les territoires."
     ref = "Le livret Sport - 2017"
     link = "https://avenirencommun.fr/le-livret-sport/"
-    tldr = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs."
+    tldr = "Élaborer un plan national d’urgence pour la <strong>construction</strong> et la <strong>rénovation</strong> des équipements sportifs."
 
   [[categories.list]]
     title = "Encadrement sportif"
@@ -1666,7 +1665,7 @@ candidat = "Marine Le Pen"
     <p>Recruter des éducateur·trice·s physiques ou sportif·ve·s en nombre suffisant afin d’assurer les missions de rééquilibrage des territoires, de garantir l’accessibilité de la pratique sportive et la structuration pérenne des  associations.</p>"
     ref = "Le livret Sport - 2017"
     link = "https://avenirencommun.fr/le-livret-sport/"
-    tldr = "Recruter des intervenants sportifs et réaffirmer l'importance de leur rôle à l'école et dans les associations."
+    tldr = "Recruter des <strong>intervenants sportifs</strong> et réaffirmer l'importance de leur rôle à l'école et dans les associations."
 
   [[categories.list]]
     title = "Sport-Santé"
@@ -1679,7 +1678,7 @@ candidat = "Marine Le Pen"
     <p>Inciter au développement de la pratique de l’activité physique au sein des entreprises et sur les lieux de travail en général.</p>"
     ref = "Le livret Sport - 2017"
     link = "https://avenirencommun.fr/le-livret-sport/"
-    tldr = "Développer le sport-santé et la pratique de l’activité physique au sein des entreprises."
+    tldr = "Développer le sport-santé et la pratique de l’activité physique <strong>au sein des entreprises</strong>."
 
   [[categories.list]]
     title = "Sport de haut niveau"
@@ -1688,13 +1687,13 @@ candidat = "Marine Le Pen"
     quote = "Créer un « contrat sportif de haut niveau » d’une durée de trois ans renouvelable permettant aux sportifs amateurs représentant la Nation dans les compétitions internationales de vivre dignement et de se consacrer entièrement à leur discipline."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Donner aux sportifs amateurs les moyens de se consacrer entièrement à leur discipline."
+    tldr = "<strong>Donner</strong> aux sportifs amateurs <strong>les moyens</strong> de se consacrer entièrement à leur discipline."
 
     [categories.list.us]
     quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s78"
-    tldr = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, démocratiser la gestion des fédérations sportives."
+    tldr = "Renforcer les liens de solidarité entre le <strong>sport pour tous</strong> et le <strong>sport de haut niveau</strong>, <strong>démocratiser</strong> la gestion des fédérations sportives."
 
 [[categories]]
   id = "taxation"
