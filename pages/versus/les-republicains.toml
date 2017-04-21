@@ -2575,3 +2575,151 @@ candidat = "François Fillon"
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/section/19/mettre-au-pas-la-finance#mesure-3"
       tldr = "Taxer les transactions financières. Interdire aux banques toute activité dans les paradis fiscaux."
+
+[[categories]]
+  id = "economy"
+  title = "Économie"
+  teasing = true
+
+  [[categories.list]]
+    title = "Réindustrialisation"
+
+    [[categories.list.us]]
+    quote = "Réindustrialiser le pays par l'investissement, le rétablissement de plans de filières pour coordonner donneurs d'ordres et sous-traitants, clients et fournisseurs (par exemple SNCF et Alstom pour la filière ferroviaire, etc.), la création de pôles publics dans l'énergie ou les transports, la défense des industries stratégiques et la reconstruction de conglomérats combinant plusieurs activités"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s18m4"
+    tldr = "<strong>Réindustrialiser</strong> le pays par l'<strong>investissement</strong>."
+
+    [categories.list.them]
+    quote = "Prolonger jusqu’en 2019 le dispositif de suramortissement exceptionnel des investissements, pour soutenir l’investissement et la trésorerie des entreprises industrielles."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/competitivite/"
+    tldr = "Prolonger le dispositif de suramortissement pour soutenir l'investissement et la trésorerie des entreprises industrielles."
+
+  [[categories.list]]
+    title = "Dette"
+
+    [[categories.list.us]]
+    quote = "Refuser le chantage à la dette publique<br />
+    • Réaliser un audit citoyen de la dette publique pour déterminer la part illégitime et préparer un réaménagement négocié (échelonnement des remboursements, baisse des taux d'intérêt, annulation partielle…)<br />
+    • Faire racheter la dette publique par la Banque centrale"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s35"
+    tldr = "Réaliser un <strong>audit</strong> citoyen de la dette publique. Faire racheter la dette publique par la <strong>Banque centrale</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Séparation bancaire"
+
+    [[categories.list.us]]
+    quote = "Séparer les banques d'affaires et de détail"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s19m2"
+    tldr = "Séparer les banques d'<strong>affaires</strong> et de <strong>détail</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Licence bancaire à la BPI"
+
+    [[categories.list.us]]
+    quote = "Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21m2"
+    tldr = "Accorder une licence bancaire à la Banque publique d'investissement."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Mouvements de capitaux"
+
+    [[categories.list.us]]
+    quote = "
+    Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s49m6"
+    tldr = "<strong>Contrôler</strong> les mouvements de capitaux."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Partenariats Public Privé"
+
+    [[categories.list.us]]
+    quote = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s16m4"
+    tldr = "Décrêter un <strong>moratoire</strong> sur les partenariats public-privé (PPP), <strong>abroger</strong> les dispositions législatives les permettant et pratiquer un <strong>audit</strong> de ceux qui sont en cours."
+
+    [categories.list.them]
+    quote = "<p>Renouer avec l’excellence de la recherche pour qu’elle redevienne le fer de lance de l’innovation et faciliter la création de partenariats publics-privés pour donner naissance à des entreprises innovantes dans le secteur de la santé.</p>
+    <p>Lancer un inventaire global des besoins des établissements français à l’étranger suivi d’un plan de financement incluant des acteurs locaux et des partenariats public-privé.</p>
+    <p>Diversifier les modes de financement de la création en soutenant le recours au mécénat, le lancement de souscriptions, les partenariats public/privé, et le financement participatif.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/sante/ | https://www.fillon2017.fr/projet/culture/ | https://www.fillon2017.fr/projet/francais-etranger/" # FIXME: trois liens
+    tldr = "Faciliter les partenariats publics-privés."
+
+  [[categories.list]]
+    title = "Économie Sociale et Solidaire"
+
+    [[categories.list.us]]
+    quote = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m2"
+    tldr = "<strong>Généraliser</strong> l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Aide publique au développement"
+
+    [[categories.list.us]]
+    quote = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m2"
+    tldr = "Tenir enfin l'objectif de consacrer <strong>0,7 %</strong> du revenu national brut au budget de l'aide publique au développement."
+
+    [categories.list.them]
+    quote = "Je mettrai les instruments de l'aide au développement au service de notre diplomatie et renforcerai leur cohérence avec nos politiques étrangère, sécuritaire et migratoire. Je conditionnerai en particulier l'aide au développement à la coopération des pays d'origine de l'immigration afin qu'ils s'impliquent dans le retour de leurs ressortissants."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/politique-etrangere/"
+    tldr = "Conditionner l'aide au développement à la coopération des pays d'origine de l'immigration à leur implication dans le retour de leur ressortissants."
+
+  [[categories.list]]
+    title = "Révolution numérique"
+
+    [categories.list.us]
+    quote = "<p>Affirmer le caractère d'intérêt général de la révolution numérique
+    • Reconquérir la maîtrise publique des technologies liées au numérique et aux télécommunications (câbles sous-marins, tirs de satellites, réseaux basse et haute tension, etc.)<br />
+    • Généraliser l'usage des systèmes d'exploitation et des logiciels libres dans les administrations publiques et l'Éducation nationale<br />
+    • Garantir la neutralité du net et lutter contre le profilage en ligne, comme le défend l'association [La Quadrature du Net](https://www.laquadrature.net/fr/qui-sommes-nous)<br />
+    • Systématiser la publication en _open data_ des données publiques détenues par les collectivités, comme le propose l'association [Regards citoyens](https://www.regardscitoyens.org/
+    </p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m1"
+    tldr = "Affirmer le caractère d'<strong>intérêt général</strong> de la révolution numérique."
+
+    [categories.list.them]
+    quote = "<p>Porter, avec l'Allemagne, l'ambition de plateformes numériques industrielles et sectorielles européennes (voitures autonomes, bâtiments connectés…).</p>
+    <p>Engager un programme d'appels à projets européens pour faire de l'Europe le pôle d'innovation dans le domaine de l’intelligence artificielle et de la blockchain.</p>
+    <p>Créer des fonds sectoriels et technologiques dans des domaines de pointe (cybersécurité, blockchain, agritech, e-santé…).</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/numerique/"
+    tldr = "Encourager la création dans les domaines de pointe dans un cadre européen."
+
+  [[categories.list]]
+    title = "Plan numérique pour l'industrie"
+
+    [[categories.list.us]]
+    quote = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m3"
+    tldr = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés."
+
+    [categories.list.them]
+    quote = "Renforcer la compétitivité de nos PME/PMI grâce au numérique : passer en cinq ans de 10% à 100% des PME/PMI accompagnées ; un grand plan de rattrapage et d’accompagnement sera mis en œuvre à l’issue des états généraux de l’industrie et de l’innovation ; une partie des investissements d’avenir sera réallouée au programme « investissements du futur »"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/projet/numerique/"
+    tldr = "Mettre en œuvre un grand plan de rattrapage et d’accompagnement."
