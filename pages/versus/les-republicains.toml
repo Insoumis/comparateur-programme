@@ -2356,7 +2356,222 @@ candidat = "François Fillon"
     link = "https://laec.fr/s78"
     tldr = "Renforcer les liens de solidarité entre le <strong>sport pour tous</strong> et le <strong>sport de haut niveau</strong>, <strong>démocratiser</strong> la gestion des fédérations sportives."
 
-[[categories]]
-  id = "taxation"
-  title = "Fiscalité"
-  teasing = true
+  [[categories]]
+    id = "taxation"
+    title = "Fiscalité"
+    teaser = true
+
+    [[categories.list]]
+      title = "Lutte contre la fraude fiscale"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Supprimer le monopole du déclenchement de poursuites judiciaires par l'administration fiscale en cas de fraude : la justice doit pouvoir enquêter librement et de sa propre initiative, même contre l'avis du ministre."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s2m2"
+      tldr = "Donner à la <strong>Justice</strong> le droit de déclencher des poursuites fiscales de sa <strong>propre initiative</strong>."
+
+    [[categories.list]]
+      title = "Impôt sur les sociétés"
+
+      [categories.list.them]
+      quote = "Alléger l’impôt sur les sociétés (IS) pour renforcer la compétitivité de nos entreprises et la création d’emplois en France. Les contributions additionnelles à l’IS seront supprimées en 2018 et le taux d’IS sera diminué progressivement pour atteindre environ 25% au terme du quinquennat. Cette mesure représente un effort de l’ordre de 10 Mds€ et permettra de tendre vers le taux moyen de l’Union européenne"
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Moduler l'impôt sur les sociétés selon l'usage des bénéfices pour encourager l'investissement en France : un taux réduit pour les bénéfices réinvestis en France, un taux plein pour les bénéfices distribués aux actionnaires."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s20m3"
+      tldr = "Instaurer un taux d'imposition réduit pour les entreprise qui réinvestissent leurs bénéfices en France."
+
+    [[categories.list]]
+      title = "CICE"
+
+      [categories.list.them]
+      quote = "Transformer le CICE qui est un crédit d’impôt complexe, en baisse des charges patronales pour un montant équivalent, durable et lisible."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Transformer les 41 milliards d'euros annuels du pacte de responsabilité et du crédit d'impôt compétitivité (soit 2% du PIB chaque année, 200 milliards d'euros sur un quinquennat) pour financer la transition énergétique et les activités socialement utiles."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s18m2"
+      tldr = "Supprimer le CICE et le réinvestir dans la transition énergétique et les activités socialement utiles."
+
+    [[categories.list]]
+      title = "Impôt sur la fortune"
+
+      [categories.list.them]
+      quote = "Supprimer l’ISF dès 2018 pour garder en France des capitaux qui seront investis dans des entreprises françaises et qui créeront des emplois en France. Remplacer les mécanismes de déduction existants sur l’ISF (qui financent les entreprises innovantes ou les fondations) par des mécanismes de même nature s’appliquant à l’impôt sur le revenu. La déduction de l’investissement dans les PME sera de 30% dans la limite d’un million d’euros pour un couple."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Renforcer l'ISF"
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m4"
+      tldr = "Renforcer l'ISF"
+
+    [[categories.list]]
+      title = "Impôt sur le revenu (des personnes physiques)"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "
+      Refonder l'imposition sur les revenus grâce à un impôt citoyen garantissant les recettes de l'État et celles de la Sécurité sociale et en conservant leur affectation distincte<br />
+       • Imposer les revenus du capital comme ceux du travail par une assiette large et unifiée<br />
+       • Rendre l'impôt sur les revenus plus progressif avec un barème à 14 tranches contre 5 aujourd'hui : tout le monde doit payer et chacun selon ses moyens réels<br />
+       • Instaurer un revenu maximum autorisé : 90% d'impôt pour la tranche au dessus de 20 fois le revenu médian, soit 400 000 euros de revenus annuels (33 000 euros par mois)
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m1"
+      tldr = "Rendre l'impôt sur les revenus plus progressif avec un barème à 14 tranches contre 5 aujourd'hui."
+
+    [[categories.list]]
+      title = "Impôt univesel"
+
+      [categories.list.them]
+      quote = "Réaffirmer le principe de territorialité du système d’imposition français en exemptant définitivement de la CSG-CRDS les revenus du patrimoine des non-résidents fiscaux et en étendant à nos compatriotes résidant à l’étranger le principe de déductibilité des charges sur leurs revenus français."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Mettre en place la taxation différentielle permettant de soumettre chaque citoyen français aux impôts français quel que soit son pays de résidence"
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s37m1"
+      tldr = "Mettre en place une taxation différentielle quel que soit le pays de résidence."
+
+    [[categories.list]]
+      title = "Droits de succession"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les fortunes les plus importantes (égal au patrimoine des 0,01 % les plus riches, soit 33 millions d'euros en 2012)."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m5"
+      tldr = "Augmenter les droits de succession sur les gros patrimoines."
+
+    [[categories.list]]
+      title = "TVA"
+
+      [categories.list.them]
+      quote = "Mettre en place une « TVA compétitivité » en augmentant de 2 points le taux normal. Les taux intermédiaire, réduit et super-réduit resteront inchangés : les produits de première nécessité et les services publics ne seront donc pas touchés. Cette TVA compétitivité permettra de financer la baisse des charges pesant sur les salaires pour redonner de la compétitivité à nos entreprises et donc créer des emplois. Cette augmentation de la TVA permet aussi de faire contribuer les importations et donc les producteurs étrangers au redressement du pays."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Réduire la TVA sur les produits de première nécessité, revenir sur les hausses récentes et réinstaurer une TVA grand luxe pour financer ces baisses."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m6"
+      tldr = "Réduire la TVA sur les produits de première nécessité, réinstaurer une TVA grand luxe pour financer ces baisses."
+
+    [[categories.list]]
+      title = "Revenus du patrimoine"
+
+      [categories.list.them]
+      quote = "Mettre en place un taux unique d’imposition des revenus du patrimoine à 30% pour favoriser l’investissement dans les entreprises et donc la création d’emplois en maintenant le régime fiscal actuel de l’assurance-vie et des livrets d’épargne populaire (notamment du livret A)."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Imposer les revenus du capital comme ceux du travail par une assiette large et unifiée."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m1"
+      tldr = "Imposer les revenus du capital comme ceux du travail par une assiette large et unifiée."
+
+    [[categories.list]]
+      title = "Niches fiscales"
+
+      [categories.list.them]
+      quote = "Supprimer les mesures fiscales les plus défavorables à l’environnement. Le verdissement de la fiscalité est un sujet essentiel et devra être intégré à une réforme plus large de la fiscalité avec l’objectif de baisse des charges pour les Français dès lors que les comptes publics seront restaurés."
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Remettre à plat l'ensemble des aides publiques et exonérations d'impôt ou de cotisation accordées aux entreprises, évaluer leur efficacité, et revenir sur les aides antisociales et anti-écologiques."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = ""
+      tldr = "Évaluer chacune des niches fiscales et supprimer les niches injustes, inefficaces socialement ou nuisibles écologiquement."
+
+    [[categories.list]]
+      title = "Immobilier"
+
+      [categories.list.them]
+      quote = "<p>Etablir les règles de la fiscalité sur le logement pour une durée de 5 ans pour remédier à l’instabilité fiscale qui décourage les investisseurs.</p>
+      <p>Une défiscalisation spécifique pour la réhabilitation des logements sera mise en place.</p>"
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Imposer les hautes transactions immobilières par une taxe progressive."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s34m5"
+      tldr = "Imposer les hautes transactions immobilières par une taxe progressive."
+
+    [[categories.list]]
+      title = "Quotient familial"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Remplacer l'injuste quotient familial fiscal actuel par un crédit d'impôt par enfant."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m1"
+      tldr = "Remplacer le quotient familial par un crédit d'impôt par enfant."
+
+    [[categories.list]]
+      title = "Outre-mer"
+
+      [categories.list.them]
+      quote = "<p>Prolonger la défiscalisation spécifique Outre-mer jusqu’en 2027 et la simplifier résolument, en déconcentrant et en accélérant le dispositif, mais aussi en limitant l’appréciation en opportunité de l’administration.</p>
+      <p>Orienter l’épargne des Français vers les PME ultramarines, grâce à un avantage fiscal incitatif.</p>"
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Supprimer les exemptions fiscales bénéficiant aux ultra-riches pour les investissements outre-mer (notamment sur l'ISF)."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s15m3"
+      tldr = "Supprimer les exemptions fiscales bénéficiant aux ultra-riches pour les investissements outre-mer (notamment sur l'ISF)."
+
+    [[categories.list]]
+      title = "Impôts TPE et PME"
+
+      [categories.list.them]
+      quote = "Réduire l’impôt des particuliers de 30% du montant investi dans une PME, jusqu’à 1 M€ pour un couple"
+      ref = ""
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = ""
+
+      [categories.list.us]
+      quote = "Refonder l'impôt sur les sociétés pour établir l'égalité devant l'impôt entre PME et grands groupes, instaurer un barème progressif et favoriser l'investissement plutôt que la distribution de dividendes."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s36m3"
+      tldr = "Établir l'égalité devant l'impôt entre PME et grands groupes."
+
+    [[categories.list]]
+      title = "Taxe sur les transactions financières"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "
+      <p>Instaurer une taxe réelle sur les transactions financières.</p>
+      <p>Interdire aux banques françaises toute activité dans les paradis fiscaux en retirant les licences bancaires des établissements récalcitrants.</p>
+      "
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/section/19/mettre-au-pas-la-finance#mesure-3"
+      tldr = "Taxer les transactions financières. Interdire aux banques toute activité dans les paradis fiscaux."
