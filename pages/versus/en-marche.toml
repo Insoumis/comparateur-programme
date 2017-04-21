@@ -2723,3 +2723,160 @@ candidat = "Emmanuel Macron"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s18m2"
     tldr = "<strong>Supprimer</strong> le CICE et le réinvestir dans la <strong>transition énergétique</strong> et les activités <strong>socialement utiles</strong>."
+
+[[categories]]
+  id = "economy"
+  title = "Économie"
+  teasing = true
+
+  [[categories.list]]
+    title = "Réindustrialisation"
+
+    [[categories.list.us]]
+    quote = "Réindustrialiser le pays par l'investissement, le rétablissement de plans de filières pour coordonner donneurs d'ordres et sous-traitants, clients et fournisseurs (par exemple SNCF et Alstom pour la filière ferroviaire, etc.), la création de pôles publics dans l'énergie ou les transports, la défense des industries stratégiques et la reconstruction de conglomérats combinant plusieurs activités"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s18m4"
+    tldr = "<strong>Réindustrialiser</strong> le pays par l'<strong>investissement</strong>."
+
+    [categories.list.them]
+    quote = "<p>Nous constituerons un Fonds pour l’industrie et l’innovation.<br />
+    Il sera doté de 10 milliards d’euros issus des actions d’entreprises possédées de manière minoritaire par l’Etat et sera placé au service de notre industrie et de l’innovation. Nous mobiliserons les revenus issus de ces participations pour financer l’industrie du futur. Enfin, nous nous assurerons que les entreprises, notamment les plus petites, ne subissent pas des relations commerciales déséquilibrées.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/entreprises"
+    tldr = "Création d'un fonds pour l'industrie et l'innovation."
+
+  [[categories.list]]
+    title = "Dette"
+
+    [[categories.list.us]]
+    quote = "Refuser le chantage à la dette publique<br />
+    • Réaliser un audit citoyen de la dette publique pour déterminer la part illégitime et préparer un réaménagement négocié (échelonnement des remboursements, baisse des taux d'intérêt, annulation partielle…)<br />
+    • Faire racheter la dette publique par la Banque centrale"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s35"
+    tldr = "Réaliser un <strong>audit</strong> citoyen de la dette publique. Faire racheter la dette publique par la <strong>Banque centrale</strong>."
+
+    [categories.list.them]
+    quote = "Nous aurons deux priorités : L’INVESTISSEMENT PUBLIC ET PRIVÉ, POUR PRÉPARER L’AVENIR, ET LE SÉRIEUX BUDGÉTAIRE, pour ne pas léguer une dette insoutenable à nos enfants."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/finances-publiques"
+    tldr = "Investissement public et privé pour ne pas léguer une dette insoutenable à nos enfants."
+
+  [[categories.list]]
+    title = "Séparation bancaire"
+
+    [[categories.list.us]]
+    quote = "Séparer les banques d'affaires et de détail"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s19m2"
+    tldr = "Séparer les banques d'<strong>affaires</strong> et de <strong>détail</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Licence bancaire à la BPI"
+
+    [[categories.list.us]]
+    quote = "Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21m2"
+    tldr = "Accorder une licence bancaire à la Banque publique d'investissement."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Mouvements de capitaux"
+
+    [[categories.list.us]]
+    quote = "
+    Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s49m6"
+    tldr = "<strong>Contrôler</strong> les mouvements de capitaux."
+
+    [categories.list.them]
+    quote = "<p>Nous défendrons, au niveau européen, une taxe sur le chiffre d’affaires réalisé dans nos pays pour des prestations de service électronique.<br />
+    Cela éliminera ainsi les montages consistant à rapatrier les profits dans des paradis fiscaux.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/entreprises"
+    tldr = "Taxe sur le chiffre d'affaires <b>pour des prestations de service électronique</b>."
+
+  [[categories.list]]
+    title = "Partenariats Public Privé"
+
+    [[categories.list.us]]
+    quote = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s16m4"
+    tldr = "Décrêter un <strong>moratoire</strong> sur les partenariats public-privé (PPP), <strong>abroger</strong> les dispositions législatives les permettant et pratiquer un <strong>audit</strong> de ceux qui sont en cours."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Économie Sociale et Solidaire"
+
+    [[categories.list.us]]
+    quote = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m2"
+    tldr = "<strong>Généraliser</strong> l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+
+    [categories.list.them]
+    quote = "<p>
+    • Mobiliser la commande publique : d’ici 2022, chaque ministère devra ainsi atteindre des objectifs ambitieux en matière de recours à de la main d’œuvre en insertion, d’achats d’énergies renouvelables ou de produits en circuits courts et de sous-traitance avec les entreprises agréées ESUS (Entreprise Solidaire d’Utilité Sociale). L’Etat incitera les collectivités et les entreprises à en faire de même.<br />
+    • Faciliter l’accès : en s’appuyant sur la mise œuvre de l’open data sur les marchés publics, promouvoir la mise en place d’une plateforme dédiée à la facilitation de groupement d’entreprises temporaires de l’ESS pour répondre aux cahiers des charges de la commande publique.
+    </p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/economie-sociale-et-solidaire"
+    tldr = "Mobiliser la commande publique et en faciliter l’accès à l’ESS dans une logique d’Etat exemplaire et responsable."
+
+  [[categories.list]]
+    title = "Aide publique au développement"
+
+    [[categories.list.us]]
+    quote = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m2"
+    tldr = "Tenir enfin l'objectif de consacrer <strong>0,7 %</strong> du revenu national brut au budget de l'aide publique au développement."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Révolution numérique"
+
+    [categories.list.us]
+    quote = "<p>Affirmer le caractère d'intérêt général de la révolution numérique
+    • Reconquérir la maîtrise publique des technologies liées au numérique et aux télécommunications (câbles sous-marins, tirs de satellites, réseaux basse et haute tension, etc.)<br />
+    • Généraliser l'usage des systèmes d'exploitation et des logiciels libres dans les administrations publiques et l'Éducation nationale<br />
+    • Garantir la neutralité du net et lutter contre le profilage en ligne, comme le défend l'association [La Quadrature du Net](https://www.laquadrature.net/fr/qui-sommes-nous)<br />
+    • Systématiser la publication en _open data_ des données publiques détenues par les collectivités, comme le propose l'association [Regards citoyens](https://www.regardscitoyens.org/
+    </p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m1"
+    tldr = "Affirmer le caractère d'<strong>intérêt général</strong> de la révolution numérique."
+
+    [categories.list.them]
+    quote = "<p>
+    • Nous couvrirons en très haut débit l’ensemble du territoire. Ce sera fait d’ici la fin du quinquennat, pour ne laisser aucun territoire à la traîne dans la transition numérique.<br />
+    • Nous éliminerons les zones sans réseau (aussi appelées « zones blanches »).<br />
+    • Nous porterons une stratégie d’inclusion à destination de ceux qui rencontrent des difficultés à utiliser le numérique en développant avec les associations et les collectivités, un réseau d’accompagnement sur le territoire qui proposera du temps de soutien et des formations aux outils et aux services numériques."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/numerique"
+    tldr = "Couverture haut débit de l'ensemble du territoire, élimination des zones blanches. Accompagnement à la formation aux outils et services numériques."
+
+  [[categories.list]]
+    title = "Plan numérique pour l'industrie"
+
+    [[categories.list.us]]
+    quote = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m3"
+    tldr = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés."
+
+    [categories.list.them]
+    quote = "<p>Nous aiderons les TPE et les PME à réussir leur transformation numérique.<br />
+    Celles qui s’engageront dans des transformations ambitieuses exigeant de conduire sur une période de temps limitée une requalification de leurs salariés bénéficieront d’un accès privilégié à la formation professionnelle.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/numerique"
+    tldr = "Accès privilégié à la formation professionnelle pour les TPE/PME qui s'engageront dans des transformations ambitieuses exigeant une requalification de leurs salariés."
