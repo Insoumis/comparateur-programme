@@ -1179,15 +1179,12 @@ candidat = "Marine Le Pen"
 
 [[categories]]
   id = "society"
-  title = "Société"
+  title = "Santé et Société"
   teasing = true
-
-  # FIXME: le point "laïcité" n'est pas inclus ?
 
   [[categories.list]]
     title = "Politique sanitaire"
 
-    # NOTE: ci-dessous le contenu de la catégorie "Santé"
     [categories.list.them]
     quote = "<p>Favoriser la coopération entre professionnels de santé, en reconnaissant les compétences spécifiques de chacun.</p>
     <p>Lutter contre les déserts médicaux en instaurant un stage d’internat dans les zones concernées, en permettant aux médecins retraités d’y exercer avec des déductions de charges et en y développant les maisons de santé.</p>

@@ -1175,35 +1175,7 @@ candidat = "Emmanuel Macron"
 
 [[categories]]
   id = "society"
-  title = "Société"
-  teasing = true
-
-  # FIXME: le point "laïcité" n'est pas inclus ?
-
-  [[categories.list]]
-    title = "Politique sanitaire"
-
-    [categories.list.them]
-    quote = "<p>Nous financerons des actions de prévention au titre des missions d’intérêt général dans les établissements de santé et des objectifs de performance pour tous les professionnels de santé libéraux.</p>
-    <p>Nous créerons un service sanitaire de 3 mois pour tous les étudiants en santé : dans ce cadre, 40 000 d’entre eux interviendront dans les écoles, les entreprises, pour des actions de prévention.</p>
-    <p>Nous nous battrons contre les déserts médicaux qui touchent de nombreuses zones rurales, périurbaines, des villes et des hôpitaux.</p>
-    <p>Nous évaluerons la qualité et la pertinence des soins, rendrons les informations totalement transparentes pour les usagers, améliorerons la formation des professionnels et la diffusion des bonnes pratiques.</p>"
-    ref = "Emmanuel Macron président - 02/03/2017"
-    link = "https://en-marche.fr/emmanuel-macron/le-programme/sante"
-    tldr = "Financer des actions de prévention, créer un service sanitaires d'étudiants en santé, Evaluer la pertinence des soins et améliorer la formation des professionnels."
-
-    [categories.list.us]
-    quote = "
-    <p>Instaurer une politique de santé publique et de prévention :<br />
-    • Élaborer un plan de santé environnementale (lutte contre la pollution, interdiction des pesticides…)<br />
-    • Engager un plan de santé au travail, implanter un réseau sans faille de médecine du travail<br />
-    • Éradiquer les maladies chroniques liées à l'alimentation : lutte drastique contre l'obésité, contre la malbouffe et les abus de sel, sucre et graisses par l'industrie agro-alimentaire…<br />
-    • Abolir le logement insalubre et lutter contre le mal-logement et leurs conséquences sanitaires<br />
-    • Faire de la prévention et de l'éducation à la santé dès le plus jeune âge, en renforçant la médecine scolaire et la Protection maternelle et infantile<br />
-    • Imposer un plan de lutte et de prévention contre les maladies sexuellement transmissibles et promouvoir des politiques de santé sexuelle et reproductive émancipatrices des personnes.</p>"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s67"
-    tldr = "Plan de santé environnementale. Réseau sans faille de médecine du travail. Éradication des maladies liées à l'alimentation. Prévention et éducation à la santé dès le plus jeune âge."
+  title = "Santé et Société"
 
   [[categories.list]]
     title = "Remboursement des soins"
@@ -1212,7 +1184,7 @@ candidat = "Emmanuel Macron"
     quote = "Nous mettrons en place la prise en charge à 100% des lunettes et des prothèses auditives et dentaires d’ici 2022, en lien avec les mutuelles et l’ensemble des professionnels de santé."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Négocier avec les mutuelles la prise en charge à 100% des lunettes, des prothèses auditives et dentaires d’ici 2022."
+    tldr = "<strong>Négocier avec les mutuelles</strong> la prise en charge à 100% des lunettes, des prothèses auditives et dentaires d’ici <strong>2022</strong>."
 
     [categories.list.us]
     quote = "
@@ -1226,7 +1198,7 @@ candidat = "Emmanuel Macron"
     Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
     ref = "La santé, notre bien commun - 2017"
     link = "https://avenirencommun.fr/le-livret-sante/"
-    tldr = "Rembourser à 100% par la Sécurité Sociale intégrale les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+    tldr = "<strong>Rembourser à 100%</strong> par la <strong>Sécurité Sociale intégrale</strong> les soins de santé prescrits, appareils dentaires, optiques et auditifs."
 
   [[categories.list]]
     title = "Dépassement d'honoraires / Tiers payant"
@@ -1240,7 +1212,7 @@ candidat = "Emmanuel Macron"
     • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s67m3"
-    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+    tldr = "<strong>Abolir</strong> les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
 
   [[categories.list]]
     title = "Médicaments"
@@ -1251,17 +1223,16 @@ candidat = "Emmanuel Macron"
     quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s67"
-    tldr = "Faciliter l'accès aux traitements par la création d'un pôle public du médicament."
+    tldr = "Faciliter l'accès aux traitements par la création d'un <strong>pôle public du médicament</strong>."
 
   [[categories.list]]
     title = "Contraception, IVG, Grossesse, Accouchement"
 
-    # FIXME: Séparé en trois dans le drive ; une seule proposition pour EM, incluse ci-dessous
     [categories.list.them]
     quote = "Contre toutes les attaques qu’il subit, nous défendrons le droit à l’interruption volontaire de grossesse (IVG)."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
-    tldr = "Défendre le droit à l'interruption volontaire de grossesse (IVG)"
+    tldr = "<strong>Défendre</strong> le droit à l'interruption volontaire de grossesse (IVG)"
 
     [categories.list.us]
     quote = "
@@ -1272,7 +1243,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
     link = "https://avenirencommun.fr/livret-de-legalite/"
-    tldr = "Accès à la contraception garanti et gratuit. Droit à l'IVG garanti dans les faits et ajouté à la Constitution. Prise en charge digne de la grossesse garantie."
+    tldr = "Accès à la <strong>contraception</strong> garanti et gratuit. Droit à l'<strong>IVG</strong> garanti dans les faits et ajouté à la <strong>Constitution</strong>. Prise en charge digne de la <strong>grossesse</strong> garantie."
 
     [[categories.list]]
       title = "Procréation Médicalement Assistée"
@@ -1282,13 +1253,13 @@ candidat = "Emmanuel Macron"
       Il n’y a pas de justification juridique pour que la PMA ne leur soit pas ouverte. Pour avancer de façon pédagogique, nous souhaitons attendre l’avis du Comité consultatif national d’éthique (CCNE), afin d’assurer dans la société un vrai débat, pacifié et argumenté.</p>"
       ref = "Emmanuel Macron président - 02/03/2017"
       link = "https://en-marche.fr/emmanuel-macron/le-programme/familles-et-societe"
-      tldr = "Favorable à l'ouverture de la procréation médicalement assistée (PMA) pour les femmes seules et les couples de femmes."
+      tldr = "<strong>Favorable</strong> à l'ouverture de la procréation médicalement assistée (PMA) pour les femmes seules et les couples de femmes."
 
       [categories.list.us]
       quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s5"
-      tldr = "Reconnaître le droit à la Procréation Médicalement Assistée pour toutes les femmes."
+      tldr = "<strong>Reconnaître</strong> le droit à la Procréation Médicalement Assistée pour <strong>toutes les femmes</strong>."
 
     [[categories.list]]
       title = "Gestation Pour Autrui"
@@ -1299,13 +1270,13 @@ candidat = "Emmanuel Macron"
       Nous assurerons que les enfants issus de la GPA nés à l’étranger voient leur filiation reconnue à l’état-civil français, selon la jurisprudence de la Cour Européenne des Droits de l’Homme.</p>"
       ref = "Emmanuel Macron président - 02/03/2017"
       link = "https://en-marche.fr/emmanuel-macron/le-programme/familles-et-societe"
-      tldr = "Pas favorable à la GPA. Reconnaissance de la filiation pour les enfants issus de GPA nés à l'étranger."
+      tldr = "<strong>Non favorable</strong> à la GPA. Reconnaissance de la filiation pour les enfants issus de GPA <strong>nés à l'étranger</strong>."
 
       [categories.list.us]
       quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s5m3"
-      tldr = "Refuser la Gestation Pour Autrui mais faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+      tldr = "<strong>Refuser</strong> la Gestation Pour Autrui mais <strong>faire prévaloir</strong> l'intérêt supérieur de l'enfant en toutes circonstances."
 
   [[categories.list]]
     title = "Petite enfance"
@@ -1314,13 +1285,13 @@ candidat = "Emmanuel Macron"
     quote = "Nous obligerons les communes à publier en ligne leurs critères d’attribution des places de crèche, puis à mettre en place systématiquement un système de cotation des demandes. Nous soutiendrons l’effort massif de construction de places de crèche. Pour que les femmes soient à égalité face au congé maternité, nous créerons un congé de maternité unique garanti pour toutes les femmes quel que soit leur statut (salariée, entrepreneuse, intermittente, non-salariée, statut multiple, etc.) aligné sur le régime le plus avantageux."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
-    tldr = "Création de places de crèches, création d'un congé maternité unique pour toutes les femmes quel que soit leur statut."
+    tldr = "Création de <strong>places de crèches</strong>, création d'un congé maternité <strong>unique</strong> pour toutes les femmes quel que soit leur statut."
 
     [categories.list.us]
     quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s72m2"
-    tldr = "Ouvrir 500 000 places en crèche et modes de garde adaptés."
+    tldr = "Ouvrir <strong>500 000 places en crèche</strong> et modes de garde adaptés."
 
   [[categories.list]]
     title = "Allocations familiales"
@@ -1331,17 +1302,15 @@ candidat = "Emmanuel Macron"
     quote = "Verser une allocation familiale dès le premier enfant."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s72m1"
-    tldr = "Verser une allocation familiale dès le premier enfant."
+    tldr = "Verser une allocation familiale <strong>dès le premier enfant</strong>."
 
   [[categories.list]]
     title = "Inégalités homme-femme travail"
-
-    # FIXME: propos PDF (programme) et Web disparates ; ci-dessous la version du programme (PDF)
     [categories.list.them]
     quote = "Nous publierons les noms des entreprises qui ne respectent pas l’égalité salariale entre les femmes et les hommes.Nous testerons au hasard, et massivement, les entreprises pour vérifier qu’elles respectent bien la loi en la matière."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Favoriser les opérations de contrôle aléatoire des politiques salariales dans les grandes entreprises."
+    tldr = "Favoriser les <strong>opérations de contrôle</strong> aléatoire des politiques salariales dans les grandes entreprises."
 
     [categories.list.us]
     quote = "
@@ -1355,7 +1324,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
     link = "https://avenirencommun.fr/livret-de-legalite/"
-    tldr = "Obligation d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augments les sanctions financières et pénales. Favoriser les congés parentaux de durée identique entre les parents."
+    tldr = "<strong>Obligation</strong> d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augmenter les <strong>sanctions financières et pénales</strong>. Favoriser les <strong>congés parentaux</strong> de durée identique entre les parents."
 
   [[categories.list]]
     title = "Violences faites aux femmes"
@@ -1367,7 +1336,7 @@ candidat = "Emmanuel Macron"
     • Généralisation du téléphone d'alerte</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "http://www.en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
-    tldr = "Augmentation du montant des amendes et campagne de communication sur les violences faites aux femmes."
+    tldr = "Augmentation du <strong>montant des amendes</strong> et campagne de communication sur les violences faites aux femmes."
 
     [categories.list.us]
     quote = "
@@ -1385,7 +1354,7 @@ candidat = "Emmanuel Macron"
     </p>"
     ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
     link = "https://avenirencommun.fr/livret-de-legalite/"
-    tldr = "Renforcer l'hébergement d'urgence. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le principe de prescription pour les crimes à caractère sexuel. Lutte contre les violences sexistes et sexuelles au travail et liées à la prostitution."
+    tldr = "Renforcer l'<strong>hébergement d'urgence</strong>. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le <strong>principe de prescription</strong> pour les crimes à caractère sexuel. Lutte contre les <strong>violences</strong> sexistes et sexuelles au travail et liées à la prostitution."
 
   [[categories.list]]
     title = "Changement d'état civil"
@@ -1396,7 +1365,7 @@ candidat = "Emmanuel Macron"
     quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s5"
-    tldr = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil."
+    tldr = "<strong>Autoriser</strong> le changement d'état civil <strong>libre et gratuit</strong> devant un officier d'état civil."
 
   [[categories.list]]
     title = "Zéro obstacle"
@@ -1407,7 +1376,7 @@ candidat = "Emmanuel Macron"
     quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s68"
-    tldr = "Tolérance zéro contre les entraves, fermeture des bâtiments privés ne respectant pas la loi."
+    tldr = "<strong>Tolérance zéro</strong> contre les entraves, <strong>fermeture des bâtiments</strong> privés ne respectant pas la loi."
 
   [[categories.list]]
     title = "Allocation Adulte Handicapé"
@@ -1416,13 +1385,13 @@ candidat = "Emmanuel Macron"
     quote = "Nous augmenterons de 100 euros par mois l’Allocation Adulte Handicapé (AAH)."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/handicap"
-    tldr = "Augmenter l'allocation adulte handicapé de 12,37%."
+    tldr = "Augmenter l'allocation adulte handicapé de <strong>100 euros</strong>."
 
     [categories.list.us]
     quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s68"
-    tldr = "Augmenter l'allocation aux adultes handicapés au niveau du SMIC."
+    tldr = "Augmenter l'allocation aux adultes handicapés (808 euros) au niveau du nouveau <strong>SMIC</strong> (1326 euros)."
 
   [[categories.list]]
     title = "Dépendance / perte d'autonomie"
@@ -1436,7 +1405,7 @@ candidat = "Emmanuel Macron"
     <p>Nous encouragerons les réseaux d’aide à la personne (associations où coopèrent médecins, professions para-médicales, services sociaux) et accélérerons le décloisonnement entre la ville et l’hôpital d’une part, et les secteurs sanitaire et social d’autre part.</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/dependance"
-    tldr = "Développer et soutenir les soins et solutions hospitalières à domicile, faciliter le retour à domicile, encourager les formes d'habitat inclusif et partagé, encourager les réseaux d'aide."
+    tldr = "Développer et soutenir les soins et solutions hospitalières <strong>à domicile</strong>, faciliter le <strong>retour à domicile</strong>, encourager les formes d'habitat inclusif et partagé, encourager les <strong>réseaux d'aide</strong>."
 
     [categories.list.us]
     quote = "
@@ -1447,7 +1416,7 @@ candidat = "Emmanuel Macron"
     <p>Refondre les grilles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s71"
-    tldr = "Faire face collectivement au vieillissement de la population et à la perte d'autonomie."
+    tldr = "<strong>Augmenter de 50 %</strong> le montant de l'allocation personnalisée d'autonomie. Développer un <strong>réseau public</strong> de maisons de retraite. Recruter en nombre suffisant le personnel nécessaire, soit <strong>au moins 100 000 personnes</strong>."
 
   [[categories.list]]
     title = "Revalorisation des petites retraites"
@@ -1456,13 +1425,13 @@ candidat = "Emmanuel Macron"
     quote = "Nous augmenterons le minimum vieillesse de 100 euros par mois."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Augmentation du minimum veillesse de 100 euros par mois."
+    tldr = "Augmentation du minimum veillesse de <strong>100 euros</strong>."
 
     [categories.list.us]
     quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s31"
-    tldr = "Revaloriser les pensions de retraite au niveau du smic et augmenter le minimum vieillesse."
+    tldr = "Revaloriser les pensions de retraite au niveau du nouveau <strong>SMIC</strong> (1326 euros) et augmenter le minimum vieillesse."
 
   [[categories.list]]
     title = "Droit de mourir dans la dignité"
@@ -1481,27 +1450,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
     link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
-    tldr = "Constitutionnaliser le droit de mourir dans la dignité."
-
-  [[categories.list]]
-    title = "Prestations sociales"
-
-    # FIXME: voir commentaire sur le drive
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "
-    <p>Assurer la continuité des droits personnels hors du contrat de travail (droit à la formation, ancienneté, etc.)</p>
-    <p>Garantir la continuité du revenu en cas de perte d'emploi ou de retrait d'activité, dans le cadre d'une Sécurité sociale professionnelle</p>
-    <p>Donner la liberté aux artisans, commerçants, indépendants, chefs d'entreprises et auto-entrepreneurs de s'affilier au régime général de la Sécurité sociale plutôt qu'au Régime social des indépendants (RSI)</p>
-    "
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s26"
-    tldr = "Construire un nouveau statut protecteur pour les travailleurs : la Sécurité sociale intégrale."
+    tldr = "<strong>Constitutionnaliser</strong> le droit de mourir dans la dignité."
 
   [[categories.list]]
     title = "Fraude aux prestations sociales"
@@ -1510,14 +1459,13 @@ candidat = "Emmanuel Macron"
     quote = "La lutte contre la fraude aux prestations sociales sera amplifiée. Une fraude grave entraînera désormais, en plus du remboursement, la suspension de la prestation."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Renforcer la répression des fraudes aux prestations sociales."
+    tldr = "Renforcer la <strong>répression des fraudes</strong> aux prestations sociales."
 
     [categories.list.us]
 
   [[categories.list]]
     title = "Chômage"
 
-    # NOTE: deux propositions dans le drive, collées les une à la suite des autres ci-dessous
     [categories.list.them]
     quote = "<p>Nous permettrons à tous les travailleurs d’avoir droit à l’assurance-chômage.<br />
     Les artisans, les commerçants indépendants, les entrepreneurs, les professions libérales, et les agriculteurs disposeront, comme les salariés, de cette protection.</p>
@@ -1525,24 +1473,23 @@ candidat = "Emmanuel Macron"
     Ce droit ne sera utilisable qu’une fois tous les cinq ans. En contrepartie, l’insuffisance des efforts de recherche d’emploi ou le refus d’offres raisonnables entraîneront la suspension des allocations.</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Permettre  aux indépendants de bénéficier du droit à l'assurance-chômage. Droits à l’assurance-chômage pour les salariés qui démissionnent avec suspension des allocations en cas de refus d'offres raisonnables."
+    tldr = "Permettre aux <strong>indépendants</strong> de bénéficier du droit à l'<strong>assurance-chômage</strong>. Droits à l’assurance-chômage pour les salariés qui <strong>démissionnent</strong> avec <strong>suspension des allocations</strong> en cas de refus d'offres raisonnables."
 
     [categories.list.us]
     quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s26m3"
-    tldr = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort."
+    tldr = "Établir le « <strong>droit opposable à l'emploi</strong> » en faisant de l'État l'employeur en <strong>dernier ressort</strong>."
 
   [[categories.list]]
     title = "Lutte contre la précarité"
 
-    # NOTE: Ci-dessous, les propositions pour la catégorie "Pauvreté", qui ne figure pas dans ce toml (La catégorie "Lutte contre la précarité" du drive ne comprend pas de proposition pour EM)
     [categories.list.them]
     quote = "<p>Nous augmenterons de 50% le montant de la prime d’activité.<br />
     Cette augmentation correspondra à une somme supplémentaire de près de 80 euros par mois et un gain annuel de près de 1000 euros pour une personne au smic. Ce gain de pouvoir d’achat concernera 2,4 millions de foyers dont 400 000 jeunes et 500 000 familles monoparentales.</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/pauvrete"
-    tldr = "Augmentation de 50% de la prime d'activité."
+    tldr = "Augmentation d'environ <strong>80 euros</strong> par mois de la <strong>prime d'activité</strong> pour une personne au SMIC."
 
     [categories.list.us]
     quote = "
@@ -1552,17 +1499,12 @@ candidat = "Emmanuel Macron"
     <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base.</p>"
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Garantie dignité de 1 000 €/mois pour une personne seule sous le seuil de pauvreté. Restructurer les emprunts des ménages surendettés."
+    tldr = "<strong>Garantie dignité</strong> de <strong>1 000 euros</strong> par mois pour une personne seule sous le <strong>seuil de pauvreté</strong>. Restructurer les emprunts des <strong>ménages surendettés</strong>."
 
   [[categories.list]]
     title = "Lutte contre l'exclusion"
 
-    # FIXME: pas dans le drive ?
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
     [categories.list.us]
     quote = "
@@ -1571,7 +1513,7 @@ candidat = "Emmanuel Macron"
     <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Revaloriser les structures d’accueil de jour et d’hébergement. Apporter un accompagnement global des personnes par un référent unique."
+    tldr = "Revaloriser les <strong>structures d’accueil</strong> de jour et d’hébergement. Apporter un <strong>accompagnement global</strong> des personnes par un <strong>référent unique</strong>."
 
   [[categories.list]]
     title = "Aides aux jeunes adultes"
@@ -1582,7 +1524,7 @@ candidat = "Emmanuel Macron"
     quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s27m1"
-    tldr = "Allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+    tldr = "<strong>Allocation d'autonomie</strong> pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
 
   [[categories.list]]
     title = "Logement social"
@@ -1593,7 +1535,7 @@ candidat = "Emmanuel Macron"
     quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s9m3"
-    tldr = "Constitutionnaliser et rendre effectifs le droit au logement."
+    tldr = "<strong>Constitutionnaliser</strong> et rendre effectifs le <strong>droit au logement</strong>."
 
   [[categories.list]]
     title = "Précarité énergétique"
@@ -1604,7 +1546,7 @@ candidat = "Emmanuel Macron"
     quote = "Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal."
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne."
+    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une <strong>vie digne</strong>."
 
   [[categories.list]]
     title = "Hébergement d'urgence"
@@ -1615,7 +1557,7 @@ candidat = "Emmanuel Macron"
     quote = "Interdire les expulsions locatives sans relogement"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s34m1"
-    tldr = "Interdire les expulsions locatives sans relogement."
+    tldr = "Interdire les <strong>expulsions locatives</strong> sans relogement."
 
   [[categories.list]]
     title = "Position sur l'immigration"
@@ -1626,7 +1568,7 @@ candidat = "Emmanuel Macron"
     quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Respecter la dignité humaine des migrants."
+    tldr = "Respecter la <strong>dignité humaine</strong> des migrants."
 
   [[categories.list]]
     title = "Demande d'asile"
@@ -1636,7 +1578,7 @@ candidat = "Emmanuel Macron"
     C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent pas des immigrés clandestins.</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Examiner les demande d'asile en moins de 6 mois recours compris."
+    tldr = "Examiner les demande d'asile en <strong>moins de 6 mois</strong> recours compris."
 
     [categories.list.us]
     quote = "
@@ -1645,24 +1587,18 @@ candidat = "Emmanuel Macron"
     "
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Assouplir les politiques de visas « au titre de l’asile ». Autoriser les demandeurs d'asile à travailler."
+    tldr = "Assouplir les politiques de <strong>visas</strong> « au titre de l’asile ». Autoriser les demandeurs d'asile à <strong>travailler</strong>."
 
   [[categories.list]]
     title = "Rétention administrative"
 
-    # FIXME: Incertain ; voir commentaire sur le drive
     [categories.list.them]
-    quote = "<p>Nous examinerons les demandes d’asile en moins de 6 mois, recours compris.<br />
-    C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent pas des immigrés clandestins.</p>"
-    ref = "Emmanuel Macron président - 02/03/2017"
-    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Examiner les demande d'asile en moins de 6 mois recours compris."
 
     [categories.list.us]
     quote = "Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "En finir avec le placement en centre de rétention, en priorité pour les enfants."
+    tldr = "En finir avec le placement en <strong>centre de rétention</strong>, en priorité pour <strong>les enfants</strong>."
 
   [[categories.list]]
     title = "Naturalisation"
@@ -1672,13 +1608,13 @@ candidat = "Emmanuel Macron"
     <p>Nous renforcerons l’apprentissage de notre langue pour les candidats à la naturalisation. Quelle meilleure preuve de la volonté de quelqu’un de s’intégrer et de devenir français ?</p>"
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Subordonner l'obtention de la nationalité française à la maîtrise du français."
+    tldr = "Subordonner l'obtention de la nationalité française à la <strong>maîtrise du français</strong>."
 
     [categories.list.us]
     quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Faciliter l'accès à la nationalité française."
+    tldr = "<strong>Faciliter l'accès</strong> à la nationalité française."
 
   [[categories.list]]
     title = "Droit du sol"
@@ -1689,21 +1625,7 @@ candidat = "Emmanuel Macron"
     quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s6m1"
-    tldr = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
-
-  [[categories.list]]
-    title = "Regroupement familial"
-
-    [categories.list.them]
-
-    [categories.list.us]
-
-  [[categories.list]]
-    title = "AME"
-
-    [categories.list.them]
-
-    [categories.list.us]
+    tldr = "Défendre le <strong>droit du sol intégral</strong> pour les enfants nés en France, y compris dans les Outre-mer."
 
   [[categories.list]]
     title = "Fermeture de lieux de cultes"
@@ -1712,13 +1634,13 @@ candidat = "Emmanuel Macron"
     quote = "Nous démantèlerons les associations qui, sous couvert de religion, s’attaquent à la République. Nous fermerons définitivement les lieux de culte dans lesquels certaines prêchent l’apologie du terrorisme."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
-    tldr = "Fermeture définitive des lieux de culte où on fait l'apologie du terrorisme"
+    tldr = "<strong>Fermeture définitive</strong> des lieux de culte où on fait l'apologie du terrorisme."
 
     [categories.list.us]
-    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne"
+    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s12"
-    tldr = "Mener une politique antiterroriste rationnelle."
+    tldr = "Mener une <strong>politique antiterroriste rationnelle</strong> et <strong>supprimer le terreau</strong> des communautarismes."
 
   [[categories.list]]
     title = "Financement des lieux de cultes"
@@ -1727,22 +1649,22 @@ candidat = "Emmanuel Macron"
     quote = "Une nouvelle structure permettra de relancer les principaux chantiers du culte musulman en France : la construction et l’amélioration de lieux de culte dignes là où c’est nécessaire et la formation en France des imams. La liberté de culte, c’est aussi la liberté de le pratiquer dans des conditions dignes."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "http://www.en-marche.fr/emmanuel-macron/le-programme/questions-religieuses-et-laicite"
-    tldr = "Construction et amélioration des lieux de cultes musulmans"
+    tldr = "<strong>Construction et amélioration</strong> des lieux de cultes musulmans."
 
     [categories.list.us]
     quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Refuser les financement publics pour la construction des édifices religieux."
+    tldr = "<strong>Refuser les financement publics</strong> pour la construction des édifices religieux."
 
   [[categories.list]]
-    title = "Aumônerie"
+    title = "Séparation église - état"
 
     [categories.list.them]
     quote = "Créer un statut unifié des aumôniers. Ces personnes auront des contrats avec l’Etat et verront leur rémunération améliorée. L’instance représentative du culte musulman assurera un complément de rémunération pour les aumôniers musulmans."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "http://www.en-marche.fr/emmanuel-macron/le-programme/questions-religieuses-et-laicite"
-    tldr = "Créer un statut clair des aumôniers, Complémenter la rémunération des aumôniers musulmans."
+    tldr = "Créer un statut clair des aumôniers, complémenter la <strong>rémunération des aumôniers musulmans</strong>."
 
     [categories.list.us]
     quote = "
@@ -1751,7 +1673,7 @@ candidat = "Emmanuel Macron"
     <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Abroger le concordat. Interdire la présence de ministres et préfets aux cérémonies religieuses."
+    tldr = "Abroger le <strong>concordat</strong>. Interdire la présence de ministres et préfets aux <strong>cérémonies religieuses</strong>."
 
   [[categories.list]]
     title = "Communautarisme"
@@ -1762,7 +1684,7 @@ candidat = "Emmanuel Macron"
     quote = "Combattre tous les communautarismes et l'usage politique des religions"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Combattre tous les communautarismes et l'usage politique des religions."
+    tldr = "<strong>Combattre</strong> tous les communautarismes et l'<strong>usage politique</strong> des religions."
 
 [[categories]]
   id = "territory"
