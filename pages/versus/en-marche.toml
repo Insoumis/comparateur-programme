@@ -1173,6 +1173,293 @@ candidat = "Emmanuel Macron"
   title = "Europe et International"
   teasing = true
 
+  [[categories.list]]
+    title = "Démocratie dans l'UE"
+
+    [categories.list.them]
+    quote = "Nous proposerons des conventions citoyennes dans toute l’Europe dès la fin de l’année 2017 pour redonner un sens au projet européen. Ces conventions aboutiront à un projet qui sera ensuite adopté par tous les pays qui le souhaitent. Aucun État membre n’aura le pouvoir de bloquer cette nouvelle étape."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Proposer des conventions citoyennes dans toute l'Europe dès la fin de l'année 2017."
+
+    [categories.list.us]
+    quote = "Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la renégociation."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s51"
+    tldr = "Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la renégociation."
+
+  [[categories.list]]
+    title = "Harmonisation sociale dans l'UE"
+
+    [categories.list.them]
+    quote = "Nous exigerons que soit intégré dans tous les accords commerciaux de l’UE un volet de coopération fiscale ainsi que des clauses sociales et environnementales contraignantes (en abaissant en priorité les tarifs douaniers sur les biens et services « propres » et en instituant des sanctions commerciales en cas de violation des clauses sociales et environnementales)."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Exigence de l'intégration des clauses sociales et environnementales contraignantes dans tous les accords commerciaux de l’UE"
+
+    [categories.list.us]
+    quote = "Mettre fin au dumping à l'intérieur de l'UE par une <b>politique volontariste et rapide d'harmonisation sociale</b> et fiscale <b>par le haut dans toute l'UE avec inscription d'une clause de non-régression des droits sociaux</b>."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/51/plan-a-proposer-une-refondation-democratique-sociale-et-ecologique-des-traites-europeens-par-la-renegociation"
+    tldr = "Politique volontariste et rapide d'harmonisation fiscale par le haut dans toute l'UE."
+
+  [[categories.list]]
+    title = "Fiscalité dans l'UE"
+
+    [categories.list.them]
+    quote = "
+    <p>Nous lutterons contre les arrangements fiscaux entre États et entreprises multinationales.<br />
+    Ils faussent la concurrence en Europe, comme celui entre Apple et l’Irlande qui a été sanctionné. La France se montrera exemplaire en ce domaine.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Lutter contre les arrangements fiscaux entre pays et entreprises multinationales."
+
+    [categories.list.us]
+    quote = "<p>Mettre fin au dumping à l'intérieur de l'UE par une <b>politique volontariste et rapide d'harmonisation</b> sociale et <b>fiscale par le haut dans toute l'UE</b> avec inscription d'une clause de non-régression des droits sociaux</p>
+    <p>Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France.</p>
+    <p>S'exonérer du pacte de stabilité et des règles européennes encadrant les déficits et dénoncer le Traité sur la stabilité, la coordination et la gouvernance (TSCG) ratifié à l'initiative de François Hollande en violation de ses engagements de campagne</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet"
+    tldr = "Politique volontariste et rapide d'harmonisation fiscale par le haut dans toute l'UE."
+
+  [[categories.list]]
+    title = "Brexit"
+
+    [categories.list.them]
+    quote = "Concernant le Brexit, les intérêts européens de la France doivent être clairement exprimés et défendus dans la négociation à venir. Les Britanniques doivent assumer leur choix."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/international"
+    tldr = "Exprimer clairement les intérêts européens de la France dans la négociation du Brexit."
+
+    [categories.list.us]
+    quote = "Organiser le processus de sortie du Royaume-Uni de l'Union européenne sans esprit de vengeance ou de punition."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s50"
+    tldr = "Organiser le processus de sortie du Royaume-Uni de l'Union européenne sans esprit de vengeance ou de punition."
+
+  [[categories.list]]
+    title = "Banque Centrale"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Mettre fin à l'indépendance de la Banque centrale européenne, modifier ses missions et statuts, autoriser le rachat de la dette publique directement aux États, interdire à la BCE de couper les liquidités à un État membre. Sans attendre, la Banque de France sera mise au service de ces objectifs"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/51/plan-a-proposer-une-refondation-democratique-sociale-et-ecologique-des-traites-europeens-par-la-renegociation"
+    tldr = "Agrandir les domaines de compétence de la banque Centrale pour agir plus efficacement pour le redressement économique de la zone euro."
+
+  [[categories.list]]
+    title = "Euro"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Dévaluer l'euro pour revenir à la parité initiale avec le dollar"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s51m2"
+    tldr = "Revenir à la parité initiale Euro / Dollar."
+
+  [[categories.list]]
+    title = "Dette"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Organiser une conférence européenne sur les dettes souveraines débouchant sur des moratoires, une baisse des taux d'intérêt, des rééchelonnements et annulations partielles</p>
+    <p>Appuyer la mise en œuvre d'un mécanisme de restructuration des dettes souveraines dans le cadre de l'Onu sur la base de la résolution votée en 2015 sur proposition de l'Argentine</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m6 | https://laec.fr/s51m4" # FIXME: quel lien ?
+    tldr = "Mise en œuvre d'un mécanisme de restructuration des dettes souveraines en Europe et dans le cadre de l'ONU."
+
+  [[categories.list]]
+    title = "CETA / TAFTA / TISA"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Refuser les traités de libre-échange : le traité trans-atlantique TAFTA entre l'UE et les États-Unis, CETA avec le Canada et le traité TISA de libéralisation des services"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s49m4"
+    tldr = "Refuser les traités de libre-échange."
+
+  [[categories.list]]
+    title = "Politique agricole"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s51m8"
+    tldr = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne."
+
+  [[categories.list]]
+    title = "Frontex"
+
+    [categories.list.them]
+    quote = "Nous agirons avec nos partenaires européens pour créer une force de 5000 garde-frontières européens. Ils seront chargés de surveiller et protéger les frontières extérieures de l’Union européenne."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Remplacer l'agence Frontex par une autre organisation"
+
+    [categories.list.us]
+    quote = "<p>En Europe, sortir de l'impasse de Schengen et de Frontex<br />
+    • Renforcer les moyens civils de sauvetage en mer Méditerranée pour éviter les milliers de noyés<br />
+    • Refonder la politique européenne de contrôle des frontières extérieures et refuser la militarisation de la politique de contrôle des flux migratoires<br />
+    • Refuser l'accord <i>Visa + adhésion contre migrants</i> avec la Turquie<br />
+    • Construire un programme pour l'aide au retour des réfugiés qui le souhaitent lorsque la situation de leur pays de départ le permet</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s59m3"
+    tldr = "Sortir de l'impasse de Schengen et de Frontex."
+
+  [[categories.list]]
+    title = "Shengen"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>En Europe, sortir de l'impasse de Schengen et de Frontex<br />
+    • Renforcer les moyens civils de sauvetage en mer Méditerranée pour éviter les milliers de noyés<br />
+    • Refonder la politique européenne de contrôle des frontières extérieures et refuser la militarisation de la politique de contrôle des flux migratoires<br />
+    • Refuser l'accord <i>Visa + adhésion contre migrants</i> avec la Turquie<br />
+    • Construire un programme pour l'aide au retour des réfugiés qui le souhaitent lorsque la situation de leur pays de départ le permet</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s59m3"
+    tldr = "Sortir de l'impasse de Schengen et de Frontex."
+
+  [[categories.list]]
+    title = "Souveraineté diplomatique"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Stopper l'érosion du réseau diplomatique français et sa mise sous tutelle par l'UE."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/54/instaurer-l-independance-de-la-france-dans-le-monde"
+    tldr = "Retrouver notre souveraineté diplomatique."
+
+  [[categories.list]]
+    title = "OTAN"
+
+    [categories.list.them]
+    quote = "Vis-à-vis de l’OTAN, la France n’a pas intérêt à remettre en cause sa place au sein du commandement intégré, mais l’élection de D. Trump ouvre une période d’incertitude."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/international"
+    tldr = "Contre le sortie de la France du commandement intégré de l'OTAN"
+
+    [categories.list.us]
+    quote = "<p>Sortir de l’Otan : l’Otan aurait dû être dissoute à la fin de la guerre froide. Elle n’a cessé depuis de s’étendre, provoquant guerres et tensions dans le monde entier. Elle a été au cœur de la « guerre globale contre le terrorisme » ayant débuté par les désastreuses interventions en Afghanistan et en Irak. Le retour dans son commandement intégré en 2008 a réduit notre indépendance militaire et diplomatique. Pour recouvrer cette indépendance, nous proposons :<br />
+    • le retrait immédiat de la France du commandement intégré de l’Otan puis, par étapes, de l’organisation elle-même ;<br />
+    • le refus de toute inscription de notre pays dans une alliance militaire permanente.</p>"
+    ref = "Une France indépendante au service de la paix - 2017"
+    link = "https://avenirencommun.fr/livret-garde-nationale-defense/"
+    tldr = "Sortir de l'OTAN."
+
+  [[categories.list]]
+    title = "Europe de la Défense - Autonomie française"
+
+    [categories.list.them]
+    quote = "Nous construirons une Europe qui nous protège.Nous proposerons avec l’Allemagne une Europe de la défense associant les pays volon-taires, en créant un Fonds européen de défense qui financera des équipements militaires communs (comme les drones européens) et un Quartier Général européen permanent."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Construire une Europe de la défense en créant un fonds européen de défense."
+
+    [categories.list.us]
+    quote = "<p>Retirer la France de l’Europe de la défense : le 6 mars dernier a été décidée, sans aucune consultation des peuples, la création d’un quartier général militaire de l’Union européenne. Désorientés par Donald Trump, les dirigeants européens relancent le mythe de l’Europe de la défense. Mais celle-ci n’a jamais été pensée comme une alternative à l’Alliance atlantique. En témoigne la reprise à l’unisson de l’objectif abstrait de consacrer 2 % du PIB à la défense, qui est avant tout une exigence de l’Otan, formulée en parfaite continuité tant par l’administration Obama que par l’administration Trump. Face à ces injonctions, nous optons pour la cohérence stratégique avec :<br />
+    • le retrait de la France de ce quartier général ;<br />
+    • le fait de limiter, en Europe, nos coopérations stratégiques aux pays ayant des centres et des aires d’intérêt commun, en particulier au service de la paix dans le bassin méditerranéen et en Europe, et/ou aux projets augmentant notre autonomie stratégique, comme le programme Galileo de radionavigation par satellite.</p>"
+    ref = "Une France indépendante au service de la paix - 2017"
+    link = "https://avenirencommun.fr/livret-garde-nationale-defense/"
+    tldr = "Retirer la France de l’Europe de la défense."
+
+  [[categories.list]]
+    title = "ONU"
+
+    [categories.list.them]
+    quote = "L ’objectif de la création d’une organisation mondiale de l’environnement doit être poursuivi, dans un format renouvelé, adapté au 21ème siècle, celui du « multilatéralisme participatif » qui associe les territoires, le secteur privé et la société civile en plus des Etats. Notre second objectif devrait être la négociation d'un Pacte universel sur l'environnement. La négociation de ce pacte universel, qui comporterait des principes utilisables et invocables en droit, est un projet ambitieux qui impliquera une longue concertation, avec les Etats et les ONG. C'est une ambition juste et utile que la France peut porter aux Nations Unies."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/international"
+    tldr = "Porter aux Nations Unies le projet de négociation d'un Pacte universel sur l'environnement."
+
+    [categories.list.us]
+    quote = "
+    <p>Réaffirmer que l'Onu est le seul organe légitime pour la sécurité collective aux yeux de la France<br />
+    - Refuser toute intervention militaire sans mandat de l'Onu<br />
+    - Faire vivre le comité d'état-major de l'Onu pour commander les opérations de maintien de la paix et enclencher un processus de démocratisation de l'organisation</p>
+    <p>Créer une Organisation mondiale de l'environnement dans le cadre de l'Onu.</p>
+    <p>Réformer la FAO (Organisation des Nations unies pour l'alimentation et l'agriculture) pour favoriser la souveraineté alimentaire, la régulation des marchés mondiaux et la conversion écologique de l'agriculture.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s56"
+    tldr = "Réaffirmer que l'Onu est le seul organe légitime pour la sécurité collective aux yeux de la France."
+
+  [[categories.list]]
+    title = "Afrique"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "En finir avec la Françafrique : respecter l'indépendance des États africains et la souveraineté des peuples en s'interdisant de se mêler des élections et en réprimant les corrupteurs."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m1"
+    tldr = "En finir avec la Françafrique : respecter l'indépendance des États africains et la souveraineté des peuples en s'interdisant de se mêler des élections et en réprimant les corrupteurs."
+
+  [[categories.list]]
+    title = "Chine"
+
+    [categories.list.them]
+    quote = "La Chine est un acteur fondamental avec lequel la France et l’Europe doivent renforcer et équilibrer leurs relations dans les domaines sécuritaires, commerciaux et écologiques. Nous lancerons dans cet esprit avec nos partenaires européens une initiative globale pour négocier un accord transversal avec la Chine."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/international"
+    tldr = "Lancer avec nos partenaires européens une initiative globale pour négocier un accord transversal avec la Chine."
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "Palestine"
+
+    [categories.list.them]
+    quote = "La sécurité d’Israël est pour nous un principe intangible, de même que la légitimité de l’Etat palestinien. Nous devrons rechercher les conditions d’une paix juste et durable, qui permette aux deux Etats de coexister en sécurité."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/international"
+    tldr = "Pour une solution à deux états."
+
+    [categories.list.us]
+    quote = "
+    <p>Reconnaître l'État palestinien</p>
+    <p>Appuyer la solution à deux États coexistant pacifiquement par l'application pleine et entière des résolutions de l'Onu (reconnaissance du droit souverain du peuple palestinien à disposer d'un État viable et indépendant, dans les frontières de 1967, avec Jérusalem Est pour capitale et dans le respect du principe du droit au retour des réfugiés)</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/61/agir-pour-une-paix-juste-et-durable-entre-israel-et-la-palestine"
+    tldr = "Reconnaître l'État palestinien pour une solution à deux états."
+
+  [[categories.list]]
+    title = "Arabie Saoudite/Quatar"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Un nouveau Livre blanc sur la Défense nationale traduira, dès le début 2018, les objectifs géopolitiques en doctrine de Défense. Rompant avec les précédents catalogues flous de menaces délivrant une vision du monde conforme aux dogmes atlantiste et occidentaliste, ce nouveau Livre blanc :<br />
+    • (...)<br />
+    • le retrait de la base militaire d’Abou Dabi et la dénonciation de l’accord secret de défense avec les Émirats arabes unis par lequel la France assure à ce pays la protection de son parapluie nucléaire</p>"
+    ref = "Une France indépendante au service de la paix - 2017"
+    link = "https://avenirencommun.fr/livret-garde-nationale-defense/"
+    tldr = "Dénonciation de l’accord secret de défense avec les Émirats arabes unis et retrait de la base militaire d'Abou Dabi."
+
+  [[categories.list]]
+    title = "Syrie"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Construire une solution politique en Syrie pour une paix durable, sous l'égide de l'Onu et reposant sur :<br />
+    • Un cessez-le-feu durable excluant les groupes islamistes<br />
+    • Le soutien au processus de Genève en y intégrant les kurdes de Syrie<br />
+    • L'organisation d'élections libres et pluralistes, sans ingérence étrangère, sous surveillance de l'Onu pour que le peuple syrien décide souverainement et démocratiquement de ses dirigeants<br />
+    • La garantie de l'intégrité de l'État syrien et de ses frontières</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/section/60/construire-la-paix-en-syrie"
+    tldr = "Construire une solution politique en Syrie sous l'égide de l'Onu."
+
 [[categories]]
   id = "society"
   title = "Santé et Société"
