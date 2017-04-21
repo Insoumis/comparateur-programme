@@ -1180,32 +1180,6 @@ candidat = "Marine Le Pen"
 [[categories]]
   id = "society"
   title = "Santé et Société"
-  teasing = true
-
-  [[categories.list]]
-    title = "Politique sanitaire"
-
-    [categories.list.them]
-    quote = "<p>Favoriser la coopération entre professionnels de santé, en reconnaissant les compétences spécifiques de chacun.</p>
-    <p>Lutter contre les déserts médicaux en instaurant un stage d’internat dans les zones concernées, en permettant aux médecins retraités d’y exercer avec des déductions de charges et en y développant les maisons de santé.</p>
-    <p>Réorganiser et clarifier le rôle et les obligations des agences de sécurité sanitaire et alimentaire et assurer leur indépendance.</p>
-    <p>Protéger la complémentarité du double système de santé public et libéral. Protéger le maillage territorial des acteurs indépendants de la santé (pharmacies, laboratoires d’analyses…).</p>"
-    ref = "Marine Présidente - 02/2017"
-    link = "https://www.marine2017.fr/programme/"
-    tldr = "Favoriser la coopération entre professionnels de santé, Instaurer un stage d'internat dans les déserts médicaux, clarifier le rôle et les obligations des agences de sécurité sanitaire et alimentaire."
-
-    [categories.list.us]
-    quote = "
-    <p>Instaurer une politique de santé publique et de prévention :<br />
-    • Élaborer un plan de santé environnementale (lutte contre la pollution, interdiction des pesticides…)<br />
-    • Engager un plan de santé au travail, implanter un réseau sans faille de médecine du travail<br />
-    • Éradiquer les maladies chroniques liées à l'alimentation : lutte drastique contre l'obésité, contre la malbouffe et les abus de sel, sucre et graisses par l'industrie agro-alimentaire…<br />
-    • Abolir le logement insalubre et lutter contre le mal-logement et leurs conséquences sanitaires<br />
-    • Faire de la prévention et de l'éducation à la santé dès le plus jeune âge, en renforçant la médecine scolaire et la Protection maternelle et infantile<br />
-    • Imposer un plan de lutte et de prévention contre les maladies sexuellement transmissibles et promouvoir des politiques de santé sexuelle et reproductive émancipatrices des personnes.</p>"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s67"
-    tldr = "Plan de santé environnementale. Réseau sans faille de médecine du travail. Éradication des maladies liées à l'alimentation. Prévention et éducation à la santé dès le plus jeune âge."
 
   [[categories.list]]
     title = "Remboursement des soins"
@@ -1224,7 +1198,7 @@ candidat = "Marine Le Pen"
     Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
     ref = "La santé, notre bien commun - 2017"
     link = "https://avenirencommun.fr/le-livret-sante/"
-    tldr = "Rembourser à 100% par la Sécurité Sociale intégrale les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+    tldr = "Rembourser à 100% par la <strong>Sécurité Sociale intégrale</strong> les soins de santé prescrits, appareils dentaires, optiques et auditifs."
 
   [[categories.list]]
     title = "Dépassement d'honoraires / Tiers payant"
@@ -1238,22 +1212,22 @@ candidat = "Marine Le Pen"
     • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s67m3"
-    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+    tldr = "<strong>Abolir</strong> les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
 
   [[categories.list]]
     title = "Médicaments"
 
     [categories.list.them]
-    quote = "Réaliser des économies ...en baissant le prix des médicaments coûteux (via l’augmentation de la proportion de génériques), en développant la vente à l’unité des médicaments remboursables (en imposant aux laboratoires l’adaptation de leurs chaînes de production)."
+    quote = "Réaliser des économies [...] en baissant le prix des médicaments coûteux (via l’augmentation de la proportion de génériques), en développant la vente à l’unité des médicaments remboursables (en imposant aux laboratoires l’adaptation de leurs chaînes de production)."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Réaliser des économies en baissant le prix des médicaments coûteux et en développant la vente à l'unité des médicaments."
+    tldr = "Réaliser des économies en <strong>baissant le prix</strong> des médicaments coûteux et en développant la <strong>vente à l'unité</strong> des médicaments."
 
     [categories.list.us]
     quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s67"
-    tldr = "Faciliter l'accès aux traitements par la création d'un pôle public du médicament."
+    tldr = "Faciliter l'accès aux traitements par la création d'un <strong>pôle public du médicament</strong>."
 
   [[categories.list]]
     title = "Contraception, IVG, Grossesse, Accouchement"
@@ -1269,7 +1243,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
     link = "https://avenirencommun.fr/livret-de-legalite/"
-    tldr = "Accès à la contraception garanti et gratuit. Droit à l'IVG garanti dans les faits et ajouté à la Constitution. Prise en charge digne de la grossesse garantie."
+    tldr = "Accès à la <strong>contraception</strong> garanti et gratuit. Droit à l'<strong>IVG</strong> garanti dans les faits et ajouté à la <strong>Constitution</strong>. Prise en charge digne de la <strong>grossesse</strong> garantie."
 
     [[categories.list]]
       title = "Procréation Médicalement Assistée"
@@ -1278,13 +1252,13 @@ candidat = "Marine Le Pen"
       quote = "Réserver la PMA comme réponse médicale aux problèmes de stérilité."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Limitation de la PMA aux problèmes de stérilité."
+      tldr = "Limitation de la PMA aux <strong>problèmes de stérilité</strong>."
 
       [categories.list.us]
       quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s5"
-      tldr = "Reconnaître le droit à la Procréation Médicalement Assistée pour toutes les femmes."
+      tldr = "Reconnaître le droit à la Procréation Médicalement Assistée <strong>pour toutes les femmes</strong>."
 
     [[categories.list]]
       title = "Gestation Pour Autrui"
@@ -1293,13 +1267,13 @@ candidat = "Marine Le Pen"
       quote = "Maintenir l’interdiction de la GPA."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Interdiction de la GPA"
+      tldr = "<strong>Interdiction</strong> de la GPA."
 
       [categories.list.us]
       quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s5m3"
-      tldr = "Refuser la Gestation Pour Autrui mais faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+      tldr = "<strong>Refuser</strong> la Gestation Pour Autrui mais faire prévaloir <strong>l'intérêt supérieur de l'enfant</strong> en toutes circonstances."
 
   [[categories.list]]
     title = "Petite enfance"
@@ -1308,28 +1282,28 @@ candidat = "Marine Le Pen"
     quote = "Garantir la liberté des familles dans le choix des modes d’accueil de la petite enfance. Les formules de garde souples seront privilégiées et les maisons d’assistantes maternelles seront développées ainsi que les micro-crèches."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Liberté de choix sur le mode d'accueil de la petite enfance."
+    tldr = "<strong>Liberté de choix</strong> sur le mode d'accueil de la petite enfance."
 
     [categories.list.us]
     quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s72m2"
-    tldr = "Ouvrir 500 000 places en crèche et modes de garde adaptés."
+    tldr = "Ouvrir <strong>500 000 places</strong> en crèche et modes de garde adaptés."
 
   [[categories.list]]
       title = "Allocations familiales"
 
       [categories.list.them]
-      quote = "Mettre en œuvre une vraie politique nataliste réservée aux familles <b>françaises</b>, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie. Rétablir la libre répartition du congé parental entre les deux parents."
+      quote = "Mettre en œuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie. Rétablir la libre répartition du congé parental entre les deux parents."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Abroger la mise sous condition de ressource des allocations familiales et les réserver aux familles francaises."
+      tldr = "Politique nataliste réservée aux familles <strong>françaises</strong>."
 
       [categories.list.us]
       quote = "Verser une allocation familiale dès le premier enfant."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s72m1"
-      tldr = "Verser une allocation familiale dès le premier enfant."
+      tldr = "Verser une allocation familiale <strong>dès le premier enfant</strong>."
 
   [[categories.list]]
       title = "Inégalités homme-femme travail"
@@ -1338,7 +1312,7 @@ candidat = "Marine Le Pen"
       quote = "Mettre  en  place  un  plan  national  pour  l’égalité  salariale  femme/homme et lutter contre la précarité professionnelle et sociale."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Plan pour l'égalité salariale."
+      tldr = "<strong>Plan</strong> pour l'égalité salariale."
 
       [categories.list.us]
       quote = "
@@ -1352,7 +1326,7 @@ candidat = "Marine Le Pen"
       "
       ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
       link = "https://avenirencommun.fr/livret-de-legalite/"
-      tldr = "Obligation d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augments les sanctions financières et pénales. Favoriser les congés parentaux de durée identique entre les parents."
+      tldr = "<strong>Obligation</strong> d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augmenter les <strong>sanctions financières et pénales</strong>. Favoriser les <strong>congés parentaux</strong> de durée identique entre les parents."
 
   [[categories.list]]
     title = "Violences faites aux femmes"
@@ -1375,7 +1349,7 @@ candidat = "Marine Le Pen"
     </p>"
     ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
     link = "https://avenirencommun.fr/livret-de-legalite/"
-    tldr = "Renforcer l'hébergement d'urgence. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le principe de prescription pour les crimes à caractère sexuel. Lutte contre les violences sexistes et sexuelles au travail et liées à la prostitution."
+    tldr = "Renforcer l'<strong>hébergement d'urgence</strong>. Statut de réfugiée spécifique aux <strong>victimes de violences</strong> sexistes, sexuelles ou lesbophobes. Abolir le <strong>principe de prescription</strong> pour les crimes à caractère sexuel. Lutte contre les <strong>violences sexistes et sexuelles</strong> au travail et liées à la prostitution."
 
   [[categories.list]]
     title = "Changement d'état civil"
@@ -1386,7 +1360,7 @@ candidat = "Marine Le Pen"
     quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s5"
-    tldr = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil."
+    tldr = "<strong>Autoriser</strong> le changement d'état civil <strong>libre et gratuit</strong> devant un officier d'état civil."
 
   [[categories.list]]
       title = "Zéro obstacle"
@@ -1397,7 +1371,7 @@ candidat = "Marine Le Pen"
       quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s68"
-      tldr = "Tolérance zéro contre les entraves, fermeture des bâtiments privés ne respectant pas la loi."
+      tldr = "<strong>Tolérance zéro</strong> contre les entraves, <strong>fermeture des bâtiments</strong> privés ne respectant pas la loi."
 
   [[categories.list]]
       title = "Allocation Adulte Handicapé"
@@ -1406,13 +1380,13 @@ candidat = "Marine Le Pen"
       quote = "Revaloriser l’Allocation aux Adultes Handicapés (AAH)"
       ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-      tldr = "Revaloriser l’Allocation aux Adultes Handicapés (AAH)."
+      tldr = "<strong>Revaloriser</strong> l’Allocation aux Adultes Handicapés (AAH)."
 
       [categories.list.us]
       quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s68"
-      tldr = "Augmenter l'allocation aux adultes handicapés au niveau du SMIC."
+      tldr = "<strong>Augmenter</strong> l'allocation aux adultes handicapés <strong>au niveau du SMIC</strong>."
 
   [[categories.list]]
       title = "Dépendance / perte d'autonomie"
@@ -1421,7 +1395,7 @@ candidat = "Marine Le Pen"
       quote = "Créer un cinquième risque de Sécurité sociale consacré à la dépendance afin de permettre à chaque Français de se soigner et de vivre dans la dignité."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Créer un cinquième risque de Sécurité sociale consacré à la dépendance"
+      tldr = "Créer un <strong>cinquième risque</strong> de Sécurité sociale consacré à la dépendance."
 
       [categories.list.us]
       quote = "
@@ -1432,7 +1406,7 @@ candidat = "Marine Le Pen"
       <p>Refondre les grilles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie.</p>"
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s71"
-      tldr = "Faire face collectivement au vieillissement de la population et à la perte d'autonomie."
+      tldr = "<strong>Augmenter de 50 %</strong> le montant de l'allocation personnalisée d'autonomie. Développer un <strong>réseau public</strong> de maisons de retraite. Recruter en nombre suffisant le personnel nécessaire, soit <strong>au moins 100 000 personnes</strong>."
 
   [[categories.list]]
       title = "Revalorisation des petites retraites"
@@ -1441,13 +1415,13 @@ candidat = "Marine Le Pen"
       quote = "Revaloriser le minimum vieillesse (ASPA) partout en France, y compris Outre-mer, et le conditionner à la nationalité française ou à vingt ans de résidence en France, ce qui permettra également d’augmenter les très petites retraites."
       ref = "Marine Présidente - 02/2017"
       link = "https://www.marine2017.fr/programme/"
-      tldr = "Revaloriser le minimum vieillesse partout en France, y compris Outre-mer conditionné à la nationalité française."
+      tldr = "<strong>Revaloriser</strong> le minimum vieillesse partout en France, y compris Outre-mer conditionné à la <strong>nationalité française</strong>."
 
       [categories.list.us]
       quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s31"
-      tldr = "Revaloriser les pensions de retraite au niveau du smic et augmenter le minimum vieillesse."
+      tldr = "Revaloriser les pensions de retraite <strong>au niveau du smic</strong> et augmenter le <strong>minimum vieillesse</strong>."
 
   [[categories.list]]
     title = "Droit de mourir dans la dignité"
@@ -1466,7 +1440,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
     link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
-    tldr = "Constitutionnaliser le droit de mourir dans la dignité."
+    tldr = "<strong>Constitutionnaliser</strong> le droit de mourir dans la <strong>dignité</strong>."
 
   [[categories.list]]
     title = "Prestations sociales"
@@ -1475,7 +1449,7 @@ candidat = "Marine Le Pen"
     quote = "Garantir la Sécurité sociale pour tous les Français ainsi que le remboursement de l’ensemble des risques pris en charge par l’Assurance maladie. Pérenniser son financement en simplifiant l’administration du système, en luttant contre la gabegie financière et en investissant dans les nouveaux outils numériques pour permettre des économies durables."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Réserver la sécurité sociale et l'ensemble des risques pris en charge par l'assurance maladie aux français."
+    tldr = "<strong>Réserver</strong> la sécurité sociale et l'ensemble des risques pris en charge par l'assurance maladie aux <strong>français</strong>."
 
     [categories.list.us]
     quote = "
@@ -1485,14 +1459,7 @@ candidat = "Marine Le Pen"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s26"
-    tldr = "Construire un nouveau statut protecteur pour les travailleurs : la Sécurité sociale intégrale."
-
-  [[categories.list]]
-    title = "Fraude aux prestations sociales"
-
-    [categories.list.them]
-
-    [categories.list.us]
+    tldr = "Construire un <strong>nouveau statut protecteur</strong> pour les travailleurs : la <strong>Sécurité sociale intégrale</strong>."
 
   [[categories.list]]
       title = "Chômage"
@@ -1503,17 +1470,16 @@ candidat = "Marine Le Pen"
       quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/s26m3"
-      tldr = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort."
+      tldr = "Établir le « <strong>droit opposable à l'emploi</strong> » en faisant de l'État l'employeur en dernier ressort."
 
   [[categories.list]]
     title = "Lutte contre la précarité"
 
-    # FIXME: ci-dessous le contenu de la catégorie "Pauvreté" (me semble plus cohérent plus la catégorie "Lutte contre la précarité")
     [categories.list.them]
     quote = "Instaurer une Prime de Pouvoir d’Achat (PPA) à destination des bas revenus et des petites retraites (pour les revenus jusqu’à 1 500 euros par mois), financée par une Contribution Sociale sur les Importations de 3 %"
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Instaurer une Prime de Pouvoir d’Achat (PPA) à destination des bas revenus et des petites retraites"
+    tldr = "Instaurer une <strong>Prime de Pouvoir d’Achat</strong> (PPA) à destination des bas revenus et des petites retraites."
 
     [categories.list.us]
     quote = "
@@ -1523,16 +1489,16 @@ candidat = "Marine Le Pen"
     <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base.</p>"
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Garantie dignité de 1 000 €/mois pour une personne seule sous le seuil de pauvreté. Restructurer les emprunts des ménages surendettés."
+    tldr = "Garantie dignité de <strong>1 000 euros</strong> par mois pour une personne seule sous le seuil de pauvreté. Restructurer les emprunts des <strong>ménages surendettés</strong>."
 
   [[categories.list]]
     title = "Lutte contre l'exclusion"
 
     [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "Lutter contre la précarité professionnelle et sociale."
+    ref = "Marine Présidente - 02/2017"
+    link = "https://www.marine2017.fr/programme/"
+    tldr = "<strong>Lutter</strong> contre la précarité professionnelle et sociale."
 
     [categories.list.us]
     quote = "
@@ -1541,7 +1507,7 @@ candidat = "Marine Le Pen"
     <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Revaloriser les structures d’accueil de jour et d’hébergement. Apporter un accompagnement global des personnes par un référent unique."
+    tldr = "Revaloriser les <strong>structures d’accueil</strong> de jour et d’hébergement. Apporter un <strong>accompagnement global</strong> des personnes par un <strong>référent unique</strong>."
 
   [[categories.list]]
     title = "Aides aux jeunes adultes"
@@ -1552,7 +1518,7 @@ candidat = "Marine Le Pen"
     quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s27m1"
-    tldr = "Allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+    tldr = "<strong>Allocation d'autonomie</strong> pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
 
   [[categories.list]]
     title = "Logement social"
@@ -1561,13 +1527,13 @@ candidat = "Marine Le Pen"
     quote = "Réserver prioritairement aux Français l’attribution du logement social, sans effet rétroactif, et le mobiliser vers les publics qui en ont le plus besoin. Appliquer réellement l’obligation de jouissance paisible sous peine de déchéance du bail."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Réserver prioritairement aux Français l’attribution du logement social."
+    tldr = "<strong>Réserver</strong> prioritairement aux <strong>Français</strong> l’attribution du logement social."
 
     [categories.list.us]
     quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s9m3"
-    tldr = "Constitutionnaliser et rendre effectifs le droit au logement."
+    tldr = "<strong>Constitutionnaliser</strong> et rendre effectifs le <strong>droit au logement</strong>."
 
   [[categories.list]]
     title = "Précarité énergétique"
@@ -1576,13 +1542,13 @@ candidat = "Marine Le Pen"
     quote = "Afin de lutter contre la précarité énergétique et agir directement sur le pouvoir d’achat des Français, faire de l’isolation de l’habitat une priorité budgétaire du quinquennat, parce que l’énergie la moins chère est celle que l’on ne consomme pas."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Faire de l’isolation de l’habitat une priorité budgétaire pour lutter contre la précarité énergétique."
+    tldr = "Faire de l’<strong>isolation de l’habitat</strong> une priorité budgétaire pour lutter contre la précarité énergétique."
 
     [categories.list.us]
     quote = "Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal."
     ref = "Éradiquer la pauvreté - 2017"
     link = "https://avenirencommun.fr/le-livret-pauvrete"
-    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne."
+    tldr = "<strong>Gratuité</strong> de l'accès et des quantités d'eau, électricité et gaz indispensables à une <strong>vie digne</strong>."
 
   [[categories.list]]
     title = "Hébergement d'urgence"
@@ -1593,7 +1559,7 @@ candidat = "Marine Le Pen"
     quote = "Interdire les expulsions locatives sans relogement"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s34m1"
-    tldr = "Interdire les expulsions locatives sans relogement."
+    tldr = "Interdire les <strong>expulsions locatives</strong> sans relogement."
 
   [[categories.list]]
     title = "Position sur l'immigration"
@@ -1602,13 +1568,13 @@ candidat = "Marine Le Pen"
     quote = "Réduire l’immigration légale à un solde annuel de 10 000. Mettre fin à l’automaticité du regroupement et du rapprochement familial ainsi qu’à l’acquisition automatique de la nationalité française par mariage. Supprimer les pompes aspirantes de l’immigration."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Réduire l’immigration légale à un solde annuel de 10 000."
+    tldr = "Réduire l’immigration légale à un <strong>solde annuel de 10 000</strong>."
 
     [categories.list.us]
     quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Respecter la dignité humaine des migrants."
+    tldr = "Respecter la <strong>dignité humaine</strong> des migrants."
 
   [[categories.list]]
     title = "Demande d'asile"
@@ -1617,7 +1583,7 @@ candidat = "Marine Le Pen"
     quote = "Revenir à l’esprit initial du droit d’asile qui ne pourra par ailleurs être accordé qu’à la suite de demandes déposées dans les ambassades et consulats français dans les pays d’origine ou les pays limitrophes."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Revenir à l’esprit initial du droit d’asile."
+    tldr = "N'accorder le droit d'asile qu'à la suite de <strong>demandes déposées</strong> dans les ambassades et consulats français <strong>dans les pays d’origine</strong>."
 
     [categories.list.us]
     quote = "
@@ -1626,7 +1592,7 @@ candidat = "Marine Le Pen"
     "
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Assouplir les politiques de visas « au titre de l’asile ». Autoriser les demandeurs d'asile à travailler."
+    tldr = "Assouplir les politiques de <strong>visas</strong> « au titre de l’asile ». Autoriser les demandeurs d'asile à <strong>travailler</strong>."
 
   [[categories.list]]
     title = "Rétention administrative"
@@ -1637,7 +1603,7 @@ candidat = "Marine Le Pen"
     quote = "Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "En finir avec le placement en centre de rétention, en priorité pour les enfants."
+    tldr = "<strong>En finir</strong> avec le placement en <strong>centre de rétention</strong>, en priorité <strong>pour les enfants</strong>."
 
   [[categories.list]]
     title = "Naturalisation"
@@ -1646,13 +1612,13 @@ candidat = "Marine Le Pen"
     quote = "Mettre fin à l’automaticité du regroupement et du rapprochement familial ainsi qu’à l’acquisition automatique de la nationalité française par mariage"
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Mettre fin à l’acquisition automatique de la nationalité française par mariage."
+    tldr = "<strong>Mettre fin</strong> à l’acquisition automatique de la nationalité française par <strong>mariage</strong>."
 
     [categories.list.us]
     quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives."
     ref = "Respecter les migrants, régler les causes des migrations - 2017"
     link = "https://avenirencommun.fr/le-livret-migrations"
-    tldr = "Faciliter l'accès à la nationalité française."
+    tldr = "<strong>Faciliter l'accès</strong> à la nationalité française."
 
   [[categories.list]]
     title = "Droit du sol"
@@ -1661,13 +1627,13 @@ candidat = "Marine Le Pen"
     quote = "Supprimer le droit du sol : l’acquisition de la nationalité française sera possible uniquement par la filiation ou la naturalisation dont les conditions seront par ailleurs plus exigeantes."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Supprimer le droit du sol"
+    tldr = "<strong>Supprimer</strong> le droit du sol."
 
     [categories.list.us]
     quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s6m1"
-    tldr = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+    tldr = "<strong>Défendre</strong> le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
 
   [[categories.list]]
     title = "Regroupement familial"
@@ -1676,7 +1642,7 @@ candidat = "Marine Le Pen"
     quote = "Mettre fin à l’automaticité du regroupement et du rapprochement familial"
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Mettre fin à l’automaticité du regroupement et du rapprochement familial."
+    tldr = "<strong>Mettre fin</strong> à l’automaticité du regroupement et du rapprochement familial."
 
     [categories.list.us]
 
@@ -1687,7 +1653,7 @@ candidat = "Marine Le Pen"
     quote = "Réaliser des économies en supprimant l’Aide Médicale d’État réservée aux clandestins"
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Supprimer l'Aide Médicale d’État (AME)"
+    tldr = "<strong>Supprimer</strong> l'Aide Médicale d’État (AME)."
 
     [categories.list.us]
 
@@ -1698,13 +1664,13 @@ candidat = "Marine Le Pen"
     quote = "Fermer toutes les mosquées extrémistes recensées par le ministère de l’Intérieur et interdire le financement étranger des lieux de culte et de leur personnel."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Fermer les mosquées jugées extrémistes."
+    tldr = "<strong>Fermer les mosquées</strong> jugées extrémistes."
 
     [categories.list.us]
     quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s12"
-    tldr = "Mener une politique antiterroriste rationnelle."
+    tldr = "Mener une politique <strong>antiterroriste rationnelle</strong> et supprimer le <strong>terreau des communautarismes</strong>."
 
   [[categories.list]]
     title = "Financement des lieux de cultes"
@@ -1713,16 +1679,16 @@ candidat = "Marine Le Pen"
     quote = "Interdire tout financement public (État, collectivités territoriales...) des lieux de culte et des activités cultuelles. (culte musulman)."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Stopper le financement des lieux de cultes et activité culturelles musulmanes."
+    tldr = "Stopper le financement des lieux de cultes et activité culturelles <strong>musulmanes</strong>."
 
     [categories.list.us]
     quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Refuser les financement publics pour la construction des édifices religieux."
+    tldr = "<strong>Refuser les financement publics</strong> pour la construction des édifices religieux."
 
   [[categories.list]]
-    title = "Aumônerie"
+    title = "Lien église - état"
 
     [categories.list.them]
 
@@ -1733,7 +1699,7 @@ candidat = "Marine Le Pen"
     <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République.</p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Abroger le concordat. Interdire la présence de ministres et préfets aux cérémonies religieuses."
+    tldr = "<strong>Abroger</strong> le concordat. <strong>Interdire</strong> la présence de ministres et préfets aux cérémonies religieuses."
 
   [[categories.list]]
     title = "Communautarisme"
@@ -1742,13 +1708,13 @@ candidat = "Marine Le Pen"
     quote = "Promouvoir la laïcité et lutter contre le communautarisme. Inscrire dans la Constitution le principe : « La République ne reconnaît aucune communauté. » Rétablir la laïcité partout, l’étendre à l’ensemble de l’espace public et l’inscrire dans le Code du travail."
     ref = "Marine Présidente - 02/2017"
     link = "https://www.marine2017.fr/programme/"
-    tldr = "Lutter contre le communautarisme."
+    tldr = "<strong>Lutter</strong> contre le communautarisme."
 
     [categories.list.us]
     quote = "Combattre tous les communautarismes et l'usage politique des religions"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s7"
-    tldr = "Combattre tous les communautarismes et l'usage politique des religions."
+    tldr = "Combattre tous les <strong>communautarismes</strong> et l'<strong>usage politique</strong> des religions."
 
 [[categories]]
   id = "territory"
