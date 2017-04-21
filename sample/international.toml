@@ -1,9 +1,9 @@
 [[categories]]
   id = "international"
-  title = "Europe et international"
+  title = "Europe et International"
 
   [[categories.list]]
-    title = "Souveraineté"
+    title = "Démocratie dans l'UE"
 
     [categories.list.them]
     quote = ""
@@ -12,13 +12,13 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Stopper l'érosion du réseau diplomatique français et sa mise sous tutelle par l'UE"
+    quote = "Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la renégociation."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/54/instaurer-l-independance-de-la-france-dans-le-monde"
-    tldr = "Retrouver notre souveraineté diplomatique."
+    link = "https://laec.fr/s51"
+    tldr = "Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la renégociation."
 
   [[categories.list]]
-    title = "Francophonie"
+    title = "Harmonisation sociale dans l'UE"
 
     [categories.list.them]
     quote = ""
@@ -27,49 +27,10 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "<p>
-    • Réorganiser les institutions de la francophonie en agissant pour son recentrage sur la défense, le rayonnement de la langue et son usage commun<br />
-    • Créer une académie et un Erasmus de la francophonie<br />
-    • Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens<br />
-    • Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires<br />
-    • Élaborer des contenus éducatifs et des diplômes communs entre pays francophones<br />
-    • Développer au moins une revue scientifique internationale digne de ce nom en français<br />
-    • Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne<br />
-    • Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone
-    </p>"
+    quote = "Mettre fin au dumping à l'intérieur de l'UE par une <b>politique volontariste et rapide d'harmonisation sociale</b> et fiscale <b>par le haut dans toute l'UE avec inscription d'une clause de non-régression des droits sociaux</b>."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/64/passer-a-la-francophonie-politique"
-    tldr = "Développer les coopérations entre les pays francophones dans l'éducation et la recherche; créer des institutions visant à développer une culture de la langue commune."
-
-  [[categories.list]]
-    title = "Dignité"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Refuser de rencontrer d'État à État ceux qui obligent nos ministres femmes à porter des accoutrements contraires à la dignité républicaine"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s7m5"
-    tldr = "Refuser de rencontrer d'État à État ceux qui obligent nos ministres femmes à porter des accoutrements contraires à la dignité républicaine."
-
-  [[categories.list]]
-    title = "Démocratie en UE"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    link = "https://laec.fr/section/51/plan-a-proposer-une-refondation-democratique-sociale-et-ecologique-des-traites-europeens-par-la-renegociation"
+    tldr = "Politique volontariste et rapide d'harmonisation fiscale par le haut dans toute l'UE."
 
   [[categories.list]]
     title = "Fiscalité dans l'UE"
@@ -89,7 +50,7 @@
     tldr = "Politique volontariste et rapide d'harmonisation fiscale par le haut dans toute l'UE."
 
   [[categories.list]]
-    title = "Harmonisation sociale dans l'UE"
+    title = "Brexit"
 
     [categories.list.them]
     quote = ""
@@ -98,10 +59,10 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Mettre fin au dumping à l'intérieur de l'UE par une <b>politique volontariste et rapide d'harmonisation sociale</b> et fiscale <b>par le haut dans toute l'UE avec inscription d'une clause de non-régression des droits sociaux</b>."
+    quote = "Organiser le processus de sortie du Royaume-Uni de l'Union européenne sans esprit de vengeance ou de punition."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/section/51/plan-a-proposer-une-refondation-democratique-sociale-et-ecologique-des-traites-europeens-par-la-renegociation"
-    tldr = "Politique volontariste et rapide d'harmonisation fiscale par le haut dans toute l'UE."
+    link = "https://laec.fr/s50"
+    tldr = "Organiser le processus de sortie du Royaume-Uni de l'Union européenne sans esprit de vengeance ou de punition."
 
   [[categories.list]]
     title = "Banque Centrale"
@@ -119,6 +80,21 @@
     tldr = "Agrandir les domaines de compétence de la banque Centrale pour agir plus efficacement pour le redressement économique de la zone euro."
 
   [[categories.list]]
+    title = "Euro"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Dévaluer l'euro pour revenir à la parité initiale avec le dollar"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s51m2"
+    tldr = "Revenir à la parité initiale Euro / Dollar."
+
+  [[categories.list]]
     title = "Dette"
 
     [categories.list.them]
@@ -133,6 +109,36 @@
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s62m6 | https://laec.fr/s51m4" # FIXME: quel lien ?
     tldr = "Mise en œuvre d'un mécanisme de restructuration des dettes souveraines en Europe et dans le cadre de l'ONU."
+
+  [[categories.list]]
+    title = "CETA / TAFTA / TISA"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refuser les traités de libre-échange : le traité trans-atlantique TAFTA entre l'UE et les États-Unis, CETA avec le Canada et le traité TISA de libéralisation des services"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s49m4"
+    tldr = "Refuser les traités de libre-échange."
+
+  [[categories.list]]
+    title = "Politique agricole"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s51m8"
+    tldr = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne."
 
   [[categories.list]]
     title = "Frontex"
@@ -173,7 +179,7 @@
     tldr = "Sortir de l'impasse de Schengen et de Frontex."
 
   [[categories.list]]
-    title = "CETA / TAFTA / TISA"
+    title = "Souveraineté diplomatique"
 
     [categories.list.them]
     quote = ""
@@ -182,70 +188,10 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "Refuser les traités de libre-échange : le traité trans-atlantique TAFTA entre l'UE et les États-Unis, CETA avec le Canada et le traité TISA de libéralisation des services"
+    quote = "Stopper l'érosion du réseau diplomatique français et sa mise sous tutelle par l'UE."
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s49m4"
-    tldr = "Refuser les traités de libre-échange."
-
-  [[categories.list]]
-    title = "Afrique"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Politique agricole"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s51m8"
-    tldr = "Refonder la politique agricole commune pour garantir l'autosuffisance alimentaire, la relocalisation et l'agriculture écologique et paysanne."
-
-  [[categories.list]]
-    title = "Franc CFA"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Euro"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Dévaluer l'euro pour revenir à la parité initiale avec le dollar"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s51m2"
-    tldr = "Revenir à la parité initiale Euro / Dollar."
+    link = "https://laec.fr/section/54/instaurer-l-independance-de-la-france-dans-le-monde"
+    tldr = "Retrouver notre souveraineté diplomatique."
 
   [[categories.list]]
     title = "OTAN"
@@ -282,38 +228,6 @@
     tldr = "Retirer la France de l’Europe de la défense."
 
   [[categories.list]]
-    title = "Cyber-défense"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Neutralité du NET"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "<p>L’inscription du droit d’accès à Internet dans la Constitution à l’horizon notamment d’une 6e République.</p>
-    <p>Défendre  la  neutralité  du  net  aux  niveaux  national,  européen  et  international,  notamment  en  investissant  dans  des  infrastructures  physiques  détenues  par  le public.<br />
-    • Garantir l'accès à un internet neutre et ouvert depuis les points d'accès public à Internet.</p>"
-    ref = "Pour de nouveaux droits et libertés numériques - 2017"
-    link = "https://avenirencommun.fr/le-livret-numerique/"
-    tldr = "Proposer l'inscription du droit d'accès à Internet dans la constitution de la VIème République. Défendre la neutralité du net aux niveaux national, européen et international."
-
-  [[categories.list]]
     title = "ONU"
 
     [categories.list.them]
@@ -323,17 +237,19 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "<p>Réaffirmer que l'Onu est le seul organe légitime pour la sécurité collective aux yeux de la France<br />
-    • Refuser toute intervention militaire sans mandat de l'Onu<br />
-    • Faire vivre le comité d'état-major de l'Onu pour commander les opérations de maintien de la paix et enclencher un processus de démocratisation de l'organisation</p>
-    <p>Créer une Organisation mondiale de l'environnement dans le cadre de l'Onu</p>
-    <p>Réformer la FAO (Organisation des Nations unies pour l'alimentation et l'agriculture) pour favoriser la souveraineté alimentaire, la régulation des marchés mondiaux et la conversion écologique de l'agriculture</p>"
+    quote = "
+    <p>Réaffirmer que l'Onu est le seul organe légitime pour la sécurité collective aux yeux de la France<br />
+    - Refuser toute intervention militaire sans mandat de l'Onu<br />
+    - Faire vivre le comité d'état-major de l'Onu pour commander les opérations de maintien de la paix et enclencher un processus de démocratisation de l'organisation</p>
+    <p>Créer une Organisation mondiale de l'environnement dans le cadre de l'Onu.</p>
+    <p>Réformer la FAO (Organisation des Nations unies pour l'alimentation et l'agriculture) pour favoriser la souveraineté alimentaire, la régulation des marchés mondiaux et la conversion écologique de l'agriculture.</p>
+    "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s56"
-    tldr = "Renforcer et réinvestir l'Onu."
+    tldr = "Réaffirmer que l'Onu est le seul organe légitime pour la sécurité collective aux yeux de la France."
 
   [[categories.list]]
-    title = "Russie"
+    title = "Afrique"
 
     [categories.list.them]
     quote = ""
@@ -342,25 +258,10 @@
     tldr = ""
 
     [categories.list.us]
-    quote = "L’urgence pour le quinquennat est de revenir sur les altérations subies par la doctrine de dissuasion depuis plusieurs années, via par exemple le soutien accordé au bouclier antimissile de l’Otan dirigé en particulier contre la Russie, qui contredit la conception de la dissuasion, par essence défensive. En lien avec son retrait de l’Otan, la France doit stopper tout soutien au bouclier antimissile. Si la France n’abandonne pas sa dissuasion nucléaire unilatéralement, nous initierons une conférence internationale sur le désarmement nucléaire – initiatives qui n’existent plus depuis l’effondrement de l’URSS – en donnant l’exemple par la suppression de la composante aérienne"
-    ref = "Une France indépendante au service de la paix - 2017"
-    link = "https://avenirencommun.fr/livret-garde-nationale-defense/"
-    tldr = "Initier une conférence internationale sur le désarmement nucléaire."
-
-  [[categories.list]]
-    title = "Etats-Unis"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
+    quote = "En finir avec la Françafrique : respecter l'indépendance des États africains et la souveraineté des peuples en s'interdisant de se mêler des élections et en réprimant les corrupteurs."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m1"
+    tldr = "En finir avec la Françafrique : respecter l'indépendance des États africains et la souveraineté des peuples en s'interdisant de se mêler des élections et en réprimant les corrupteurs."
 
   [[categories.list]]
     title = "Chine"
@@ -372,10 +273,6 @@
     tldr = ""
 
     [categories.list.us]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
 
   [[categories.list]]
     title = "Palestine"
@@ -429,37 +326,3 @@
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/60/construire-la-paix-en-syrie"
     tldr = "Construire une solution politique en Syrie sous l'égide de l'Onu."
-
-  [[categories.list]]
-    title = "Anti-terrorisme" # FIXME: en orange dans le drive ?
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "Refuser la logique du choc des civilisations et de la guerre intérieure, sortir des guerres déstabilisatrices et des alliances hypocrites avec les pétromonarchies du Golfe"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s12m1"
-    tldr = "Refuser la logique du choc des civilisations et de la guerre intérieure, sortir des guerres déstabilisatrices et des alliances hypocrites avec les pétromonarchies du Golfe."
-
-  [[categories.list]]
-    title = "Réfugiés"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-    [categories.list.us]
-    quote = "<p>Assumer notre devoir d'humanité envers les réfugiés arrivant en Europe<br />
-    • Respecter la dignité humaine des migrants, leur droit fondamental à une vie de famille et accompagner les mineurs isolés<br />
-    • En finir avec le placement en centre de rétention d'enfants, même accompagnés de leurs parents<br />
-    • Construire des centres d'accueil aux normes internationales sur le modèle de celui de Grande-Synthe, pour proposer aux migrants des conditions dignes et des centres d'accueil des demandeurs d'asile pour les héberger le temps de l'analyse de leur demande<br />
-    • Réaffirmer et faire vivre le droit d'asile sur le territoire de la République, accueillir les réfugiés qui en relèvent, grâce à une administration adaptée à cette mission</p>"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s59m4"
-    tldr = "Assumer notre devoir d'humanité envers les réfugiés arrivant en Europe."

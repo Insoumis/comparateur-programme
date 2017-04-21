@@ -337,7 +337,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisations patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -503,7 +503,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Sécurité : retour à la raison - 2017"
     link = "https://avenirencommun.fr/le-livret-securite/"
-    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démenteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
+    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démanteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
 
   [[categories.list]]
     title = "Effectifs de la police"
@@ -643,7 +643,7 @@ candidat = "Emmanuel Macron"
   title = "Éducation et Recherche"
 
   [[categories.list]]
-    title = "Rythme scolaire"
+    title = "Rythmes scolaires"
 
     [categories.list.them]
 
@@ -889,7 +889,7 @@ candidat = "Emmanuel Macron"
     [categories.list.them]
 
   [[categories.list]]
-    title = "Énergies carbonnées"
+    title = "Énergies carbonées"
 
     [categories.list.us]
     quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
@@ -942,7 +942,7 @@ candidat = "Emmanuel Macron"
     tldr = "Fermeture <strong>différée</strong> de la centrale nucléaire de <strong>Fessenheim</strong> jusqu'à l'ouverture de l'<strong>EPR</strong> de Flamanville. <strong>Maintien à 50%</strong> de l'energie nucléaire."
 
   [[categories.list]]
-    title = "Enfouissement des déchets nucléaire"
+    title = "Enfouissement des déchets nucléaires"
 
     [categories.list.us]
     quote = "
@@ -1052,7 +1052,7 @@ candidat = "Emmanuel Macron"
     quote = "Nous renforcerons la transparence des transactions agricoles en soumettant toutes les sociétés foncières au contrôle des SAFER."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme"
-    tldr = "Renforcer la <strong>transparence des transactions</strong> agricole."
+    tldr = "Renforcer la <strong>transparence des transactions</strong> agricoles."
 
   [[categories.list]]
     title = "Agriculture biologique, OGM et pesticides"
@@ -1074,7 +1074,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique"
-    tldr = "<strong>Interdire</strong> les perturbateurs endrocriniens <strong>s'il existe des solutions reconnues comme moins toxiques</strong>. Proposer au moins <strong>50%</strong> de produits <strong>biologiques</strong>, <strong>labels de qualité</strong>, ou <strong>local</strong> dans la restauration collection d'ici à <strong>2022</strong>."
+    tldr = "<strong>Interdire</strong> les perturbateurs endrocriniens <strong>s'il existe des solutions reconnues comme moins toxiques</strong>. Proposer au moins <strong>50%</strong> de produits <strong>biologiques</strong>, <strong>labels de qualité</strong>, ou <strong>local</strong> dans la restauration collective d'ici à <strong>2022</strong>."
 
   [[categories.list]]
     title = "Élevages"
@@ -1093,7 +1093,7 @@ candidat = "Emmanuel Macron"
     quote = "Projets de modernisation des exploitations ayant un impact positif sur l’environnement et le bien-être animal."
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/agriculture"
-    tldr = "Projets de <strong>modernisation</strong> des exploitations ayant un impact positif sur l’environnemen<strong>bien-être animal</strong> bien-être animal."
+    tldr = "Projets de <strong>modernisation</strong> des exploitations ayant un impact positif sur l’environnement et le <strong>bien-être animal</strong>."
 
   [[categories.list]]
     title = "Politique agricole commune (PAC)"
@@ -1175,8 +1175,516 @@ candidat = "Emmanuel Macron"
 
 [[categories]]
   id = "society"
-  title = "Société"
-  teasing = true
+  title = "Santé et Société"
+
+  [[categories.list]]
+    title = "Remboursement des soins"
+
+    [categories.list.them]
+    quote = "Nous mettrons en place la prise en charge à 100% des lunettes et des prothèses auditives et dentaires d’ici 2022, en lien avec les mutuelles et l’ensemble des professionnels de santé."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "<strong>Négocier avec les mutuelles</strong> la prise en charge à 100% des lunettes, des prothèses auditives et dentaires d’ici <strong>2022</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Rembourser à 100% les soins de santé prescrits, dont les soins et appareils dentaires, optiques et auditifs, faire baisser les tarifs des lunettes et appareils auditifs</p>
+    <p>Le passage au 100 % Sécu, c’est la garantie d’une prise en charge intégrale par l’Assurance maladie des dépenses de santé. Une telle mesure est :<br />
+    • Solidaire : l’Assurance  maladie propose le même niveau de couverture pour tous et est financée par des cotisations sociales et la CSG, proportionnelles aux salaires.<br />
+    • Efficace : cette mesure permettra de supprimer les 7 Mds € de frais de gestion qui ne contribuent en rien à la santé de la population. C’est aussi une mesure qui simplifiera la vie des usagers.<br />
+    • Simple à financer : la transformation des primes versées aux complémentaires en cotisations sociales, les économies réalisées sur les frais de gestion, la suppression des dépassements d’honoraires et la régulation de prix aujourd’hui excessifs (médicaments, optique, dentaire),   permettent de financer aisément cette mesure.</p>
+    <p>Le 100 % Sécu ne se traduira par aucun licenciement :
+    Les salariés des complémentaires dont les activités sont concernées par le « 100 % Sécu » se verront proposer une intégration au sein de l’Assurance maladie.<br />
+    Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
+    ref = "La santé, notre bien commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-sante/"
+    tldr = "<strong>Rembourser à 100%</strong> par la <strong>Sécurité Sociale intégrale</strong> les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+
+  [[categories.list]]
+    title = "Dépassement d'honoraires / Tiers payant"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Le développement massif de centres de santé locaux et pluri-professionnels.<br />
+    Cela encouragera l’exercice des soins primaires en équipes (médecins, infirmières, kinésithérapeutes, diététiciens, médiateurs de santé, etc.) entretenant des liens étroits avec les hôpitaux publics. Les professionnels y seront salariés et ces centres pourront être organisés sous la forme juridique de sociétés coopératives d’intérêt collectif (SCIC) ou d’établissements publics, et gérés, selon les lieux, par la Sécurité sociale, les établissements hospitaliers, les mutuelles du livre III du Code de la Mutualité ou les collectivités territoriales.<br />
+    La prévention et la prise en charge des malades chroniques y seront des priorités. Ces centres seront aussi des lieux de formation privilégiés pour les étudiants se destinant à l’exercice des soins primaires.<br />
+    • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m3"
+    tldr = "<strong>Abolir</strong> les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+
+  [[categories.list]]
+    title = "Médicaments"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67"
+    tldr = "Faciliter l'accès aux traitements par la création d'un <strong>pôle public du médicament</strong>."
+
+  [[categories.list]]
+    title = "Contraception, IVG, Grossesse, Accouchement"
+
+    [categories.list.them]
+    quote = "Contre toutes les attaques qu’il subit, nous défendrons le droit à l’interruption volontaire de grossesse (IVG)."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
+    tldr = "<strong>Défendre</strong> le droit à l'interruption volontaire de grossesse (IVG)"
+
+    [categories.list.us]
+    quote = "
+    <p>Permettre un accès à la contraception et à l’avortement garanti dans les faits (remboursement  intégral  de  tous  les  moyens  de  contraception). Remise des pilules d’urgence par les infirmières des établissements scolaires.</p>
+    <p>Constitutionnaliser  le  droit  à  l’intégrité  physique,  incluant  l’interdiction  de  marchandisation du corps humain et la garantie du droit à la contraception et à l’interruption volontaire de grossesse.</p>
+    <p>Ouverture  d’un centre IVG dans chaque hôpital.</p>
+    <p>Garantir une prise en charge digne pendant la grossesse et l’accouchement.</p>
+    "
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Accès à la <strong>contraception</strong> garanti et gratuit. Droit à l'<strong>IVG</strong> garanti dans les faits et ajouté à la <strong>Constitution</strong>. Prise en charge digne de la <strong>grossesse</strong> garantie."
+
+    [[categories.list]]
+      title = "Procréation Médicalement Assistée"
+
+      [categories.list.them]
+      quote = "<p>Nous sommes favorables à l’ouverture de la procréation médicalement assistée (PMA) pour les femmes seules et les couples de femmes.<br />
+      Il n’y a pas de justification juridique pour que la PMA ne leur soit pas ouverte. Pour avancer de façon pédagogique, nous souhaitons attendre l’avis du Comité consultatif national d’éthique (CCNE), afin d’assurer dans la société un vrai débat, pacifié et argumenté.</p>"
+      ref = "Emmanuel Macron président - 02/03/2017"
+      link = "https://en-marche.fr/emmanuel-macron/le-programme/familles-et-societe"
+      tldr = "<strong>Favorable</strong> à l'ouverture de la procréation médicalement assistée (PMA) pour les femmes seules et les couples de femmes."
+
+      [categories.list.us]
+      quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5"
+      tldr = "<strong>Reconnaître</strong> le droit à la Procréation Médicalement Assistée pour <strong>toutes les femmes</strong>."
+
+    [[categories.list]]
+      title = "Gestation Pour Autrui"
+
+      [categories.list.them]
+      quote = "<p>Nous ne sommes pas favorables à autoriser la gestation pour autrui (GPA) en France.<br />
+      Ce sujet soulève un débat sur la capacité à disposer de son corps et à le marchandiser.<br />
+      Nous assurerons que les enfants issus de la GPA nés à l’étranger voient leur filiation reconnue à l’état-civil français, selon la jurisprudence de la Cour Européenne des Droits de l’Homme.</p>"
+      ref = "Emmanuel Macron président - 02/03/2017"
+      link = "https://en-marche.fr/emmanuel-macron/le-programme/familles-et-societe"
+      tldr = "<strong>Non favorable</strong> à la GPA. Reconnaissance de la filiation pour les enfants issus de GPA <strong>nés à l'étranger</strong>."
+
+      [categories.list.us]
+      quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5m3"
+      tldr = "<strong>Refuser</strong> la Gestation Pour Autrui mais <strong>faire prévaloir</strong> l'intérêt supérieur de l'enfant en toutes circonstances."
+
+  [[categories.list]]
+    title = "Petite enfance"
+
+    [categories.list.them]
+    quote = "Nous obligerons les communes à publier en ligne leurs critères d’attribution des places de crèche, puis à mettre en place systématiquement un système de cotation des demandes. Nous soutiendrons l’effort massif de construction de places de crèche. Pour que les femmes soient à égalité face au congé maternité, nous créerons un congé de maternité unique garanti pour toutes les femmes quel que soit leur statut (salariée, entrepreneuse, intermittente, non-salariée, statut multiple, etc.) aligné sur le régime le plus avantageux."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
+    tldr = "Création de <strong>places de crèches</strong>, création d'un congé maternité <strong>unique</strong> pour toutes les femmes quel que soit leur statut."
+
+    [categories.list.us]
+    quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m2"
+    tldr = "Ouvrir <strong>500 000 places en crèche</strong> et modes de garde adaptés."
+
+  [[categories.list]]
+    title = "Allocations familiales"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Verser une allocation familiale dès le premier enfant."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m1"
+    tldr = "Verser une allocation familiale <strong>dès le premier enfant</strong>."
+
+  [[categories.list]]
+    title = "Inégalités homme-femme travail"
+    [categories.list.them]
+    quote = "Nous publierons les noms des entreprises qui ne respectent pas l’égalité salariale entre les femmes et les hommes.Nous testerons au hasard, et massivement, les entreprises pour vérifier qu’elles respectent bien la loi en la matière."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Favoriser les <strong>opérations de contrôle</strong> aléatoire des politiques salariales dans les grandes entreprises."
+
+    [categories.list.us]
+    quote = "
+    <p>Partout dans le monde, les femmes subissent l’oppression et la domination masculines. En France, l’écart salarial moyen est de 26 % et la retraite des femmes est inférieure de 40 % à celle des hommes. La domination patriarcale s’exprime d’abord dans ses conditions sociales et économiques. Ainsi, nous lutterons contre les diverses formes de précarité et améliorerons les conditions de vie de toutes et tous, et donc des femmes.</p>
+    <p>
+    • Étendre à toutes les entreprises l'obligation d'adopter un plan ou un accord d'entreprise contre les inégalités de salaires et de carrière entre hommes et femmes, aujourd'hui limitée aux entreprises de plus de 50 salariés.<br />
+    • Augmenter les sanctions financières et pénales contre les entreprises qui ne respectent pas cette égalité, pouvant aller jusqu'à l'interdiction d'accès aux marchés publics.<br />
+    • Revaloriser les métiers occupés majoritairement par des femmes (qualifications, grilles salariales…) et agir pour l'égal accès à toutes les formations et à tous les métiers.<br />
+    • Favoriser des congés parentaux de durée identique entre les parents.
+    </p>
+    "
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "<strong>Obligation</strong> d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augmenter les <strong>sanctions financières et pénales</strong>. Favoriser les <strong>congés parentaux</strong> de durée identique entre les parents."
+
+  [[categories.list]]
+    title = "Violences faites aux femmes"
+
+    [categories.list.them]
+    quote = "<p>Les violences contre les femmes et le harcèlement sont les plus inacceptables de toutes.Nous agirons pour faire changer les mentalités, par une grande campagne de sensibilisation mais aussi par un durcissement de notre arsenal judiciaire.<br />
+    • Lancement d'une campagne nationale de communication et de sensibilisation sur le sujet du harcèlement et des violences faites aux femmes.<br />
+    • Nous augmenterons le montant des amendes pour harcèlement. Elles seront exigées immédiatement.<br />
+    • Généralisation du téléphone d'alerte</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/%C3%A9galit%C3%A9-hommes-et-femmes"
+    tldr = "Augmentation du <strong>montant des amendes</strong> et campagne de communication sur les violences faites aux femmes."
+
+    [categories.list.us]
+    quote = "
+    <p>Le second pan d’une politique féministe assumée est de combattre les violences faites aux femmes. Elles sont systémiques et se retrouvent dans tous les milieux sociaux. Il est urgent de les combattre avec fermeté et de permettre aux victimes de faire valoir leurs droits dans les meilleures conditions.</p>
+    <p>
+    • Renforcer la politique de logements prioritaires et d’hébergements d’urgence pour les femmes en danger.<br />
+    • Organiser  des  campagnes  d’information  et  de  sensibilisation  permanentes<br />
+    • Assurer une formation spécifique et obligatoire en matière de prévention pour tou·te·s les professionnel·le·s concerné·e·s (santé, police, justice, éducation nationale, services sociaux) et mettre en place une antenne spécialisée dans la réception de plaintes pour violences sexistes et sexuelles dans tous les commissariats.<br />
+    • Mettre en œuvre un plan de lutte contre les violences sexistes et sexuelles au travail.<br />
+    • Octroyer le statut de réfugiée pour toute femme demandant l’asile parce que victime de violences sexistes, sexuelles ou lesbophobes.<br />
+    • Interdire  les  déqualifications  des  violences  sexuelles.<br />
+    • Abolir le principe de prescription pour les crimes à caractère sexuel.<br />
+    • Développer un plan de lutte contre le harcèlement de rue et dans les transports.<br />
+    • Mettre en œuvre une politique réelle de lutte contre les violences liées à la prostitution.
+    </p>"
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Renforcer l'<strong>hébergement d'urgence</strong>. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le <strong>principe de prescription</strong> pour les crimes à caractère sexuel. Lutte contre les <strong>violences</strong> sexistes et sexuelles au travail et liées à la prostitution."
+
+  [[categories.list]]
+    title = "Changement d'état civil"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5"
+    tldr = "<strong>Autoriser</strong> le changement d'état civil <strong>libre et gratuit</strong> devant un officier d'état civil."
+
+  [[categories.list]]
+    title = "Zéro obstacle"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s68"
+    tldr = "<strong>Tolérance zéro</strong> contre les entraves, <strong>fermeture des bâtiments</strong> privés ne respectant pas la loi."
+
+  [[categories.list]]
+    title = "Allocation Adulte Handicapé"
+
+    [categories.list.them]
+    quote = "Nous augmenterons de 100 euros par mois l’Allocation Adulte Handicapé (AAH)."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/handicap"
+    tldr = "Augmenter l'allocation adulte handicapé de <strong>100 euros</strong>."
+
+    [categories.list.us]
+    quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s68"
+    tldr = "Augmenter l'allocation aux adultes handicapés (808 euros) au niveau du nouveau <strong>SMIC</strong> (1326 euros)."
+
+  [[categories.list]]
+    title = "Dépendance / perte d'autonomie"
+
+    [categories.list.them]
+    quote = "<p>Nous développerons et soutiendrons les soins à domicile (ménagers, infirmiers).</p>
+    <p>Nous faciliterons le retour à domicile des personnes en situation de perte d’autonomie via différents dispositifs.</p>
+    <p>Nous soutiendrons et développerons les solutions d’hospitalisation à domicile et de maintien à domicile pour éviter les hospitalisations inutiles et favoriser le confort des patients les plus fragiles.</p>
+    <p>Nous relancerons le recensement des logements accessibles et/ou adaptés, réalisé à l’initiative des communes.</p>
+    <p>Nous encouragerons toutes les formes d’habitat inclusif et partagé, et en particulier l’hébergement intergénérationnel.</p>
+    <p>Nous encouragerons les réseaux d’aide à la personne (associations où coopèrent médecins, professions para-médicales, services sociaux) et accélérerons le décloisonnement entre la ville et l’hôpital d’une part, et les secteurs sanitaire et social d’autre part.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/dependance"
+    tldr = "Développer et soutenir les soins et solutions hospitalières <strong>à domicile</strong>, faciliter le <strong>retour à domicile</strong>, encourager les formes d'habitat inclusif et partagé, encourager les <strong>réseaux d'aide</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Réduire le reste à charge de 500 euros par mois pour les personnes en établissement et augmenter de 50 % le montant de l'APA (aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées.</p>
+    <p>Construire une prise en charge solidaire de la dépendance, financée par une mise à contribution des revenus immobiliers et des successions sur les gros patrimoines.</p>
+    <p>Développer un réseau public de maisons de retraite avec des tarifs harmonisés et accessibles, créer 10 000 places par an en EHPAD publics pendant cinq ans.</p>
+    <p>Former, qualifier et recruter en nombre suffisant le personnel nécessaire, soit au moins 100 000 personnes.</p>
+    <p>Refondre les grilles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s71"
+    tldr = "<strong>Augmenter de 50 %</strong> le montant de l'allocation personnalisée d'autonomie. Développer un <strong>réseau public</strong> de maisons de retraite. Recruter en nombre suffisant le personnel nécessaire, soit <strong>au moins 100 000 personnes</strong>."
+
+  [[categories.list]]
+    title = "Revalorisation des petites retraites"
+
+    [categories.list.them]
+    quote = "Nous augmenterons le minimum vieillesse de 100 euros par mois."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Augmentation du minimum veillesse de <strong>100 euros</strong>."
+
+    [categories.list.us]
+    quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s31"
+    tldr = "Revaloriser les pensions de retraite au niveau du nouveau <strong>SMIC</strong> (1326 euros) et augmenter le minimum vieillesse."
+
+  [[categories.list]]
+    title = "Droit de mourir dans la dignité"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>
+    • Instaurer dans la loi le droit à l’aide à mourir.<br />
+    • Rendre les directives anticipées opposables au corps médical.<br />
+    • Développer les moyens pour l’hôpital public et l’aide sociale : l’effectivité de ce droit et l’absence d’abus dépendent aussi de la qualité du service public de la santé.<br />
+    • Étendre le bénéfice de la pension de réversion au conjoint survivant des couples pacsés.<br />
+    • Le droit à « pourvoir aux funérailles » du partenaire survivant sera sécurisé.
+    </p>
+    "
+    ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
+    link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
+    tldr = "<strong>Constitutionnaliser</strong> le droit de mourir dans la dignité."
+
+  [[categories.list]]
+    title = "Fraude aux prestations sociales"
+
+    [categories.list.them]
+    quote = "La lutte contre la fraude aux prestations sociales sera amplifiée. Une fraude grave entraînera désormais, en plus du remboursement, la suspension de la prestation."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Renforcer la <strong>répression des fraudes</strong> aux prestations sociales."
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "Chômage"
+
+    [categories.list.them]
+    quote = "<p>Nous permettrons à tous les travailleurs d’avoir droit à l’assurance-chômage.<br />
+    Les artisans, les commerçants indépendants, les entrepreneurs, les professions libérales, et les agriculteurs disposeront, comme les salariés, de cette protection.</p>
+    <p>Nous ouvrirons les droits à l’assurance-chômage aux salariés qui démissionnent.<br />
+    Ce droit ne sera utilisable qu’une fois tous les cinq ans. En contrepartie, l’insuffisance des efforts de recherche d’emploi ou le refus d’offres raisonnables entraîneront la suspension des allocations.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Permettre aux <strong>indépendants</strong> de bénéficier du droit à l'<strong>assurance-chômage</strong>. Droits à l’assurance-chômage pour les salariés qui <strong>démissionnent</strong> avec <strong>suspension des allocations</strong> en cas de refus d'offres raisonnables."
+
+    [categories.list.us]
+    quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s26m3"
+    tldr = "Établir le « <strong>droit opposable à l'emploi</strong> » en faisant de l'État l'employeur en <strong>dernier ressort</strong>."
+
+  [[categories.list]]
+    title = "Lutte contre la précarité"
+
+    [categories.list.them]
+    quote = "<p>Nous augmenterons de 50% le montant de la prime d’activité.<br />
+    Cette augmentation correspondra à une somme supplémentaire de près de 80 euros par mois et un gain annuel de près de 1000 euros pour une personne au smic. Ce gain de pouvoir d’achat concernera 2,4 millions de foyers dont 400 000 jeunes et 500 000 familles monoparentales.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/pauvrete"
+    tldr = "Augmentation d'environ <strong>80 euros</strong> par mois de la <strong>prime d'activité</strong> pour une personne au SMIC."
+
+    [categories.list.us]
+    quote = "
+    <p>Nous créerons pour toutes les personnes majeures vivant sous le seuil de pauvreté, une garantie dignité de 1 000 € par mois pour une personne seule. Ce dispositif reposera sur le renforcement, l’élargissement et l’automaticité du Revenu de solidarité active (RSA).</p>
+    <p>Créer un Plan personnalisé contre la pauvreté (PPP) prenant en compte la situation des personnes dans leur globalité (revenus, état de santé, insertion professionnelle, logement, etc.).</p>
+    <p>Créer une « garantie dignité » en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté).</p>
+    <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "<strong>Garantie dignité</strong> de <strong>1 000 euros</strong> par mois pour une personne seule sous le <strong>seuil de pauvreté</strong>. Restructurer les emprunts des <strong>ménages surendettés</strong>."
+
+  [[categories.list]]
+    title = "Lutte contre l'exclusion"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Pôle emploi verra ses effectifs augmentés et les départements se verront imposer une obligation de financement des politiques d’insertion. Des lieux d’accueil physique seront ainsi réouverts, en milieu urbain comme en milieu rural.</p>
+    <p>Les structures d’accueil de jour et d’hébergement, aujourd’hui de plus en plus réduites à une seule fonction de mise à l’abri, verront leurs moyens d’accompagnement revalorisés, afin d’aider les personnes, non seulement à survivre, mais à sortir de la  précarité.</p>
+    <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Revaloriser les <strong>structures d’accueil</strong> de jour et d’hébergement. Apporter un <strong>accompagnement global</strong> des personnes par un <strong>référent unique</strong>."
+
+  [[categories.list]]
+    title = "Aides aux jeunes adultes"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s27m1"
+    tldr = "<strong>Allocation d'autonomie</strong> pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+
+  [[categories.list]]
+    title = "Logement social"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s9m3"
+    tldr = "<strong>Constitutionnaliser</strong> et rendre effectifs le <strong>droit au logement</strong>."
+
+  [[categories.list]]
+    title = "Précarité énergétique"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal."
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une <strong>vie digne</strong>."
+
+  [[categories.list]]
+    title = "Hébergement d'urgence"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Interdire les expulsions locatives sans relogement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s34m1"
+    tldr = "Interdire les <strong>expulsions locatives</strong> sans relogement."
+
+  [[categories.list]]
+    title = "Position sur l'immigration"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Respecter la <strong>dignité humaine</strong> des migrants."
+
+  [[categories.list]]
+    title = "Demande d'asile"
+
+    [categories.list.them]
+    quote = "<p>Nous examinerons les demandes d’asile en moins de 6 mois, recours compris.<br />
+    C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent pas des immigrés clandestins.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Examiner les demande d'asile en <strong>moins de 6 mois</strong> recours compris."
+
+    [categories.list.us]
+    quote = "
+    <p>Assouplir les politiques de visas « au titre de l’asile », en veillant notamment à empêcher que les coûts des visas nationaux soient utilisés comme des mesures de dissuasion.</p>
+    <p>Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier.</p>
+    "
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Assouplir les politiques de <strong>visas</strong> « au titre de l’asile ». Autoriser les demandeurs d'asile à <strong>travailler</strong>."
+
+  [[categories.list]]
+    title = "Rétention administrative"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "En finir avec le placement en <strong>centre de rétention</strong>, en priorité pour <strong>les enfants</strong>."
+
+  [[categories.list]]
+    title = "Naturalisation"
+
+    [categories.list.them]
+    quote = "<p>Nous ferons de la maîtrise de la langue française le principal critère de l’obtention de la nationalité française.</p>
+    <p>Nous renforcerons l’apprentissage de notre langue pour les candidats à la naturalisation. Quelle meilleure preuve de la volonté de quelqu’un de s’intégrer et de devenir français ?</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Subordonner l'obtention de la nationalité française à la <strong>maîtrise du français</strong>."
+
+    [categories.list.us]
+    quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "<strong>Faciliter l'accès</strong> à la nationalité française."
+
+  [[categories.list]]
+    title = "Droit du sol"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s6m1"
+    tldr = "Défendre le <strong>droit du sol intégral</strong> pour les enfants nés en France, y compris dans les Outre-mer."
+
+  [[categories.list]]
+    title = "Fermeture de lieux de cultes"
+
+    [categories.list.them]
+    quote = "Nous démantèlerons les associations qui, sous couvert de religion, s’attaquent à la République. Nous fermerons définitivement les lieux de culte dans lesquels certaines prêchent l’apologie du terrorisme."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "<strong>Fermeture définitive</strong> des lieux de culte où on fait l'apologie du terrorisme."
+
+    [categories.list.us]
+    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s12"
+    tldr = "Mener une <strong>politique antiterroriste rationnelle</strong> et <strong>supprimer le terreau</strong> des communautarismes."
+
+  [[categories.list]]
+    title = "Financement des lieux de cultes"
+
+    [categories.list.them]
+    quote = "Une nouvelle structure permettra de relancer les principaux chantiers du culte musulman en France : la construction et l’amélioration de lieux de culte dignes là où c’est nécessaire et la formation en France des imams. La liberté de culte, c’est aussi la liberté de le pratiquer dans des conditions dignes."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/questions-religieuses-et-laicite"
+    tldr = "<strong>Construction et amélioration</strong> des lieux de cultes musulmans."
+
+    [categories.list.us]
+    quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "<strong>Refuser les financement publics</strong> pour la construction des édifices religieux."
+
+  [[categories.list]]
+    title = "Séparation église - état"
+
+    [categories.list.them]
+    quote = "Créer un statut unifié des aumôniers. Ces personnes auront des contrats avec l’Etat et verront leur rémunération améliorée. L’instance représentative du culte musulman assurera un complément de rémunération pour les aumôniers musulmans."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "http://www.en-marche.fr/emmanuel-macron/le-programme/questions-religieuses-et-laicite"
+    tldr = "Créer un statut clair des aumôniers, complémenter la <strong>rémunération des aumôniers musulmans</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Étendre le bénéfice de l'application de la loi de 1905 à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer).</p>
+    <p>Garantir la liberté de conscience et l'égalité de toutes les options spirituelles devant la loi.</p>
+    <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Abroger le <strong>concordat</strong>. Interdire la présence de ministres et préfets aux <strong>cérémonies religieuses</strong>."
+
+  [[categories.list]]
+    title = "Communautarisme"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Combattre tous les communautarismes et l'usage politique des religions"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "<strong>Combattre</strong> tous les communautarismes et l'<strong>usage politique</strong> des religions."
 
 [[categories]]
   id = "territory"
@@ -1286,7 +1794,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Emmanuel Macron président - 02/03/2017"
     link = "https://en-marche.fr/emmanuel-macron/le-programme/territoires"
-    tldr = "Demander aux collectivités une <strong>réduction de leurs dépensens</strong> de 10 milliards d'euros. Plan d'<strong>investissement</strong> de 10 milliards d'euros aux actions des collectivités."
+    tldr = "Demander aux collectivités une <strong>réduction de leurs dépenses</strong> de 10 milliards d'euros. Plan d'<strong>investissement</strong> de 10 milliards d'euros aux actions des collectivités."
 
     [categories.list.us]
     quote = "Refuser les baisses de dotations aux collectivités mises en place par le gouvernement Hollande et garantir une dotation à la hauteur des missions transférées aux collectivités. Il sera également mis fin au remplacement des dotations de l’État par des fonds d’investissement (du type de la DETR [Dotation d'équipement des territoires ruraux] ou des contrats de ruralité). Les collectivités doivent avoir les moyens d’investir mais également des dotations stables en fonctionnement."
@@ -1378,7 +1886,7 @@ candidat = "Emmanuel Macron"
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
-    tldr = "Remplacer le transport par camions par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
+    tldr = "Remplacer le transport par camion par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
 
   [[categories.list]]
     title = "Autoroutes"
@@ -1457,8 +1965,279 @@ candidat = "Emmanuel Macron"
 
 [[categories]]
   id = "culture"
-  title = "Culture et Médias"
-  teasing = true
+  title = "Médias, Culture et Sport"
+
+  [[categories.list]]
+    title = "Anti-concentration / indépendance"
+
+    [categories.list.them]
+    quote = "Créer un nouveau statut de l’entreprise de presse, sur le modèle des trusts anglo-saxons pour garantir l’indépendance éditoriale et journalistique."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "Créer un <strong>nouveau statut</strong> de l’entreprise de presse, sur le modèle des trusts anglo-saxons."
+
+    [categories.list.us]
+    quote = "<p>Adopter une loi anti-concentration des médias, protégeant le secteur des intérêts financiers, favorisant la transformation des médias en coopératives de salariés et de lecteurs/auditeurs/téléspectateurs et attribuer des fréquences aux médias locaux et associatifs.</p>
+    <p>Protéger les sources et l'indépendance des rédactions à l'égard des pouvoirs économiques et politiques par le renforcement du statut juridique des rédactions et une charte déontologique dans la convention collective.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s8"
+    tldr = "Adopter une loi <strong>anti-concentration</strong> des médias. Protéger <strong>l'indépendance des rédactions</strong> à l'égard des pouvoirs économiques et politiques."
+
+  [[categories.list]]
+    title = "Médias publics"
+
+    [categories.list.them]
+    quote = "
+    <p>Nous renforcerons le secteur public de l’audiovisuel pour qu’il réponde aux attentes de tous les Français et accélère sa transformation numérique, en concentrant les moyens sur des chaînes moins nombreuses mais pleinement dédiées à leur mission de service public.</p>
+    <p>Nous rapprochons les sociétés audiovisuelles publiques pour une plus grande efficacité et une meilleure adéquation entre le périmètre des chaînes et leurs missions de service public. Leurs conseils d’administration seront plus indépendants et plus ouverts dans sa composition. Ils seront chargés de designer les dirigeants, après appel public à candidatures.</p>
+    "
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "<strong>Renforcer</strong> le secteur public de l’audiovisuel. Rendre les <strong>conseils d'administration</strong> des sociétés audiovisuelles publiques plus indépendants."
+
+    [categories.list.us]
+    quote = "
+    <p>Élire, par le Parlement, les président·e·s de l’audiovisuel public (France Télévision, Radio France, France Médias Monde) à l’issue d’une campagne publique de présentation des candidat·e·s et des projets en compétition.</p>
+    <p>Nous réaffirmerons la volonté politique d’un service public audiovisuel valorisant la création culturelle, le pluralisme démocratique et la diversité.</p>
+    <p>La fonction sociale de la télévision et de la radio ne peut être soumise aux aléas du marché et de la finance.</p>
+    <p>Les nouveaux usages de la télévision et la convergence des médias, sur de nouveaux supports, comme les box, les tablettes, les smartphones, appellent à la définition d’un cadre réglementaire capable de résister à l’émergence de quelques monopoles, tant anglo-saxons que français, dans la production et la circulation de programmes.</p>
+    "
+    ref = "Des médias au service du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-medias"
+    tldr = "<strong>Élection</strong> des président·e·s de l’audiovisuel public par le Parlement. Valorisation de la création culturelle et du <strong>pluralisme démocratique</strong>."
+
+  [[categories.list]]
+    title = "Budget de la Culture"
+
+    [categories.list.them]
+    quote = "Nous ne retirerons pas un euro au budget du ministère de la Culture."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
+    tldr = "Statu Quo."
+
+    [categories.list.us]
+    quote = "<p>Porter le budget consacré à l'art, à la culture et à la création à 1 % du PIB chaque année pour :<br />
+    • Pérenniser le régime des intermittents du spectacle sur la base de l'accord du 28 avril 2016 et l'étendre aux professions artistiques précaires<br />
+    • Soutenir la création, le spectacle vivant, et l'appropriation par tous des œuvres et pratiques culturelles, et ce par le renouveau de l'éducation artistique à l'école et dans les conservatoires, de l'éducation populaire et de la culture en entreprise </p>
+    <p>Note : Avec cette mesure, le budget 2017 de la culture aurait été de 21.18 milliards d'euros (en prenant le PIB de 2016 de 2 118 milliards d'euros), contre les 7,701 milliards actuellement.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "Porter le budget de la Culture à <strong>1 % du PIB</strong> chaque année."
+
+  [[categories.list]]
+    title = "Musées"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Étendre la <strong>gratuité</strong> des musées recevant des subventions publiques nationales."
+
+  [[categories.list]]
+    title = "Lieux culturels"
+
+    [categories.list.them]
+    quote = "<p>Nous ouvrirons les bibliothèques en soirée et le week-end.<br />
+    Les bibliothèques sont ouvertes 41h par semaine dans les grandes villes de France, contre 98h à Copenhague. C’est une inégalité fondamentale : ce sont ceux qui n’ont pas accès, chez eux, à la lecture ou à une activité culturelle, qui en pâtissent le plus. Dans une logique de contractualisation avec les collectivités locales, l’État prendra à sa charge les dépenses supplémentaires liées à l’ouverture en soirée et le dimanche des bibliothèques municipales et poursuivra le plan de mobilisation en direction des bibliothèques universitaires.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "Ouverture des bibliothèques en <strong>soirée et le week-end</strong>."
+
+    [categories.list.us]
+    quote = "<p>Mettre les associations au coeur de l’action culturelle sur tout le territoire dans l'espace public. Leur donner par des conventionnements durables les moyens financiers adaptés afin de remédier à l'absence d'équipements culturels.</p>
+    <p>Jumeler tous les établissements (écoles, collèges, lycées) avec des établissements culturels, dans des projets profitant à tou·te·s les élèves et encourager les pratiques artistiques collectives ; favoriser la médiation socioculturelle dans ces établissements.</p>
+    <p>Favoriser et promouvoir la médiation culturelle dans l’ensemble des lieux patrimoniaux et institutions culturelles subventionnés (musées, orchestres, théâtres, etc.), notamment en leur faisant obligation de recourir à des guidesconférencier·e·s diplômé·e·s et titulaires de la carte professionnelle. Encourager, dans les critères de subvention, la co-construction de la programmation culturelle avec les publics pour une participation active de chacun·e à la vie sociale et culturelle.</p>
+    <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissements scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
+
+  [[categories.list]]
+    title = "Éducation artistique"
+
+    [categories.list.them]
+    quote = "<p>Nous créerons un « Pass Culture ». Il permettra à chaque Français de 18 ans d’effectuer 500 euros de dépenses culturelles (cinéma, théâtre, livres...).</p>
+    <p>100% des enfants auront accès aux actions d’éducation artistique et culturelle.<br />
+    Les projets d’initiation à la pratique artistique collective (orchestres, chorales, troupes de théâtre) ou de rencontre avec des œuvres et des artistes seront encouragés.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "Création d'un « <strong>Pass Culture</strong> »"
+
+    [categories.list.us]
+    quote = "<p>Faire de l'éducation artistique une vraie priorité de la maternelle à l'université, jusqu'en entreprise. La mettre dans toute sa diversité et dans ses trois dimensions au coeur de l'enseignement artistique (fréquentation des oeuvres, pratique, acquisition des connaissances).</p>
+    <p>Transformer l’enseignement artistique supérieur en véritable service public national : sortir les écoles d’art et les conservatoires de musique et de danse du statut inadapté d’Établissement public de coopération culturelle (EPCC). L’État définira les programmes et les règles applicables aux personnels.</p>
+    <p>Soutenir les conservatoires de musique, de danse et d'art dramatique dans leur mission d'ouverture à tous les publics et en créer de nouveaux. Mettre fin à la précarité des enseignant·e·s de ces établissements.</p>
+    <p>Développer une filière de la création numérique dans l'enseignement professionnel.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Faire de l'éducation artistique une <strong>vraie priorité</strong>. Soutenir les <strong>conservatoires</strong>. Développer une filière de la <strong>création numérique</strong> dans l'enseignement professionnel."
+
+  [[categories.list]]
+    title = "Intermittents"
+
+    [categories.list.them]
+    quote = "Pérenniser et adapter le statut d’intermittent du spectacle, qui est un outil au service de la politique culturelle"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "<strong>Adapter</strong> le statut d’intermittent du spectacle."
+
+    [categories.list.us]
+    quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
+    <p>Étendre ce régime aux professions artistiques précaires, dont les artistes visuels.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "<strong>Pérenniser</strong> le régime des intermittent·e·s et <strong>l'étendre</strong> aux professions <strong>artistiques précaires</strong>."
+
+  [[categories.list]]
+    title = "Domaine public commun"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instituer un domaine public commun constitué de l'ensemble des oeuvres qui désormais ne seront plus soumises aux droits d'auteur, afin de participer au financement du régime de sécurité sociale pour les artistes précaires."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Financer une <strong>sécurité sociale pour les artistes</strong> par une cotisation sur la vente d'œuvres du domaine public."
+
+  [[categories.list]]
+    title = "Défense de la francophonie"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Réorganiser les institutions de la francophonie en agissant pour son recentrage sur la défense, le rayonnement de la langue et son usage commun.</p>
+    <p>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</p>
+    <p>Élaborer des contenus éducatifs et des diplômes communs entre pays francophones.</p>
+    <p>Développer au moins une revue scientifique internationale digne de ce nom en français.</p>
+    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</p>
+    <p>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mettre en valeur, <strong>diffuser</strong> et <strong>multiplier</strong> les usages du français et les liens entre ceux qui l'ont en usage commun."
+
+  [[categories.list]]
+    title = "Programme d'échange francophone"
+
+    [categories.list.them]
+    quote = "Lancer un Erasmus des professionnels de la culture pour favoriser la circulation des artistes, des commissaires d’exposition et des conservateurs."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/sport"
+    tldr = "Lancer un <strong>Erasmus des professionnels</strong> de la culture "
+
+    [categories.list.us]
+    quote = "<p>A l'intérieur de l’espace francophone, mettre en place progressivement un visa privilégié permettant la libre circulation en son sein des artistes, des universitaires, des chercheur·se·s, des ingénieur·e·s, des acteur·trice·s économiques et des étudiant·e·s. Comme première concrétisation de ce projet, créer un programme de mobilité étudiante francophone du type Erasmus ; établir un fonds commun des pays francophones en faveur du financement de ce programme.
+    </p>
+    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mise en place d'un <strong>VISA francophone privilégié</strong>. Renforcer le réseau des Instituts/Alliances français."
+
+  [[categories.list]]
+    title = "Droit d'auteur"
+
+    [categories.list.them]
+    quote = "Défendre résolument les droits d’auteur, aider les artistes et les éditeurs de contenu européens par la négociation encadrée d’accords sur leur rémunération, étendre les droits voisins aux éditeurs de presse et renforcer l’action contre les sites pirates."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/culture"
+    tldr = "Étendre les droits voisins aux <strong>éditeurs de presse</strong> et <strong>renforcer l’action</strong> contre les sites pirates."
+
+    [categories.list.us]
+    quote = "
+    <p>Supprimer la Hadopi, qui n'a pas fonctionné, et mettre en place un nouveau cadre du partage numérique de la culture par :<br />
+    • L'instauration d'une cotisation universelle sur les abonnements internet, finançant la création et ouvrant droit en contrepartie au téléchargement non marchand.<br />
+    • La création d'un service public nouveau de l'internet et d'une médiathèque publique en ligne, avec une plate-forme publique d'offre légale en ligne de musique, films et contenus culturels.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "<strong>Supprimer Hadopi</strong>. Mettre en place une <strong>cotisation universelle</strong> sur les abonnements internet ouvrant droit en contrepartie au <strong>téléchargement gratuit</strong> via une médiathèque publique en ligne."
+
+  [[categories.list]]
+    title = "Protection des données personnelles"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Protéger les données personnelles contre leur utilisation mercantile"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83"
+    tldr = "<strong>Protéger les données personnelles</strong> contre leur utilisation mercantile."
+
+  [[categories.list]]
+    title = "Généraliser la pratique sportive"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport comme moyen d’insertion professionnelle et soutenir toutes les initiatives visant à faire du sport un vecteur de réinsertion des jeunes en difficulté en termes d’accès au travail, en s’appuyant sur des acteur·trice·s associatif·ve·s et privé·e·s, et veiller à ce que ces dispositifs fassent une large part au public féminin et aux publics en situation de handicap.</p>
+    <p>Favoriser la gratuité pour les populations modestes et promouvoir la fixation des coûts d’accès en fonction des revenus et de la taille des familles.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Favoriser la gratuité pour les <strong>populations modestes</strong> et l'accès au <strong>public féminin</strong> et en situation de <strong>handicap</strong>."
+
+  [[categories.list]]
+    title = "Infrastructures sportives"
+
+    [categories.list.them]
+    quote = "<p>Nous améliorerons le maillage des équipements sportifs sur l’ensemble du territoire en fixant des objectifs de construction dans le cadre de nouveaux grands projets d’aménagement.</p>
+    <p>Nous rendrons obligatoire la réalisation des équipements sportifs dans les zones nouvelles d’aménagement, faciliterons l’achat de créneaux dans les équipements réalisés par des opérateurs privés.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/"
+    tldr = "<strong>Amélioration</strong> du maillage des équipements sportifs. <strong>Rendre obligatoire</strong> la réalisation des équipements sportifs dans les zones nouvelles d’aménagement."
+
+    [categories.list.us]
+    quote = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs (stades, piscines et gymnases notamment), en partenariat avec les collectivités territoriales (dont les dotations seront « dégelées ») et dans le respect de normes environnementales fortes, pour réduire les inégalités et stopper la concurrence entre les territoires."
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Élaborer un <strong>plan national</strong> d’urgence pour la <strong>construction</strong> et la <strong>rénovation</strong> des équipements sportifs."
+
+  [[categories.list]]
+    title = "Encadrement sportif"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Réaffirmer le rôle des professeurs d'EPS dans la transmission d'une éducation physique obligatoire pour toutes et tous.</p>
+    <p>Recruter des éducateur·trice·s physiques ou sportif·ve·s en nombre suffisant afin d’assurer les missions de rééquilibrage des territoires, de garantir l’accessibilité de la pratique sportive et la structuration pérenne des  associations.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Recruter des <strong>intervenants sportifs</strong> et réaffirmer l'importance de leur rôle à l'école et dans les associations."
+
+  [[categories.list]]
+    title = "Sport-Santé"
+
+    [categories.list.them]
+    quote = "
+    <p>Nous négocierons la signature d’un accord national interprofessionnel visant à organiser et faciliter la pratique du sport dans les entreprises.</p>
+    <p>Au niveau des branches et des entreprises, nous encouragerons les organisations professionnelles et syndicales à développer des vestiaires pour les salariés, à signer des conventions avec des associations sportives locales voire à aménager des temps de pratiques sportive.</p>
+    <p>Nous mettrons en place des maisons du sport santé pour garantir un accompagnement personnalisé de nos compatriotes atteints d’affections lourdes (obésité, maladies cardiovasculaires, diabètes, etc.), mais aussi désireux de se remettre en forme.</p>"
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://en-marche.fr/emmanuel-macron/le-programme/sport"
+    tldr = "Encourager les <strong>organisation professionnelles</strong> à signer des conventions avec des <strong>associations sportives</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport-santé et l’activité physique adaptée sur ordonnance en formant les médecins.</p>
+    <p>Inciter au développement de la pratique de l’activité physique au sein des entreprises et sur les lieux de travail en général.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "<strong>Développer</strong> le sport-santé et la pratique de l’activité physique <strong>au sein des entreprises</strong>."
+
+  [[categories.list]]
+    title = "Sport de haut niveau"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s78"
+    tldr = "Renforcer les liens de solidarité entre le <strong>sport pour tous</strong> et le <strong>sport de haut niveau</strong>, <strong>démocratiser</strong> la gestion des fédérations sportives."
 
 [[categories]]
   id = "taxation"
@@ -1522,6 +2301,8 @@ candidat = "Emmanuel Macron"
 
     [categories.list.them]
     quote = "Nous créerons un prélèvement unique sur les revenus du capital, de l’ordre de 30%."
+    ref = "Emmanuel Macron président - 02/03/2017"
+    link = "https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf"
     tldr = "Création d'un prélèvement unique sur les <strong>revenus du capital</strong>."
 
     [categories.list.us]
@@ -1575,7 +2356,7 @@ candidat = "Emmanuel Macron"
     tldr = "<strong>Supprimer</strong> les exemptions fiscales bénéficiant aux <strong>ultra-riches</strong> pour les investissements <strong>outre-mer</strong>."
 
   [[categories.list]]
-    title = "Impôt univesel"
+    title = "Impôt universel"
 
     [categories.list.them]
 
@@ -1614,7 +2395,7 @@ candidat = "Emmanuel Macron"
     quote = "Moduler l'impôt sur les sociétés selon l'usage des bénéfices pour encourager l'investissement en France : un taux réduit pour les bénéfices réinvestis en France, un taux plein pour les bénéfices distribués aux actionnaires."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s20m3"
-    tldr = "Instaurer un <strong>taux d'imposition réduit</strong> pour les entreprise qui <strong>réinvestissent</strong> leurs bénéfices en France."
+    tldr = "Instaurer un <strong>taux d'imposition réduit</strong> pour les entreprises qui <strong>réinvestissent</strong> leurs bénéfices en France."
 
   [[categories.list]]
     title = "Impôts TPE et PME"

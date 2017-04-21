@@ -328,7 +328,7 @@ candidat = "Benoît Hamon"
     "
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/2/balayer-l-oligarchie-abolir-les-privileges-de-la-caste"
-    tldr = "Représentativité des <strong>organisation patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
+    tldr = "Représentativité des <strong>organisations patronales</strong> sur la base d'élections. <strong>Amnistie des syndicalistes et militants</strong> condamnés pour des faits de lutte syndicale."
 
   [[categories.list]]
     title = "Démocratie dans l'entreprise"
@@ -482,7 +482,7 @@ candidat = "Benoît Hamon"
     "
     ref = "Sécurité : retour à la raison - 2017"
     link = "https://avenirencommun.fr/le-livret-securite/"
-    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démenteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
+    tldr = "Restaurer la <strong>police de proximité</strong>. Revenir sur la \"politique du chiffre\". Démanteler la BAC. Rétablir de <strong>bonnes relations police-population</strong>."
 
   [[categories.list]]
     title = "Effectifs de la police"
@@ -625,7 +625,7 @@ candidat = "Benoît Hamon"
   title = "Éducation et Recherche"
 
   [[categories.list]]
-    title = "Rythme scolaire"
+    title = "Rythmes scolaires"
 
     [categories.list.them]
 
@@ -660,13 +660,13 @@ candidat = "Benoît Hamon"
     "
     ref = "Faire battre le coeur de la France - 03/2017"
     link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
-    tldr = "Scolarisation <strong>obligatoire dés 3 ans</strong>. Mise en place d'un service public du <strong>soutien scolaire</strong>."
+    tldr = "Scolarisation <strong>obligatoire dès 3 ans</strong>. Mise en place d'un service public du <strong>soutien scolaire</strong>."
 
     [categories.list.us]
     quote = "Mettre en œuvre un plan de lutte contre les inégalités à l'école maternelle et primaire, notamment avec un droit à la scolarisation dès 2 ans, la baisse du nombre d'élèves par classe en primaire, la présence de davantage d'instituteurs que de classes dans les écoles, le développement des Réseaux d'aide aux élèves en difficulté."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/section/73/instruire-mieux-et-davantage"
-    tldr = "<strong>Droit à la scolarité</strong> dés 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
+    tldr = "<strong>Droit à la scolarité</strong> dès 2 ans. Développement des Réseaux d'aide aux <strong>élèves en difficulté</strong>."
 
   [[categories.list]]
     title = "Réforme des collèges"
@@ -909,7 +909,7 @@ candidat = "Benoît Hamon"
     [categories.list.them]
 
   [[categories.list]]
-    title = "Énergies carbonnées"
+    title = "Énergies carbonées"
 
     [categories.list.us]
     quote = "Sortir des énergies carbonées au profit des énergies renouvelables."
@@ -951,7 +951,7 @@ candidat = "Benoît Hamon"
     tldr = "<strong>Sortie</strong> du Nucléaire à un horizon de 25 ans."
 
   [[categories.list]]
-    title = "Enfouissement des déchets nucléaire"
+    title = "Enfouissement des déchets nucléaires"
 
     [categories.list.us]
     quote = "
@@ -1177,8 +1177,557 @@ candidat = "Benoît Hamon"
 
 [[categories]]
   id = "society"
-  title = "Société"
+  title = "Santé et Société"
   teasing = true
+
+  # FIXME: le point "laïcité" n'est pas inclus ?
+
+  [[categories.list]]
+    title = "Politique sanitaire"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une politique de santé publique et de prévention :<br />
+    • Élaborer un plan de santé environnementale (lutte contre la pollution, interdiction des pesticides…)<br />
+    • Engager un plan de santé au travail, implanter un réseau sans faille de médecine du travail<br />
+    • Éradiquer les maladies chroniques liées à l'alimentation : lutte drastique contre l'obésité, contre la malbouffe et les abus de sel, sucre et graisses par l'industrie agro-alimentaire…<br />
+    • Abolir le logement insalubre et lutter contre le mal-logement et leurs conséquences sanitaires<br />
+    • Faire de la prévention et de l'éducation à la santé dès le plus jeune âge, en renforçant la médecine scolaire et la Protection maternelle et infantile<br />
+    • Imposer un plan de lutte et de prévention contre les maladies sexuellement transmissibles et promouvoir des politiques de santé sexuelle et reproductive émancipatrices des personnes.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67"
+    tldr = "Plan de santé environnementale. Réseau sans faille de médecine du travail. Éradication des maladies liées à l'alimentation. Prévention et éducation à la santé dès le plus jeune âge."
+
+  [[categories.list]]
+    title = "Remboursement des soins"
+
+    [categories.list.them]
+    quote = "Pour lutter contre les inégalités, je supprimerai les FRANCHISES MÉDICALES qui freinent l’accès aux soins et ferai baisser le prix des prothèses dentaires, auditives et des lunettes. Pour aider les personnes précaires à se soigner, l’accès aux dispositifs de solidarité sera simplifié (CMU-C, ACS, AME)."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Suppression des franchises médicales et simplification d'accès à la CMU-C, ACE, AME"
+
+    [categories.list.us]
+    quote = "
+    <p>Rembourser à 100% les soins de santé prescrits, dont les soins et appareils dentaires, optiques et auditifs, faire baisser les tarifs des lunettes et appareils auditifs</p>
+    <p>Le passage au 100 % Sécu, c’est la garantie d’une prise en charge intégrale par l’Assurance maladie des dépenses de santé. Une telle mesure est :<br />
+    • Solidaire : l’Assurance  maladie propose le même niveau de couverture pour tous et est financée par des cotisations sociales et la CSG, proportionnelles aux salaires.<br />
+    • Efficace : cette mesure permettra de supprimer les 7 Mds € de frais de gestion qui ne contribuent en rien à la santé de la population. C’est aussi une mesure qui simplifiera la vie des usagers.<br />
+    • Simple à financer : la transformation des primes versées aux complémentaires en cotisations sociales, les économies réalisées sur les frais de gestion, la suppression des dépassements d’honoraires et la régulation de prix aujourd’hui excessifs (médicaments, optique, dentaire),   permettent de financer aisément cette mesure.</p>
+    <p>Le 100 % Sécu ne se traduira par aucun licenciement :
+    Les salariés des complémentaires dont les activités sont concernées par le « 100 % Sécu » se verront proposer une intégration au sein de l’Assurance maladie.<br />
+    Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
+    ref = "La santé, notre bien commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-sante/"
+    tldr = "Rembourser à 100% par la Sécurité Sociale intégrale les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+
+  [[categories.list]]
+    title = "Dépassement d'honoraires / Tiers payant"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Le développement massif de centres de santé locaux et pluri-professionnels.<br />
+    Cela encouragera l’exercice des soins primaires en équipes (médecins, infirmières, kinésithérapeutes, diététiciens, médiateurs de santé, etc.) entretenant des liens étroits avec les hôpitaux publics. Les professionnels y seront salariés et ces centres pourront être organisés sous la forme juridique de sociétés coopératives d’intérêt collectif (SCIC) ou d’établissements publics, et gérés, selon les lieux, par la Sécurité sociale, les établissements hospitaliers, les mutuelles du livre III du Code de la Mutualité ou les collectivités territoriales.<br />
+    La prévention et la prise en charge des malades chroniques y seront des priorités. Ces centres seront aussi des lieux de formation privilégiés pour les étudiants se destinant à l’exercice des soins primaires.<br />
+    • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m3"
+    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+
+  [[categories.list]]
+    title = "Médicaments"
+
+    [categories.list.them]
+    quote = "Pour GARANTIR L’ACCÈS AUX MÉDICAMENTS innovants, j’en ferai baisser le prix. Je limiterai le gaspillage et l’automédication dangereuse par la distribution des médicaments à l’unité."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Baisser le prix des médicaments innovants. Limiter le gaspillage par la distribution à l'unité"
+
+    [categories.list.us]
+    quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67"
+    tldr = "Faciliter l'accès aux traitements par la création d'un pôle public du médicament."
+
+  [[categories.list]]
+    title = "Contraception, IVG, Grossesse, Accouchement"
+
+    [categories.list.them]
+    quote = "Nous augmenterons le nombre de CENTRES DE PLANIFICATION  FAMILIALE et de structures pratiquant des interruptions volontaires de grossesse (IVG)."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Augmentation du nombre de centres de planification familiale et de structures pratiquant des IVG."
+
+    [categories.list.us]
+    quote = "
+    <p>Permettre un accès à la contraception et à l’avortement garanti dans les faits (remboursement  intégral  de  tous  les  moyens  de  contraception). Remise des pilules d’urgence par les infirmières des établissements scolaires.</p>
+    <p>Constitutionnaliser  le  droit  à  l’intégrité  physique,  incluant  l’interdiction  de  marchandisation du corps humain et la garantie du droit à la contraception et à l’interruption volontaire de grossesse.</p>
+    <p>Ouverture  d’un centre IVG dans chaque hôpital.</p>
+    <p>Garantir une prise en charge digne pendant la grossesse et l’accouchement.</p>
+    "
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Accès à la contraception garanti et gratuit. Droit à l'IVG garanti dans les faits et ajouté à la Constitution. Prise en charge digne de la grossesse garantie."
+
+    [[categories.list]]
+      title = "Procréation Médicalement Assistée"
+
+      [categories.list.them]
+      quote = "J’ouvrirai l’accès à la PROCRÉATION MÉDICALEMENT ASSISTÉE aux femmes seules et aux couples de femmes."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Accès à la Procréation Médicalement Assistée aux femmes seules et aux couples de femmes."
+
+      [categories.list.us]
+      quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5"
+      tldr = "Reconnaître le droit à la Procréation Médicalement Assistée pour toutes les femmes."
+
+    [[categories.list]]
+      title = "Gestation Pour Autrui"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5m3"
+      tldr = "Refuser la Gestation Pour Autrui mais faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+
+  [[categories.list]]
+    title = "Petite enfance"
+
+    [categories.list.them]
+    quote = "<p>Un service public de la petite enfance, avec 250 000 nouvelles places d’accueil et des horaires adaptés. La scolarisation dès 2 ans sera développée.</p>
+    <p>Allongement du congé paternité à 6 semaines, dont 11 jours obligatoires, pour répondre l’attente des jeunes parents et favoriser le partage des tâches parentales.</p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Création de places de crèches, développement de la scolarisation dès 2 ans. Allongement du congé paternité."
+
+    [categories.list.us]
+    quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m2"
+    tldr = "Ouvrir 500 000 places en crèche et modes de garde adaptés."
+
+  [[categories.list]]
+      title = "Allocations familiales"
+
+      [categories.list.them]
+      quote = "Nous ouvrirons le DROIT AUX ALLOCATIONS FAMILLIALES dès le premier enfant."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Droit aux allocations familiales dès le premier enfant."
+
+      [categories.list.us]
+      quote = "Verser une allocation familiale dès le premier enfant."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s72m1"
+      tldr = "Verser une allocation familiale dès le premier enfant."
+
+  [[categories.list]]
+      title = "Inégalités homme-femme travail"
+
+      [categories.list.them]
+      quote = "Contrôle et sanctions systématiques contre les entreprises qui ne respectent pas leurs obligations en matière d’égalité professionnelle et la revalorisation des métiers majoritairement occupés par les femmes."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Contrôle et sanctions systématiques contre les entreprises qui ne respectent pas leurs obligations en matière d’égalité professionnelle et la revalorisation des métiers majoritairement occupés par les femmes."
+
+      [categories.list.us]
+      quote = "
+      <p>Partout dans le monde, les femmes subissent l’oppression et la domination masculines. En France, l’écart salarial moyen est de 26 % et la retraite des femmes est inférieure de 40 % à celle des hommes. La domination patriarcale s’exprime d’abord dans ses conditions sociales et économiques. Ainsi, nous lutterons contre les diverses formes de précarité et améliorerons les conditions de vie de toutes et tous, et donc des femmes.</p>
+      <p>
+      • Étendre à toutes les entreprises l'obligation d'adopter un plan ou un accord d'entreprise contre les inégalités de salaires et de carrière entre hommes et femmes, aujourd'hui limitée aux entreprises de plus de 50 salariés.<br />
+      • Augmenter les sanctions financières et pénales contre les entreprises qui ne respectent pas cette égalité, pouvant aller jusqu'à l'interdiction d'accès aux marchés publics.<br />
+      • Revaloriser les métiers occupés majoritairement par des femmes (qualifications, grilles salariales…) et agir pour l'égal accès à toutes les formations et à tous les métiers.<br />
+      • Favoriser des congés parentaux de durée identique entre les parents.
+      </p>
+      "
+      ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+      link = "https://avenirencommun.fr/livret-de-legalite/"
+      tldr = "Obligation d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augments les sanctions financières et pénales. Favoriser les congés parentaux de durée identique entre les parents."
+
+  [[categories.list]]
+    title = "Violences faites aux femmes"
+
+    [categories.list.them]
+    quote = "Pour LUTTER CONTRE LES VIOLENCES faites aux femmes, je créerai 4 500 places d’hébergement spécialisé. Les plaintes seront mieux traitées, les poursuites systématiques et les délais de justice réduits. J’en ferai une priorité nationale de mon mandat."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Donner la priorité à la lutte contre les violences faites aux femmes."
+
+    [categories.list.us]
+    quote = "
+    <p>Le second pan d’une politique féministe assumée est de combattre les violences faites aux femmes. Elles sont systémiques et se retrouvent dans tous les milieux sociaux. Il est urgent de les combattre avec fermeté et de permettre aux victimes de faire valoir leurs droits dans les meilleures conditions.</p>
+    <p>
+    • Renforcer la politique de logements prioritaires et d’hébergements d’urgence pour les femmes en danger.<br />
+    • Organiser  des  campagnes  d’information  et  de  sensibilisation  permanentes<br />
+    • Assurer une formation spécifique et obligatoire en matière de prévention pour tou·te·s les professionnel·le·s concerné·e·s (santé, police, justice, éducation nationale, services sociaux) et mettre en place une antenne spécialisée dans la réception de plaintes pour violences sexistes et sexuelles dans tous les commissariats.<br />
+    • Mettre en œuvre un plan de lutte contre les violences sexistes et sexuelles au travail.<br />
+    • Octroyer le statut de réfugiée pour toute femme demandant l’asile parce que victime de violences sexistes, sexuelles ou lesbophobes.<br />
+    • Interdire  les  déqualifications  des  violences  sexuelles.<br />
+    • Abolir le principe de prescription pour les crimes à caractère sexuel.<br />
+    • Développer un plan de lutte contre le harcèlement de rue et dans les transports.<br />
+    • Mettre en œuvre une politique réelle de lutte contre les violences liées à la prostitution.
+    </p>"
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Renforcer l'hébergement d'urgence. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le principe de prescription pour les crimes à caractère sexuel. Lutte contre les violences sexistes et sexuelles au travail et liées à la prostitution."
+
+  [[categories.list]]
+    title = "Changement d'état civil"
+
+    [categories.list.them]
+    quote = "Je simplifierai dans notre droit la possibilité pour les personnes transexuelles de CHANGER LA MENTION DU SEXE à l’état civil sur déclaration devant un officier d’état civil."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Simplifier les démarches pour changer la mention du sexe à l'état civil."
+
+    [categories.list.us]
+    quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5"
+    tldr = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil."
+
+  [[categories.list]]
+      title = "Zéro obstacle"
+
+      [categories.list.them]
+      quote = "Pour que les personnes en situation de handicap et leurs aidants aient accès à une vie sociale et citoyenne active, je ferai de l’ACCESSIBILITÉ un des principes de la 6e République."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Faire de l'accessibilité un des principe de la 6ème République."
+
+      [categories.list.us]
+      quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s68"
+      tldr = "Tolérance zéro contre les entraves, fermeture des bâtiments privés ne respectant pas la loi."
+
+  [[categories.list]]
+      title = "Allocation Adulte Handicapé"
+
+      [categories.list.them]
+      quote = "J’augmenterai l’ALLOCATION ADULTE HANDICAPÉE de 10 % dès 2017."
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Augmenter l'allocation adulte handicapé de 10%."
+
+      [categories.list.us]
+      quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s68"
+      tldr = "Augmenter l'allocation aux adultes handicapés au niveau du SMIC."
+
+  [[categories.list]]
+      title = "Dépendance / perte d'autonomie"
+
+      [categories.list.them]
+      quote = "<p>Pour DIMINUER LA FACTURE DES FAMILLES, je créerai une allocation unique « Bien Vivre en EHPAD » proportionnée aux moyens de chacun.</p>
+      <p>Pour AMÉLIORER LA QUALITÉ DES SOINS, j’augmenterai le nombre d’aide-soignants en établissements d’hébergement pour personnes âgées dépendantes (EHPAD) à hauteur de 3 à 5 personnes par établissement.</p>
+      <p>Pour AIDER LES AIDANTS et les familles, je garantirai le droit au répit et créerai un panier de services publics « Bien Vivre » accessible pour tous à moins de 30 minutes : accueil de jour Alzheimer, EHPAD avec places accessibles, service de soins à domicile.</p>"
+      ref = "Faire battre le coeur de la France - 03/2017"
+      link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+      tldr = "Création d'une allocation « Bien Vivre en EHPAD », augmenterai le nombre d’aide-soignants en EPHAD."
+
+      [categories.list.us]
+      quote = "
+      <p>Réduire le reste à charge de 500 euros par mois pour les personnes en établissement et augmenter de 50 % le montant de l'APA (aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées.</p>
+      <p>Construire une prise en charge solidaire de la dépendance, financée par une mise à contribution des revenus immobiliers et des successions sur les gros patrimoines.</p>
+      <p>Développer un réseau public de maisons de retraite avec des tarifs harmonisés et accessibles, créer 10 000 places par an en EHPAD publics pendant cinq ans.</p>
+      <p>Former, qualifier et recruter en nombre suffisant le personnel nécessaire, soit au moins 100 000 personnes.</p>
+      <p>Refondre les grilles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie.</p>"
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s71"
+      tldr = "Faire face collectivement au vieillissement de la population et à la perte d'autonomie."
+
+  [[categories.list]]
+    title = "Revalorisation des petites retraites"
+
+    [categories.list.them]
+    quote = "Augmentation de 10% du minimum vieillesse, dont plus de la moitié des bénéficiaires sont des femmes seules."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Augmentation de 10% du minimum vieillesse"
+
+    [categories.list.us]
+    quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s31"
+    tldr = "Revaloriser les pensions de retraite au niveau du smic et augmenter le minimum vieillesse."
+
+  [[categories.list]]
+    title = "Droit de mourir dans la dignité"
+
+    [categories.list.them]
+    quote = "J’assurerai un meilleur accès aux SOINS PALLIATIFS. Je garantirai le DROIT À MOURIR DANS LA DIGNITÉ."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Meilleur accès aux soins palliatifs et droit de mourir dans la dignité"
+
+    [categories.list.us]
+    quote = "
+    <p>
+    • Instaurer dans la loi le droit à l’aide à mourir.<br />
+    • Rendre les directives anticipées opposables au corps médical.<br />
+    • Développer les moyens pour l’hôpital public et l’aide sociale : l’effectivité de ce droit et l’absence d’abus dépendent aussi de la qualité du service public de la santé.<br />
+    • Étendre le bénéfice de la pension de réversion au conjoint survivant des couples pacsés.<br />
+    • Le droit à « pourvoir aux funérailles » du partenaire survivant sera sécurisé.
+    </p>
+    "
+    ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
+    link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
+    tldr = "Constitutionnaliser le droit de mourir dans la dignité."
+
+  [[categories.list]]
+    title = "Prestations sociales"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Assurer la continuité des droits personnels hors du contrat de travail (droit à la formation, ancienneté, etc.)</p>
+    <p>Garantir la continuité du revenu en cas de perte d'emploi ou de retrait d'activité, dans le cadre d'une Sécurité sociale professionnelle</p>
+    <p>Donner la liberté aux artisans, commerçants, indépendants, chefs d'entreprises et auto-entrepreneurs de s'affilier au régime général de la Sécurité sociale plutôt qu'au Régime social des indépendants (RSI)</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s26"
+    tldr = "Construire un nouveau statut protecteur pour les travailleurs : la Sécurité sociale intégrale."
+
+  [[categories.list]]
+    title = "Fraude aux prestations sociales"
+
+    [categories.list.them]
+    quote = "Pour protéger la Sécurité sociale, je renforcerai la LUTTE CONTRE LA FRAUDE aux cotisations, le travail dissimulé et les dépenses injustifiées."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Renforcer la lutte contre la fraude aux cotisations."
+
+    [categories.list.us]
+
+  [[categories.list]]
+      title = "Chômage"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s26m3"
+      tldr = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort."
+
+  [[categories.list]]
+    title = "Lutte contre la précarité"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Nous créerons pour toutes les personnes majeures vivant sous le seuil de pauvreté, une garantie dignité de 1 000 € par mois pour une personne seule. Ce dispositif reposera sur le renforcement, l’élargissement et l’automaticité du Revenu de solidarité active (RSA).</p>
+    <p>Créer un Plan personnalisé contre la pauvreté (PPP) prenant en compte la situation des personnes dans leur globalité (revenus, état de santé, insertion professionnelle, logement, etc.).</p>
+    <p>Créer une « garantie dignité » en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté).</p>
+    <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Garantie dignité de 1 000 €/mois pour une personne seule sous le seuil de pauvreté. Restructurer les emprunts des ménages surendettés."
+
+  [[categories.list]]
+    title = "Lutte contre l'exclusion"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Pôle emploi verra ses effectifs augmentés et les départements se verront imposer une obligation de financement des politiques d’insertion. Des lieux d’accueil physique seront ainsi réouverts, en milieu urbain comme en milieu rural.</p>
+    <p>Les structures d’accueil de jour et d’hébergement, aujourd’hui de plus en plus réduites à une seule fonction de mise à l’abri, verront leurs moyens d’accompagnement revalorisés, afin d’aider les personnes, non seulement à survivre, mais à sortir de la  précarité.</p>
+    <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Revaloriser les structures d’accueil de jour et d’hébergement. Apporter un accompagnement global des personnes par un référent unique."
+
+  [[categories.list]]
+    title = "Aides aux jeunes adultes"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s27m1"
+    tldr = "Allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+
+  [[categories.list]]
+    title = "Logement social"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s9m3"
+    tldr = "Constitutionnaliser et rendre effectifs le droit au logement."
+
+  [[categories.list]]
+    title = "Précarité énergétique"
+
+    [categories.list.them]
+    quote = "Nous mettrons en place un BOUCLIER ÉNERGÉTIQUE qui garantira que les ménages habitant les logements les moins bien isolés ne dépenseront pas plus de 10 % de leur revenu dans leur facture d’énergie."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Mettre en place un BOUCLIER ÉNERGÉTIQUE pour les ménages habitant les logements les moins bien isolés"
+
+    [categories.list.us]
+    quote = "Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal."
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne."
+
+  [[categories.list]]
+    title = "Hébergement d'urgence"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Interdire les expulsions locatives sans relogement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s34m1"
+    tldr = "Interdire les expulsions locatives sans relogement."
+
+  [[categories.list]]
+    title = "Position sur l'immigration"
+
+    [categories.list.them]
+    quote = "L’essentiel des migrations internationales ne se fait pas selon un axe Sud-Nord, mais selon un axe Sud-Sud. ...j’instaurerai un VISA HUMANITAIRE pour l’accueil des réfugiés, et l’expérimentation de nouvelles formes de circulation permettant une fluidification des allers-retours pour les migrations de travail."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Instaurer un visa humanitaire pour l'accueil des réfugiés."
+
+    [categories.list.us]
+    quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Respecter la dignité humaine des migrants."
+
+  [[categories.list]]
+    title = "Demande d'asile"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Assouplir les politiques de visas « au titre de l’asile », en veillant notamment à empêcher que les coûts des visas nationaux soient utilisés comme des mesures de dissuasion.</p>
+    <p>Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier.</p>
+    "
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Assouplir les politiques de visas « au titre de l’asile ». Autoriser les demandeurs d'asile à travailler."
+
+  [[categories.list]]
+    title = "Rétention administrative"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "En finir avec le placement en centre de rétention, en priorité pour les enfants."
+
+  [[categories.list]]
+    title = "Naturalisation"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Faciliter l'accès à la nationalité française."
+
+  [[categories.list]]
+    title = "Droit du sol"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s6m1"
+    tldr = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+
+  [[categories.list]]
+    title = "Regroupement familial"
+
+    [categories.list.them]
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "AME"
+
+    [categories.list.them]
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "Fermeture de lieux de cultes"
+
+    [categories.list.them]
+    quote = "Face à la nouvelle menace du terrorisme, la France s’est dotée DE NOUVEAUX MOYENS HUMAINS, FINANCIERS, JURIDIQUES ET TECHNIQUES : création de 9000 postes de policiers et de gendarmes et appel aux réservistes, poursuites pour les personnes ayant participé à des camps d’entraînement terroriste à l’étranger, interdiction du territoire des suspects candidats au djihad, création d’un délit d’entreprise terroriste individuelle, alourdissement des peines, renforcement des contrôles d’accès aux lieux publics et aux transports en commun, <b>fermeture des lieux de culte</b> au sein desquels sont tenus des <b>propos constituant une provocation à la haine</b> ou à la violence..."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Fermeture des lieux de culte au sein desquels sont tenus des propos constituant une provocation à la haine ou à la violence."
+
+    [categories.list.us]
+    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s12"
+    tldr = "Mener une politique antiterroriste rationnelle."
+
+  [[categories.list]]
+    title = "Financement des lieux de cultes"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Refuser les financement publics pour la construction des édifices religieux."
+
+  [[categories.list]]
+    title = "Aumônerie"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Étendre le bénéfice de l'application de la loi de 1905 à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer).</p>
+    <p>Garantir la liberté de conscience et l'égalité de toutes les options spirituelles devant la loi.</p>
+    <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Abroger le concordat. Interdire la présence de ministres et préfets aux cérémonies religieuses."
+
+  [[categories.list]]
+    title = "Communautarisme"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Combattre tous les communautarismes et l'usage politique des religions"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Combattre tous les communautarismes et l'usage politique des religions."
 
 [[categories]]
   id = "territory"
@@ -1361,7 +1910,7 @@ candidat = "Benoît Hamon"
     "
     ref = "Pour des transports écologiques et accessibles - 2017"
     link = "https://avenirencommun.fr/le-livret-transports/"
-    tldr = "Remplacer le transport par camions par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
+    tldr = "Remplacer le transport par camion par plusieurs alternatives comme <strong>ferroutage</strong>, <strong>transport fluvial</strong>, <strong>triporteurs</strong> à assistance électrique ..."
 
   [[categories.list]]
     title = "Autoroutes"
@@ -1437,7 +1986,276 @@ candidat = "Benoît Hamon"
 [[categories]]
   id = "culture"
   title = "Culture et Médias"
-  teasing = true
+
+  [[categories.list]]
+    title = "Anti-concentration / indépendance"
+
+    [categories.list.them]
+    quote = "Je porterai une nouvelle loi anti-concentration pour les médias, créant un statut de média indépendant à but non lucratif et protégeant les sources des journalistes."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Porter une loi <strong>anti-concentration</strong> pour les médias. Créer un statut de <strong>média indépendant</strong> à but <strong>non lucratif</strong>."
+
+    [categories.list.us]
+    quote = "<p>Adopter une loi anti-concentration des médias, protégeant le secteur des intérêts financiers, favorisant la transformation des médias en coopératives de salariés et de lecteurs/auditeurs/téléspectateurs et attribuer des fréquences aux médias locaux et associatifs.</p>
+    <p>Protéger les sources et l'indépendance des rédactions à l'égard des pouvoirs économiques et politiques par le renforcement du statut juridique des rédactions et une charte déontologique dans la convention collective.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s8"
+    tldr = "Adopter une loi <strong>anti-concentration</strong> des médias. Protéger <strong>l'indépendance des rédactions</strong> à l'égard des pouvoirs économiques et politiques."
+
+  [[categories.list]]
+    title = "Médias publics"
+
+    [categories.list.them]
+    quote = "Je veux un service public de l'audiovisuel d’information et de la culture, à l’image de la diversité de la France, en soutien à la création, moteur de l’innovation citoyenne, du rayonnement de la France et indépendant des pouvoirs politique et commercial."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Volonté d'un service public de l'audiovisuel <strong>indépendant</strong> des pouvoirs <strong>politique</strong> et <strong>commercial</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Élire, par le Parlement, les président·e·s de l’audiovisuel public (France Télévision, Radio France, France Médias Monde) à l’issue d’une campagne publique de présentation des candidat·e·s et des projets en compétition.</p>
+    <p>Nous réaffirmerons la volonté politique d’un service public audiovisuel valorisant la création culturelle, le pluralisme démocratique et la diversité.</p>
+    <p>La fonction sociale de la télévision et de la radio ne peut être soumise aux aléas du marché et de la finance.</p>
+    <p>Les nouveaux usages de la télévision et la convergence des médias, sur de nouveaux supports, comme les box, les tablettes, les smartphones, appellent à la définition d’un cadre réglementaire capable de résister à l’émergence de quelques monopoles, tant anglo-saxons que français, dans la production et la circulation de programmes.</p>
+    "
+    ref = "Des médias au service du peuple - 2017"
+    link = "https://avenirencommun.fr/le-livret-medias"
+    tldr = "<strong>Élection</strong> des président·e·s de l’audiovisuel public par le Parlement. Valorisation de la <strong>création culturelle</strong> et du <strong>pluralisme démocratique</strong>."
+
+  [[categories.list]]
+    title = "Budget de la Culture"
+
+    [categories.list.them]
+    quote = "Je porterai l’EFFORT PUBLIC À 1 % DU PIB, en créant un ministère de la Culture, des Médias et du Temps libre, et en soutenant le réengagement des collectivités locales pour lutter contre les inégalités entre les territoires."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Porter l'effort public à <strong>1% du PIB</strong>."
+
+    [categories.list.us]
+    quote = "<p>Porter le budget consacré à l'art, à la culture et à la création à 1 % du PIB chaque année pour :<br />
+    • Pérenniser le régime des intermittents du spectacle sur la base de l'accord du 28 avril 2016 et l'étendre aux professions artistiques précaires<br />
+    • Soutenir la création, le spectacle vivant, et l'appropriation par tous des œuvres et pratiques culturelles, et ce par le renouveau de l'éducation artistique à l'école et dans les conservatoires, de l'éducation populaire et de la culture en entreprise </p>
+    <p>Note : Avec cette mesure, le budget 2017 de la culture aurait été de 21.18 milliards d'euros (en prenant le PIB de 2016 de 2 118 milliards d'euros), contre les 7,701 milliards actuellement.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "Porter le budget de la Culture à <strong>1 % du PIB</strong> chaque année."
+
+  [[categories.list]]
+    title = "Musées"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Étendre la <strong>gratuité</strong> des musées recevant des subventions publiques nationales."
+
+  [[categories.list]]
+    title = "Lieux culturels"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Mettre les associations au coeur de l’action culturelle sur tout le territoire dans l'espace public. Leur donner par des conventionnements durables les moyens financiers adaptés afin de remédier à l'absence d'équipements culturels.</p>
+    <p>Jumeler tous les établissements (écoles, collèges, lycées) avec des établissements culturels, dans des projets profitant à tou·te·s les élèves et encourager les pratiques artistiques collectives ; favoriser la médiation socioculturelle dans ces établissements.</p>
+    <p>Favoriser et promouvoir la médiation culturelle dans l’ensemble des lieux patrimoniaux et institutions culturelles subventionnés (musées, orchestres, théâtres, etc.), notamment en leur faisant obligation de recourir à des guidesconférencier·e·s diplômé·e·s et titulaires de la carte professionnelle. Encourager, dans les critères de subvention, la co-construction de la programmation culturelle avec les publics pour une participation active de chacun·e à la vie sociale et culturelle.</p>
+    <p>Défendre le maillage national des bibliothèques et médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Mettre les <strong>associations</strong> au coeur de l’action culturelle. Jumeler tous les <strong>établissements scolaires</strong> avec des <strong>établissements culturels</strong>. Défendre le maillage national des bibliothèques et médiathèques et <strong>garantir leur budget</strong>."
+
+  [[categories.list]]
+    title = "Éducation artistique"
+
+    [categories.list.them]
+    quote = "Je lancerai un plan pour les arts à l'école : en inscrivant et en accompagnant tous les enfants de CP dans une bibliothèque, en développant les pratiques musicales collectives, l’éducation à l’image et en renforçant la présence des artistes dans les écoles, collèges et lycées."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Développer les pratiques musicales collectives et la présence des artistes en <strong>milieu scolaire</strong>."
+
+    [categories.list.us]
+    quote = "<p>Faire de l'éducation artistique une vraie priorité de la maternelle à l'université, jusqu'en entreprise. La mettre dans toute sa diversité et dans ses trois dimensions au coeur de l'enseignement artistique (fréquentation des oeuvres, pratique, acquisition des connaissances).</p>
+    <p>Transformer l’enseignement artistique supérieur en véritable service public national : sortir les écoles d’art et les conservatoires de musique et de danse du statut inadapté d’Établissement public de coopération culturelle (EPCC). L’État définira les programmes et les règles applicables aux personnels.</p>
+    <p>Soutenir les conservatoires de musique, de danse et d'art dramatique dans leur mission d'ouverture à tous les publics et en créer de nouveaux. Mettre fin à la précarité des enseignant·e·s de ces établissements.</p>
+    <p>Développer une filière de la création numérique dans l'enseignement professionnel.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Faire de l'éducation artistique une <strong>vraie priorité</strong>. Soutenir les <strong>conservatoires</strong>. Développer une filière de la <strong>création numérique</strong> dans l'enseignement professionnel."
+
+  [[categories.list]]
+    title = "Intermittents"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "<p>Pérenniser le régime des intermittent·e·s du spectacle sur la base de l’accord du 28 avril 2016. Il est une garantie de la liberté de création de celles et ceux qui y cotisent.</p>
+    <p>Étendre ce régime aux professions artistiques précaires, dont les artistes visuels.</p>"
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "<strong>Pérenniser</strong> le régime des intermittent·e·s et <strong>l'étendre</strong> aux professions <strong>artistiques précaires</strong>."
+
+  [[categories.list]]
+    title = "Domaine public commun"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Instituer un domaine public commun constitué de l'ensemble des oeuvres qui désormais ne seront plus soumises aux droits d'auteur, afin de participer au financement du régime de sécurité sociale pour les artistes précaires."
+    ref = "Les arts insoumis, la culture en commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-culture/"
+    tldr = "Financer une <strong>sécurité sociale pour les artistes</strong> par une cotisation sur la vente d'œuvres du domaine public."
+
+  [[categories.list]]
+    title = "Défense de la francophonie"
+
+    [categories.list.them]
+    quote = "Parce que partager une même langue est un atout exceptionnel, culturel, scientifique et économique dans le monde d’aujourd’hui, je defendrai la francophonie."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Défendre</strong> la francophonie."
+
+    [categories.list.us]
+    quote = "
+    <p>Réorganiser les institutions de la francophonie en agissant pour son recentrage sur la défense, le rayonnement de la langue et son usage commun.</p>
+    <p>Renforcer la présence des auteurs francophones ultra-marins et étrangers dans les programmes scolaires.</p>
+    <p>Élaborer des contenus éducatifs et des diplômes communs entre pays francophones.</p>
+    <p>Développer au moins une revue scientifique internationale digne de ce nom en français.</p>
+    <p>Défendre l'usage du français dans les institutions internationales à commencer par l'Union Européenne.</p>
+    <p>Renforcer les médias audiovisuels francophones (RFI, France 24 et TV5 Monde) et les mettre en partage avec la communauté francophone.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mettre en valeur, <strong>diffuser</strong> et <strong>multiplier</strong> les usages du français et les liens entre ceux qui l'ont en usage commun."
+
+  [[categories.list]]
+    title = "Programme d'échange francophone"
+
+    [categories.list.them]
+    quote = "Pour cultiver le sentiment d’appartenance à la francophonie, je proposerai un visa francophone pour les étudiants, les chercheurs, les chefs d’entreprise et les artistes."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Création d'un <strong>VISA francophone</strong> pour les étudiants."
+
+    [categories.list.us]
+    quote = "<p>A l'intérieur de l’espace francophone, mettre en place progressivement un visa privilégié permettant la libre circulation en son sein des artistes, des universitaires, des chercheur·se·s, des ingénieur·e·s, des acteur·trice·s économiques et des étudiant·e·s. Comme première concrétisation de ce projet, créer un programme de mobilité étudiante francophone du type Erasmus ; établir un fonds commun des pays francophones en faveur du financement de ce programme.
+    </p>
+    <p>Renforcer le réseau des Instituts/Alliances français dans les pays non francophones et planifier les échanges d'étudiants et de lycéens</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s64"
+    tldr = "Mise en place d'un <strong>VISA francophone</strong> privilégié. Renforcer le réseau des Instituts/Alliances français."
+
+  [[categories.list]]
+    title = "Hadopi"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Supprimer la Hadopi, qui n'a pas fonctionné, et mettre en place un nouveau cadre du partage numérique de la culture par :<br />
+    • L'instauration d'une cotisation universelle sur les abonnements internet, finançant la création et ouvrant droit en contrepartie au téléchargement non marchand.<br />
+    • La création d'un service public nouveau de l'internet et d'une médiathèque publique en ligne, avec une plate-forme publique d'offre légale en ligne de musique, films et contenus culturels.</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s77"
+    tldr = "<strong>Supprimer Hadopi</strong>. Mettre enn place une <strong>cotisation universelle</strong> sur les abonnements internet ouvrant droit en contrepartie au téléchargement <strong>non marchand</strong> via une médiathèque publique en ligne."
+
+  [[categories.list]]
+    title = "Protection des données personnelles"
+
+    [categories.list.them]
+    quote = "Nous protégerons les données personnelles et garantirons la loyauté des algorithmes"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Protection des données personnelles</strong> et garantie de la loyauté des algorithmes."
+
+    [categories.list.us]
+    quote = "Protéger les données personnelles contre leur utilisation mercantile"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83"
+    tldr = "<strong>Protéger les données personnelles</strong> contre leur utilisation mercantile."
+
+  [[categories.list]]
+    title = "Généraliser la pratique sportive"
+
+    [categories.list.them]
+    quote = "
+    <p>Je mettrai en œuvre un plan de DÉVELOPPEMENT DE LA PRATIQUE D’ACTIVITÉS PHYSIQUES ET SPORTIVES à tous les âges de la vie.</p>
+    <p>Je soutiendrai le développement du SPORT-SANTÉ EN ENTREPRISE, en lien avec les partenaires sociaux.</p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Développement du sport <strong>en entreprise</strong> et à <strong>tous les âges</strong> de la vie."
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport comme moyen d’insertion professionnelle et soutenir toutes les initiatives visant à faire du sport un vecteur de réinsertion des jeunes en difficulté en termes d’accès au travail, en s’appuyant sur des acteur·trice·s associatif·ve·s et privé·e·s, et veiller à ce que ces dispositifs fassent une large part au public féminin et aux publics en situation de handicap.</p>
+    <p>Favoriser la gratuité pour les populations modestes et promouvoir la fixation des coûts d’accès en fonction des revenus et de la taille des familles.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Favoriser la gratuité pour les <strong>populations modestes</strong> et l'accès au <strong>public féminin</strong> et en situation de <strong>handicap</strong>."
+
+  [[categories.list]]
+    title = "Infrastructures sportives"
+
+    [categories.list.them]
+    quote = "
+    <p>Pour lutter contre le manque d’activité physique dès le plus jeune âge, je multiplierai le nombre d’ÉQUIPEMENTS SPORTIFS LÉGERS de proximité dans et aux abords des écoles.</p>
+    <p>Je soutiendrai la candidature de Paris aux JEUX OLYMPIQUES ET PARALYMPIQUES de 2024.</p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Soutien de la <strong>candidature de Paris</strong> aux jeux olympiques et paralympiques de 2024."
+
+    [categories.list.us]
+    quote = "Élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs (stades, piscines et gymnases notamment), en partenariat avec les collectivités territoriales (dont les dotations seront « dégelées ») et dans le respect de normes environnementales fortes, pour réduire les inégalités et stopper la concurrence entre les territoires."
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Élaborer un plan national d’urgence pour la <strong>construction</strong> et la <strong>rénovation</strong> des équipements sportifs."
+
+  [[categories.list]]
+    title = "Encadrement sportif"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Réaffirmer le rôle des professeurs d'EPS dans la transmission d'une éducation physique obligatoire pour toutes et tous.</p>
+    <p>Recruter des éducateur·trice·s physiques ou sportif·ve·s en nombre suffisant afin d’assurer les missions de rééquilibrage des territoires, de garantir l’accessibilité de la pratique sportive et la structuration pérenne des  associations.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Recruter des <strong>intervenants sportifs</strong> et réaffirmer l'importance de leur rôle à l'école et dans les associations."
+
+  [[categories.list]]
+    title = "Sport-Santé"
+
+    [categories.list.them]
+    quote = "Je soutiendrai le développement du sport-santé en entreprise, en lien avec les partenaires sociaux."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "Développer le sport-santé en <strong>entreprise</strong>."
+
+    [categories.list.us]
+    quote = "
+    <p>Développer le sport-santé et l’activité physique adaptée sur ordonnance en formant les médecins.</p>
+    <p>Inciter au développement de la pratique de l’activité physique au sein des entreprises et sur les lieux de travail en général.</p>"
+    ref = "Le livret Sport - 2017"
+    link = "https://avenirencommun.fr/le-livret-sport/"
+    tldr = "Développer le sport-santé et la pratique de l’activité physique au <strong>sein des entreprises</strong>."
+
+  [[categories.list]]
+    title = "Sport de haut niveau"
+
+    [categories.list.them]
+    quote = "Pour développer le sport de haut niveau, je rendrai systématiques les horaires aménagés dans tous les cursus scolaires et universitaires et soutiendrai la recherche et le développement dans les nouvelles technologies du sport."
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf"
+    tldr = "<strong>Horaires aménagés</strong> dans les <strong>cursus scolaire</strong> pour développer le sport de haut niveau."
+
+    [categories.list.us]
+    quote = "Renforcer les liens de solidarité entre le sport pour tous et le sport de haut niveau, entre les secteurs amateur et professionnel, augmenter la taxation sur les retransmissions sportives à la télévision (taxe Buffet), pour financer le sport amateur, démocratiser la gestion des fédérations sportives et assurer la souveraineté des licenciés sur leur fédération."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s78"
+    tldr = "Renforcer les liens de solidarité entre le <strong>sport pour tous</strong> et le <strong>sport de haut niveau</strong>, <strong>démocratiser</strong> la gestion des fédérations sportives."
 
 [[categories]]
   id = "taxation"
