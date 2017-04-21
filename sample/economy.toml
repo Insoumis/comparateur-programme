@@ -3,43 +3,13 @@
   title = "Économie"
 
   [[categories.list]]
-    title = "Partenariats Public Privé"
-
-    [[categories.list.us]]
-    quote = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours"
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s16m4"
-    tldr = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours."
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
     title = "Réindustrialisation"
 
     [[categories.list.us]]
     quote = "Réindustrialiser le pays par l'investissement, le rétablissement de plans de filières pour coordonner donneurs d'ordres et sous-traitants, clients et fournisseurs (par exemple SNCF et Alstom pour la filière ferroviaire, etc.), la création de pôles publics dans l'énergie ou les transports, la défense des industries stratégiques et la reconstruction de conglomérats combinant plusieurs activités"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s18m4"
-    tldr = "Réindustrialiser le pays par l'investissement, le rétablissement de plans de filières, la création de pôles publics dans l'énergie ou les transports, la défense des industries stratégiques et la reconstruction de conglomérats combinant plusieurs activités"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Économie Sociale et Solidaire"
-
-    [[categories.list.us]]
-    quote = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s22m2"
-    tldr = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+    tldr = "<strong>Réindustrialiser</strong> le pays par l'<strong>investissement</strong>."
 
     [categories.list.them]
     quote = ""
@@ -51,27 +21,12 @@
     title = "Dette"
 
     [[categories.list.us]]
-    quote = "<p>Refuser le chantage à la dette publique<br />
+    quote = "Refuser le chantage à la dette publique<br />
     • Réaliser un audit citoyen de la dette publique pour déterminer la part illégitime et préparer un réaménagement négocié (échelonnement des remboursements, baisse des taux d'intérêt, annulation partielle…)<br />
-    • Faire racheter la dette publique par la Banque centrale<br />"
+    • Faire racheter la dette publique par la Banque centrale"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s35"
-    tldr = "Réaliser un audit citoyen de la dette publique. Faire racheter la dette publique par la Banque centrale"
-
-    [categories.list.them]
-    quote = ""
-    ref = ""
-    link = ""
-    tldr = ""
-
-  [[categories.list]]
-    title = "Aide publique au développement"
-
-    [[categories.list.us]]
-    quote = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
-    ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s62m2"
-    tldr = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
+    tldr = "Réaliser un <strong>audit</strong> citoyen de la dette publique. Faire racheter la dette publique par la <strong>Banque centrale</strong>."
 
     [categories.list.them]
     quote = ""
@@ -86,7 +41,7 @@
     quote = "Séparer les banques d'affaires et de détail"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s19m2"
-    tldr = "Séparer les banques d'affaires et de détail."
+    tldr = "Séparer les banques d'<strong>affaires</strong> et de <strong>détail</strong>."
 
     [categories.list.them]
     quote = ""
@@ -95,13 +50,13 @@
     tldr = ""
 
   [[categories.list]]
-    title = "Licence bancaire à BPI France"
+    title = "Licence bancaire à la BPI"
 
     [[categories.list.us]]
     quote = "Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale."
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s21m2"
-    tldr = "Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance)"
+    tldr = "Accorder une licence bancaire à la Banque publique d'investissement."
 
     [categories.list.them]
     quote = ""
@@ -114,12 +69,11 @@
 
     [[categories.list.us]]
     quote = "
-    <p>Contrôler les mouvements de capitaux</p>
-    <p>Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France</p>
+    Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France
     "
     ref = "L'Avenir En Commun - 01/12/2016"
-    link = "https://laec.fr/s19m2 | https://laec.fr/s49m6" # FIXME: deux liens
-    tldr = "Contrôler les mouvements de capitaux."
+    link = "https://laec.fr/s49m6"
+    tldr = "<strong>Contrôler</strong> les mouvements de capitaux."
 
     [categories.list.them]
     quote = ""
@@ -127,7 +81,52 @@
     link = ""
     tldr = ""
 
-[[categories.list]]
+  [[categories.list]]
+    title = "Partenariats Public Privé"
+
+    [[categories.list.us]]
+    quote = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s16m4"
+    tldr = "Décrêter un <strong>moratoire</strong> sur les partenariats public-privé (PPP), <strong>abroger</strong> les dispositions législatives les permettant et pratiquer un <strong>audit</strong> de ceux qui sont en cours."
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Économie Sociale et Solidaire"
+
+    [[categories.list.us]]
+    quote = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m2"
+    tldr = "<strong>Généraliser</strong> l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
+    title = "Aide publique au développement"
+
+    [[categories.list.us]]
+    quote = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m2"
+    tldr = "Tenir enfin l'objectif de consacrer <strong>0,7 %</strong> du revenu national brut au budget de l'aide publique au développement."
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+  [[categories.list]]
     title = "Révolution numérique"
 
     [categories.list.us]
@@ -139,7 +138,7 @@
     </p>"
     ref = "L'Avenir En Commun - 01/12/2016"
     link = "https://laec.fr/s83m1"
-    tldr = "Affirmer le caractère d'intérêt général de la révolution numérique."
+    tldr = "Affirmer le caractère d'<strong>intérêt général</strong> de la révolution numérique."
 
     [categories.list.them]
     quote = ""
