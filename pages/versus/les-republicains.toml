@@ -1235,6 +1235,624 @@ candidat = "François Fillon"
   title = "Société"
   teasing = true
 
+  # FIXME: le point "laïcité" n'est pas inclus ?
+
+  [[categories.list]]
+    title = "Politique sanitaire"
+
+    # NOTE: ci-dessous le contenu de la catégorie "Santé"
+    [categories.list.them]
+    quote = "Ramener l’assurance maladie à l’équilibre d’ici à 2022 en faisant 20 Mds€ d’économies en 5 ans, en luttant contre toutes les sources de « non-qualité » du système de santé : soins redondants ou inutiles, nonobservance des prescriptions, maintien en activité d’établissement de faible qualité, mauvaise coordination des soins, recours excessif à l’hôpital, prévention insuffisante, fraudes et abus, bureaucratie excessive."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Lutter contre toutes les sources de « non-qualité » du système de santé pour faire des économies."
+
+    [categories.list.us]
+    quote = "
+    <p>Instaurer une politique de santé publique et de prévention :<br />
+    • Élaborer un plan de santé environnementale (lutte contre la pollution, interdiction des pesticides…)<br />
+    • Engager un plan de santé au travail, implanter un réseau sans faille de médecine du travail<br />
+    • Éradiquer les maladies chroniques liées à l'alimentation : lutte drastique contre l'obésité, contre la malbouffe et les abus de sel, sucre et graisses par l'industrie agro-alimentaire…<br />
+    • Abolir le logement insalubre et lutter contre le mal-logement et leurs conséquences sanitaires<br />
+    • Faire de la prévention et de l'éducation à la santé dès le plus jeune âge, en renforçant la médecine scolaire et la Protection maternelle et infantile<br />
+    • Imposer un plan de lutte et de prévention contre les maladies sexuellement transmissibles et promouvoir des politiques de santé sexuelle et reproductive émancipatrices des personnes.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67"
+    tldr = "Plan de santé environnementale. Réseau sans faille de médecine du travail. Éradication des maladies liées à l'alimentation. Prévention et éducation à la santé dès le plus jeune âge."
+
+  [[categories.list]]
+    title = "Remboursement des soins"
+
+    [categories.list.them]
+    quote = "<p>D’ici à 2022, viser un «reste à charge» zéro pour les dépenses de santé les plus coûteuses pour les ménages (optique pour les adultes, prothèses dentaires, audioprothèses et dépassements d’honoraires), grâce à un nouveau partenariat entre la Sécurité sociale et les organismes complémentaires. Pour les dépassements, revenir sur le plafonnement du remboursement dans les contrats des complémentaires qui a dégradé les remboursements pour les assurés.</p>
+    <p>Demander à l’assurance maladie de rembourser la totalité du coût de lunettes de qualité pour tous les enfants de France, pour qu’aucun enfant ne soit handicapé dans sa scolarité si sa famille n’a pas les moyens suffisants pour lui acheter une paire de lunettes.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Viser un « reste à charge » zéro d'ici 2022 <b>pour les dépenses de santé les plus coûteuses</b> par un nouveau partenariat avec les mutuelles. Déplafonner les <b>dépassements d'honoraires</b> par les <b>complémentaires de santé.</b>"
+
+    [categories.list.us]
+    quote = "
+    <p>Rembourser à 100% les soins de santé prescrits, dont les soins et appareils dentaires, optiques et auditifs, faire baisser les tarifs des lunettes et appareils auditifs</p>
+    <p>Le passage au 100 % Sécu, c’est la garantie d’une prise en charge intégrale par l’Assurance maladie des dépenses de santé. Une telle mesure est :<br />
+    • Solidaire : l’Assurance  maladie propose le même niveau de couverture pour tous et est financée par des cotisations sociales et la CSG, proportionnelles aux salaires.<br />
+    • Efficace : cette mesure permettra de supprimer les 7 Mds € de frais de gestion qui ne contribuent en rien à la santé de la population. C’est aussi une mesure qui simplifiera la vie des usagers.<br />
+    • Simple à financer : la transformation des primes versées aux complémentaires en cotisations sociales, les économies réalisées sur les frais de gestion, la suppression des dépassements d’honoraires et la régulation de prix aujourd’hui excessifs (médicaments, optique, dentaire),   permettent de financer aisément cette mesure.</p>
+    <p>Le 100 % Sécu ne se traduira par aucun licenciement :
+    Les salariés des complémentaires dont les activités sont concernées par le « 100 % Sécu » se verront proposer une intégration au sein de l’Assurance maladie.<br />
+    Les mutuelles pourront réorienter leurs autres salariés et leurs réserves financières vers les mutuelles dites du Livre III (les centres de santé mutualistes, par exemple), au lieu d’être enclines à les sacrifier, comme actuellement.</p>"
+    ref = "La santé, notre bien commun - 2017"
+    link = "https://avenirencommun.fr/le-livret-sante/"
+    tldr = "Rembourser à 100% par la Sécurité Sociale intégrale les soins de santé prescrits, appareils dentaires, optiques et auditifs."
+
+  [[categories.list]]
+    title = "Dépassement d'honoraires / Tiers payant"
+
+    [categories.list.them]
+    quote = "Abroger l’article 83 de la loi Touraine sur l’obligation d’appliquer le tiers payant, pour ne pas alourdir encore davantage les tâches administratives des médecins et leur redonner du temps médical au service des malades."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Abroger l’obligation pour les médecins d’appliquer le tiers payant."
+
+    [categories.list.us]
+    quote = "<p>Le développement massif de centres de santé locaux et pluri-professionnels.<br />
+    Cela encouragera l’exercice des soins primaires en équipes (médecins, infirmières, kinésithérapeutes, diététiciens, médiateurs de santé, etc.) entretenant des liens étroits avec les hôpitaux publics. Les professionnels y seront salariés et ces centres pourront être organisés sous la forme juridique de sociétés coopératives d’intérêt collectif (SCIC) ou d’établissements publics, et gérés, selon les lieux, par la Sécurité sociale, les établissements hospitaliers, les mutuelles du livre III du Code de la Mutualité ou les collectivités territoriales.<br />
+    La prévention et la prise en charge des malades chroniques y seront des priorités. Ces centres seront aussi des lieux de formation privilégiés pour les étudiants se destinant à l’exercice des soins primaires.<br />
+    • L’interdiction des dépassements d’honoraires qui s’inscrira dans une réforme plus profonde visant à réduire la place du paiement à l’acte.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67m3"
+    tldr = "Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant."
+
+  [[categories.list]]
+    title = "Médicaments"
+
+    [categories.list.them]
+    quote = "Favoriser une mise à disposition rapide et le remboursement des médicaments innovants pour les malades. Vérifier, dans la durée, l’efficacité de ces médicaments pour être sûr qu’ils apportent bien la valeur promise et que leur prix, souvent élevé, est justifié."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Favoriser la mise à disposition et le remboursement des médicaments innovants. Vérifier leur efficacité."
+
+    [categories.list.us]
+    quote = "Créer un pôle public du médicament pour faciliter l'égal accès aux traitements, protéger la recherche de la finance et supprimer l'influence des entreprises privées dans les activités médicales et hospitalières, notamment par l'arrêt de l'accès libre des visiteurs médicaux à l'hôpital public."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s67"
+    tldr = "Faciliter l'accès aux traitements par la création d'un pôle public du médicament."
+
+  [[categories.list]]
+    title = "Contraception, IVG, Grossesse, Accouchement"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>Permettre un accès à la contraception et à l’avortement garanti dans les faits (remboursement  intégral  de  tous  les  moyens  de  contraception). Remise des pilules d’urgence par les infirmières des établissements scolaires.</p>
+    <p>Constitutionnaliser  le  droit  à  l’intégrité  physique,  incluant  l’interdiction  de  marchandisation du corps humain et la garantie du droit à la contraception et à l’interruption volontaire de grossesse.</p>
+    <p>Ouverture  d’un centre IVG dans chaque hôpital.</p>
+    <p>Garantir une prise en charge digne pendant la grossesse et l’accouchement.</p>
+    "
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Accès à la contraception garanti et gratuit. Droit à l'IVG garanti dans les faits et ajouté à la Constitution. Prise en charge digne de la grossesse garantie."
+
+    [[categories.list]]
+      title = "Procréation Médicalement Assistée"
+
+      [categories.list.them]
+      quote = "Préserver le cadre juridique défini par les lois de bioéthique de 1994, révisées en 2011 : la procréation médicalement assistée (PMA) restera interdite aux couples de femmes et aux femmes seules"
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "Interdire la PMA aux femmes seules et aux couples de femmes."
+
+      [categories.list.us]
+      quote = "Reconnaître le droit à la procréation médicalement assistée (PMA) pour toutes les femmes."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5"
+      tldr = "Reconnaître le droit à la Procréation Médicalement Assistée pour toutes les femmes."
+
+    [[categories.list]]
+      title = "Gestation Pour Autrui"
+
+      [categories.list.them]
+      quote = "La gestation pour autrui (GPA, « mères porteuses ») restera interdite à tous et les sanctions pénales sur le recours ou la promotion de la GPA seront renforcées. Le gouvernement luttera contre les détournements de procédure FAMILLE FILLON2017 par le biais de conventions signées avec les pays autorisant l’une ou l’autre de ces  pratiques. Une action au niveau international sera par ailleurs menée en faveur de l’abolition de la GPA."
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "La gestation pour autrui (GPA, « mères porteuses ») restera interdite à tous."
+
+      [categories.list.us]
+      quote = "Refuser la gestation pour autrui (GPA), faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s5m3"
+      tldr = "Refuser la Gestation Pour Autrui mais faire prévaloir l'intérêt supérieur de l'enfant en toutes circonstances."
+
+  [[categories.list]]
+    title = "Petite enfance"
+
+    [categories.list.them]
+    quote = "<p>Garantir la liberté des familles dans le choix des modes d’accueil de la petite enfance. Les formules de garde souples seront privilégiées et les maisons d’assistantes maternelles seront développées ainsi que les micro-crèches.</p>
+    <p>Simplifier la règlementation relative aux crèches et aux halte garderies, qui complique aujourd’hui la création de places et en augmente le coût. Inciter à la flexibilisation des horaires des structures de garde.</p>
+    <p>Favoriser l’accès prioritaire aux crèches et aux logements sociaux pour les femmes isolées.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Liberté de choix sur le mode d'accueil de la petite enfance"
+
+    [categories.list.us]
+    quote = "Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s72m2"
+    tldr = "Ouvrir 500 000 places en crèche et modes de garde adaptés."
+
+  [[categories.list]]
+      title = "Allocations familiales"
+
+      [categories.list.them]
+      quote = "Rétablir l’universalité des allocations familiales, pour rendre son efficacité à notre politique familiale."
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "Abroger la mise sous condition de ressources des allocations familiales."
+
+      [categories.list.us]
+      quote = "Verser une allocation familiale dès le premier enfant."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s72m1"
+      tldr = "Verser une allocation familiale dès le premier enfant."
+
+  [[categories.list]]
+      title = "Inégalités homme-femme travail"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "
+      <p>Partout dans le monde, les femmes subissent l’oppression et la domination masculines. En France, l’écart salarial moyen est de 26 % et la retraite des femmes est inférieure de 40 % à celle des hommes. La domination patriarcale s’exprime d’abord dans ses conditions sociales et économiques. Ainsi, nous lutterons contre les diverses formes de précarité et améliorerons les conditions de vie de toutes et tous, et donc des femmes.</p>
+      <p>
+      • Étendre à toutes les entreprises l'obligation d'adopter un plan ou un accord d'entreprise contre les inégalités de salaires et de carrière entre hommes et femmes, aujourd'hui limitée aux entreprises de plus de 50 salariés.<br />
+      • Augmenter les sanctions financières et pénales contre les entreprises qui ne respectent pas cette égalité, pouvant aller jusqu'à l'interdiction d'accès aux marchés publics.<br />
+      • Revaloriser les métiers occupés majoritairement par des femmes (qualifications, grilles salariales…) et agir pour l'égal accès à toutes les formations et à tous les métiers.<br />
+      • Favoriser des congés parentaux de durée identique entre les parents.
+      </p>
+      "
+      ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+      link = "https://avenirencommun.fr/livret-de-legalite/"
+      tldr = "Obligation d'adopter un plan de luttes contre les inégalités dans toutes les entreprises. Augments les sanctions financières et pénales. Favoriser les congés parentaux de durée identique entre les parents."
+
+  [[categories.list]]
+    title = "Violences faites aux femmes"
+
+    [categories.list.them]
+    quote = "<p>
+    • Développer l’hébergement d’urgence à destination des femmes victimes de violences : initier un recensement du nombre de places disponibles, affirmer le principe d’un fonds réservataire de 2% pour les femmes victimes de violences, quand l’Etat est bailleur de logements sociaux.<br />
+    • Encourager les femmes à porter plainte et mettre en place un cadre sécurisant. Faire en sorte qu’il y ait un référent formé dans chaque commissariat de police et dans chaque gendarmerie pour accueillir les femmes qui viennent porter plainte pour agression sexuelle ou viol. <br />
+    • Sanctionner d’une amende aggravée toutes les incivilités commises à l’égard des femmes dans l’espace public et les transports en commun (insultes, harcèlement de rue…).
+    </p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Renforcer les dispositifs de lutte contre tous les types de violences faites aux femmes."
+
+    [categories.list.us]
+    quote = "
+    <p>Le second pan d’une politique féministe assumée est de combattre les violences faites aux femmes. Elles sont systémiques et se retrouvent dans tous les milieux sociaux. Il est urgent de les combattre avec fermeté et de permettre aux victimes de faire valoir leurs droits dans les meilleures conditions.</p>
+    <p>
+    • Renforcer la politique de logements prioritaires et d’hébergements d’urgence pour les femmes en danger.<br />
+    • Organiser  des  campagnes  d’information  et  de  sensibilisation  permanentes<br />
+    • Assurer une formation spécifique et obligatoire en matière de prévention pour tou·te·s les professionnel·le·s concerné·e·s (santé, police, justice, éducation nationale, services sociaux) et mettre en place une antenne spécialisée dans la réception de plaintes pour violences sexistes et sexuelles dans tous les commissariats.<br />
+    • Mettre en œuvre un plan de lutte contre les violences sexistes et sexuelles au travail.<br />
+    • Octroyer le statut de réfugiée pour toute femme demandant l’asile parce que victime de violences sexistes, sexuelles ou lesbophobes.<br />
+    • Interdire  les  déqualifications  des  violences  sexuelles.<br />
+    • Abolir le principe de prescription pour les crimes à caractère sexuel.<br />
+    • Développer un plan de lutte contre le harcèlement de rue et dans les transports.<br />
+    • Mettre en œuvre une politique réelle de lutte contre les violences liées à la prostitution.
+    </p>"
+    ref = "Égalité femmes – hommes : abolir le patriarcat - 2017"
+    link = "https://avenirencommun.fr/livret-de-legalite/"
+    tldr = "Renforcer l'hébergement d'urgence. Statut de réfugiée spécifique aux victimes de violences sexistes, sexuelles ou lesbophobes. Abolir le principe de prescription pour les crimes à caractère sexuel. Lutte contre les violences sexistes et sexuelles au travail et liées à la prostitution."
+
+  [[categories.list]]
+    title = "Changement d'état civil"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s5"
+    tldr = "Autoriser le changement d'état civil libre et gratuit devant un officier d'état civil."
+
+  [[categories.list]]
+      title = "Zéro obstacle"
+
+      [categories.list.them]
+      quote = "Garantir la mise en oeuvre effective de l’accessibilité fixée par la loi. Tout espace public doit être accessible aux personnes en situation de handicap. L’accès aux transports en commun sera facilité. L’allégement des normes d’habitabilité et d’accessibilité sur les logements neufs visera à favoriser la modularité des habitats privatifs et à faciliter ainsi l’intégration, ou l’inclusion des personnes en situation de handicap. La mise en oeuvre de ces objectifs sera animée, évaluée, suivie et diffusée dans la transparence par le préfet dans chaque département."
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "Garantir la mise en oeuvre effective de l’accessibilité fixée par la loi."
+
+      [categories.list.us]
+      quote = "Atteindre enfin l'objectif « zéro obstacle » : tolérance zéro contre les entraves, les préfets pourront se substituer aux maires pour imposer les travaux et fermer les bâtiments privés ne respectant pas la loi, et imposer un plan de mise en accessibilité des transports (trains intercités notamment)."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s68"
+      tldr = "Tolérance zéro contre les entraves, fermeture des bâtiments privés ne respectant pas la loi."
+
+  [[categories.list]]
+      title = "Allocation Adulte Handicapé"
+
+      [categories.list.them]
+
+      [categories.list.us]
+      quote = "Augmenter l'allocation aux adultes handicapés (808 euros de base aujourd'hui) au niveau du smic pour les personnes en situation de handicap dans l'incapacité totale de travailler."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s68"
+      tldr = "Augmenter l'allocation aux adultes handicapés au niveau du SMIC."
+
+  [[categories.list]]
+      title = "Dépendance / perte d'autonomie"
+
+      [categories.list.them]
+      quote = "Réduire les inégalités dans le domaine de la santé en modernisant l’offre hospitalière, en soutenant résolument la télémédecine et l’installation de nouveaux médecins, en améliorant la prise en charge des personnes âgées dépendantes et des personnes handicapées."
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "Améliorer la prise en des personnes âgées dépendantes."
+
+      [categories.list.us]
+      quote = "
+      <p>Réduire le reste à charge de 500 euros par mois pour les personnes en établissement et augmenter de 50 % le montant de l'APA (aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées.</p>
+      <p>Construire une prise en charge solidaire de la dépendance, financée par une mise à contribution des revenus immobiliers et des successions sur les gros patrimoines.</p>
+      <p>Développer un réseau public de maisons de retraite avec des tarifs harmonisés et accessibles, créer 10 000 places par an en EHPAD publics pendant cinq ans.</p>
+      <p>Former, qualifier et recruter en nombre suffisant le personnel nécessaire, soit au moins 100 000 personnes.</p>
+      <p>Refondre les grilles de rémunération et de qualifications pour valoriser les métiers de la prise en charge de la perte d'autonomie.</p>"
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s71"
+      tldr = "Faire face collectivement au vieillissement de la population et à la perte d'autonomie."
+
+  [[categories.list]]
+    title = "Revalorisation des petites retraites"
+
+    [categories.list.them]
+    quote = "Revaloriser les retraites inférieures à 1000€ en les augmentant de plus de 300€ par an, et les petites pensions de réversion de 10% (cela bénéficiera à plus de 300 000 veuves et veufs)."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Augmenter les pensions de base de plus de 300€ par an et les pensions de réversion"
+
+    [categories.list.us]
+    quote = "Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s31"
+    tldr = "Revaloriser les pensions de retraite au niveau du smic et augmenter le minimum vieillesse."
+
+  [[categories.list]]
+    title = "Droit de mourir dans la dignité"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "
+    <p>
+    • Instaurer dans la loi le droit à l’aide à mourir.<br />
+    • Rendre les directives anticipées opposables au corps médical.<br />
+    • Développer les moyens pour l’hôpital public et l’aide sociale : l’effectivité de ce droit et l’absence d’abus dépendent aussi de la qualité du service public de la santé.<br />
+    • Étendre le bénéfice de la pension de réversion au conjoint survivant des couples pacsés.<br />
+    • Le droit à « pourvoir aux funérailles » du partenaire survivant sera sécurisé.
+    </p>
+    "
+    ref = "Liberté, égalité, droits nouveaux ! #LGBTI - 2017"
+    link = "https://avenirencommun.fr/livret-droits-nouveaux-lgbti"
+    tldr = "Constitutionnaliser le droit de mourir dans la dignité."
+
+  [[categories.list]]
+    title = "Prestations sociales"
+
+    [categories.list.them]
+    quote = "<p>Regrouper plusieurs aides en une allocation unique : revenu de solidarité active, allocation spécifique de solidarité, prime d’activité, ainsi qu’allocation logement. Le montant maximal alloué sera strictement plafonné afin que les revenus du travail soient toujours supérieurs à ceux de l’assistance.</p>
+    <p>Lier le versement de l’allocation sociale unique à un engagement individuel à se former et à rechercher un emploi. En cas d’efforts insuffisants, l’allocation sera diminuée et suspendue en cas de récidive.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Regrouper les aides en une allocation unique plafonnée sous les revenus du travail conditionnée à la recherche d'un emploi."
+
+    [categories.list.us]
+    quote = "
+    <p>Assurer la continuité des droits personnels hors du contrat de travail (droit à la formation, ancienneté, etc.)</p>
+    <p>Garantir la continuité du revenu en cas de perte d'emploi ou de retrait d'activité, dans le cadre d'une Sécurité sociale professionnelle</p>
+    <p>Donner la liberté aux artisans, commerçants, indépendants, chefs d'entreprises et auto-entrepreneurs de s'affilier au régime général de la Sécurité sociale plutôt qu'au Régime social des indépendants (RSI)</p>
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s26"
+    tldr = "Construire un nouveau statut protecteur pour les travailleurs : la Sécurité sociale intégrale."
+
+  [[categories.list]]
+    title = "Fraude aux prestations sociales"
+
+    [categories.list.them]
+    quote = "Renforcer la lutte contre les fraudes et abus en tout genre qui minent notre système d’assurance maladie : utilisation frauduleuse de cartes Vitale, arrêts maladies injustifiés, fraudes à la CMU–C, prestations fictives de la part de professionnels de santé, fraude à la tarification dans les établissements de santé… En faire une priorité politique, responsabiliser les caisses d’assurance maladie et augmenter fortement les sanctions."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Renforcer la lutte contre les fraudes et abus en tout genre qui minent notre système d’assurance maladie"
+
+    [categories.list.us]
+
+  [[categories.list]]
+      title = "Chômage"
+
+      # NOTE: 3 propositions, inclues les unes à la suite des autres
+      [categories.list.them]
+      quote = "<p>Faciliter le retour à l’emploi des demandeurs d’emplois, en favorisant, sur les listes de demande d’accès aux logements sociaux, les demandeurs d’emplois qui retrouveraient un emploi en dehors de leur bassin de vie.</p>
+      <p>Redresser les comptes de l’Unédic avant la fin de la mandature et engager le remboursement de ses 40 Mds€ de dettes, en invitant les partenaires sociaux à parvenir, à l’automne 2017, à un accord pour le redressement complet des comptes de l’assurance chômage sur le quinquennat. A défaut d’accord, l’Etat prendra ses responsabilités en réformant lui-même la gestion du régime d’assurance chômage.</p>
+      <p>Encourager les démarches d’expérimentation et d’innovation sociale. Les pouvoirs publics appuieront les expérimentations locales conduites dans les territoires telles que celles déployées depuis un an dans le cadre de la loi du 29 février 2016 relative aux territoires zéro chômage de longue durée.</p>"
+      ref = "Mon projet pour la France - 13/03/2017"
+      link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+      tldr = "Favoriser l'accès aux logements sociaux aux demandeurs d'emplois retrouvant un emploi en dehors de leur bassin d'emploi. Inviter les partenaires sociaux à parvenir à un accord sur le redressement complet des comptes de l'assurance chômage à l'automne 2017. Encourager les démarches d’expérimentation sociale en s'appuyant sur la loi du 29 février 2016 relative aux territoires zéro chômage de longue durée."
+
+      [categories.list.us]
+      quote = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort : en cas de chômage de longue durée, l'État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d'intérêt général. L'indemnisation par l'allocation chômage se poursuit jusqu'à ce qu'un tel emploi soit proposé par l'État."
+      ref = "L'Avenir En Commun - 01/12/2016"
+      link = "https://laec.fr/s26m3"
+      tldr = "Établir le « droit opposable à l'emploi » en faisant de l'État l'employeur en dernier ressort."
+
+  [[categories.list]]
+    title = "Lutte contre la précarité"
+
+    # FIXME: ci-dessous le contenu de la catégorie "Pauvreté", mais le contenu de la catégorie "Lutte contre la précarité" semble pertinent aussi.
+    [categories.list.them]
+    quote = "<p>Renforcer la coopération des pouvoirs publics avec le secteur de «l’Economie Sociale et Solidaire» en développant une relation basée sur le principe de conventions partenariales pluriannuelles afin que les nombreuses structures de ce secteur, en particulier celles de l’insertion par l’activité économique, puissent bénéficier d’un soutien stable dans le temps.</p>
+    <p>Encourager toutes les initiatives solidaires de la société civile. Accompagner et soutenir les associations humanitaires, les associations professionnelles, les réseaux de voisinage de proximité ainsi que les entreprises mobilisées dans le social business.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Encourager et accompagner les initiatives solidaires des différents acteurs humanitaires."
+
+    [categories.list.us]
+    quote = "
+    <p>Nous créerons pour toutes les personnes majeures vivant sous le seuil de pauvreté, une garantie dignité de 1 000 € par mois pour une personne seule. Ce dispositif reposera sur le renforcement, l’élargissement et l’automaticité du Revenu de solidarité active (RSA).</p>
+    <p>Créer un Plan personnalisé contre la pauvreté (PPP) prenant en compte la situation des personnes dans leur globalité (revenus, état de santé, insertion professionnelle, logement, etc.).</p>
+    <p>Créer une « garantie dignité » en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté).</p>
+    <p>Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Garantie dignité de 1 000 €/mois pour une personne seule sous le seuil de pauvreté. Restructurer les emprunts des ménages surendettés."
+
+  [[categories.list]]
+    title = "Lutte contre l'exclusion"
+
+    [categories.list.them]
+    quote = ""
+    ref = ""
+    link = ""
+    tldr = ""
+
+    [categories.list.us]
+    quote = "
+    <p>Pôle emploi verra ses effectifs augmentés et les départements se verront imposer une obligation de financement des politiques d’insertion. Des lieux d’accueil physique seront ainsi réouverts, en milieu urbain comme en milieu rural.</p>
+    <p>Les structures d’accueil de jour et d’hébergement, aujourd’hui de plus en plus réduites à une seule fonction de mise à l’abri, verront leurs moyens d’accompagnement revalorisés, afin d’aider les personnes, non seulement à survivre, mais à sortir de la  précarité.</p>
+    <p>Les différentes organisations travailleront systématiquement en partenariats, pour proposer un accompagnement personnalisé et cohérent aux personnes, coordonné par un·e référent·e unique.</p>"
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Revaloriser les structures d’accueil de jour et d’hébergement. Apporter un accompagnement global des personnes par un référent unique."
+
+  [[categories.list]]
+    title = "Aides aux jeunes adultes"
+
+    [categories.list.them]
+    quote = "Mobiliser la Nation en faveur des jeunes confrontés à la pauvreté et à la précarité. La « Garantie Jeunes » sera accordée à tous les jeunes les plus éloignés de l’emploi à la condition qu’ils respectent les termes du Contrat d’insertion qui leur sera proposé par une Mission locale ou par toute autre instance habilitée."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Mobiliser la Nation en faveur des jeunes confrontés à la pauvreté et à la précarité."
+
+    [categories.list.us]
+    quote = "Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s27m1"
+    tldr = "Allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans."
+
+  [[categories.list]]
+    title = "Logement social"
+
+    [categories.list.them]
+    quote = "Ouvrir plus largement l’accès des personnes les plus démunies au logement social."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Ouvrir plus largement l’accès des personnes les plus démunies au logement social."
+
+    [categories.list.us]
+    quote = "Constitutionnaliser et rendre effectifs les droits au travail et au logement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s9m3"
+    tldr = "Constitutionnaliser et rendre effectifs le droit au logement."
+
+  [[categories.list]]
+    title = "Précarité énergétique"
+
+    [categories.list.them]
+    quote = "Lutter contre la précarité énergétique dans le logement. La précarité énergétique, c’est la difficulté de chauffer son logement en raison de la faiblesse de ses ressources. J’agirai pour généraliser la formule du chèque-énergie qui vient remplacer les tarifs sociaux de l’énergie et je poursuivrai les programmes d’aide à la rénovation thermique des logements."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Lutter contre la précarité énergétique dans le logement."
+
+    [categories.list.us]
+    quote = "Instaurer la gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne en commençant par faire appliquer l'interdiction de coupure d'eau et de réduction de débit au domicile principal."
+    ref = "Éradiquer la pauvreté - 2017"
+    link = "https://avenirencommun.fr/le-livret-pauvrete"
+    tldr = "Gratuité de l'accès et des quantités d'eau, électricité et gaz indispensables à une vie digne."
+
+  [[categories.list]]
+    title = "Hébergement d'urgence"
+
+    [categories.list.them]
+    quote = "Favoriser le logement pérenne : mieux vaut un vrai logement qu’un hébergement d’urgence. Je veillerai à ce qu’une part des attributions de logements sociaux soit réservée aux personnes accueillies dans les structures d’urgence et je multiplierai les formules de type pensions de famille et logement en studios avec un accompagnement social adapté qui sont aujourd’hui expérimentées par de nombreuses associations."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Favoriser le logement pérenne par rapport à l'hébergement d’urgence."
+
+    [categories.list.us]
+    quote = "Interdire les expulsions locatives sans relogement"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s34m1"
+    tldr = "Interdire les expulsions locatives sans relogement."
+
+  [[categories.list]]
+    title = "Position sur l'immigration"
+
+    [categories.list.them]
+
+    [categories.list.us]
+    quote = "L’accueil fait partie à part entière de notre identité républicaine. Ainsi, le peuple français est-il le résultat d’intégrations successives et notre civilisation s’est continuellement enrichie de ces apports extérieurs. Le nier, c’est être étranger aux principes de la patrie républicaine. Notre mission collective est de respecter la dignité humaine des migrants et leur droit fondamental à une vie de famille."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Respecter la dignité humaine des migrants."
+
+  [[categories.list]]
+    title = "Demande d'asile"
+
+    [categories.list.them]
+    quote = "<p>Obliger les étrangers à présenter leur demande d’asile dans les 15 jours de leur entrée sur le territoire. Les demandes tardives seront examinées en procédure accélérée.</p>
+    <p>Traiter les demandes d’asile en 4 mois maximum (contre 11 mois en moyenne aujourd’hui), appel compris, en renforçant les moyens de l’OFPRA et de la CNDA, en réduisant le délai de recours à 15 jours et en luttant contre les abus de procédure.</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Réduire le temps de traitement des demandes d'asile à 4 mois, appel compris"
+
+    [categories.list.us]
+    quote = "
+    <p>Assouplir les politiques de visas « au titre de l’asile », en veillant notamment à empêcher que les coûts des visas nationaux soient utilisés comme des mesures de dissuasion.</p>
+    <p>Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier.</p>
+    "
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Assouplir les politiques de visas « au titre de l’asile ». Autoriser les demandeurs d'asile à travailler."
+
+  [[categories.list]]
+    title = "Rétention administrative"
+
+    [categories.list.them]
+    quote = "Placer en rétention les demandeurs d’asile présentant un risque de fuite, en particulier les ressortissants de pays d’origine sûrs et demande abusive, et prévoir que les décisions de refus d’asile valent automatiquement obligation de quitter le territoire français."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Placer en rétention les demandeurs d’asile présentant un risque de fuite."
+
+    [categories.list.us]
+    quote = "Dépénaliser le séjour irrégulier et en finir avec le placement en centre de rétention, en priorité pour les enfants, même accompagnés de leurs parents."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "En finir avec le placement en centre de rétention, en priorité pour les enfants."
+
+  [[categories.list]]
+    title = "Naturalisation"
+
+    [categories.list.them]
+    quote = "<p>Porter à 5 ans la durée minimale de vie commune avant l’acquisition de la nationalité par les conjoints de Français et à 8 ans la durée minimale de résidence en France pour être naturalisé.</p>
+    <p>Subordonner l’acquisition de la nationalité française à la majorité aux conditions suivantes :<br />
+    • Respect de l’obligation scolaire au cours des périodes de résidence en France; <br />
+    • absence de condamnation pour un crime, un délit grave (passible d’au moins 3 ans de prison) ou pour outrage à l’hymne national ou au drapeau tricolore; <br />
+    • condition de résidence continue ou discontinue en France de 8 ans depuis l’âge de 6 ans (au lieu de 5 ans depuis l’âge de 8 ou 11 ans) ;<br />
+    • manifestation de volonté expresse et solennelle de l’intéressé, par le dépôt d’une déclaration.<br />
+    L’administration pourrait décider de s’opposer à l’octroi de la nationalité et soumettre l’étranger à un test d’assimilation en cas de doute (notamment lorsque les parents sont en situation irrégulière).</p>
+    <p>Abroger les récentes réformes législatives élargissant inconsidérément l’accès automatique ou quasiautomatique à la nationalité française, réformes irresponsables dans le contexte actuel de fraude massive en la matière (concernant notamment les étrangers de plus de 65 ans ascendants de Français et les enfants étrangers élevés par des Français à l’étranger).</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Multiplier les conditions pour pouvoir prétendre à la nationalité française "
+
+    [categories.list.us]
+    quote = "Faciliter l’accès à la nationalité française et les procédures de naturalisation afin d’en finir avec l’arbitraire préfectoral et les lenteurs administratives."
+    ref = "Respecter les migrants, régler les causes des migrations - 2017"
+    link = "https://avenirencommun.fr/le-livret-migrations"
+    tldr = "Faciliter l'accès à la nationalité française."
+
+  [[categories.list]]
+    title = "Droit du sol"
+
+    [categories.list.them]
+    quote = "Développer l’usage des statistiques d’origine dans la politique de délivrance des titres de séjour, notamment pour prévenir la concentration communautaire dans une même commune ou un même quartier."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Prévenir la concentration communautaire dans une même commune ou un même quartier."
+
+    [categories.list.us]
+    quote = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s6m1"
+    tldr = "Défendre le droit du sol intégral pour les enfants nés en France, y compris dans les Outre-mer."
+
+  [[categories.list]]
+    title = "Regroupement familial"
+
+    [categories.list.them]
+    quote = "Durcir les exigences du regroupement familial et refuser la délivrance des titres de séjour pour raisons familiales en l’absence de perspective sérieuse d’intégration (tenant compte notamment des ressources, du logement, de la couverture sociale, de la maîtrise de la langue française, du respect des valeurs de la République et du projet de vie en France)."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Durcir les exigences du regroupement familial."
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "AME"
+
+    [categories.list.them]
+    quote = "<p>Supprimer l’Aide Médicale d’Etat et la remplacer par une dispense de frais de santé limitée à la prise en charge des mineurs, des urgences et des maladies infectieuses, dans les établissements de santé agréés.<br />
+    Toute utilisation de la dispense donnera lieu à une information de l’Etat, dans le respect du secret médical, en vue d’examiner la situation de l’étranger au regard du droit au séjour (notamment au regard du titre «étrangers malades»).</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Remplacer l'Aide Médicale d'État par une dispense de frais limitée"
+
+    [categories.list.us]
+
+  [[categories.list]]
+    title = "Fermeture de lieux de cultes"
+
+    [categories.list.them]
+    quote = "Permettre aux préfets, au-delà de la fin de l’état d’urgence, d’ordonner une fermeture des lieux de culte lorsque leur activité est de nature à porter une atteinte grave à l’ordre public et à la sécurité intérieure et modifier, si nécessaire, le régime juridique de dissolution des associations et des groupements, qui remonte à 1936, pour permettre la dissolution d’associations prônant le djihad. Je mobiliserai chaque fois que nécessaire les articles de la loi de 1905 sanctionnant l’appel à provocation contre les principes et lois de la République."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Autoriser les préfets à fermer les lieux de culte portant atteinte à l'ordre public."
+
+    [categories.list.us]
+    quote = "Améliorer la prévention en engageant une stratégie politique pour renforcer les anticorps républicains et supprimer le terreau des communautarismes par plus de République, de laïcité, d'éducation, de justice sociale et d'implication citoyenne"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s12"
+    tldr = "Mener une politique antiterroriste rationnelle."
+
+  [[categories.list]]
+    title = "Financement des lieux de cultes"
+
+    [categories.list.them]
+    quote = "<p>Rendre obligatoire pour toute religion la constitution d’association cultuelle (ou son équivalent l’association diocésaine) pour la gestion des lieux de culte. Ainsi le culte musulman accédera comme tous les autres à tous les leviers de financement, la contrepartie étant la transparence des comptes.</p>
+    <p>Créer un statut de Fondation à objet religieux pour que les dons et legs de personnes privées puissent être recueillis en toute transparence et contribuer à un meilleur financement du culte, notamment musulman (construction d’édifices, formation des ministres du culte). Il est indispensable de mettre fin, lorsqu’ils existent, aux financements étrangers des cultes et en particulier au système dit des « imams détachés ».</p>"
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Le culte musulman accèdera comme tous les autres à tous les leviers de financement."
+
+    [categories.list.us]
+    quote = "Refuser les financements publics pour la construction des édifices religieux, des activités cultuelles et des établissements confessionnels."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Refuser les financement publics pour la construction des édifices religieux."
+
+  [[categories.list]]
+    title = "Aumônerie"
+
+    [categories.list.them]
+    quote = "Conformément aux principes de la loi de 1905, l’implantation des aumôniers dans les hôpitaux, les prisons et les écoles sera consolidée."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Consolider l'implantation des aumôniers dans les lieux publics."
+
+    [categories.list.us]
+    quote = "
+    <p>Étendre le bénéfice de l'application de la loi de 1905 à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer).</p>
+    <p>Garantir la liberté de conscience et l'égalité de toutes les options spirituelles devant la loi.</p>
+    <p>Interdire la présence de ministres et préfets aux cérémonies religieuses et refuser le titre de _chanoine de Latran_ pour le président de la République.</p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Abroger le concordat. Interdire la présence de ministres et préfets aux cérémonies religieuses."
+
+  [[categories.list]]
+    title = "Communautarisme"
+
+    [categories.list.them]
+    quote = "Développer l’usage des statistiques d’origine dans la politique de délivrance des titres de séjour, notamment pour prévenir la concentration communautaire dans une même commune ou un même quartier."
+    ref = "Mon projet pour la France - 13/03/2017"
+    link = "https://www.fillon2017.fr/wp-content/uploads/2017/03/PROJET_FRAN%C3%87OIS_FILLON_2017.pdf"
+    tldr = "Prévenir la concentration communautaire dans une même commune ou un même quartier"
+
+    [categories.list.us]
+    quote = "Combattre tous les communautarismes et l'usage politique des religions"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s7"
+    tldr = "Combattre tous les communautarismes et l'usage politique des religions."
+
 [[categories]]
   id = "territory"
   title = "Territoire et Transport"
