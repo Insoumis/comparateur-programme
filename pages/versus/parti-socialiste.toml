@@ -2450,3 +2450,143 @@ candidat = "Benoît Hamon"
       ref = "L'Avenir En Commun - 01/12/2016"
       link = "https://laec.fr/section/19/mettre-au-pas-la-finance#mesure-3"
       tldr = "Taxer les transactions financières. Interdire aux banques toute activité dans les paradis fiscaux."
+
+[[categories]]
+  id = "economy"
+  title = "Économie"
+  teasing = true
+
+  [[categories.list]]
+    title = "Réindustrialisation"
+
+    [[categories.list.us]]
+    quote = "Réindustrialiser le pays par l'investissement, le rétablissement de plans de filières pour coordonner donneurs d'ordres et sous-traitants, clients et fournisseurs (par exemple SNCF et Alstom pour la filière ferroviaire, etc.), la création de pôles publics dans l'énergie ou les transports, la défense des industries stratégiques et la reconstruction de conglomérats combinant plusieurs activités"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s18m4"
+    tldr = "<strong>Réindustrialiser</strong> le pays par l'<strong>investissement</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Dette"
+
+    [[categories.list.us]]
+    quote = "Refuser le chantage à la dette publique<br />
+    • Réaliser un audit citoyen de la dette publique pour déterminer la part illégitime et préparer un réaménagement négocié (échelonnement des remboursements, baisse des taux d'intérêt, annulation partielle…)<br />
+    • Faire racheter la dette publique par la Banque centrale"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s35"
+    tldr = "Réaliser un <strong>audit</strong> citoyen de la dette publique. Faire racheter la dette publique par la <strong>Banque centrale</strong>."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Séparation bancaire"
+
+    [[categories.list.us]]
+    quote = "Séparer les banques d'affaires et de détail"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s19m2"
+    tldr = "Séparer les banques d'<strong>affaires</strong> et de <strong>détail</strong>."
+
+    [categories.list.them]
+    quote = "<p>Je ferai voter une loi de séparation bancaire<br />
+    Je poursuivrai les efforts entrepris pour séparer effectivement les activités de dépôt et de spéculation des banques françaises.</p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/le-projet/#economie-finance"
+    tldr = "Séparer les banques d'affaires et de détail."
+
+  [[categories.list]]
+    title = "Licence bancaire à la BPI"
+
+    [[categories.list.us]]
+    quote = "Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s21m2"
+    tldr = "Accorder une licence bancaire à la Banque publique d'investissement."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Mouvements de capitaux"
+
+    [[categories.list.us]]
+    quote = "
+    Encadrer les mouvements de capitaux pour éviter l'évasion fiscale et les attaques spéculatives contre la France
+    "
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s49m6"
+    tldr = "<strong>Contrôler</strong> les mouvements de capitaux."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Partenariats Public Privé"
+
+    [[categories.list.us]]
+    quote = "Décrêter un moratoire sur les partenariats public-privé (PPP), abroger les dispositions législatives les permettant et pratiquer un audit de ceux qui sont en cours"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s16m4"
+    tldr = "Décrêter un <strong>moratoire</strong> sur les partenariats public-privé (PPP), <strong>abroger</strong> les dispositions législatives les permettant et pratiquer un <strong>audit</strong> de ceux qui sont en cours."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Économie Sociale et Solidaire"
+
+    [[categories.list.us]]
+    quote = "Généraliser l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s22m2"
+    tldr = "<strong>Généraliser</strong> l'économie sociale et solidaire, garantir son accès au financement et aux marchés publics."
+
+    [categories.list.them]
+    quote = "<p>Je fixerai un objectif de 500 000 emplois dans le secteur de l'ESS<br />
+    L’économie sociale et solidaire est au cœur de ma vision de l’avenir de notre modèle social : juste, solidaire, efficace et ouvert aux innovations. Nous savons qu’une autre économie est nécessaire et possible : plus tempérante, moins dépendante d’un hypothétique redémarrage de la croissance. Avec les acteurs de l’ESS, nous partageons cette volonté de rénover notre démocratie : plus ouverte à l’initiative citoyenne, étendue à la sphère économique, plus inclusive pour tous nos concitoyens. J’ai annoncé mon engagement pour un Acte II de l’économie sociale et solidaire, qui doit permettre le changement d’échelle des entreprises de l’économie sociale. Je porterai à 500 000 le nombre d’emplois dans ce secteur d’avenir.<p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/le-projet/#ess"
+    tldr = "Porter à 500 000 le nombre d'emplois dans le secteur de l'ESS"
+
+  [[categories.list]]
+    title = "Aide publique au développement"
+
+    [[categories.list.us]]
+    quote = "Tenir enfin l'objectif de consacrer 0,7 % du revenu national brut au budget de l'aide publique au développement."
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s62m2"
+    tldr = "Tenir enfin l'objectif de consacrer <strong>0,7 %</strong> du revenu national brut au budget de l'aide publique au développement."
+
+    [categories.list.them]
+
+  [[categories.list]]
+    title = "Révolution numérique"
+
+    [categories.list.us]
+    quote = "<p>Affirmer le caractère d'intérêt général de la révolution numérique
+    • Reconquérir la maîtrise publique des technologies liées au numérique et aux télécommunications (câbles sous-marins, tirs de satellites, réseaux basse et haute tension, etc.)<br />
+    • Généraliser l'usage des systèmes d'exploitation et des logiciels libres dans les administrations publiques et l'Éducation nationale<br />
+    • Garantir la neutralité du net et lutter contre le profilage en ligne, comme le défend l'association [La Quadrature du Net](https://www.laquadrature.net/fr/qui-sommes-nous)<br />
+    • Systématiser la publication en _open data_ des données publiques détenues par les collectivités, comme le propose l'association [Regards citoyens](https://www.regardscitoyens.org/
+    </p>"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m1"
+    tldr = "Affirmer le caractère d'<strong>intérêt général</strong> de la révolution numérique."
+
+    [categories.list.them]
+    quote = "<p>J'assurerai l'appropriation des usages numériques par tous. J’assurerai la transition numérique des organisations et l’appropriation des usages numériques par tous.</p>
+    <p>Je lutterai contre les zones blanches et j'investirai dans le haut débit fixe et mobile.<br />
+    L’accès à internet doit devenir un droit incontournable. Le plan numérique du quinquennat était une première étape, il est nécessaire de l’accélérer et de miser sur les technologies d’avenir en adaptant les outils de la diffusion du très haut débit aux territoires. Je lutterai contre les zones blanches et j’investirai dans le haut débit fixe et mobile, pour garantir une égalité effective de tous les citoyens, notamment devant les services publics.</p>"
+    ref = "Faire battre le coeur de la France - 03/2017"
+    link = "https://www.benoithamon2017.fr/le-projet/#territoires"
+    tldr = "Lutte contre les zones blanches et investissement dans le haut débit."
+
+  [[categories.list]]
+    title = "Plan numérique pour l'industrie"
+
+    [[categories.list.us]]
+    quote = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés"
+    ref = "L'Avenir En Commun - 01/12/2016"
+    link = "https://laec.fr/s83m3"
+    tldr = "Anticiper les transformations numériques du travail et de la production en lançant un plan pour l'industrie 4.0 associant les salariés."
+
+    [categories.list.them]
