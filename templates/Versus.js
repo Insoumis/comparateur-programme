@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Row, Col, Hidden } from 'react-grid-system';
 import Helmet from 'react-helmet';
+import { prefixLink } from 'gatsby-helpers';
 
 import Menu from './Menu';
 import VersusStickyHeader from './VersusStickyHeader';
@@ -57,7 +58,7 @@ class Versus extends Component {
             <meta name="description" content={`Comparez le programme de la France Insoumise avec celui de ${data.title}.`} />
             <meta property="og:title" content={`La France insoumise VS ${data.title}`} />
             <meta property="og:description" content={`Comparez le programme de la France Insoumise avec celui de ${data.title}.`} />
-            <meta property="og:image" content={`http://comparateur-programme.fr/assets/preview-${data.alias}.png`} />
+            <meta property="og:image" content={prefixLink(`/assets/preview-${data.alias}.png`)} />
             <meta property="og:image:width" content="1200" />
             <meta property="og:image:height" content="635" />
             <meta name="twitter:card" content="summary_large_image" />

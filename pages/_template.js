@@ -4,13 +4,14 @@ import Outlinks from '../templates/Outlinks';
 import Header from '../templates/Header';
 import Nav from '../templates/Nav';
 import '../styles/main.scss';
+import { config } from 'config';
 
 const Template = ({ children, location }) => (
   <div>
 
     <Outlinks />
-    <Header isHome={location.pathname == '/'} />
-    <Nav isHome={location.pathname == '/'} />
+    <Header isHome={location.pathname == config.linkPrefix + '/'} />
+    <Nav isHome={location.pathname == config.linkPrefix + '/'} />
     <div>
       {children}
     </div>

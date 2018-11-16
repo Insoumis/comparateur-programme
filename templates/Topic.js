@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Row, Col, Hidden } from 'react-grid-system';
 import getSlug from 'speakingurl';
+import { config } from 'config';
+import { prefixLink } from 'gatsby-helpers';
 
 import './Topic.scss';
 
@@ -22,7 +24,7 @@ export default class Topic extends Component {
     const { candidat, item } = this.props;
     let url, twitterText;
     if (typeof document == 'object') {
-      url = encodeURI(`http://comparateur-programme.fr${document.location.pathname}#${getSlug(item.title)}`);
+      url = encodeURI(`${config.siteUrl}${document.location.pathname}#${getSlug(item.title)}`);
       twitterText = encodeURIComponent(`Jean-Luc Mélenchon VS ${candidat} : ${item.title} ${url}`);
     }
 
@@ -119,7 +121,7 @@ export default class Topic extends Component {
             :
             <div className="tldr">
               <i className="fa fa-envelope-o" aria-hidden="true"></i>
-              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
+              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href={prefixLink("/contact/")} target="_blank">Contactez-nous</a>.</span>
             </div>
           }
           </Col>
@@ -133,7 +135,7 @@ export default class Topic extends Component {
             :
             <div className="tldr">
               <i className="fa fa-envelope-o" aria-hidden="true"></i>
-              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href="/contact/" target="_blank">Contactez-nous</a>.</span>
+              <span className="empty">Le programme de ce candidat ne semble pas aborder ce thème. Auriez-vous une suggestion ? <a href={prefixLink("/contact/")} target="_blank">Contactez-nous</a>.</span>
             </div>
             }
           </Col>

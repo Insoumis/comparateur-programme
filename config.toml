@@ -1,3 +1,4 @@
 siteTitle="Le comparateur de programmes de la France insoumise"
 siteDescription="Comparez les programmes des candidats à la présidentielle 2017 avec le programme de la France insoumise : l'Avenir en commun."
-linkPrefix = ""
+linkPrefix = "/comparateur-programme"
+siteUrl = "https://insoumis.github.io"
